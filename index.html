@@ -92,14 +92,29 @@
   .club-head .meta { color: var(--muted); font-size: 13px; }
 
   /* ---- Tabs ---- */
-  nav.tabs {
-    display: flex; gap: 4px; margin: 20px 0 22px;
-    border-bottom: 1px solid var(--border); overflow-x: auto;
+  /* Fem flikar ryms inte på en telefon. Raden får scrolla, men en toning
+     i högerkanten visar att det finns fler flikar utanför skärmen. */
+  .tabs-wrap { position: relative; margin: 20px 0 22px; }
+  .tabs-wrap::after {
+    content: ""; position: absolute; top: 0; right: 0; bottom: 1px; width: 34px;
+    background: linear-gradient(to right, transparent, var(--bg) 70%);
+    pointer-events: none;
   }
+  @media (min-width: 620px) { .tabs-wrap::after { display: none; } }
+
+  nav.tabs {
+    display: flex; gap: 4px;
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto; scrollbar-width: none;
+  }
+  nav.tabs::-webkit-scrollbar { display: none; }
   nav.tabs button {
     background: none; border: none; border-bottom: 2px solid transparent;
     color: var(--muted); padding: 9px 13px; font-size: 15px;
     cursor: pointer; white-space: nowrap; font-family: inherit; margin-bottom: -1px;
+  }
+  @media (max-width: 619px) {
+    nav.tabs button { padding: 9px 10px; font-size: 14px; }
   }
   nav.tabs button:hover { color: var(--text); }
   nav.tabs button[aria-selected="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
@@ -219,6 +234,7 @@
       <div class="meta" id="club-meta"></div>
     </div>
 
+    <div class="tabs-wrap">
     <nav class="tabs" role="tablist">
       <button role="tab" data-tab="kommande"    aria-selected="true">Kommande</button>
       <button role="tab" data-tab="tabeller"    aria-selected="false">Tabeller</button>
@@ -226,6 +242,7 @@
       <button role="tab" data-tab="turneringar" aria-selected="false">Turneringar</button>
       <button role="tab" data-tab="arrangerar"  aria-selected="false">Arrangerar</button>
     </nav>
+    </div>
 
     <div id="panel"></div>
   </section>

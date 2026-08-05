@@ -1,0 +1,11 @@
+{
+  "name": "stupainte",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test/frontend.test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^24.0.0"
+  }
+}

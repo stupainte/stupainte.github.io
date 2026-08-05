@@ -118,7 +118,15 @@ Klart:
 
 Kvar:
 
-- Turneringarna saknar ort. `event_venues` ger bara lokalnamn, ingen ort.
+- **Turneringsfliken är rikstäckande och identisk för alla klubbar.** Samma
+  sju turneringar visas oavsett om du valt en klubb i Gävle eller Malmö, och
+  orten är tom eftersom `event_venues` bara ger lokalnamn. Det är fliken med
+  minst värde just nu — den borde filtreras på distrikt eller geografi.
+- Spelade resultat är tunt beprövade. Bara en handfull avgjorda matcher finns
+  i datan (Lag-SM 2026), så resultatvyn är i praktiken otestad mot verklig
+  seriedrift. Kontrollera i slutet av september när första omgången spelats.
+- `Vedums Allmänna IS` arrangerar två speldagar men har inga egna lag i
+  datan. Vyn hanterar det, men det är värt att veta att sådana klubbar finns.
 - Turneringslistan är rikstäckande och identisk för alla klubbar. Den borde
   filtreras på distrikt eller geografi.
 - Spelade resultat är tunt beprövade — bara en handfull avgjorda matcher finns
