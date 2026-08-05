@@ -28,7 +28,11 @@ const m=d.querySelectorAll('#panel .match');
 ok(m.length===80,`80 kommande matcher (fick ${m.length})`);
 ok(d.querySelectorAll('#panel .day').length>1,'grupperade per datum');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade');
-ok(/href="https:\/\/sbtfeventsott[^"]*\/events\/\d+\/\d+\//.test(d.getElementById('panel').innerHTML),'djuplänkar med category_id');
+// STUPA kan inte djuplänka till en division — länken öppnar evenemanget och
+// användaren får välja serien i menyn. Testet kontrollerar därför bara att
+// länken pekar på rätt evenemang och att title-texten säger vad man ska välja.
+ok(/href="https:\/\/sbtfeventsott[^"]*\/events\/\d+\//.test(d.getElementById('panel').innerHTML),'länk till rätt evenemang i STUPA');
+ok(/title="Öppna i STUPA — välj [^"]+ i menyn"/.test(d.getElementById('panel').innerHTML),'title förklarar att serien måste väljas manuellt');
 ok(/arr\. \S/.test(d.getElementById('panel').innerHTML),'arrangör visas på matchkorten');
 
 const flik=n=>[...d.querySelectorAll('nav.tabs button')].find(b=>b.dataset.tab===n)

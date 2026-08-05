@@ -248,9 +248,10 @@
   </section>
 
   <footer>
-    Inofficiellt skal ovanpå <a href="https://stupaevents.com" target="_blank" rel="noopener">STUPA</a>.
-    Data hämtas automatiskt och kan vara upp till ett dygn gammal —
-    klicka på en match för att öppna originalet i STUPA.
+    Inofficiellt skal ovanpå <a href="https://sbtfeventsott.stupaevents.com" target="_blank" rel="noopener">Pingisarenan</a>.
+    Data hämtas automatiskt och kan vara upp till ett dygn gammal.
+    Klickar du på en match öppnas evenemanget i STUPA — därifrån får du välja
+    serien i menyn, eftersom STUPA inte kan länka direkt till en division.
   </footer>
 </div>
 
@@ -325,8 +326,12 @@
       ? `<span class="score">${esc(m.hemma_poang)}–${esc(m.borta_poang)}</span>` : "";
     const plats = [m.plats, m.arrangor && `arr. ${m.arrangor}`].filter(Boolean).join(" · ");
 
+    // STUPA kan inte djuplänka till en division — sidan öppnas alltid på
+    // evenemangets förvalda serie. Därför står det i title-texten vad man
+    // ska välja i menyn när man väl är där.
     return `
-      <a class="match" href="${esc(m.stupa_url || "#")}" target="_blank" rel="noopener">
+      <a class="match" href="${esc(m.stupa_url || "#")}" target="_blank" rel="noopener"
+         title="Öppna i STUPA — välj ${esc(m.serie)} i menyn">
         <div class="match-top">
           <span class="time">${esc(m.tid || "")}</span>
           <span class="serie">${esc(m.serie || "")}${m.omgang ? " · " + esc(m.omgang) : ""}</span>

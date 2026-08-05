@@ -218,18 +218,35 @@ Samma lagnamn kan dessutom förekomma i flera serier — "Spårvägens BTK" spel
 både Pingisligan herr och dam. Lag måste därför identifieras av namn *och*
 serie, annars försvinner det ena.
 
-### URL-strukturen, dekodad
+### URL-strukturen — och varför djuplänkar inte går
 
 `https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7`
 
-| Segment | Betydelse | I exemplet |
-| ------- | --------- | ---------- |
-| `435`   | `event_id` — ett distrikts seriespel för en säsong | Nordöstra Svealands BTF 26/27 |
-| `1186`  | `category_id` — divisionen | Division 4A |
-| `2/7/7` | vy-index i gränssnittet (tabell/matcher/lag) | — |
+Det första segmentet är `event_id` och pekar ut evenemanget. Resten ser ut
+att peka ut division och vy, men gör det inte.
 
-Djuplänkar kan alltså konstrueras som
-`/events/{event_id}/{category_id}/2/7/7`.
+**Andra segmentet väljer ingenting.** STUPA skriver om det till evenemangets
+förvalda kategori oavsett vad man anger. `/events/435/1189` (Division 5B) och
+`/events/435/1193` (Division 7A) landar båda på `/events/435/1186` och visar
+Division 4. Samma sak för det nationella seriespelet: `/events/417/1176`
+(Div 3 SSSV) skrivs om till `/events/417/1119` och visar Pingisligan dam.
+
+Divisionen väljs via Angular Material-menyer på sidan — klienttillstånd som
+aldrig hamnar i adressen. Det är därför `thelinkan/bt-serier` styr
+rullgardinsmenyerna med Playwright i stället för att konstruera adresser.
+Kommentaren i hans `scraper.py` säger det rakt ut: *"serie väljs i sidans
+eget gränssnitt"*.
+
+Även de sista segmenten normaliseras. `/events/302/962/2/7/7` blir
+`/events/302/962/0/7/7` för ett slutspel, som saknar tabellvy.
+
+Den nakna formen `/events/435` duger inte som alternativ — den ger
+"No Records Found".
+
+**Slutsats:** vi länkar till `/events/{event_id}/{category_id}/2/7/7`. Sidan
+laddar då korrekt och visar rätt evenemang, men användaren måste själv välja
+serien i menyn. Frontenden säger det i länkens `title` och i sidfoten. Det är
+det bästa STUPA tillåter.
 
 ### Omfattning
 

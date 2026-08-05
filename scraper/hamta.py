@@ -272,8 +272,18 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
             or kat.get("abbr")                  # "Div 4"
             or ev_namn
         )
-        # category_id är samma tal som andra segmentet i STUPA:s URL,
-        # vilket gör att vi kan djuplänka rakt in i rätt division.
+        # Länken öppnar rätt EVENEMANG, men inte rätt division.
+        #
+        # Det går inte att djuplänka till en division. STUPA skriver om andra
+        # URL-segmentet till evenemangets förvalda kategori oavsett vad man
+        # anger — /events/435/1189 och /events/435/1193 landar båda på
+        # /events/435/1186. Divisionen väljs via en rullgardinsmeny, alltså
+        # klienttillstånd som aldrig hamnar i adressen.
+        #
+        # Den nakna adressen /events/435 duger inte heller, den ger
+        # "No Records Found". Vi behåller därför den fullständiga formen så
+        # att sidan i alla fall laddar korrekt, och låter frontenden berätta
+        # vilken division användaren ska välja i menyn.
         kat_id = ec.get("category_id")
         djuplank = (f"{WEBB}/events/{ev_id}/{kat_id}/2/7/7" if kat_id
                     else f"{WEBB}/events/{ev_id}")

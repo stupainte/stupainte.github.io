@@ -48,9 +48,15 @@ GitHub Actions  →  STUPA:s API  →  data/*.json i repot  →  GitHub Pages
 
 Ingen server, inga kostnader, inget att underhålla utöver hämtaren.
 
-Se `ARKITEKTUR.md` för API-referensen: endpoints, datakedjan, hur URL-segmenten
-i `/events/435/1186/2/7/7` ska tolkas, och varför klubbtillhörighet inte behöver
-gissas fram.
+Se `ARKITEKTUR.md` för API-referensen: endpoints, datakedjan, varför
+klubbtillhörighet inte behöver gissas fram, och varför det inte går att
+djuplänka till en enskild division.
+
+**Om länkarna till STUPA:** de öppnar rätt evenemang men inte rätt serie.
+STUPA skriver om URL:en till evenemangets förvalda division oavsett vad man
+anger — serien väljs via en meny på sidan, alltså klienttillstånd som aldrig
+hamnar i adressen. Frontenden säger därför i länkens `title` vilken serie
+användaren ska välja när sidan öppnats.
 
 ## Publicera
 
