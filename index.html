@@ -250,8 +250,11 @@
   <footer>
     Inofficiellt skal ovanpå <a href="https://sbtfeventsott.stupaevents.com" target="_blank" rel="noopener">Pingisarenan</a>.
     Data hämtas automatiskt och kan vara upp till ett dygn gammal.
-    Klickar du på en match öppnas evenemanget i STUPA — därifrån får du välja
-    serien i menyn, eftersom STUPA inte kan länka direkt till en division.
+    <br>
+    Klickar du på en match öppnas rätt evenemang i STUPA, men fel division —
+    STUPA kan inte länka direkt till en serie. Väl där byter du division i
+    menyraden högst upp på STUPA-sidan (<em>Division 4 · Division 4A · Group
+    Stage</em>).
   </footer>
 </div>
 
@@ -327,11 +330,11 @@
     const plats = [m.plats, m.arrangor && `arr. ${m.arrangor}`].filter(Boolean).join(" · ");
 
     // STUPA kan inte djuplänka till en division — sidan öppnas alltid på
-    // evenemangets förvalda serie. Därför står det i title-texten vad man
-    // ska välja i menyn när man väl är där.
+    // evenemangets förvalda serie. Title-texten talar därför om exakt var
+    // och vad användaren ska välja när sidan öppnats.
     return `
       <a class="match" href="${esc(m.stupa_url || "#")}" target="_blank" rel="noopener"
-         title="Öppna i STUPA — välj ${esc(m.serie)} i menyn">
+         title="Öppnar STUPA. Sidan visar en annan division — byt till ${esc(m.serie)} i menyraden högst upp på STUPA-sidan.">
         <div class="match-top">
           <span class="time">${esc(m.tid || "")}</span>
           <span class="serie">${esc(m.serie || "")}${m.omgang ? " · " + esc(m.omgang) : ""}</span>

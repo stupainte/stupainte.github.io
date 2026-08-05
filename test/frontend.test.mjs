@@ -32,7 +32,7 @@ ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag marker
 // användaren får välja serien i menyn. Testet kontrollerar därför bara att
 // länken pekar på rätt evenemang och att title-texten säger vad man ska välja.
 ok(/href="https:\/\/sbtfeventsott[^"]*\/events\/\d+\//.test(d.getElementById('panel').innerHTML),'länk till rätt evenemang i STUPA');
-ok(/title="Öppna i STUPA — välj [^"]+ i menyn"/.test(d.getElementById('panel').innerHTML),'title förklarar att serien måste väljas manuellt');
+ok(/title="Öppnar STUPA\. Sidan visar en annan division — byt till [^"]+ i menyraden högst upp på STUPA-sidan\."/.test(d.getElementById('panel').innerHTML),'title säger var och vad som ska väljas');
 ok(/arr\. \S/.test(d.getElementById('panel').innerHTML),'arrangör visas på matchkorten');
 
 const flik=n=>[...d.querySelectorAll('nav.tabs button')].find(b=>b.dataset.tab===n)
