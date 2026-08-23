@@ -4,7 +4,7 @@
   "namn": "Herrljunga Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-22T04:21:58Z",
+ "uppdaterad": "2026-08-23T04:26:37Z",
  "lag": [
   {
    "namn": "Herrljunga BTK",
@@ -15,22 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-20",
-   "tid": "18:00",
-   "serie": "Södra 3",
-   "omgang": "Round 4",
-   "hemma": "Herrljunga BTK",
-   "borta": "Borgstena IF Kristoffer",
-   "hemma_klubb": "Herrljunga Bordtennisklubb",
-   "borta_klubb": "Borgstena IF",
-   "plats": "Arrangörens",
-   "arrangor": "Herrljunga Bordtennisklubb",
-   "arrangorer": [
-    "Herrljunga Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "18:00",
@@ -66,6 +50,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 3",
+   "omgang": "Round 4",
+   "hemma": "Herrljunga BTK",
+   "borta": "Borgstena IF Kristoffer",
+   "hemma_klubb": "Herrljunga Bordtennisklubb",
+   "borta_klubb": "Borgstena IF",
+   "plats": "Arrangörens",
+   "arrangor": "Herrljunga Bordtennisklubb",
+   "arrangorer": [
+    "Herrljunga Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -93,7 +95,9 @@
      "arrangorer": [
       "Herrljunga Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-09-20",
@@ -134,19 +138,8 @@
     },
     {
      "placering": 2,
-     "lag": "Kinna BTK Peter",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Borgstena IF Kristoffer",
-     "klubb": "Borgstena IF",
+     "lag": "Herrljunga BTK",
+     "klubb": "Herrljunga Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -155,14 +148,25 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Herrljunga BTK",
-     "klubb": "Herrljunga Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "placering": 3,
+     "lag": "Borgstena IF Kristoffer",
+     "klubb": "Borgstena IF",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kinna BTK Peter",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -180,15 +184,6 @@
   }
  ],
  "turneringar": [
-  {
-   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
-   "datum": "2026-08-22",
-   "slutdatum": "2026-08-23",
-   "ort": "",
-   "niva": "Sweden Tour",
-   "status": "Anmälan stängd",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
-  },
   {
    "namn": "Halmstad Masters 2026",
    "datum": "2026-08-28",
