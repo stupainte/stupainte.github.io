@@ -376,32 +376,41 @@ Hämtaren plockar upp dem automatiskt eftersom den listar alla evenemang, men:
 
 ---
 
-## 9. Kapacitet, kostnad och den tickande bomben
+## 9. Kapacitet, kostnad och repotillväxt
 
 Allt är gratis. GitHub Pages har mjuka gränser: **1 GB repostorlek, 1 GB
 publicerad sajt, 100 GB trafik per månad**. Trafiken är ingen risk — sajten är
 någon megabyte per besök och skulle klara tiotusentals besökare i månaden.
 
-**Repostorleken är däremot ett verkligt problem.**
+**Repostorleken var tidigare ett verkligt problem, nu åtgärdat.**
 
-Varje nattlig commit skriver om **samtliga 178 filer**, även när ingenting i
-sakinnehållet ändrats, eftersom varje klubbfil innehåller en `uppdaterad`-
-tidsstämpel. Botens första körning gav `178 files changed, 178 insertions,
-178 deletions` — allt för att byta en tidsstämpel i varje fil.
+Fram till 2026-08-26 skrev varje nattlig commit om samtliga ~190 filer, även
+när ingenting i sakinnehållet ändrats, eftersom varje klubbfil innehåller en
+`uppdaterad`-tidsstämpel. Botens första körningar gav t.ex. `178 files
+changed, 178 insertions, 178 deletions` — allt för att byta en tidsstämpel i
+varje fil. Vid ungefär 0,9 MB komprimerat per dygn hade repot närmat sig
+1 GB-gränsen inom tre år.
 
-Konsekvens: ungefär **0,9 MB komprimerat per dygn**, alltså cirka 330 MB per
-år. Efter tre år närmar sig repot 1 GB-gränsen. Det påverkar också klontider
-och Actions-körningar långt innan dess.
+**Fixen:** `skriv_om_andrad()` i `hamta.py` jämför ny data mot befintlig fil
+med tidsstämpelfältet (`uppdaterad`/`genererad`) bortmaskat, för `index.json`,
+`turneringar.json` och samtliga klubbfiler. Filen skrivs bara om det sakliga
+innehållet faktiskt skiljer sig — annars rörs den inte alls, och behåller sin
+gamla tidsstämpel. `main()` skriver ut hur många klubbfiler som faktiskt
+ändrades varje körning, t.ex. `190 klubbar (3 ändrade)`.
 
-**Rekommenderad åtgärd, ogjord:** låt hämtaren bara skriva filer vars
-sakinnehåll faktiskt ändrats — jämför mot befintlig fil med tidsstämpeln
-bortmaskad, eller flytta `uppdaterad` till enbart `index.json`. Då blir en
-typisk natt några få ändrade filer i stället för 178, och tillväxten sjunker
-med en storleksordning.
+Verifierat 2026-08-26: en full körning mot oförändrad data gav `git diff
+--stat data/` helt tomt. En körning efter en manuellt inducerad ändring i en
+enda fil gav en ensam ändrad rad i en enda fil.
 
-Görs inte detta är alternativet att med några års mellanrum kollapsa
-historiken (`git checkout --orphan`), vilket kastar bort all historik och
-kräver en tvingad push.
+En natt med faktiska matchresultat eller nya tävlingar kommer fortfarande visa
+ändringar i berörda filer — det är önskat, inte en bugg. `turneringar.json`
+uppdateras dessutom varje dygn tävlingar byter hink (kommande → pågående →
+passerad) baserat på dagens datum, vilket är korrekt beteende.
+
+Om repot trots detta börjar närma sig gränsen om några år är alternativet att
+kollapsa historiken (`git checkout --orphan`), vilket kastar bort all historik
+och kräver en tvingad push — men det ska nu ta betydligt längre tid att bli
+aktuellt.
 
 ---
 

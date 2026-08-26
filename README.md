@@ -130,22 +130,18 @@ Klart:
   STUPA och TT-Coordinator (`resultat.ondata.se`). 1377 tävlingar med namn,
   start- och slutdatum, stad, arena, land, anmälningsstatus och direktlänk.
   Filter för kommande, anmälan öppen, pågående och spelade.
+- Hämtaren skriver bara om filer vars sakinnehåll faktiskt ändrats — inte
+  längre alla ~190 klubbfiler varje natt bara för en tidsstämpel. Se
+  `FÖRVALTNING.md` avsnitt 9.
 
 Kvar:
 
-- **Turneringsfliken är rikstäckande och identisk för alla klubbar.** Den är
-  numera innehållsrik men fortfarande inte klubbspecifik — en spelare i Malmö
-  ser samma lista som en i Gävle. Naturliga nästa steg: en egen sida utanför
-  klubbvalet, eller filtrering på geografi. Stad finns för de tävlingar som
-  kommer från TT-Coordinator, men inte för STUPA:s.
+- **Turneringsfliken är rikstäckande och identisk för alla klubbar.** Medvetet
+  beslut — ingen geografisk filtrering planerad.
 - Spelade resultat är tunt beprövade. Bara en handfull avgjorda matcher finns
   i datan (Lag-SM 2026), så resultatvyn är i praktiken otestad mot verklig
   seriedrift. Kontrollera i slutet av september när första omgången spelats.
 - `Vedums Allmänna IS` arrangerar två speldagar men har inga egna lag i
   datan. Vyn hanterar det, men det är värt att veta att sådana klubbar finns.
-- Turneringslistan är rikstäckande och identisk för alla klubbar. Den borde
-  filtreras på distrikt eller geografi.
-- Spelade resultat är tunt beprövade — bara en handfull avgjorda matcher finns
-  i datan (Lag-SM 2026). Värt att kontrollera igen när säsongen dragit igång.
-- Rimlighetskontrollen i workflowet kräver minst 20 klubbar. Höj den till
-  runt 150 nu när det normala är 177.
+- Rimlighetskontrollen i workflowet kräver minst 150 klubbar. Höj den när
+  antalet klubbar stabiliserat sig ytterligare (normalläget är nu ~190).

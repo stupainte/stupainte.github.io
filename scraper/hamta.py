@@ -187,6 +187,38 @@ def idag() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+def skriv_om_andrad(sokvag: Path, innehall: dict, tidsfalt: str) -> bool:
+    """
+    Skriver filen bara om det sakliga innehållet ändrats sedan förra
+    körningen.
+
+    Varje fil bär ett tidsstämpelfält (`uppdaterad`/`genererad`) som annars
+    gör att ALLA ~190 klubbfiler skrivs om varje natt även när ingenting
+    hänt — bara för att stämpeln är ny. Det svällde repots historia med
+    hundratals megabyte om året utan att någon information gick förlorad
+    genom att låta bli. Jämför därför innehållet med stämpelfältet borttaget,
+    och rör bara filen på riktigt ändrat innehåll.
+
+    Returnerar True om filen skrevs (ny eller ändrad), annars False.
+    """
+    ny = dict(innehall)
+    if sokvag.exists():
+        try:
+            gammal = json.loads(sokvag.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            gammal = None
+        if isinstance(gammal, dict):
+            jamfor_gammal = dict(gammal)
+            jamfor_gammal.pop(tidsfalt, None)
+            jamfor_ny = dict(ny)
+            jamfor_ny.pop(tidsfalt, None)
+            if jamfor_gammal == jamfor_ny:
+                return False
+    sokvag.write_text(json.dumps(ny, ensure_ascii=False, indent=1),
+                       encoding="utf-8")
+    return True
+
+
 # --------------------------------------------------------------------------
 # Hämtning
 # --------------------------------------------------------------------------
@@ -648,17 +680,21 @@ def main() -> int:
 
     ut = Path(args.ut)
     (ut / "klubb").mkdir(parents=True, exist_ok=True)
-    (ut / "index.json").write_text(
-        json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    skriv_om_andrad(ut / "index.json", index, "genererad")
 
     # Delad fil — turneringarna är rikstäckande och laddas separat av
     # frontenden när tävlingsfliken öppnas.
-    (ut / "turneringar.json").write_text(
-        json.dumps({"genererad": nu(), "turneringar": turneringar},
-                   ensure_ascii=False, indent=1), encoding="utf-8")
+    skriv_om_andrad(
+        ut / "turneringar.json",
+        {"genererad": nu(), "turneringar": turneringar},
+        "genererad",
+    )
+
+    andrade = 0
     for slug, innehall in filer.items():
-        (ut / "klubb" / f"{slug}.json").write_text(
-            json.dumps(innehall, ensure_ascii=False, indent=1), encoding="utf-8")
+        if skriv_om_andrad(ut / "klubb" / f"{slug}.json", innehall, "uppdaterad"):
+            andrade += 1
 
     # Städa bort klubbfiler från tidigare körningar som inte längre finns i
     # indexet — annars ligger klubbar från borttagna evenemang kvar för alltid.
@@ -668,7 +704,8 @@ def main() -> int:
                 gammal.unlink()
                 print(f"  tog bort föräldrad klubbfil: {gammal.name}")
 
-    print(f"\nKlart: {len(filer)} klubbar, {len(alla_matcher)} matcher → {ut}/")
+    print(f"\nKlart: {len(filer)} klubbar ({andrade} ändrade), "
+          f"{len(alla_matcher)} matcher → {ut}/")
     return 0
 
 
