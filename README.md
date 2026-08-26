@@ -1,7 +1,11 @@
 # STUPA Inte
 
 Ett klubbcentrerat skal ovanpå STUPA. Välj din klubb och se allt aktuellt på
-en sida: kommande matcher, tabeller, spelade resultat och turneringar.
+en sida: kommande matcher, tabeller, spelade resultat, turneringar och de
+seriehelger klubben själv arrangerar.
+
+**Dokumentation:** `ARKITEKTUR.md` (hur det är byggt och varför) ·
+`FÖRVALTNING.md` (drift, felsökning, fallgropar, årscykel)
 
 ## Repostruktur
 
@@ -122,12 +126,18 @@ Klart:
 - Workflowet — schemalagt, med skyddsnät mot att skriva över fungerande data
   om STUPA ändrar sitt API.
 
+- Fliken **Turneringar** — hela Sveriges tävlingskalender, sammanslagen från
+  STUPA och TT-Coordinator (`resultat.ondata.se`). 1377 tävlingar med namn,
+  start- och slutdatum, stad, arena, land, anmälningsstatus och direktlänk.
+  Filter för kommande, anmälan öppen, pågående och spelade.
+
 Kvar:
 
-- **Turneringsfliken är rikstäckande och identisk för alla klubbar.** Samma
-  sju turneringar visas oavsett om du valt en klubb i Gävle eller Malmö, och
-  orten är tom eftersom `event_venues` bara ger lokalnamn. Det är fliken med
-  minst värde just nu — den borde filtreras på distrikt eller geografi.
+- **Turneringsfliken är rikstäckande och identisk för alla klubbar.** Den är
+  numera innehållsrik men fortfarande inte klubbspecifik — en spelare i Malmö
+  ser samma lista som en i Gävle. Naturliga nästa steg: en egen sida utanför
+  klubbvalet, eller filtrering på geografi. Stad finns för de tävlingar som
+  kommer från TT-Coordinator, men inte för STUPA:s.
 - Spelade resultat är tunt beprövade. Bara en handfull avgjorda matcher finns
   i datan (Lag-SM 2026), så resultatvyn är i praktiken otestad mot verklig
   seriedrift. Kontrollera i slutet av september när första omgången spelats.

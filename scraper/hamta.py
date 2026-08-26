@@ -35,12 +35,16 @@ import json
 import re
 import sys
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
+import time
+
 import requests
+
+import ondata
 
 BAS = "https://testbackend.stupaevents.com/ott/v1"
 TENANT = "sbtf"
@@ -48,6 +52,7 @@ WEBB = "https://sbtfeventsott.stupaevents.com"
 
 TIDGRANS = 30
 FORSOK = 3
+BACKOFF_SEKUNDER = 4  # mellan omförsök, fördubblas för varje nytt försök
 
 
 # --------------------------------------------------------------------------
@@ -73,8 +78,10 @@ class Stupa:
             except requests.RequestException as fel:
                 if forsok == FORSOK:
                     raise
-                print(f"  ! {sokvag} misslyckades ({fel}), försök {forsok}/{FORSOK}",
-                      file=sys.stderr)
+                vantetid = BACKOFF_SEKUNDER * forsok
+                print(f"  ! {sokvag} misslyckades ({fel}), försök {forsok}/{FORSOK}, "
+                      f"väntar {vantetid}s", file=sys.stderr)
+                time.sleep(vantetid)
         return None
 
     def data(self, sokvag: str, **q: Any) -> list[dict]:
@@ -386,39 +393,99 @@ STATUS_SV = {
 
 def hamta_turneringar(api: Stupa, evenemang: Iterable[dict]) -> list[dict]:
     """
-    Kommande turneringar. Orten finns inte i get_events utan måste hämtas
-    per evenemang via event_venues — därför gör vi det bara för de
-    turneringar som faktiskt ligger framåt i tiden.
+    Alla turneringar i STUPA, både spelade och kommande.
+
+    STUPA har varken stad eller land för sina evenemang — venue-objektet
+    innehåller bara ett lokalnamn, och det är ofta oanvändbart ("Hall 4",
+    "A-Hallen"). De fälten lämnas därför tomma och fylls i stället av
+    ondata där tävlingen finns i båda systemen.
+
+    Länken behöver en category_id för att STUPA ska visa något alls — den
+    nakna formen /events/428 ger "No Records Found". Ett extra anrop per
+    turnering, vilket är billigare än det event_venues-anrop det ersätter.
     """
     ut = []
     for e in evenemang:
         datum = (e.get("event_start_date") or "")[:10]
-        if not datum or datum < idag():
+        if not datum:
             continue
         if (e.get("event_status_description") or "") == "Cancelled":
             continue
 
-        ort = ""
+        lank = f"{WEBB}/events/{e['id']}"
         try:
-            platser = api.data("event_venues", event_id=e["id"])
-            if platser:
-                p = platser[0]
-                ort = p.get("city") or p.get("name") or ""
+            kat = api.data("get_events_categories", event_id=e["id"], per_page=1)
+            if kat and kat[0].get("category_id"):
+                lank = f"{WEBB}/events/{e['id']}/{kat[0]['category_id']}/2/7/7"
         except Exception:                                   # noqa: BLE001
             pass
 
         ut.append({
             "namn": e.get("name"),
             "datum": datum,
-            "slutdatum": (e.get("event_end_date") or "")[:10],
-            "ort": ort,
+            "slutdatum": (e.get("event_end_date") or "")[:10] or datum,
+            "ort": "",
+            "arena": "",
+            "land": "",
             "niva": e.get("event_level") or "",
             "status": STATUS_SV.get(e.get("event_status_description") or "",
                                     e.get("event_status_description") or ""),
-            "stupa_url": f"{WEBB}/events/{e['id']}",
+            "kalla": "STUPA",
+            "lank": lank,
         })
     ut.sort(key=lambda x: x["datum"])
     return ut
+
+
+def slasamman_turneringar(fran_stupa: list[dict],
+                          fran_ondata: list[dict]) -> list[dict]:
+    """
+    Slår ihop de två tävlingskällorna.
+
+    Vid kontroll i augusti 2026 var överlappet noll — TT-Coordinator används
+    på lägre nivåer och STUPA på högre. Men systemen migrerar, så dubbletter
+    kan uppstå. Nyckeln är startdatum plus ett normaliserat namn.
+
+    Vid dubblett behålls STUPA-posten som grund (den har anmälningsstatus och
+    nivå) och kompletteras med ondatas stad, arena och land.
+    """
+    def nyckel(t: dict) -> tuple[str, str]:
+        n = (t["namn"] or "").lower()
+        n = re.sub(r"\b(19|20)\d{2}\b", "", n)      # årtal i namnet
+        return (t["datum"], re.sub(r"[^a-z0-9åäö]", "", n))
+
+    per_nyckel: dict[tuple[str, str], dict] = {}
+    for t in fran_stupa:
+        per_nyckel[nyckel(t)] = dict(t)
+
+    dubbletter = 0
+    for t in fran_ondata:
+        k = nyckel(t)
+        if k in per_nyckel:
+            dubbletter += 1
+            befintlig = per_nyckel[k]
+            for falt in ("ort", "arena", "land"):
+                if not befintlig.get(falt):
+                    befintlig[falt] = t.get(falt) or ""
+            befintlig["kalla"] = "STUPA + TT-Coordinator"
+        else:
+            per_nyckel[k] = dict(t)
+
+    if dubbletter:
+        print(f"  {dubbletter} tävlingar fanns i båda källorna och slogs ihop")
+
+    ut = sorted(per_nyckel.values(), key=lambda x: (x["datum"], x["namn"] or ""))
+    return ut
+
+
+def hinke(t: dict, dagens: str) -> str:
+    """kommande | pagaende | passerad"""
+    slut = t.get("slutdatum") or t["datum"]
+    if slut < dagens:
+        return "passerad"
+    if t["datum"] <= dagens <= slut:
+        return "pagaende"
+    return "kommande"
 
 
 # --------------------------------------------------------------------------
@@ -496,7 +563,10 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
             "arrangerar": arrangerar,
             "tabeller": [tabell_per_serie[s] for s in sorted(d["serier"])
                          if s in tabell_per_serie],
-            "turneringar": turneringar[:40],
+            # Turneringarna ligger inte här. De är rikstäckande och identiska
+            # för alla klubbar — att duplicera 1300 tävlingar in i 177
+            # klubbfiler hade gett tiotals megabyte. De ligger i stället i
+            # data/turneringar.json och laddas när fliken öppnas.
         }
         index_klubbar.append({
             "slug": slug, "namn": klubb, "antal_lag": len(d["lag"]),
@@ -519,6 +589,8 @@ def main() -> int:
     p.add_argument("--sasong", default="2026/2027")
     p.add_argument("--serie-id", type=int, action="append",
                    help="begränsa till angivna evenemangs-ID (kan upprepas)")
+    p.add_argument("--hoppa-ondata", action="store_true",
+                   help="hämta inte tävlingskalendern från TT-Coordinator")
     args = p.parse_args()
 
     api = Stupa()
@@ -547,7 +619,30 @@ def main() -> int:
         alla_matcher += m
         alla_tabeller += t
 
-    turneringar = hamta_turneringar(api, turneringar_ev)
+    print("Hämtar turneringar från STUPA…")
+    fran_stupa = hamta_turneringar(api, turneringar_ev)
+    print(f"  {len(fran_stupa)} turneringar")
+
+    fran_ondata: list[dict] = []
+    if not args.hoppa_ondata:
+        print("Hämtar tävlingskalendern från TT-Coordinator…")
+        try:
+            fran_ondata = ondata.hamta()
+            print(f"  {len(fran_ondata)} tävlingar, "
+                  f"{sum(1 for x in fran_ondata if x['lank'])} med länk")
+        except Exception as fel:                      # noqa: BLE001
+            # Ondata är ett komplement, inte en förutsättning. Faller den
+            # bort ska hämtningen ändå gå igenom med STUPA:s data.
+            print(f"  ! ondata misslyckades, fortsätter utan: {fel}",
+                  file=sys.stderr)
+
+    turneringar = slasamman_turneringar(fran_stupa, fran_ondata)
+    dagens = idag()
+    for t in turneringar:
+        t["hink"] = hinke(t, dagens)
+    fordelning = Counter(t["hink"] for t in turneringar)
+    print(f"  totalt {len(turneringar)} tävlingar: "
+          + ", ".join(f"{v} {k}" for k, v in fordelning.most_common()))
 
     index, filer = bygg(alla_matcher, alla_tabeller, turneringar, args.sasong)
 
@@ -555,6 +650,12 @@ def main() -> int:
     (ut / "klubb").mkdir(parents=True, exist_ok=True)
     (ut / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    # Delad fil — turneringarna är rikstäckande och laddas separat av
+    # frontenden när tävlingsfliken öppnas.
+    (ut / "turneringar.json").write_text(
+        json.dumps({"genererad": nu(), "turneringar": turneringar},
+                   ensure_ascii=False, indent=1), encoding="utf-8")
     for slug, innehall in filer.items():
         (ut / "klubb" / f"{slug}.json").write_text(
             json.dumps(innehall, ensure_ascii=False, indent=1), encoding="utf-8")

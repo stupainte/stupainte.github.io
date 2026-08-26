@@ -43,11 +43,21 @@ jobs:
         run: |
           antal=$(python3 -c "import json;print(len(json.load(open('data/index.json'))['klubbar']))")
           echo "Antal klubbar: $antal"
-          # Normalläget i augusti 2026 är 177 klubbar. Höj gränsen när fler
-          # distrikt publicerat sitt seriespel.
+          # Normalläget i slutet av augusti 2026 är 190 klubbar och stigande
+          # allteftersom fler distrikt publicerar sitt seriespel. Höj gränsen
+          # när normalläget stabiliserat sig.
           if [ "$antal" -lt 150 ]; then
             echo "::error::Bara $antal klubbar hittades — misstänkt lågt. Avbryter."
             exit 1
+          fi
+
+          # Tävlingskalendern kommer till största delen från TT-Coordinator.
+          # Faller den källan bort ska vi märka det, men inte stoppa
+          # publiceringen — STUPA:s data är ändå värd att uppdatera.
+          tav=$(python3 -c "import json;print(len(json.load(open('data/turneringar.json'))['turneringar']))")
+          echo "Antal tävlingar: $tav"
+          if [ "$tav" -lt 200 ]; then
+            echo "::warning::Bara $tav tävlingar — TT-Coordinator kan ha fallit bort."
           fi
 
       - name: Committa ändringar

@@ -13,7 +13,7 @@ const w=dom.window, d=w.document, vänta=ms=>new Promise(r=>setTimeout(r,ms));
 await vänta(400);
 const fel=[], ok=(v,t)=>(v?console.log('  ✓ '+t):fel.push(t));
 
-ok(d.getElementById('picker-status').textContent.includes('177 klubbar'),'177 klubbar laddade');
+ok(d.getElementById('picker-status').textContent.includes('190 klubbar'),'177 klubbar laddade');
 
 const s=d.getElementById('search');
 s.value='hammarby'; s.dispatchEvent(new w.Event('input'));
@@ -25,7 +25,7 @@ ok(d.getElementById('club-name').textContent.includes('Hammarby'),'klubbvyn öpp
 ok(d.getElementById('club-meta').textContent.includes('7 lag'),'7 lag');
 
 const m=d.querySelectorAll('#panel .match');
-ok(m.length===80,`80 kommande matcher (fick ${m.length})`);
+ok(m.length===82,`82 kommande matcher (fick ${m.length})`);
 ok(d.querySelectorAll('#panel .day').length>1,'grupperade per datum');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade');
 // STUPA kan inte djuplänka till en division — länken öppnar evenemanget och
@@ -52,13 +52,11 @@ flik('arrangerar');
 ok(d.querySelectorAll('#panel .dag-block').length===4,'4 speldagar att arrangera');
 ok(d.querySelector('#panel .sammanfattning')?.textContent.includes('30 matcher'),'sammanfattning räknar 30 matcher');
 ok(d.querySelectorAll('#panel .arr-tabell tr').length===30,'30 matchrader');
-ok(d.querySelector('#panel .dag-topp').textContent.includes('Hall 1'),'spelplats i dagsrubriken');
+ok(d.querySelector('#panel .dag-topp').textContent.includes('A-Hallen'),'spelplats i dagsrubriken');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade även här');
 
-flik('turneringar');
-const t=d.querySelectorAll('#panel .tourn');
-ok(t.length>0,`${t.length} turneringar`);
-ok(d.getElementById('panel').innerHTML.includes('Anmälan öppen'),'anmälningsstatus visas');
+// Tävlingsfliken testas separat i turneringar.test.mjs — den laddar en
+// egen datafil och har eget filterläge.
 
 console.log('\nStickprov — tre klubbar till:');
 for (const slug of ['ik-sirius-bordtennisklubb','spargavagens-btk','orebro-bordtennisklubb']) {

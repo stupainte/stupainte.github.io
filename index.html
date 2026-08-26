@@ -182,15 +182,63 @@
   .arr-tabell .serie-cell { width: 1%; white-space: nowrap; color: var(--muted); }
 
   /* ---- Tournaments ---- */
-  .tourn {
-    display: block; text-decoration: none; color: inherit;
-    background: var(--card); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 13px 14px; margin-bottom: 8px;
+  .filterrad {
+    display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px;
   }
-  .tourn:hover { border-color: var(--accent); }
-  .tourn .name { font-weight: 600; margin-bottom: 3px; }
-  .tourn .sub { color: var(--muted); font-size: 13px; }
-  .tourn .deadline { color: var(--warn); font-size: 13px; margin-top: 4px; }
+  .filterrad button {
+    background: var(--card); border: 1px solid var(--border); color: var(--muted);
+    border-radius: 999px; padding: 5px 12px; font-size: 13px;
+    cursor: pointer; font-family: inherit; white-space: nowrap;
+  }
+  .filterrad button:hover { border-color: var(--accent); color: var(--accent); }
+  .filterrad button[aria-pressed="true"] {
+    background: var(--accent-soft); border-color: var(--accent);
+    color: var(--accent); font-weight: 600;
+  }
+  .filterrad .antal { opacity: 0.65; margin-left: 4px; font-variant-numeric: tabular-nums; }
+
+  .tourn-tabell { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .tourn-tabell th {
+    text-align: left; white-space: nowrap;
+    border-bottom: 1px solid var(--border); padding: 6px 8px;
+  }
+  .tourn-tabell td {
+    padding: 9px 8px; border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .tourn-tabell tr:hover td { background: var(--bg-alt); }
+  .tourn-tabell .namn a { color: inherit; text-decoration: none; font-weight: 600; }
+  .tourn-tabell .namn a:hover { color: var(--accent); text-decoration: underline; }
+  .tourn-tabell .namn span.olankad { font-weight: 600; }
+  .tourn-tabell .datum { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .stat { font-size: 12px; border-radius: 4px; padding: 1px 7px; white-space: nowrap; display: inline-block; }
+  .stat.oppen { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .stat.stangd { background: var(--bg-alt); color: var(--muted); }
+  .kalla { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  .visa-fler {
+    display: block; width: 100%; margin-top: 14px; padding: 10px;
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    color: var(--accent); font-size: 14px; cursor: pointer; font-family: inherit;
+  }
+  .visa-fler:hover { border-color: var(--accent); }
+
+  /* Tabellen staplas till kort på smal skärm */
+  @media (max-width: 619px) {
+    .tourn-tabell thead { display: none; }
+    .tourn-tabell, .tourn-tabell tbody, .tourn-tabell tr, .tourn-tabell td { display: block; width: 100%; }
+    .tourn-tabell tr {
+      border: 1px solid var(--border); border-radius: var(--radius);
+      margin-bottom: 8px; padding: 10px 12px; background: var(--card);
+    }
+    .tourn-tabell td { border: none; padding: 1px 0; }
+    .tourn-tabell td:empty { display: none; }
+    .tourn-tabell td[data-etikett]:not(.namn):not(.datum)::before {
+      content: attr(data-etikett) ": "; color: var(--muted); font-size: 13px;
+    }
+    .tourn-tabell .datum { color: var(--muted); font-size: 13px; display: inline-block; }
+    .tourn-tabell .slutdatum:not(:empty)::before { content: " – "; }
+    .tourn-tabell .slutdatum { margin-bottom: 4px; }
+  }
 
   /* ---- Misc ---- */
   .empty { color: var(--muted); padding: 32px 0; text-align: center; }
@@ -404,20 +452,93 @@
     }).join("");
   }
 
+  /* ---------- turneringar ---------- */
+
+  // Turneringarna ligger i en egen fil eftersom de är rikstäckande och
+  // identiska för alla klubbar. Laddas först när fliken öppnas.
+  let turneringar = null;
+  let turneringarFel = null;
+  let aktivtFilter = "kommande";
+  let visatAntal = 150;
+
+  const FILTER = [
+    { id: "kommande", etikett: "Kommande",       test: (t) => t.hink === "kommande" },
+    { id: "oppen",    etikett: "Anmälan öppen",  test: (t) => t.status === "Anmälan öppen" },
+    { id: "pagaende", etikett: "Pågående",       test: (t) => t.hink === "pagaende" },
+    { id: "passerad", etikett: "Spelade",        test: (t) => t.hink === "passerad" },
+  ];
+
+  async function laddaTurneringar() {
+    if (turneringar || turneringarFel) return;
+    try {
+      const svar = await fetch(`${DATA}/turneringar.json`, { cache: "no-cache" });
+      if (!svar.ok) throw new Error(`HTTP ${svar.status}`);
+      const d = await svar.json();
+      turneringar = d.turneringar || [];
+    } catch (fel) {
+      turneringarFel = fel.message;
+    }
+  }
+
+  function turneringsrad(x) {
+    const namn = esc(x.namn || "");
+    // Tävlingar långt fram i tiden har ännu ingen sida i resultatsystemet.
+    const namncell = x.lank
+      ? `<a href="${esc(x.lank)}" target="_blank" rel="noopener">${namn}</a>`
+      : `<span class="olankad" title="Tävlingen har ännu ingen sida att länka till">${namn}</span>`;
+
+    let status = "";
+    if (x.status === "Anmälan öppen") status = `<span class="stat oppen">Anmälan öppen</span>`;
+    else if (x.status) status = `<span class="stat stangd">${esc(x.status)}</span>`;
+
+    return `
+      <tr>
+        <td class="namn" data-etikett="Tävling">${namncell}</td>
+        <td class="datum" data-etikett="Start">${esc(x.datum)}</td>
+        <td class="datum slutdatum" data-etikett="Slut">${
+          x.slutdatum && x.slutdatum !== x.datum ? esc(x.slutdatum) : ""}</td>
+        <td data-etikett="Stad">${esc(x.ort || "")}</td>
+        <td data-etikett="Arena">${esc(x.arena || "")}</td>
+        <td data-etikett="Land">${esc(x.land || "")}</td>
+        <td data-etikett="Status">${status}${
+          x.niva ? `<div class="kalla">${esc(x.niva)}</div>` : ""}</td>
+        <td class="kalla" data-etikett="Källa">${esc(x.kalla || "")}</td>
+      </tr>`;
+  }
+
   function renderaTurneringar() {
-    const t = klubb.turneringar || [];
-    if (!t.length) return tomtBesked("Inga aktuella turneringar.");
-    return t.map((x) => {
-      const rad = [datumEtikett(x.datum), x.ort, x.niva].filter(Boolean);
-      return `
-      <a class="tourn" href="${esc(x.stupa_url || "#")}" target="_blank" rel="noopener">
-        <div class="name">${esc(x.namn)}</div>
-        <div class="sub">${esc(rad.join(" · "))}</div>
-        ${x.status === "Anmälan öppen"
-          ? `<div class="deadline">${esc(x.status)}</div>`
-          : x.status ? `<div class="sub">${esc(x.status)}</div>` : ""}
-      </a>`;
+    if (turneringarFel) {
+      return `<div class="error"><strong>Kunde inte läsa tävlingskalendern</strong>${
+        esc(turneringarFel)}</div>`;
+    }
+    if (!turneringar) return `<div class="empty">Hämtar tävlingskalendern…</div>`;
+
+    const filter = FILTER.find((f) => f.id === aktivtFilter) || FILTER[0];
+    let rader = turneringar.filter(filter.test);
+    // Spelade tävlingar visas senast först — de kommande i kronologisk ordning.
+    if (aktivtFilter === "passerad") rader = rader.slice().reverse();
+
+    const knappar = FILTER.map((f) => {
+      const n = turneringar.filter(f.test).length;
+      return `<button data-filter="${f.id}" aria-pressed="${f.id === aktivtFilter}">${
+        esc(f.etikett)}<span class="antal">${n}</span></button>`;
     }).join("");
+
+    const synliga = rader.slice(0, visatAntal);
+    const kvar = rader.length - synliga.length;
+
+    const tabell = synliga.length ? `
+      <table class="tourn-tabell">
+        <thead><tr>
+          <th>Tävling</th><th>Start</th><th>Slut</th><th>Stad</th>
+          <th>Arena</th><th>Land</th><th>Status</th><th>Källa</th>
+        </tr></thead>
+        <tbody>${synliga.map(turneringsrad).join("")}</tbody>
+      </table>
+      ${kvar > 0 ? `<button class="visa-fler">Visa ${Math.min(kvar, 300)} till (${kvar} kvar)</button>` : ""}`
+      : tomtBesked("Inga tävlingar i den här kategorin.");
+
+    return `<div class="filterrad">${knappar}</div>${tabell}`;
   }
 
   function renderaArrangerar() {
@@ -471,6 +592,11 @@
       el.panel.innerHTML = renderaMatcher(spelade, true, "Inga spelade matcher än.");
     } else if (aktivFlik === "turneringar") {
       el.panel.innerHTML = renderaTurneringar();
+      if (!turneringar && !turneringarFel) {
+        laddaTurneringar().then(() => {
+          if (aktivFlik === "turneringar") el.panel.innerHTML = renderaTurneringar();
+        });
+      }
     } else {
       el.panel.innerHTML = renderaArrangerar();
     }
@@ -550,6 +676,21 @@
       aktivFlik = b.dataset.tab;
       renderaPanel();
     });
+  });
+
+  // Filterknappar och "visa fler" i tävlingsvyn
+  el.panel.addEventListener("click", (e) => {
+    const filterknapp = e.target.closest("[data-filter]");
+    if (filterknapp) {
+      aktivtFilter = filterknapp.dataset.filter;
+      visatAntal = 150;
+      renderaPanel();
+      return;
+    }
+    if (e.target.closest(".visa-fler")) {
+      visatAntal += 300;
+      renderaPanel();
+    }
   });
 
   /* ---------- start ---------- */
