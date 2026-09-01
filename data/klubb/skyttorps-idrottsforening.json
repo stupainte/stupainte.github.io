@@ -4,7 +4,7 @@
   "namn": "Skyttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-31T10:12:37Z",
+ "uppdaterad": "2026-09-01T08:59:11Z",
  "lag": [
   {
    "namn": "Skyttorps IF A",
@@ -405,22 +405,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
-   "datum": "2026-11-15",
-   "tid": "14:00",
-   "serie": "Division 4A",
-   "omgang": "Round 6",
-   "hemma": "Skyttorps IF A",
-   "borta": "Öregrunds IK A",
-   "hemma_klubb": "Skyttorps Idrottsförening",
-   "borta_klubb": "Öregrunds Idrottsklubb",
-   "plats": "Skyttorp",
-   "arrangor": "Skyttorps Idrottsförening",
-   "arrangorer": [
-    "Skyttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
-  },
-  {
    "datum": "2026-12-12",
    "tid": "10:00",
    "serie": "Division 7C",
@@ -806,22 +790,6 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "10:00",
-   "serie": "Division 4A",
-   "omgang": "Round 13",
-   "hemma": "Öregrunds IK A",
-   "borta": "Skyttorps IF A",
-   "hemma_klubb": "Öregrunds Idrottsklubb",
-   "borta_klubb": "Skyttorps Idrottsförening",
-   "plats": "UTK-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
    "tid": "14:00",
    "serie": "Division 4A",
    "omgang": "Round 14",
@@ -933,7 +901,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-11-15",
+   "tid": "14:00",
+   "serie": "Division 4A",
+   "omgang": "Round 6",
+   "hemma": "Skyttorps IF A",
+   "borta": "Öregrunds IK A",
+   "hemma_klubb": "Skyttorps Idrottsförening",
+   "borta_klubb": "Öregrunds Idrottsklubb",
+   "plats": "Skyttorp",
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "10:00",
+   "serie": "Division 4A",
+   "omgang": "Round 13",
+   "hemma": "Öregrunds IK A",
+   "borta": "Skyttorps IF A",
+   "hemma_klubb": "Öregrunds Idrottsklubb",
+   "borta_klubb": "Skyttorps Idrottsförening",
+   "plats": "UTK-hallen",
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-19",
@@ -1187,7 +1192,9 @@
      "arrangorer": [
       "Skyttorps Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-15",
@@ -1219,7 +1226,9 @@
      "arrangorer": [
       "Skyttorps Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-15",
@@ -1473,95 +1482,95 @@
    "serie": "Division 4A",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "IK Sirius BTK D1",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
      "lag": "Örbyhus IF",
      "klubb": "Örbyhus Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "KFUM Gävle BT B",
      "klubb": "KFUM Gävle Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
      "lag": "Skyttorps IF A",
      "klubb": "Skyttorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
      "lag": "Sandvikens BTK A",
      "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
      "lag": "Gefle PK C",
      "klubb": "Gefle Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
      "lag": "Upplands-Ekeby IF B",
      "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
      "lag": "Öregrunds IK A",
      "klubb": "Öregrunds Idrottsklubb",
-     "spelade": 0,
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   },

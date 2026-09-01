@@ -4,7 +4,7 @@
   "namn": "Gefle Pingisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-31T10:12:37Z",
+ "uppdaterad": "2026-09-01T08:59:11Z",
  "lag": [
   {
    "namn": "Gefle PK",
@@ -249,10 +249,10 @@
    "borta": "Gefle PK C",
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Gefle Pingisklubb",
-   "plats": "Öregrund",
-   "arrangor": "Öregrunds Idrottsklubb",
+   "plats": "Olandshallen",
+   "arrangor": "Upplands-Ekeby Idrottsförening",
    "arrangorer": [
-    "Öregrunds Idrottsklubb"
+    "Upplands-Ekeby Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
@@ -303,22 +303,6 @@
     "Sunnersta Allmänna IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "14:00",
-   "serie": "Division 4A",
-   "omgang": "Round 2",
-   "hemma": "Gefle PK C",
-   "borta": "Öregrunds IK A",
-   "hemma_klubb": "Gefle Pingisklubb",
-   "borta_klubb": "Öregrunds Idrottsklubb",
-   "plats": "Öregrund",
-   "arrangor": "Öregrunds Idrottsklubb",
-   "arrangorer": [
-    "Öregrunds Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
    "datum": "2026-09-20",
@@ -985,10 +969,10 @@
    "borta": "Upplands-Ekeby IF B",
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
-   "plats": "Öregrund",
-   "arrangor": "Öregrunds Idrottsklubb",
+   "plats": "Olandshallen",
+   "arrangor": "Upplands-Ekeby Idrottsförening",
    "arrangorer": [
-    "Öregrunds Idrottsklubb"
+    "Upplands-Ekeby Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
@@ -1065,10 +1049,10 @@
    "borta": "Sandvikens BTK A",
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Sandvikens Bordtennisklubb",
-   "plats": "Öregrund",
-   "arrangor": "Öregrunds Idrottsklubb",
+   "plats": "Olandshallen",
+   "arrangor": "Upplands-Ekeby Idrottsförening",
    "arrangorer": [
-    "Öregrunds Idrottsklubb"
+    "Upplands-Ekeby Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
@@ -1247,22 +1231,6 @@
     "Rimbo Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
-  {
-   "datum": "2027-01-17",
-   "tid": "10:00",
-   "serie": "Division 4A",
-   "omgang": "Round 9",
-   "hemma": "Öregrunds IK A",
-   "borta": "Gefle PK C",
-   "hemma_klubb": "Öregrunds Idrottsklubb",
-   "borta_klubb": "Gefle Pingisklubb",
-   "plats": "Gävle",
-   "arrangor": "KFUM Gävle Bordtennis",
-   "arrangorer": [
-    "KFUM Gävle Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
    "datum": "2027-01-17",
@@ -1857,7 +1825,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-20",
+   "tid": "14:00",
+   "serie": "Division 4A",
+   "omgang": "Round 2",
+   "hemma": "Gefle PK C",
+   "borta": "Öregrunds IK A",
+   "hemma_klubb": "Gefle Pingisklubb",
+   "borta_klubb": "Öregrunds Idrottsklubb",
+   "plats": "WO",
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie": "Division 4A",
+   "omgang": "Round 9",
+   "hemma": "Öregrunds IK A",
+   "borta": "Gefle PK C",
+   "hemma_klubb": "Öregrunds Idrottsklubb",
+   "borta_klubb": "Gefle Pingisklubb",
+   "plats": "Gävle",
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-19",
@@ -2934,95 +2939,95 @@
    "serie": "Division 4A",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "IK Sirius BTK D1",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
      "lag": "Örbyhus IF",
      "klubb": "Örbyhus Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "KFUM Gävle BT B",
      "klubb": "KFUM Gävle Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
      "lag": "Skyttorps IF A",
      "klubb": "Skyttorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
      "lag": "Sandvikens BTK A",
      "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
      "lag": "Gefle PK C",
      "klubb": "Gefle Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
      "lag": "Upplands-Ekeby IF B",
      "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
      "lag": "Öregrunds IK A",
      "klubb": "Öregrunds Idrottsklubb",
-     "spelade": 0,
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   },
