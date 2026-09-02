@@ -4,7 +4,7 @@
   "namn": "Tullinge Triangelpojkar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-01T08:59:11Z",
+ "uppdaterad": "2026-09-02T08:13:28Z",
  "lag": [
   {
    "namn": "Tullinge TP BTK",
@@ -498,12 +498,34 @@
    "serie": "Silly B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Spårvägen 1",
      "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Stocksund/Lidingö Elit",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -512,9 +534,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Stocksund/Lidingö Elit",
-     "klubb": "KFUM Stocksund IA",
+     "placering": 3,
+     "lag": "Tullinge TP BTK 1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Tyresö BTK B",
+     "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -526,39 +559,6 @@
      "placering": 3,
      "lag": "Upplands Väsby BTK 1",
      "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tullinge TP BTK 1",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tyresö BTK B",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

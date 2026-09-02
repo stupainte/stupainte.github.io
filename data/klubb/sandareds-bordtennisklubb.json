@@ -4,7 +4,7 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-01T08:59:11Z",
+ "uppdaterad": "2026-09-02T08:13:28Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
@@ -540,22 +540,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
   },
   {
-   "datum": "2027-01-24",
-   "tid": "11:00",
-   "serie": "Södra",
-   "omgang": "Round 11",
-   "hemma": "Mariedals IK C",
-   "borta": "Sandareds BTK",
-   "hemma_klubb": "Mariedals Idrottsklubb",
-   "borta_klubb": "Sandareds Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Mariedals Idrottsklubb",
-   "arrangorer": [
-    "Mariedals Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
-  {
    "datum": "2027-01-26",
    "tid": "18:00",
    "serie": "Div 5 Södra",
@@ -572,7 +556,23 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
   },
   {
-   "datum": "2027-01-26",
+   "datum": "2027-01-31",
+   "tid": "11:00",
+   "serie": "Södra",
+   "omgang": "Round 11",
+   "hemma": "Mariedals IK C",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
+  },
+  {
+   "datum": "2027-02-02",
    "tid": "18:00",
    "serie": "Södra",
    "omgang": "Round 12",
@@ -584,22 +584,6 @@
    "arrangor": "Sandareds Bordtennisklubb",
    "arrangorer": [
     "Sandareds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
-  {
-   "datum": "2027-02-04",
-   "tid": "18:00",
-   "serie": "Södra",
-   "omgang": "Round 13",
-   "hemma": "Essunga S BTK",
-   "borta": "Sandareds BTK",
-   "hemma_klubb": "Essunga Södra Bordtennisklubb",
-   "borta_klubb": "Sandareds Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Essunga Södra Bordtennisklubb",
-   "arrangorer": [
-    "Essunga Södra Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
   },
@@ -668,6 +652,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
   },
   {
+   "datum": "2027-02-25",
+   "tid": "18:00",
+   "serie": "Södra",
+   "omgang": "Round 13",
+   "hemma": "Essunga S BTK",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Essunga Södra Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Essunga Södra Bordtennisklubb",
+   "arrangorer": [
+    "Essunga Södra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
+  },
+  {
    "datum": "2027-03-02",
    "tid": "18:00",
    "serie": "Södra",
@@ -684,7 +684,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
   },
   {
-   "datum": "2027-03-04",
+   "datum": "2027-03-03",
    "tid": "18:00",
    "serie": "Div 5 Södra",
    "omgang": "Round 14",
@@ -1370,10 +1370,9 @@
     "-"
    ],
    "serier": [
-    "Div 5 Södra",
-    "Södra"
+    "Div 5 Södra"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-26",
@@ -1390,9 +1389,21 @@
       "Sandareds Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-02",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Södra"
+   ],
+   "antal": 1,
+   "matcher": [
     {
-     "datum": "2027-01-26",
+     "datum": "2027-02-02",
      "tid": "18:00",
      "serie": "Södra",
      "omgang": "Round 12",

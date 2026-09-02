@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-01T08:59:11Z",
+ "uppdaterad": "2026-09-02T08:13:28Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -1386,6 +1386,22 @@
  ],
  "resultat": [
   {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly C",
+   "omgang": "Round 2",
+   "hemma": "Vargarna från evighetens skog",
+   "borta": "Rigor Mortis BTK",
+   "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-04-11",
    "tid": "13:00",
    "serie": "Östra",
@@ -2504,10 +2520,21 @@
    "serie": "Silly C",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Rigor Mortis BTK",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Österåkers BTK 1",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
@@ -2518,7 +2545,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 1,
+     "placering": 2,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
@@ -2529,18 +2556,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 1,
-     "lag": "Rigor Mortis BTK",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 1,
+     "placering": 2,
      "lag": "Spårvägens BTK 2",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
@@ -2551,7 +2567,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 1,
+     "placering": 2,
      "lag": "TeamBT",
      "klubb": "Boo Racketklubb",
      "spelade": 0,
@@ -2562,13 +2578,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 1,
+     "placering": 6,
      "lag": "Vargarna från evighetens skog",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
