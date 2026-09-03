@@ -4,7 +4,7 @@
   "namn": "Tibble-Kungsängen Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-02T08:13:28Z",
+ "uppdaterad": "2026-09-03T08:22:51Z",
  "lag": [
   {
    "namn": "Tibble Backhand Bandits",
@@ -675,6 +675,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly E",
+   "omgang": "Round 1",
+   "hemma": "Tibble Kungsängen BTK",
+   "borta": "IFK Haninge",
+   "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "borta_klubb": "IFK Haninge",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1727,10 +1743,32 @@
    "serie": "Silly E",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Tibble Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Haninge",
+     "klubb": "IFK Haninge",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Spårvägen 3",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
@@ -1741,7 +1779,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
+     "lag": "Spårvägens BTK Almen",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Stocksunds Vällagarde",
      "klubb": "KFUM Stocksund IA",
      "spelade": 0,
@@ -1755,39 +1804,6 @@
      "placering": 3,
      "lag": "The Gumpy Men",
      "klubb": "Boo Racketklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Spårvägens BTK Almen",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tibble Kungsängen BTK",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IFK Haninge",
-     "klubb": "IFK Haninge",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
