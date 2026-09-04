@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-03T08:22:51Z",
+ "uppdaterad": "2026-09-04T08:18:52Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -1402,6 +1402,22 @@
    "borta_poang": 2
   },
   {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly D",
+   "omgang": "Round 2",
+   "hemma": "Ängby Ulfsundians",
+   "borta": "The homo sapiens",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-04-11",
    "tid": "13:00",
    "serie": "Östra",
@@ -2524,6 +2540,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "TeamBT",
+     "klubb": "Boo Racketklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Rigor Mortis BTK",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 1,
@@ -2534,18 +2561,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "IFK Österåkers BTK 1",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
+     "placering": 3,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
@@ -2556,7 +2572,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Spårvägens BTK 2",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
@@ -2567,20 +2583,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "TeamBT",
-     "klubb": "Boo Racketklubb",
-     "spelade": 0,
+     "placering": 5,
+     "lag": "Vargarna från evighetens skog",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Vargarna från evighetens skog",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "lag": "IFK Österåkers BTK 1",
+     "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2594,54 +2610,32 @@
    "serie": "Silly D",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Smashing Pumpkins",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "The homo sapiens",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "The homo sapiens",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "The Midz",
-     "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 0,
@@ -2652,13 +2646,35 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Ängby Ulfsundians",
-     "klubb": "Ängby Sportklubb",
+     "placering": 3,
+     "lag": "Smashing Pumpkins",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ängby Ulfsundians",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "The Midz",
+     "klubb": "Nynäshamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

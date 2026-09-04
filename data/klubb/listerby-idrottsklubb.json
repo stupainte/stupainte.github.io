@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-03T08:22:51Z",
+ "uppdaterad": "2026-09-04T08:18:52Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -92,6 +92,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
   },
   {
+   "datum": "2026-09-20",
+   "tid": "13:00",
+   "serie": "Veteran Sdra",
+   "omgang": "Round 1",
+   "hemma": "Listerby IK A",
+   "borta": "Kullåkra BTK C",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "Listerby Idrottsklubb",
+   "arrangorer": [
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+  },
+  {
    "datum": "2026-09-27",
    "tid": "13:00",
    "serie": "DIV 5 SÖDRA",
@@ -106,6 +122,22 @@
     "Jämjö Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "Veteran Sdra",
+   "omgang": "Round 2",
+   "hemma": "Listerby IK A",
+   "borta": "Gammalstorps GOIF A",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Gammalstorps Gymnastik O IF",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "Listerby Idrottsklubb",
+   "arrangorer": [
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
   },
   {
    "datum": "2026-10-04",
@@ -488,6 +520,22 @@
     "Listerby Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "omgang": "Round 14",
+   "hemma": "Jämjö BTK D",
+   "borta": "Listerby IK D",
+   "hemma_klubb": "Jämjö Bordtennisklubb",
+   "borta_klubb": "Listerby Idrottsklubb",
+   "plats": "Klubblokalen Jämjö BTK",
+   "arrangor": "Jämjö Bordtennisklubb",
+   "arrangorer": [
+    "Jämjö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
   }
  ],
  "resultat": [],
@@ -498,9 +546,10 @@
     "Listerby BT-hallen"
    ],
    "serier": [
-    "DIV 5 SÖDRA"
+    "DIV 5 SÖDRA",
+    "Veteran Sdra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2026-09-20",
@@ -517,6 +566,50 @@
       "Listerby Idrottsklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "13:00",
+     "serie": "Veteran Sdra",
+     "omgang": "Round 1",
+     "hemma": "Listerby IK A",
+     "borta": "Kullåkra BTK C",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Kullåkra Bordtennisklubb",
+     "plats": "Listerby BT-hallen",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-27",
+   "platser": [
+    "Listerby BT-hallen"
+   ],
+   "serier": [
+    "Veteran Sdra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-27",
+     "tid": "13:00",
+     "serie": "Veteran Sdra",
+     "omgang": "Round 2",
+     "hemma": "Listerby IK A",
+     "borta": "Gammalstorps GOIF A",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Gammalstorps Gymnastik O IF",
+     "plats": "Listerby BT-hallen",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
     }
    ]
   },

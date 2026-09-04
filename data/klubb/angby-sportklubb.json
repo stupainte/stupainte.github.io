@@ -4,7 +4,7 @@
   "namn": "Ängby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-03T08:22:51Z",
+ "uppdaterad": "2026-09-04T08:18:52Z",
  "lag": [
   {
    "namn": "Ängby SK",
@@ -808,22 +808,6 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
-   "serie": "Div 1 N Herr",
-   "omgang": "Round 5",
-   "hemma": "Norrtälje BTK",
-   "borta": "Ängby SK: B2",
-   "hemma_klubb": "Norrtälje Bordtennisklubb",
-   "borta_klubb": "Ängby Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "IFK Österåkers Bordtennisklubb",
-   "arrangorer": [
-    "IFK Österåkers Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "11:00",
    "serie": "Div 3 ÖSNV",
    "omgang": "Round 5",
    "hemma": "Ängby SK: D",
@@ -1476,22 +1460,6 @@
     "Djurgårdens IF BTF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
-  },
-  {
-   "datum": "2027-01-16",
-   "tid": "11:00",
-   "serie": "Div 1 N Herr",
-   "omgang": "Round 8",
-   "hemma": "Ängby SK: B2",
-   "borta": "Norrtälje BTK",
-   "hemma_klubb": "Ängby Sportklubb",
-   "borta_klubb": "Norrtälje Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Ängby Sportklubb",
-   "arrangorer": [
-    "Ängby Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -2502,7 +2470,76 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly I",
+   "omgang": "Round 2",
+   "hemma": "Ängby SK",
+   "borta": "IFK Täby 3",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly D",
+   "omgang": "Round 2",
+   "hemma": "Ängby Ulfsundians",
+   "borta": "The homo sapiens",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 1 N Herr",
+   "omgang": "Round 5",
+   "hemma": "Norrtälje BTK",
+   "borta": "Ängby SK: B2",
+   "hemma_klubb": "Norrtälje Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 1 N Herr",
+   "omgang": "Round 8",
+   "hemma": "Ängby SK: B2",
+   "borta": "Norrtälje BTK",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Norrtälje Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-19",
@@ -3497,7 +3534,9 @@
      "arrangorer": [
       "Ängby Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2027-01-16",
@@ -3609,7 +3648,9 @@
      "arrangorer": [
       "Ängby Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2027-01-16",
@@ -3717,7 +3758,9 @@
      "arrangorer": [
       "Ängby Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -4370,95 +4413,95 @@
    "serie": "Div 1 N Herr",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Ängby SK: B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Skellefteå AIK BTF",
+     "klubb": "Skellefteå AIK BTF",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Haparanda SKT",
-     "klubb": "Haparanda Sportklubb Taktik",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ängby SK: B2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
-     "lag": "Norrtälje BTK",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Haparanda SKT",
+     "klubb": "Haparanda Sportklubb Taktik",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Skellefteå AIK BTF",
-     "klubb": "Skellefteå AIK BTF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Söderhamns UIF: C",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Söderhamns UIF: C",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tibble-Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "Tibble-Kungsängen BTK",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "IK Sirius BTK",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Österåkers BTK",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
-     "lag": "IFK Österåkers BTK",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Norrtälje BTK",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   },
@@ -5160,54 +5203,32 @@
    "serie": "Silly D",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Smashing Pumpkins",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "The homo sapiens",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "The homo sapiens",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "The Midz",
-     "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 0,
@@ -5218,13 +5239,35 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Ängby Ulfsundians",
-     "klubb": "Ängby Sportklubb",
+     "placering": 3,
+     "lag": "Smashing Pumpkins",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ängby Ulfsundians",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "The Midz",
+     "klubb": "Nynäshamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -5234,12 +5277,45 @@
    "serie": "Silly I",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Djurgårdens IF BTF A",
      "klubb": "Djurgårdens IF BTF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Jarlabergs BTK",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Tyresö BTK C",
+     "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -5259,46 +5335,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 6,
      "lag": "IFK Täby 3",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Jarlabergs BTK",
-     "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tyresö BTK C",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Ängby SK",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

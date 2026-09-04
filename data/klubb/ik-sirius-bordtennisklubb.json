@@ -4,7 +4,7 @@
   "namn": "IK Sirius Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-03T08:22:51Z",
+ "uppdaterad": "2026-09-04T08:18:52Z",
  "lag": [
   {
    "namn": "IK Sirius BTK",
@@ -620,22 +620,6 @@
     "IK Sirius Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "11:00",
-   "serie": "Div 1 N Herr",
-   "omgang": "Round 3",
-   "hemma": "IK Sirius BTK",
-   "borta": "Norrtälje BTK",
-   "hemma_klubb": "IK Sirius Bordtennisklubb",
-   "borta_klubb": "Norrtälje Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Söderhamns Ungdomsgårds IF",
-   "arrangorer": [
-    "Söderhamns Ungdomsgårds IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
    "datum": "2026-09-20",
@@ -3776,22 +3760,6 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
-   "serie": "Div 1 N Herr",
-   "omgang": "Round 13",
-   "hemma": "Norrtälje BTK",
-   "borta": "IK Sirius BTK",
-   "hemma_klubb": "Norrtälje Bordtennisklubb",
-   "borta_klubb": "IK Sirius Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
-   "arrangorer": [
-    "Tibble-Kungsängen Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-  },
-  {
-   "datum": "2027-03-14",
-   "tid": "11:00",
    "serie": "Div 2 NSN",
    "omgang": "Round 14",
    "hemma": "IK Sirius BTK: B1",
@@ -4028,6 +3996,24 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Div 1 N Herr",
+   "omgang": "Round 3",
+   "hemma": "IK Sirius BTK",
+   "borta": "Norrtälje BTK",
+   "hemma_klubb": "IK Sirius Bordtennisklubb",
+   "borta_klubb": "Norrtälje Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-10-17",
    "tid": "10:00",
    "serie": "Division 4A",
@@ -4060,6 +4046,24 @@
     "KFUM Gävle Bordtennis"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 1 N Herr",
+   "omgang": "Round 13",
+   "hemma": "Norrtälje BTK",
+   "borta": "IK Sirius BTK",
+   "hemma_klubb": "Norrtälje Bordtennisklubb",
+   "borta_klubb": "IK Sirius Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
   }
@@ -6166,95 +6170,95 @@
    "serie": "Div 1 N Herr",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Ängby SK: B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Skellefteå AIK BTF",
+     "klubb": "Skellefteå AIK BTF",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Haparanda SKT",
-     "klubb": "Haparanda Sportklubb Taktik",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ängby SK: B2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
-     "lag": "Norrtälje BTK",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Haparanda SKT",
+     "klubb": "Haparanda Sportklubb Taktik",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Skellefteå AIK BTF",
-     "klubb": "Skellefteå AIK BTF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Söderhamns UIF: C",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Söderhamns UIF: C",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tibble-Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "Tibble-Kungsängen BTK",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "IK Sirius BTK",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Österåkers BTK",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
-     "lag": "IFK Österåkers BTK",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Norrtälje BTK",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   },
