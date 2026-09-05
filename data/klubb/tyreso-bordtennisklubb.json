@@ -4,7 +4,7 @@
   "namn": "Tyresö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-04T08:18:52Z",
+ "uppdaterad": "2026-09-05T07:55:50Z",
  "lag": [
   {
    "namn": "Tyresö BTK",
@@ -723,6 +723,38 @@
   {
    "datum": "",
    "tid": "",
+   "serie": "Silly I",
+   "omgang": "Round 1",
+   "hemma": "Tyresö BTK C",
+   "borta": "Ängby SK",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly A",
+   "omgang": "Round 1",
+   "hemma": "Spårvägens BTK",
+   "borta": "Tyresö BTK A",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Tyresö Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie": "Silly A",
    "omgang": "Round 2",
    "hemma": "Boolaget",
@@ -1165,6 +1197,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Bro IK A",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Spånga TBK",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 1,
@@ -1175,7 +1218,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Boolaget",
      "klubb": "Boo Racketklubb",
      "spelade": 1,
@@ -1186,35 +1229,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Bro IK A",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Tyresö BTK A",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Spårvägens BTK",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1239,6 +1271,17 @@
     },
     {
      "placering": 2,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Spårvägen 1",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
@@ -1249,18 +1292,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tyresö BTK B",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
@@ -1285,10 +1317,10 @@
      "placering": 6,
      "lag": "Tullinge TP BTK 1",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–198"
     }
@@ -1324,34 +1356,34 @@
     },
     {
      "placering": 3,
-     "lag": "IFK Täby 4",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Ängby Ulfsundians",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
+     "lag": "IFK Täby 4",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Smashing Pumpkins",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Ängby Ulfsundians",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1378,15 +1410,26 @@
      "placering": 1,
      "lag": "Ängby SK",
      "klubb": "Ängby Sportklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "IFK Täby 3",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Djurgårdens IF BTF A",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 0,
@@ -1397,29 +1440,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Jarlabergs BTK",
-     "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Tyresö BTK C",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
+     "placering": 4,
      "lag": "Tyresö BTK G",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
@@ -1430,9 +1451,20 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 5,
+     "lag": "Jarlabergs BTK",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 6,
-     "lag": "IFK Täby 3",
-     "klubb": "IFK Täby Bordtennisklubb",
+     "lag": "Tyresö BTK C",
+     "klubb": "Tyresö Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1450,6 +1482,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Österåkers BTK 3",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
      "lag": "Upplands Väsby BTK 4",
      "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 1,
@@ -1460,7 +1503,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tyresö BTK E",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 1,
@@ -1471,7 +1514,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tyresö BTK D",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
@@ -1482,20 +1525,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Djurgårdens IF BTF D",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IFK Österåkers BTK 3",
-     "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1507,12 +1539,12 @@
      "placering": 6,
      "lag": "Djurgårdens IF BTF E",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   }

@@ -4,7 +4,7 @@
   "namn": "KFUM Stocksund IA"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-04T08:18:52Z",
+ "uppdaterad": "2026-09-05T07:55:50Z",
  "lag": [
   {
    "namn": "KFUM Stocksund",
@@ -497,6 +497,22 @@
    "datum": "",
    "tid": "",
    "serie": "Silly F",
+   "omgang": "Round 1",
+   "hemma": "KFUM Stocksund A",
+   "borta": "Spårvägen 5",
+   "hemma_klubb": "KFUM Stocksund IA",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly F",
    "omgang": "Round 3",
    "hemma": "KFUM Stocksund A",
    "borta": "Ingarö Retajjerd Båjjs",
@@ -538,6 +554,22 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly E",
+   "omgang": "Round 2",
+   "hemma": "Stocksunds Vällagarde",
+   "borta": "Spårvägens BTK Almen",
+   "hemma_klubb": "KFUM Stocksund IA",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   }
@@ -832,6 +864,17 @@
     },
     {
      "placering": 2,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Spårvägen 1",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
@@ -842,18 +885,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tyresö BTK B",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
@@ -878,10 +910,10 @@
      "placering": 6,
      "lag": "Tullinge TP BTK 1",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–198"
     }
@@ -895,6 +927,50 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Tibble Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Haninge",
+     "klubb": "IFK Haninge",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Spårvägen 3",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Stocksunds Vällagarde",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
      "lag": "The Gumpy Men",
      "klubb": "Boo Racketklubb",
      "spelade": 1,
@@ -905,59 +981,15 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 2,
-     "lag": "Tibble Kungsängen BTK",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Haninge",
-     "klubb": "IFK Haninge",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Spårvägen 3",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
+     "placering": 6,
      "lag": "Spårvägens BTK Almen",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 5,
      "matchpoang": 0,
-     "setdiff": "0–198"
-    },
-    {
-     "placering": 4,
-     "lag": "Stocksunds Vällagarde",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–990"
     }
    ]
   },
@@ -971,10 +1003,10 @@
      "placering": 1,
      "lag": "KFUM Stocksund A",
      "klubb": "KFUM Stocksund IA",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -991,6 +1023,17 @@
     },
     {
      "placering": 3,
+     "lag": "Spårvägen 5",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "IFK Österåkers BTK 2",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
@@ -1001,18 +1044,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Spårvägen 5",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tullinge TP BTK 2",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 0,
@@ -1023,7 +1055,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Upplands Väsby BTK 3",
      "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 0,
