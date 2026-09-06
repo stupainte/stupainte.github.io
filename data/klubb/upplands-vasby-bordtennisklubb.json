@@ -4,7 +4,7 @@
   "namn": "Upplands Väsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-05T07:55:50Z",
+ "uppdaterad": "2026-09-06T08:12:41Z",
  "lag": [
   {
    "namn": "Upplands Väsby BTK 1",
@@ -41,6 +41,22 @@
    "datum": "",
    "tid": "",
    "serie": "Silly H",
+   "omgang": "Round 1",
+   "hemma": "Upplands Väsby BTK 2",
+   "borta": "Djurgårdens IF BTF B",
+   "hemma_klubb": "Upplands Väsby Bordtennisklubb",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1302/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly H",
    "omgang": "Round 3",
    "hemma": "Upplands Väsby BTK 2",
    "borta": "Spårvägens BTK 4",
@@ -50,6 +66,38 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1302/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly F",
+   "omgang": "Round 2",
+   "hemma": "Upplands Väsby BTK 3",
+   "borta": "KFUM Stocksund A",
+   "hemma_klubb": "Upplands Väsby Bordtennisklubb",
+   "borta_klubb": "KFUM Stocksund IA",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly B",
+   "omgang": "Round 2",
+   "hemma": "Bro IK B",
+   "borta": "Upplands Väsby BTK 1",
+   "hemma_klubb": "Bro Idrottsklubb",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -80,6 +128,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Stocksund/Lidingö Elit",
      "klubb": "KFUM Stocksund IA",
      "spelade": 2,
@@ -88,17 +147,6 @@
      "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "198–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
     },
     {
      "placering": 3,
@@ -126,10 +174,10 @@
      "placering": 5,
      "lag": "Upplands Väsby BTK 1",
      "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -154,67 +202,67 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "KFUM Stocksund A",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Ingarö Retajjerd Båjjs",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 3,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Ingarö Retajjerd Båjjs",
-     "klubb": "Ingarö Idrottsförening",
+     "lag": "Upplands Väsby BTK 3",
+     "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 1,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
-     "lag": "Spårvägen 5",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "IFK Österåkers BTK 2",
      "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Tullinge TP BTK 2",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Upplands Väsby BTK 3",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 0,
+     "placering": 5,
+     "lag": "KFUM Stocksund A",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 6,
+     "lag": "Spårvägen 5",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -228,8 +276,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Peek-A-Boo",
-     "klubb": "Boo Racketklubb",
+     "lag": "Upplands Väsby BTK 2",
+     "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -239,14 +287,14 @@
     },
     {
      "placering": 2,
-     "lag": "Upplands Väsby BTK 2",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Peek-A-Boo",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
+     "matchpoang": 4,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
@@ -285,12 +333,12 @@
      "placering": 6,
      "lag": "Djurgårdens IF BTF B",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },

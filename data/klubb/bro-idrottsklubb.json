@@ -4,7 +4,7 @@
   "namn": "Bro Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-05T07:55:50Z",
+ "uppdaterad": "2026-09-06T08:12:41Z",
  "lag": [
   {
    "namn": "Bro IK",
@@ -497,6 +497,22 @@
    "datum": "",
    "tid": "",
    "serie": "Silly A",
+   "omgang": "Round 1",
+   "hemma": "Bro IK A",
+   "borta": "Boolaget",
+   "hemma_klubb": "Bro Idrottsklubb",
+   "borta_klubb": "Boo Racketklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly A",
    "omgang": "Round 3",
    "hemma": "Bro IK A",
    "borta": "Spårvägens BTK",
@@ -506,6 +522,22 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly B",
+   "omgang": "Round 2",
+   "hemma": "Bro IK B",
+   "borta": "Upplands Väsby BTK 1",
+   "hemma_klubb": "Bro Idrottsklubb",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1022,11 +1054,11 @@
      "placering": 1,
      "lag": "Bro IK A",
      "klubb": "Bro Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1042,19 +1074,19 @@
     },
     {
      "placering": 3,
-     "lag": "Boolaget",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
+     "lag": "Tyresö BTK A",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Tyresö BTK A",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Boolaget",
+     "klubb": "Boo Racketklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1083,6 +1115,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Stocksund/Lidingö Elit",
      "klubb": "KFUM Stocksund IA",
      "spelade": 2,
@@ -1091,17 +1134,6 @@
      "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "198–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
     },
     {
      "placering": 3,
@@ -1129,10 +1161,10 @@
      "placering": 5,
      "lag": "Upplands Väsby BTK 1",
      "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "IFK Täby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-05T07:55:50Z",
+ "uppdaterad": "2026-09-06T08:12:41Z",
  "lag": [
   {
    "namn": "IFK Täby 1",
@@ -751,6 +751,38 @@
    "datum": "",
    "tid": "",
    "serie": "Silly G",
+   "omgang": "Round 1",
+   "hemma": "The Vetz",
+   "borta": "IFK Täby 1",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly G",
+   "omgang": "Round 2",
+   "hemma": "IFK Täby 1",
+   "borta": "Ingarö IF",
+   "hemma_klubb": "IFK Täby Bordtennisklubb",
+   "borta_klubb": "Ingarö Idrottsförening",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly G",
    "omgang": "Round 3",
    "hemma": "IFK Täby 1",
    "borta": "Tibble Backhand Bandits",
@@ -1251,8 +1283,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Smashing Pumpkins",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1273,6 +1305,17 @@
     },
     {
      "placering": 3,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Ängby Ulfsundians",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
@@ -1283,7 +1326,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
@@ -1291,17 +1334,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Smashing Pumpkins",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -1327,32 +1359,32 @@
      "placering": 1,
      "lag": "IFK Täby 1",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "GurkBoork",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Solna BTK old boys",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Solna BTK old boys",
-     "klubb": "Solna Bordtennisklubb",
-     "spelade": 1,
+     "lag": "GurkBoork",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1360,21 +1392,21 @@
      "placering": 4,
      "lag": "The Vetz",
      "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1382,12 +1414,12 @@
      "placering": 6,
      "lag": "Tibble Backhand Bandits",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },
@@ -1399,8 +1431,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Peek-A-Boo",
-     "klubb": "Boo Racketklubb",
+     "lag": "Upplands Väsby BTK 2",
+     "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1410,14 +1442,14 @@
     },
     {
      "placering": 2,
-     "lag": "Upplands Väsby BTK 2",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Peek-A-Boo",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
+     "matchpoang": 4,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
@@ -1456,12 +1488,12 @@
      "placering": 6,
      "lag": "Djurgårdens IF BTF B",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },
@@ -1484,6 +1516,28 @@
     },
     {
      "placering": 2,
+     "lag": "Djurgårdens IF BTF A",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Tyresö BTK G",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "IFK Täby 3",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 2,
@@ -1494,35 +1548,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Djurgårdens IF BTF A",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tyresö BTK G",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Jarlabergs BTK",
      "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1530,10 +1562,10 @@
      "placering": 6,
      "lag": "Tyresö BTK C",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

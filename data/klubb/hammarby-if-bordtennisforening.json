@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-05T07:55:50Z",
+ "uppdaterad": "2026-09-06T08:12:41Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -1404,6 +1404,22 @@
   {
    "datum": "",
    "tid": "",
+   "serie": "Silly C",
+   "omgang": "Round 3",
+   "hemma": "Rigor Mortis BTK",
+   "borta": "TeamBT",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Boo Racketklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie": "Silly D",
    "omgang": "Round 2",
    "hemma": "Ängby Ulfsundians",
@@ -2540,45 +2556,45 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "TeamBT",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Rigor Mortis BTK",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
+     "matchpoang": 4,
+     "setdiff": "198–0"
     },
     {
      "placering": 2,
-     "lag": "Rigor Mortis BTK",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
+     "lag": "TeamBT",
+     "klubb": "Boo Racketklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Österåkers BTK 1",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "0–0"
+     "setdiff": "198–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Spårvägens BTK 2",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2595,14 +2611,14 @@
     },
     {
      "placering": 6,
-     "lag": "IFK Österåkers BTK 1",
-     "klubb": "IFK Österåkers Bordtennisklubb",
+     "lag": "Spårvägens BTK 2",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },
@@ -2614,8 +2630,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Smashing Pumpkins",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2636,6 +2652,17 @@
     },
     {
      "placering": 3,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Ängby Ulfsundians",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
@@ -2646,7 +2673,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
@@ -2654,17 +2681,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Smashing Pumpkins",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {

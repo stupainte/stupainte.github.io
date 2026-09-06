@@ -4,7 +4,7 @@
   "namn": "Nynäshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-05T07:55:50Z",
+ "uppdaterad": "2026-09-06T08:12:41Z",
  "lag": [
   {
    "namn": "NBTK Juniorer",
@@ -40,6 +40,38 @@
   {
    "datum": "",
    "tid": "",
+   "serie": "Silly G",
+   "omgang": "Round 1",
+   "hemma": "The Vetz",
+   "borta": "IFK Täby 1",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly G",
+   "omgang": "Round 2",
+   "hemma": "The Vetz",
+   "borta": "Tibble Backhand Bandits",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie": "Silly D",
    "omgang": "Round 2",
    "hemma": "Tyresö BTK F",
@@ -52,6 +84,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly K",
+   "omgang": "Round 1",
+   "hemma": "NBTK Juniorer",
+   "borta": "Djurgårdens IF BTF C",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1305/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "",
@@ -96,8 +144,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Smashing Pumpkins",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -118,6 +166,17 @@
     },
     {
      "placering": 3,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Ängby Ulfsundians",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
@@ -128,7 +187,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
@@ -136,17 +195,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Smashing Pumpkins",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -172,32 +220,32 @@
      "placering": 1,
      "lag": "IFK Täby 1",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "GurkBoork",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Solna BTK old boys",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Solna BTK old boys",
-     "klubb": "Solna Bordtennisklubb",
-     "spelade": 1,
+     "lag": "GurkBoork",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -205,21 +253,21 @@
      "placering": 4,
      "lag": "The Vetz",
      "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -227,12 +275,12 @@
      "placering": 6,
      "lag": "Tibble Backhand Bandits",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },
@@ -244,6 +292,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Djurgårdens IF BTF C",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Djurgårdens IF BTF F",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 2,
@@ -254,19 +313,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Djurgårdens IF BTF G",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Djurgårdens IF BTF C",
+     "lag": "Djurgårdens IF BTF G",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 1,
      "vunna": 1,
@@ -290,10 +338,10 @@
      "placering": 5,
      "lag": "NBTK Juniorer",
      "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
