@@ -4,7 +4,7 @@
   "namn": "IFK Österåkers Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-06T08:12:41Z",
+ "uppdaterad": "2026-09-07T08:43:56Z",
  "lag": [
   {
    "namn": "IFK Österåkers BTK",
@@ -1357,6 +1357,22 @@
    "datum": "",
    "tid": "",
    "serie": "Silly F",
+   "omgang": "Round 1",
+   "hemma": "IFK Österåkers BTK 2",
+   "borta": "Upplands Väsby BTK 3",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly F",
    "omgang": "Round 2",
    "hemma": "Ingarö Retajjerd Båjjs",
    "borta": "IFK Österåkers BTK 2",
@@ -1408,6 +1424,22 @@
    "omgang": "Round 1",
    "hemma": "IFK Österåkers BTK 3",
    "borta": "Djurgårdens IF BTF E",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1304/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly J",
+   "omgang": "Round 3",
+   "hemma": "IFK Österåkers BTK 3",
+   "borta": "Djurgårdens IF BTF D",
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": null,
@@ -3178,6 +3210,28 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Österåkers BTK 2",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Upplands Väsby BTK 3",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
      "lag": "Ingarö Retajjerd Båjjs",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 3,
@@ -3185,28 +3239,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Upplands Väsby BTK 3",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Österåkers BTK 2",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3254,12 +3286,12 @@
      "placering": 1,
      "lag": "IFK Österåkers BTK 3",
      "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "198–0"
+     "matchpoang": 4,
+     "setdiff": "396–0"
     },
     {
      "placering": 2,
@@ -3298,15 +3330,15 @@
      "placering": 5,
      "lag": "Djurgårdens IF BTF D",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Djurgårdens IF BTF E",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 1,

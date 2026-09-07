@@ -4,7 +4,7 @@
   "namn": "Bro Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-06T08:12:41Z",
+ "uppdaterad": "2026-09-07T08:43:56Z",
  "lag": [
   {
    "namn": "Bro IK",
@@ -524,6 +524,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly A",
+   "omgang": "Round 5",
+   "hemma": "Tyresö BTK A",
+   "borta": "Bro IK A",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Bro Idrottsklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "",
@@ -1054,6 +1070,17 @@
      "placering": 1,
      "lag": "Bro IK A",
      "klubb": "Bro Idrottsklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Spånga TBK",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1062,20 +1089,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Spånga TBK",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Tyresö BTK A",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Boolaget",
+     "klubb": "Boo Racketklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1085,12 +1101,12 @@
     },
     {
      "placering": 4,
-     "lag": "Boolaget",
-     "klubb": "Boo Racketklubb",
-     "spelade": 2,
+     "lag": "Tyresö BTK A",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1126,6 +1142,17 @@
     },
     {
      "placering": 2,
+     "lag": "Spårvägen 1",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Stocksund/Lidingö Elit",
      "klubb": "KFUM Stocksund IA",
      "spelade": 2,
@@ -1134,17 +1161,6 @@
      "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "198–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Spårvägen 1",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
     },
     {
      "placering": 4,
@@ -1159,17 +1175,6 @@
     },
     {
      "placering": 5,
-     "lag": "Upplands Väsby BTK 1",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Tullinge TP BTK 1",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 2,
@@ -1178,6 +1183,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–198"
+    },
+    {
+     "placering": 6,
+     "lag": "Upplands Väsby BTK 1",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   }

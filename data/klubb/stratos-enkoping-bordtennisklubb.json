@@ -4,7 +4,7 @@
   "namn": "Stratos Enköping Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-06T08:12:41Z",
+ "uppdaterad": "2026-09-07T08:43:56Z",
  "lag": [
   {
    "namn": "Stratos Enköping BTK",
@@ -637,22 +637,6 @@
     "Vassunda Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "12:00",
-   "serie": "Division 7C",
-   "omgang": "Round 4",
-   "hemma": "Stratos Enköping BTK F2",
-   "borta": "Knutby IF",
-   "hemma_klubb": "Stratos Enköping Bordtennisklubb",
-   "borta_klubb": "Knutby Idrottsförening",
-   "plats": "UTK-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -1713,22 +1697,6 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
-   "serie": "Division 7C",
-   "omgang": "Round 11",
-   "hemma": "Knutby IF",
-   "borta": "Stratos Enköping BTK F2",
-   "hemma_klubb": "Knutby Idrottsförening",
-   "borta_klubb": "Stratos Enköping Bordtennisklubb",
-   "plats": "Olandshallen",
-   "arrangor": "Upplands-Ekeby Idrottsförening",
-   "arrangorer": [
-    "Upplands-Ekeby Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
-  },
-  {
-   "datum": "2027-02-13",
-   "tid": "10:00",
    "serie": "Division 6A",
    "omgang": "Round 11",
    "hemma": "IK Sirius BTK F1",
@@ -2319,7 +2287,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-18",
+   "tid": "12:00",
+   "serie": "Division 7C",
+   "omgang": "Round 4",
+   "hemma": "Stratos Enköping BTK F2",
+   "borta": "Knutby IF",
+   "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+   "borta_klubb": "Knutby Idrottsförening",
+   "plats": "UTK-hallen",
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "10:00",
+   "serie": "Division 7C",
+   "omgang": "Round 11",
+   "hemma": "Knutby IF",
+   "borta": "Stratos Enköping BTK F2",
+   "hemma_klubb": "Knutby Idrottsförening",
+   "borta_klubb": "Stratos Enköping Bordtennisklubb",
+   "plats": "Olandshallen",
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-19",
@@ -3777,7 +3782,9 @@
      "arrangorer": [
       "Stratos Enköping Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2027-03-14",
@@ -3857,7 +3864,9 @@
      "arrangorer": [
       "Stratos Enköping Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   }
@@ -4731,95 +4740,95 @@
    "serie": "Division 7C",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Skyttorps IF C2",
      "klubb": "Skyttorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 2,
      "lag": "Norrtälje BTK F",
      "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
      "lag": "Sigtuna IF BTK B3",
      "klubb": "Sigtuna IF Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 4,
      "lag": "Stratos Enköping BTK F2",
      "klubb": "Stratos Enköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 5,
-     "lag": "IK Sirius BTK G3",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Upplands-Ekeby IF C",
+     "klubb": "Upplands-Ekeby Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 6,
-     "lag": "Knutby IF",
-     "klubb": "Knutby Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Rimbo IF B",
+     "klubb": "Rimbo Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 7,
-     "lag": "Upplands-Ekeby IF C",
-     "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK G3",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 8,
-     "lag": "Rimbo IF B",
-     "klubb": "Rimbo Idrottsförening",
-     "spelade": 0,
+     "lag": "Knutby IF",
+     "klubb": "Knutby Idrottsförening",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1386"
     }
    ]
   }
