@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-07T08:43:56Z",
+ "uppdaterad": "2026-09-08T08:25:54Z",
  "lag": [
   {
    "namn": "Halmstad BTK",
@@ -242,22 +242,6 @@
   },
   {
    "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie": "Pingisligan (dam)",
-   "omgang": "Round 3",
-   "hemma": "Kosta SK",
-   "borta": "Halmstad BTK",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Våxtorps Boll O IS",
-   "arrangorer": [
-    "Våxtorps Boll O IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
    "tid": "13:30",
    "serie": "Division 4",
    "omgang": "Round 3",
@@ -351,6 +335,22 @@
     "Trelleborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-10-20",
+   "tid": "18:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 3",
+   "hemma": "Kosta SK",
+   "borta": "Halmstad BTK",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-10-20",
@@ -1422,10 +1422,27 @@
     "A-hallen"
    ],
    "serier": [
+    "Pingisligan (dam)",
     "Pingisligan (herr)"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-10-20",
+     "tid": "18:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Kosta SK",
+     "borta": "Halmstad BTK",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "A-hallen",
+     "arrangor": "Halmstad Bordtennisklubb",
+     "arrangorer": [
+      "Halmstad Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
     {
      "datum": "2026-10-20",
      "tid": "18:30",
