@@ -4,7 +4,7 @@
   "namn": "Kosta Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-08T08:25:54Z",
+ "uppdaterad": "2026-09-09T08:28:17Z",
  "lag": [
   {
    "namn": "Kosta SK",
@@ -412,22 +412,6 @@
   {
    "datum": "2026-10-20",
    "tid": "18:00",
-   "serie": "Pingisligan (dam)",
-   "omgang": "Round 3",
-   "hemma": "Kosta SK",
-   "borta": "Halmstad BTK",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-10-20",
-   "tid": "18:30",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 3",
    "hemma": "Halmstad BTK",
@@ -440,6 +424,22 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-10-20",
+   "tid": "18:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 3",
+   "hemma": "Kosta SK",
+   "borta": "Halmstad BTK",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-11-10",
@@ -779,7 +779,7 @@
   },
   {
    "datum": "2026-12-15",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 7",
    "hemma": "Eskilstuna by STIGA",
@@ -907,7 +907,7 @@
   },
   {
    "datum": "2027-01-19",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 9",
    "hemma": "BTK Rekord",
@@ -1227,7 +1227,7 @@
   },
   {
    "datum": "2027-03-16",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 14",
    "hemma": "Kosta SK",
@@ -2331,7 +2331,7 @@
    "matcher": [
     {
      "datum": "2027-03-16",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 14",
      "hemma": "Kosta SK",

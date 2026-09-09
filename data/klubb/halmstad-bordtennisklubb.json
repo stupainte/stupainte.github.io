@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-08T08:25:54Z",
+ "uppdaterad": "2026-09-09T08:28:17Z",
  "lag": [
   {
    "namn": "Halmstad BTK",
@@ -178,7 +178,7 @@
   },
   {
    "datum": "2026-10-08",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 2",
    "hemma": "Halmstad BTK",
@@ -339,22 +339,6 @@
   {
    "datum": "2026-10-20",
    "tid": "18:00",
-   "serie": "Pingisligan (dam)",
-   "omgang": "Round 3",
-   "hemma": "Kosta SK",
-   "borta": "Halmstad BTK",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-10-20",
-   "tid": "18:30",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 3",
    "hemma": "Halmstad BTK",
@@ -367,6 +351,22 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-10-20",
+   "tid": "18:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 3",
+   "hemma": "Kosta SK",
+   "borta": "Halmstad BTK",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-11-14",
@@ -500,7 +500,7 @@
   },
   {
    "datum": "2026-11-17",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 5",
    "hemma": "Halmstad BTK",
@@ -676,7 +676,7 @@
   },
   {
    "datum": "2026-12-15",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 7",
    "hemma": "BTK Rekord",
@@ -708,7 +708,7 @@
   },
   {
    "datum": "2027-01-12",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 8",
    "hemma": "Halmstad BTK",
@@ -948,7 +948,7 @@
   },
   {
    "datum": "2027-03-02",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 12",
    "hemma": "Eskilstuna by STIGA",
@@ -964,7 +964,7 @@
   },
   {
    "datum": "2027-03-09",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 13",
    "hemma": "Halmstad BTK",
@@ -1076,7 +1076,7 @@
   },
   {
    "datum": "2027-03-16",
-   "tid": "18:30",
+   "tid": "18:00",
    "serie": "Pingisligan (herr)",
    "omgang": "Round 14",
    "hemma": "Halmstad BTK",
@@ -1356,7 +1356,7 @@
    "matcher": [
     {
      "datum": "2026-10-08",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 2",
      "hemma": "Halmstad BTK",
@@ -1445,7 +1445,7 @@
     },
     {
      "datum": "2026-10-20",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 3",
      "hemma": "Halmstad BTK",
@@ -1519,7 +1519,7 @@
    "matcher": [
     {
      "datum": "2026-11-17",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 5",
      "hemma": "Halmstad BTK",
@@ -1872,7 +1872,7 @@
    "matcher": [
     {
      "datum": "2027-01-12",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 8",
      "hemma": "Halmstad BTK",
@@ -2040,7 +2040,7 @@
    "matcher": [
     {
      "datum": "2027-03-09",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 13",
      "hemma": "Halmstad BTK",
@@ -2242,7 +2242,7 @@
    "matcher": [
     {
      "datum": "2027-03-16",
-     "tid": "18:30",
+     "tid": "18:00",
      "serie": "Pingisligan (herr)",
      "omgang": "Round 14",
      "hemma": "Halmstad BTK",
@@ -2460,8 +2460,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "IF Norcopensarna: C2",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Ljungsbro BTK: C",
+     "klubb": "Ljungsbro Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2482,8 +2482,8 @@
     },
     {
      "placering": 3,
-     "lag": "Ljungsbro BTK: C",
-     "klubb": "Ljungsbro Bordtennisklubb",
+     "lag": "Västers BTK: D",
+     "klubb": "Västers Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2493,8 +2493,8 @@
     },
     {
      "placering": 4,
-     "lag": "IF Norcopensarna: C1",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Haga FF",
+     "klubb": "Haga Fotbollsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2504,7 +2504,7 @@
     },
     {
      "placering": 5,
-     "lag": "IF Norcopensarna: C3",
+     "lag": "IF Norcopensarna: C1",
      "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
      "vunna": 0,
@@ -2526,8 +2526,8 @@
     },
     {
      "placering": 7,
-     "lag": "Haga FF",
-     "klubb": "Haga Fotbollsförening",
+     "lag": "IF Norcopensarna: C2",
+     "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2537,8 +2537,8 @@
     },
     {
      "placering": 8,
-     "lag": "Västers BTK: D",
-     "klubb": "Västers Bordtennisklubb",
+     "lag": "IF Norcopensarna: C3",
+     "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

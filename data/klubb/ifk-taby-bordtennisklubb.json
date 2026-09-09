@@ -4,7 +4,7 @@
   "namn": "IFK Täby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-08T08:25:54Z",
+ "uppdaterad": "2026-09-09T08:28:17Z",
  "lag": [
   {
    "namn": "IFK Täby 1",
@@ -842,6 +842,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly D",
+   "omgang": "Round 3",
+   "hemma": "Tyresö BTK F",
+   "borta": "IFK Täby 4",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1294,6 +1310,17 @@
     },
     {
      "placering": 2,
+     "lag": "IFK Täby 4",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
      "lag": "Smashing Pumpkins",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 2,
@@ -1304,35 +1331,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tyresö BTK F",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Ängby Ulfsundians",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "IFK Täby 4",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

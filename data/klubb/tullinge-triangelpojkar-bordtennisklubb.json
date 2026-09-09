@@ -4,7 +4,7 @@
   "namn": "Tullinge Triangelpojkar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-08T08:25:54Z",
+ "uppdaterad": "2026-09-09T08:28:17Z",
  "lag": [
   {
    "namn": "Tullinge TP BTK",
@@ -270,6 +270,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly F",
+   "omgang": "Round 2",
+   "hemma": "Tullinge TP BTK 2",
+   "borta": "Spårvägen 5",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
   },
   {
    "datum": "",
@@ -636,6 +652,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tullinge TP BTK 2",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Upplands Väsby BTK 3",
      "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 2,
@@ -646,7 +673,7 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Ingarö Retajjerd Båjjs",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 3,
@@ -654,17 +681,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tullinge TP BTK 2",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -682,11 +698,11 @@
      "placering": 6,
      "lag": "Spårvägen 5",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
