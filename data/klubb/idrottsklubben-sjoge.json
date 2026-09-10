@@ -4,7 +4,7 @@
   "namn": "Idrottsklubben Sjöge"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-09T08:28:17Z",
+ "uppdaterad": "2026-09-10T08:30:08Z",
  "lag": [
   {
    "namn": "IK Sjöge",
@@ -44,6 +44,17 @@
     },
     {
      "placering": 2,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IF Norcopensarna: E1",
      "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
@@ -54,20 +65,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -110,7 +110,7 @@
     },
     {
      "placering": 8,
-     "lag": "IF Norcopensarna: E2",
+     "lag": "IF Norcopensarna: E3",
      "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 0,
      "vunna": 0,
@@ -129,72 +129,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "IK Sjöge: B",
-     "klubb": "Idrottsklubben Sjöge",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västers BTK: F1",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Västers BTK: F2",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Ljungsbro BTK: D2",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Linköpings PK: F2",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Linköpings PK: F1",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Ljungsbro BTK: D1",
      "klubb": "Ljungsbro Bordtennisklubb",
      "spelade": 0,
@@ -205,9 +139,75 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 2,
+     "lag": "Ljungsbro BTK: D2",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västers BTK: F1",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IK Sjöge: B",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Linköpings PK: F1",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Linköpings PK: F2",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Linköpings Parasport",
      "klubb": "Linköpings Parasportförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Västers BTK: F2",
+     "klubb": "Västers Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
