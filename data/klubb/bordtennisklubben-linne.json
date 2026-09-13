@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Linné"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-12T08:13:36Z",
+ "uppdaterad": "2026-09-13T08:37:57Z",
  "lag": [
   {
    "namn": "BTK Linné",
@@ -266,22 +266,6 @@
     "Borgstena IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie": "Div 3 VSSÖ",
-   "omgang": "Round 3",
-   "hemma": "BTK Linné: C1",
-   "borta": "Åsa IF: A2",
-   "hemma_klubb": "Bordtennisklubben Linné",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "A-hallen",
-   "arrangor": "Alingsås Pingis Klubb",
-   "arrangorer": [
-    "Alingsås Pingis Klubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
    "datum": "2026-10-17",
@@ -650,22 +634,6 @@
     "Bordtennisklubben Warta"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
-  },
-  {
-   "datum": "2026-12-13",
-   "tid": "15:00",
-   "serie": "Div 3 VSSÖ",
-   "omgang": "Round 8",
-   "hemma": "Åsa IF: A2",
-   "borta": "BTK Linné: C1",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Bordtennisklubben Linné",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -1132,7 +1100,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 3 VSSÖ",
+   "omgang": "Round 3",
+   "hemma": "BTK Linné: C1",
+   "borta": "Åsa IF: A2",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Åsa Idrottsförening",
+   "plats": "A-hallen",
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Div 3 VSSÖ",
+   "omgang": "Round 8",
+   "hemma": "Åsa IF: A2",
+   "borta": "BTK Linné: C1",
+   "hemma_klubb": "Åsa Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-20",
@@ -1594,7 +1599,9 @@
      "arrangorer": [
       "Bordtennisklubben Linné"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-12-13",
@@ -1626,7 +1633,9 @@
      "arrangorer": [
       "Bordtennisklubben Linné"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-12-13",
@@ -2106,7 +2115,9 @@
      "arrangorer": [
       "Bordtennisklubben Linné"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2027-03-14",
@@ -2186,7 +2197,9 @@
      "arrangorer": [
       "Bordtennisklubben Linné"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   }
@@ -2569,95 +2582,95 @@
    "serie": "Div 3 VSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "BTK Linné: C1",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
      "lag": "IF Ifo",
      "klubb": "Idrottsföreningen Ifo",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
-     "lag": "Backa BTK",
-     "klubb": "Backa Bordtennis Klubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Lekstorps IF: C",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Åsa IF: A2",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "TopSpeed BTK",
+     "klubb": "TopSpeed Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Lekstorps IF: C",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Askims BTK: B",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "TopSpeed BTK",
-     "klubb": "TopSpeed Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Alingsås PK: B",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "Alingsås PK: B",
-     "klubb": "Alingsås Pingis Klubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Backa BTK",
+     "klubb": "Backa Bordtennis Klubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
-     "lag": "Askims BTK: B",
-     "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Åsa IF: A2",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   }
