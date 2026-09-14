@@ -4,7 +4,7 @@
   "namn": "Norrtälje Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-13T08:37:57Z",
+ "uppdaterad": "2026-09-14T09:21:36Z",
  "lag": [
   {
    "namn": "Norrtälje BTK",
@@ -770,22 +770,6 @@
   },
   {
    "datum": "2026-12-13",
-   "tid": "10:00",
-   "serie": "Division 6C",
-   "omgang": "Round 7",
-   "hemma": "Norrtälje BTK E2",
-   "borta": "IK Sirius BTK F4",
-   "hemma_klubb": "Norrtälje Bordtennisklubb",
-   "borta_klubb": "IK Sirius Bordtennisklubb",
-   "plats": "Björkhallen",
-   "arrangor": "Vassunda Idrottsförening",
-   "arrangorer": [
-    "Vassunda Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-  },
-  {
-   "datum": "2026-12-13",
    "tid": "13:00",
    "serie": "Division 6C",
    "omgang": "Round 8",
@@ -1298,22 +1282,6 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "13:00",
-   "serie": "Division 6C",
-   "omgang": "Round 14",
-   "hemma": "IK Sirius BTK F4",
-   "borta": "Norrtälje BTK E2",
-   "hemma_klubb": "IK Sirius Bordtennisklubb",
-   "borta_klubb": "Norrtälje Bordtennisklubb",
-   "plats": "Norrtälje",
-   "arrangor": "Norrtälje Bordtennisklubb",
-   "arrangorer": [
-    "Norrtälje Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
    "tid": "14:00",
    "serie": "Division 4B",
    "omgang": "Round 14",
@@ -1541,6 +1509,24 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie": "Division 6C",
+   "omgang": "Round 7",
+   "hemma": "Norrtälje BTK E2",
+   "borta": "IK Sirius BTK F4",
+   "hemma_klubb": "Norrtälje Bordtennisklubb",
+   "borta_klubb": "IK Sirius Bordtennisklubb",
+   "plats": "Björkhallen",
+   "arrangor": "Vassunda Idrottsförening",
+   "arrangorer": [
+    "Vassunda Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-01-16",
    "tid": "11:00",
    "serie": "Div 1 N Herr",
@@ -1611,6 +1597,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "13:00",
+   "serie": "Division 6C",
+   "omgang": "Round 14",
+   "hemma": "IK Sirius BTK F4",
+   "borta": "Norrtälje BTK E2",
+   "hemma_klubb": "IK Sirius Bordtennisklubb",
+   "borta_klubb": "Norrtälje Bordtennisklubb",
+   "plats": "Norrtälje",
+   "arrangor": "Norrtälje Bordtennisklubb",
+   "arrangorer": [
+    "Norrtälje Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2027-03-13",
@@ -2562,7 +2566,9 @@
      "arrangorer": [
       "Norrtälje Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2027-03-13",
@@ -2626,7 +2632,9 @@
      "arrangorer": [
       "Norrtälje Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   }
@@ -3116,95 +3124,95 @@
    "serie": "Division 6C",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Bålsta BTK B",
      "klubb": "Bålsta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 2,
-     "lag": "IK Sirius BTK F5",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Vassunda IF C3",
+     "klubb": "Vassunda Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
-     "lag": "Sandvikens BTK C",
-     "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK F5",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 4,
-     "lag": "Gefle PK E2",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Uppsala Life IF C2",
+     "klubb": "Uppsala Life Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 5,
-     "lag": "Norrtälje BTK E2",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Gefle PK E2",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 6,
-     "lag": "IK Sirius BTK F4",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Norrtälje BTK E2",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 7,
-     "lag": "Uppsala Life IF C2",
-     "klubb": "Uppsala Life Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sandvikens BTK C",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 8,
-     "lag": "Vassunda IF C3",
-     "klubb": "Vassunda Idrottsförening",
-     "spelade": 0,
+     "lag": "IK Sirius BTK F4",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1386"
     }
    ]
   },

@@ -4,7 +4,7 @@
   "namn": "Boo Racketklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-13T08:37:57Z",
+ "uppdaterad": "2026-09-14T09:21:36Z",
  "lag": [
   {
    "namn": "Boo Racketklubb",
@@ -1139,6 +1139,22 @@
   {
    "datum": "",
    "tid": "",
+   "serie": "Silly C",
+   "omgang": "Round 4",
+   "hemma": "TeamBT",
+   "borta": "Spårvägens BTK 2",
+   "hemma_klubb": "Boo Racketklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie": "Silly E",
    "omgang": "Round 1",
    "hemma": "The Gumpy Men",
@@ -1151,6 +1167,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly E",
+   "omgang": "Round 3",
+   "hemma": "The Gumpy Men",
+   "borta": "Spårvägen 3",
+   "hemma_klubb": "Boo Racketklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
   },
   {
    "datum": "2026-04-11",
@@ -1988,21 +2020,21 @@
      "placering": 1,
      "lag": "Bro IK A",
      "klubb": "Bro Idrottsklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Spånga TBK",
      "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2049,6 +2081,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "TeamBT",
+     "klubb": "Boo Racketklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 2,
      "lag": "Rigor Mortis BTK",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 3,
@@ -2059,29 +2102,29 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 2,
-     "lag": "TeamBT",
-     "klubb": "Boo Racketklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–198"
-    },
-    {
      "placering": 3,
-     "lag": "IFK Österåkers BTK 1",
-     "klubb": "IFK Österåkers Bordtennisklubb",
+     "lag": "Vargarna från evighetens skog",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "198–0"
+     "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "IFK Österåkers BTK 1",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 2,
@@ -2092,24 +2135,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Vargarna från evighetens skog",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Spårvägens BTK 2",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–198"
     }
@@ -2125,26 +2157,48 @@
      "placering": 1,
      "lag": "Spårvägen 3",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "198–0"
     },
     {
      "placering": 2,
      "lag": "Tibble Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "198–0"
     },
     {
      "placering": 3,
+     "lag": "The Gumpy Men",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Stocksunds Vällagarde",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 5,
      "lag": "IFK Haninge",
      "klubb": "IFK Haninge",
      "spelade": 2,
@@ -2152,28 +2206,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 3,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Stocksunds Vällagarde",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 5,
-     "lag": "The Gumpy Men",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "198–0"
     },
     {
@@ -2210,11 +2242,11 @@
      "placering": 2,
      "lag": "Solna BTK old boys",
      "klubb": "Solna Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2243,11 +2275,11 @@
      "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -2295,15 +2327,26 @@
      "placering": 3,
      "lag": "Spårvägens BTK 4",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "IFK Täby 2",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 5,
      "lag": "Silly Smashers",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 3,
@@ -2314,24 +2357,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "IFK Täby 2",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–198"
-    },
-    {
      "placering": 6,
      "lag": "Djurgårdens IF BTF B",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–198"
     }

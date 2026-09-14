@@ -4,7 +4,7 @@
   "namn": "Ingarö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-13T08:37:57Z",
+ "uppdaterad": "2026-09-14T09:21:36Z",
  "lag": [
   {
    "namn": "Ingarö IF",
@@ -61,6 +61,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly G",
+   "omgang": "Round 3",
+   "hemma": "Ingarö IF",
+   "borta": "Solna BTK old boys",
+   "hemma_klubb": "Ingarö Idrottsförening",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   },
   {
    "datum": "",
@@ -153,6 +169,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "TeamBT",
+     "klubb": "Boo Racketklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 2,
      "lag": "Rigor Mortis BTK",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 3,
@@ -163,29 +190,29 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 2,
-     "lag": "TeamBT",
-     "klubb": "Boo Racketklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–198"
-    },
-    {
      "placering": 3,
-     "lag": "IFK Österåkers BTK 1",
-     "klubb": "IFK Österåkers Bordtennisklubb",
+     "lag": "Vargarna från evighetens skog",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "198–0"
+     "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "IFK Österåkers BTK 1",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 2,
@@ -196,24 +223,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Vargarna från evighetens skog",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Spårvägens BTK 2",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–198"
     }
@@ -314,11 +330,11 @@
      "placering": 2,
      "lag": "Solna BTK old boys",
      "klubb": "Solna Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -347,11 +363,11 @@
      "placering": 5,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
