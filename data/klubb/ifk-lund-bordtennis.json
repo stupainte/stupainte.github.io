@@ -4,7 +4,7 @@
   "namn": "IFK Lund Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-14T09:21:36Z",
+ "uppdaterad": "2026-09-15T09:03:46Z",
  "lag": [
   {
    "namn": "IFK Lund Bordtennis",
@@ -67,6 +67,22 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 1",
+   "hemma": "Bergkvara BTK",
+   "borta": "IFK Lund Bordtennis: B",
+   "hemma_klubb": "Bergkvara Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
    "serie": "Div 2 SSS",
    "omgang": "Round 1",
    "hemma": "Malmö IF",
@@ -99,22 +115,6 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 1",
-   "hemma": "BTK Rekord: B",
-   "borta": "IFK Lund Bordtennis: C2",
-   "hemma_klubb": "Bordtennisklubben Rekord",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 1",
    "hemma": "Skurups BTK",
@@ -131,12 +131,28 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
-   "serie": "Div 2 SSÖ Dam",
+   "serie": "Div 3 SSSV",
    "omgang": "Round 1",
-   "hemma": "Bergkvara BTK",
-   "borta": "IFK Lund Bordtennis: B",
-   "hemma_klubb": "Bergkvara Bordtennisklubb",
+   "hemma": "BTK Rekord: B",
+   "borta": "IFK Lund Bordtennis: C2",
+   "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 2",
+   "hemma": "IFK Lund Bordtennis: B",
+   "borta": "Kosta SK: B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Kosta Sportklubb",
    "plats": "A-hallen",
    "arrangor": "Malmö Idrottsförening",
    "arrangorer": [
@@ -179,22 +195,6 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 2",
-   "hemma": "Kågeröds BTK: B",
-   "borta": "IFK Lund Bordtennis: C2",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 2",
    "hemma": "IFK Lund Bordtennis: C1",
@@ -211,18 +211,18 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
+   "serie": "Div 3 SSSV",
    "omgang": "Round 2",
-   "hemma": "IFK Lund Bordtennis: B",
-   "borta": "Kosta SK: B",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Kosta Sportklubb",
+   "hemma": "Kågeröds BTK: B",
+   "borta": "IFK Lund Bordtennis: C2",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
    "plats": "A-hallen",
-   "arrangor": "Malmö Idrottsförening",
+   "arrangor": "Halmstad Bordtennisklubb",
    "arrangorer": [
-    "Malmö Idrottsförening"
+    "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
    "datum": "2026-09-20",
@@ -355,22 +355,6 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 3",
-   "hemma": "IFK Lund Bordtennis: C2",
-   "borta": "Halmstad BTK: D",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Rekord",
-   "arrangorer": [
-    "Bordtennisklubben Rekord"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 3",
    "hemma": "IFK Lund Bordtennis: C1",
@@ -383,6 +367,22 @@
     "Bordtennisklubben Scania"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 3",
+   "hemma": "IFK Lund Bordtennis: C2",
+   "borta": "Halmstad BTK: D",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
    "datum": "2026-10-17",
@@ -419,22 +419,6 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 4",
-   "hemma": "IFK Lund Bordtennis: C2",
-   "borta": "Åstorps BTK: C",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Åstorps Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Rekord",
-   "arrangorer": [
-    "Bordtennisklubben Rekord"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 4",
    "hemma": "IFK Lund Bordtennis: C1",
@@ -447,6 +431,22 @@
     "Bordtennisklubben Scania"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 4",
+   "hemma": "IFK Lund Bordtennis: C2",
+   "borta": "Åstorps BTK: C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -479,6 +479,22 @@
     "Trelleborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 5",
+   "hemma": "Trelleborgs BTK",
+   "borta": "IFK Lund Bordtennis: B",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
   },
   {
    "datum": "2026-11-14",
@@ -530,13 +546,13 @@
   },
   {
    "datum": "2026-11-14",
-   "tid": "11:00",
+   "tid": "15:00",
    "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 5",
-   "hemma": "Trelleborgs BTK",
-   "borta": "IFK Lund Bordtennis: B",
-   "hemma_klubb": "Trelleborgs Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
+   "omgang": "Round 6",
+   "hemma": "IFK Lund Bordtennis: B",
+   "borta": "Malmö IF: B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Malmö Idrottsförening",
    "plats": "A-hallen",
    "arrangor": "Trelleborgs Bordtennisklubb",
    "arrangorer": [
@@ -593,22 +609,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
-   "datum": "2026-11-14",
-   "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 6",
-   "hemma": "IFK Lund Bordtennis: B",
-   "borta": "Malmö IF: B",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Malmö Idrottsförening",
-   "plats": "A-hallen",
-   "arrangor": "Trelleborgs Bordtennisklubb",
-   "arrangorer": [
-    "Trelleborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
-  },
-  {
    "datum": "2026-11-15",
    "tid": "11:00",
    "serie": "Div 1 S Herr",
@@ -627,22 +627,6 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 5",
-   "hemma": "IFK Lund Bordtennis: C1",
-   "borta": "Malmö IF: B",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Malmö Idrottsförening",
-   "plats": "A-hallen",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
    "serie": "Div 1 S Dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund Bordtennis",
@@ -655,6 +639,22 @@
     "IFK Lund Bordtennis"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 5",
+   "hemma": "IFK Lund Bordtennis: C1",
+   "borta": "Malmö IF: B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "A-hallen",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
    "datum": "2026-11-15",
@@ -675,6 +675,22 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie": "Div 1 S Dam",
+   "omgang": "Round 4",
+   "hemma": "Malmö IF: A2",
+   "borta": "IFK Lund Bordtennis",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 6",
    "hemma": "IFK Lund Bordtennis: C1",
@@ -689,18 +705,34 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
-   "datum": "2026-11-15",
-   "tid": "15:00",
-   "serie": "Div 1 S Dam",
-   "omgang": "Round 4",
-   "hemma": "Malmö IF: A2",
-   "borta": "IFK Lund Bordtennis",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "IFK Lund Bordtennis",
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 7",
+   "hemma": "IFK Lund Bordtennis: B",
+   "borta": "Sjöbo BTK",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Sjöbo Bordtennisklubb",
    "plats": "A-hallen",
-   "arrangor": "IFK Lund Bordtennis",
+   "arrangor": "Sjöbo Bordtennisklubb",
    "arrangorer": [
-    "IFK Lund Bordtennis"
+    "Sjöbo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 1 S Dam",
+   "omgang": "Round 5",
+   "hemma": "IFK Lund Bordtennis",
+   "borta": "Lyckeby BTK",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
@@ -754,13 +786,13 @@
   },
   {
    "datum": "2026-12-12",
-   "tid": "11:00",
+   "tid": "15:00",
    "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 7",
+   "omgang": "Round 8",
    "hemma": "IFK Lund Bordtennis: B",
-   "borta": "Sjöbo BTK",
+   "borta": "Trelleborgs BTK",
    "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Sjöbo Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
    "plats": "A-hallen",
    "arrangor": "Sjöbo Bordtennisklubb",
    "arrangorer": [
@@ -770,13 +802,13 @@
   },
   {
    "datum": "2026-12-12",
-   "tid": "11:00",
+   "tid": "15:00",
    "serie": "Div 1 S Dam",
-   "omgang": "Round 5",
-   "hemma": "IFK Lund Bordtennis",
-   "borta": "Lyckeby BTK",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "omgang": "Round 6",
+   "hemma": "Carlshamns BTK",
+   "borta": "IFK Lund Bordtennis",
+   "hemma_klubb": "Carlshamns Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
    "plats": "A-hallen",
    "arrangor": "Carlshamns Bordtennisklubb",
    "arrangorer": [
@@ -831,38 +863,6 @@
     "Varbergs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-12-12",
-   "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 8",
-   "hemma": "IFK Lund Bordtennis: B",
-   "borta": "Trelleborgs BTK",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Trelleborgs Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Sjöbo Bordtennisklubb",
-   "arrangorer": [
-    "Sjöbo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
-  },
-  {
-   "datum": "2026-12-12",
-   "tid": "15:00",
-   "serie": "Div 1 S Dam",
-   "omgang": "Round 6",
-   "hemma": "Carlshamns BTK",
-   "borta": "IFK Lund Bordtennis",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Carlshamns Bordtennisklubb",
-   "arrangorer": [
-    "Carlshamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -931,6 +931,22 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 9",
+   "hemma": "Malmö IF: B",
+   "borta": "IFK Lund Bordtennis: B",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
    "serie": "Div 2 SSS",
    "omgang": "Round 9",
    "hemma": "IFK Lund Bordtennis: B1",
@@ -978,12 +994,12 @@
   },
   {
    "datum": "2027-01-16",
-   "tid": "11:00",
+   "tid": "15:00",
    "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 9",
-   "hemma": "Malmö IF: B",
+   "omgang": "Round 10",
+   "hemma": "Sjöbo BTK",
    "borta": "IFK Lund Bordtennis: B",
-   "hemma_klubb": "Malmö Idrottsförening",
+   "hemma_klubb": "Sjöbo Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "A-hallen",
    "arrangor": "IFK Lund Bordtennis",
@@ -1039,22 +1055,6 @@
     "Kullahalvöns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2027-01-16",
-   "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 10",
-   "hemma": "Sjöbo BTK",
-   "borta": "IFK Lund Bordtennis: B",
-   "hemma_klubb": "Sjöbo Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
   },
   {
    "datum": "2027-01-17",
@@ -1235,22 +1235,6 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 11",
-   "hemma": "BTK Scania",
-   "borta": "IFK Lund Bordtennis: C1",
-   "hemma_klubb": "Bordtennisklubben Scania",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
-  {
-   "datum": "2027-02-14",
-   "tid": "11:00",
    "serie": "Div 1 S Dam",
    "omgang": "Round 7",
    "hemma": "IFK Lund Bordtennis",
@@ -1263,6 +1247,22 @@
     "Malmö Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 11",
+   "hemma": "BTK Scania",
+   "borta": "IFK Lund Bordtennis: C1",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
    "datum": "2027-02-14",
@@ -1283,6 +1283,22 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie": "Div 1 S Dam",
+   "omgang": "Round 8",
+   "hemma": "Kättilsmåla BTK",
+   "borta": "IFK Lund Bordtennis",
+   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 12",
    "hemma": "Malmö IF: B",
@@ -1297,20 +1313,20 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
-   "datum": "2027-02-14",
-   "tid": "15:00",
-   "serie": "Div 1 S Dam",
-   "omgang": "Round 8",
-   "hemma": "Kättilsmåla BTK",
-   "borta": "IFK Lund Bordtennis",
-   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
+   "datum": "2027-03-13",
+   "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 11",
+   "hemma": "IFK Lund Bordtennis: B",
+   "borta": "Kalmar BTK",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Kalmar Bordtennisklubb",
    "plats": "A-hallen",
-   "arrangor": "Malmö Idrottsförening",
+   "arrangor": "Kosta Sportklubb",
    "arrangorer": [
-    "Malmö Idrottsförening"
+    "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
   },
   {
    "datum": "2027-03-13",
@@ -1362,13 +1378,13 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "11:00",
+   "tid": "15:00",
    "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 11",
-   "hemma": "IFK Lund Bordtennis: B",
-   "borta": "Kalmar BTK",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Kalmar Bordtennisklubb",
+   "omgang": "Round 12",
+   "hemma": "BTK Rekord",
+   "borta": "IFK Lund Bordtennis: B",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "IFK Lund Bordtennis",
    "plats": "A-hallen",
    "arrangor": "Kosta Sportklubb",
    "arrangorer": [
@@ -1425,22 +1441,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
-   "datum": "2027-03-13",
-   "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 12",
-   "hemma": "BTK Rekord",
-   "borta": "IFK Lund Bordtennis: B",
-   "hemma_klubb": "Bordtennisklubben Rekord",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Kosta Sportklubb",
-   "arrangorer": [
-    "Kosta Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
-  },
-  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie": "Div 1 S Herr",
@@ -1455,22 +1455,6 @@
     "Trelleborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-  },
-  {
-   "datum": "2027-03-14",
-   "tid": "11:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 13",
-   "hemma": "Degeberga GOIF",
-   "borta": "IFK Lund Bordtennis: C1",
-   "hemma_klubb": "Degeberga Gymnastik O IF",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Skurups Bordtennisklubb",
-   "arrangorer": [
-    "Skurups Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
    "datum": "2027-03-14",
@@ -1506,6 +1490,22 @@
   },
   {
    "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 13",
+   "hemma": "Degeberga GOIF",
+   "borta": "IFK Lund Bordtennis: C1",
+   "hemma_klubb": "Degeberga Gymnastik O IF",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 14",
@@ -1519,22 +1519,6 @@
     "Trelleborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-  },
-  {
-   "datum": "2027-03-14",
-   "tid": "15:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 14",
-   "hemma": "IF Ale",
-   "borta": "IFK Lund Bordtennis: C1",
-   "hemma_klubb": "Idrottsföreningen Ale",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "A-hallen",
-   "arrangor": "Skurups Bordtennisklubb",
-   "arrangorer": [
-    "Skurups Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
    "datum": "2027-03-14",
@@ -1567,6 +1551,22 @@
     "Lyckeby Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 14",
+   "hemma": "IF Ale",
+   "borta": "IFK Lund Bordtennis: C1",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   }
  ],
  "resultat": [

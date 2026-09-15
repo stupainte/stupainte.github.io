@@ -4,7 +4,7 @@
   "namn": "Nynäshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-14T09:21:36Z",
+ "uppdaterad": "2026-09-15T09:03:46Z",
  "lag": [
   {
    "namn": "NBTK Juniorer",
@@ -164,6 +164,38 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1305/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly K",
+   "omgang": "Round 3",
+   "hemma": "The Miners",
+   "borta": "Djurgårdens IF BTF H",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1305/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly K",
+   "omgang": "Round 3",
+   "hemma": "Djurgårdens IF BTF F",
+   "borta": "NBTK Juniorer",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Nynäshamns Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1305/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [],
@@ -209,17 +241,28 @@
     },
     {
      "placering": 4,
-     "lag": "Tyresö BTK F",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Ängby Ulfsundians",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Tyresö BTK F",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–198"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "The Midz",
      "klubb": "Nynäshamns Bordtennisklubb",
      "spelade": 2,
@@ -227,17 +270,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Ängby Ulfsundians",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -335,28 +367,39 @@
     },
     {
      "placering": 2,
-     "lag": "Djurgårdens IF BTF F",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "NBTK Juniorer",
+     "klubb": "Nynäshamns Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "NBTK Juniorer",
-     "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Djurgårdens IF BTF H",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Djurgårdens IF BTF F",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Djurgårdens IF BTF G",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 2,
@@ -367,24 +410,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Djurgårdens IF BTF H",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "The Miners",
      "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

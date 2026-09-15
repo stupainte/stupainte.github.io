@@ -4,7 +4,7 @@
   "namn": "Upplands Väsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-14T09:21:36Z",
+ "uppdaterad": "2026-09-15T09:03:46Z",
  "lag": [
   {
    "namn": "Upplands Väsby BTK 1",
@@ -169,6 +169,22 @@
    "datum": "",
    "tid": "",
    "serie": "Silly J",
+   "omgang": "Round 3",
+   "hemma": "Djurgårdens IF BTF E",
+   "borta": "Upplands Väsby BTK 4",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1304/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly J",
    "omgang": "Round 4",
    "hemma": "Upplands Väsby BTK 4",
    "borta": "Tyresö BTK D",
@@ -194,11 +210,11 @@
      "placering": 1,
      "lag": "Spårvägen 1",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -236,17 +252,6 @@
     },
     {
      "placering": 5,
-     "lag": "Tullinge TP BTK 1",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–198"
-    },
-    {
-     "placering": 6,
      "lag": "Upplands Väsby BTK 1",
      "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 2,
@@ -255,6 +260,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Tullinge TP BTK 1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–198"
     }
    ]
   },
@@ -436,6 +452,17 @@
     },
     {
      "placering": 3,
+     "lag": "Upplands Väsby BTK 4",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Tyresö BTK E",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 2,
@@ -443,17 +470,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Upplands Väsby BTK 4",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -471,10 +487,10 @@
      "placering": 6,
      "lag": "Djurgårdens IF BTF E",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–198"
     }

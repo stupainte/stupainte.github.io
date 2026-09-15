@@ -4,7 +4,7 @@
   "namn": "Tullinge Triangelpojkar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-14T09:21:36Z",
+ "uppdaterad": "2026-09-15T09:03:46Z",
  "lag": [
   {
    "namn": "Tullinge TP BTK",
@@ -334,6 +334,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly B",
+   "omgang": "Round 4",
+   "hemma": "Spårvägen 1",
+   "borta": "Tullinge TP BTK 1",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -585,11 +601,11 @@
      "placering": 1,
      "lag": "Spårvägen 1",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -627,17 +643,6 @@
     },
     {
      "placering": 5,
-     "lag": "Tullinge TP BTK 1",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–198"
-    },
-    {
-     "placering": 6,
      "lag": "Upplands Väsby BTK 1",
      "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 2,
@@ -646,6 +651,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Tullinge TP BTK 1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–198"
     }
    ]
   },
