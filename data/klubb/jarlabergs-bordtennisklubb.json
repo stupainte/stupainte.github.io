@@ -4,7 +4,7 @@
   "namn": "Jarlabergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-15T09:03:46Z",
+ "uppdaterad": "2026-09-16T08:56:17Z",
  "lag": [
   {
    "namn": "Jarlabergs BTK",
@@ -63,6 +63,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly I",
+   "omgang": "Round 4",
+   "hemma": "Djurgårdens IF BTF A",
+   "borta": "Jarlabergs BTK",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Jarlabergs Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -88,54 +104,54 @@
      "placering": 2,
      "lag": "Djurgårdens IF BTF A",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Tyresö BTK C",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 4,
      "lag": "Tyresö BTK G",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "IFK Täby 3",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–198"
+    },
+    {
+     "placering": 5,
+     "lag": "Tyresö BTK C",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 6,
      "lag": "Jarlabergs BTK",
      "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

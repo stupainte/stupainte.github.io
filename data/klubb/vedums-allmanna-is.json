@@ -4,7 +4,7 @@
   "namn": "Vedums Allmänna IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-15T09:03:46Z",
+ "uppdaterad": "2026-09-16T08:56:17Z",
  "lag": [
   {
    "namn": "Vedums AIS B",
@@ -165,22 +165,6 @@
     "Larvs Fotbollklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie": "Nordöstra",
-   "omgang": "Round 5",
-   "hemma": "Vedums AIS B",
-   "borta": "Götene Tor BTK",
-   "hemma_klubb": "Vedums Allmänna IS",
-   "borta_klubb": "Götene/Tor Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Vedums Allmänna IS",
-   "arrangorer": [
-    "Vedums Allmänna IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
   },
   {
    "datum": "2026-11-19",
@@ -391,22 +375,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
   },
   {
-   "datum": "2027-02-04",
-   "tid": "18:00",
-   "serie": "Nordöstra",
-   "omgang": "Round 12",
-   "hemma": "Götene Tor BTK",
-   "borta": "Vedums AIS B",
-   "hemma_klubb": "Götene/Tor Bordtennisklubb",
-   "borta_klubb": "Vedums Allmänna IS",
-   "plats": "-",
-   "arrangor": "Götene/Tor Bordtennisklubb",
-   "arrangorer": [
-    "Götene/Tor Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-  },
-  {
    "datum": "2027-02-24",
    "tid": "18:00",
    "serie": "Div 5 Mellersta",
@@ -471,7 +439,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie": "Nordöstra",
+   "omgang": "Round 5",
+   "hemma": "Vedums AIS B",
+   "borta": "Götene Tor BTK",
+   "hemma_klubb": "Vedums Allmänna IS",
+   "borta_klubb": "Götene/Tor Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-02-04",
+   "tid": "18:00",
+   "serie": "Nordöstra",
+   "omgang": "Round 12",
+   "hemma": "Götene Tor BTK",
+   "borta": "Vedums AIS B",
+   "hemma_klubb": "Götene/Tor Bordtennisklubb",
+   "borta_klubb": "Vedums Allmänna IS",
+   "plats": "-",
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-19",
@@ -755,7 +760,9 @@
      "arrangorer": [
       "Vedums Allmänna IS"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1192,95 +1199,95 @@
    "serie": "Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Skagersviks BTK",
-     "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Töreboda BTK",
+     "klubb": "Töreboda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "Vedums AIS B",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Lidan BTK",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Blikstorps AIK B",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "IFK Falköping BTK B",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Lidan BTK",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "Blikstorps AIK B",
-     "klubb": "Blikstorps Allmänna IK",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "Töreboda BTK",
-     "klubb": "Töreboda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Skagersviks BTK",
+     "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
      "lag": "Götene Tor BTK",
      "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   }

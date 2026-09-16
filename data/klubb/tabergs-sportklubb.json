@@ -4,7 +4,7 @@
   "namn": "Tabergs Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-15T09:03:46Z",
+ "uppdaterad": "2026-09-16T08:56:17Z",
  "lag": [
   {
    "namn": "Tabergs SK A",
@@ -92,22 +92,6 @@
    "arrangor": "Tranås Bordtennisklubb",
    "arrangorer": [
     "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie": "Div 6 Norra A ",
-   "omgang": "Round 6",
-   "hemma": "Tabergs SK A",
-   "borta": "Ölmstad IS B",
-   "hemma_klubb": "Tabergs Sportklubb",
-   "borta_klubb": "Ölmstad Idrottsällskap",
-   "plats": "Missionskyrkan Centrumplan",
-   "arrangor": "Tabergs Sportklubb",
-   "arrangorer": [
-    "Tabergs Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
   },
@@ -208,22 +192,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
   },
   {
-   "datum": "2027-04-04",
-   "tid": "13:00",
-   "serie": "Div 6 Norra A ",
-   "omgang": "Round 13",
-   "hemma": "Ölmstad IS B",
-   "borta": "Tabergs SK A",
-   "hemma_klubb": "Ölmstad Idrottsällskap",
-   "borta_klubb": "Tabergs Sportklubb",
-   "plats": "ÖIS Gården",
-   "arrangor": "Ölmstad Idrottsällskap",
-   "arrangorer": [
-    "Ölmstad Idrottsällskap"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-  },
-  {
    "datum": "2027-04-18",
    "tid": "13:00",
    "serie": "Div 6 Norra A ",
@@ -240,7 +208,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie": "Div 6 Norra A ",
+   "omgang": "Round 6",
+   "hemma": "Tabergs SK A",
+   "borta": "Ölmstad IS B",
+   "hemma_klubb": "Tabergs Sportklubb",
+   "borta_klubb": "Ölmstad Idrottsällskap",
+   "plats": "Missionskyrkan Centrumplan",
+   "arrangor": "Tabergs Sportklubb",
+   "arrangorer": [
+    "Tabergs Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-04-04",
+   "tid": "13:00",
+   "serie": "Div 6 Norra A ",
+   "omgang": "Round 13",
+   "hemma": "Ölmstad IS B",
+   "borta": "Tabergs SK A",
+   "hemma_klubb": "Ölmstad Idrottsällskap",
+   "borta_klubb": "Tabergs Sportklubb",
+   "plats": "ÖIS Gården",
+   "arrangor": "Ölmstad Idrottsällskap",
+   "arrangorer": [
+    "Ölmstad Idrottsällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-09-20",
@@ -294,7 +299,9 @@
      "arrangorer": [
       "Tabergs Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -444,95 +451,95 @@
    "serie": "Div 6 Norra A ",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Tranås BTK C",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": " KFUM Jönköping IA E",
+     "klubb": "KFUM Jönköping",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Ölmstad IS B",
-     "klubb": "Ölmstad Idrottsällskap",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tabergs SK A",
+     "klubb": "Tabergs Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
-     "lag": "Tranås BTK D",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "KFUM Jönköping IA D",
+     "klubb": "KFUM Jönköping",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Tabergs SK A",
-     "klubb": "Tabergs Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tranås BTK C",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "KFUM Jönköping IA D",
-     "klubb": "KFUM Jönköping",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Huskvarna Södra IS E",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "Sandsjöfors SK A",
-     "klubb": "Sandsjöfors Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tranås BTK D",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": " KFUM Jönköping IA E",
-     "klubb": "KFUM Jönköping",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sandsjöfors SK A",
+     "klubb": "Sandsjöfors Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
-     "lag": "Huskvarna Södra IS E",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 0,
+     "lag": "Ölmstad IS B",
+     "klubb": "Ölmstad Idrottsällskap",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   }

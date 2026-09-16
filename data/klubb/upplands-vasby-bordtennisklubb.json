@@ -4,7 +4,7 @@
   "namn": "Upplands Väsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-15T09:03:46Z",
+ "uppdaterad": "2026-09-16T08:56:17Z",
  "lag": [
   {
    "namn": "Upplands Väsby BTK 1",
@@ -100,6 +100,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly F",
+   "omgang": "Round 3",
+   "hemma": "Spårvägen 5",
+   "borta": "Upplands Väsby BTK 3",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 2
   },
   {
    "datum": "",
@@ -284,11 +300,11 @@
      "placering": 1,
      "lag": "Upplands Väsby BTK 3",
      "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "198–0"
     },
     {
@@ -315,17 +331,28 @@
     },
     {
      "placering": 4,
-     "lag": "Ingarö Retajjerd Båjjs",
-     "klubb": "Ingarö Idrottsförening",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Spårvägen 5",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Ingarö Retajjerd Båjjs",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "KFUM Stocksund A",
      "klubb": "KFUM Stocksund IA",
      "spelade": 3,
@@ -334,17 +361,6 @@
      "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–198"
-    },
-    {
-     "placering": 6,
-     "lag": "Spårvägen 5",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
     }
    ]
   },
@@ -463,6 +479,17 @@
     },
     {
      "placering": 4,
+     "lag": "Djurgårdens IF BTF D",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 5,
      "lag": "Tyresö BTK E",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 2,
@@ -473,24 +500,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Djurgårdens IF BTF D",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
-     "setdiff": "0–198"
-    },
-    {
      "placering": 6,
      "lag": "Djurgårdens IF BTF E",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–198"
     }
