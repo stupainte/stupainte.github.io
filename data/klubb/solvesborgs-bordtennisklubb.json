@@ -4,7 +4,7 @@
   "namn": "Sölvesborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-16T08:56:17Z",
+ "uppdaterad": "2026-09-17T09:00:51Z",
  "lag": [
   {
    "namn": "Sölvesborgs BTK",
@@ -126,6 +126,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
   },
   {
+   "datum": "2026-10-03",
+   "tid": "11:00",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "omgang": "Round 3",
+   "hemma": "Dänningelanda BTK F",
+   "borta": "Sölvesborgs BTK B",
+   "hemma_klubb": "Dänningelanda Bordtennisklubb",
+   "borta_klubb": "Sölvesborgs Bordtennisklubb",
+   "plats": "Skir",
+   "arrangor": "Dänningelanda Bordtennisklubb",
+   "arrangorer": [
+    "Dänningelanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
+  },
+  {
    "datum": "2026-10-04",
    "tid": "13:00",
    "serie": "Div 6 Syd/MELLERSTA",
@@ -140,22 +156,6 @@
     "Sölvesborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "omgang": "Round 3",
-   "hemma": "Dänningelanda BTK F",
-   "borta": "Sölvesborgs BTK B",
-   "hemma_klubb": "Dänningelanda Bordtennisklubb",
-   "borta_klubb": "Sölvesborgs Bordtennisklubb",
-   "plats": "Skir",
-   "arrangor": "Dänningelanda Bordtennisklubb",
-   "arrangorer": [
-    "Dänningelanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
   },
   {
    "datum": "2026-10-17",
@@ -1154,17 +1154,17 @@
    "serie": "Div 6 Syd/MELLERSTA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Jämjö BTK D",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1180,8 +1180,8 @@
     },
     {
      "placering": 3,
-     "lag": "Ihre BTK B",
-     "klubb": "Ihre Bordtennisklubb",
+     "lag": "Listerby IK D",
+     "klubb": "Listerby Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1213,8 +1213,8 @@
     },
     {
      "placering": 6,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
+     "lag": "Ihre BTK B",
+     "klubb": "Ihre Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1224,8 +1224,8 @@
     },
     {
      "placering": 7,
-     "lag": "Listerby IK D",
-     "klubb": "Listerby Idrottsklubb",
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1237,10 +1237,10 @@
      "placering": 8,
      "lag": "Carlshamns BTK C",
      "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
