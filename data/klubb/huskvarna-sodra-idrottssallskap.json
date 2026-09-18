@@ -4,7 +4,7 @@
   "namn": "Huskvarna Södra Idrottssällskap"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-17T09:00:51Z",
+ "uppdaterad": "2026-09-18T08:36:10Z",
  "lag": [
   {
    "namn": "Huskvarna Södra IS",
@@ -266,8 +266,8 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
   },
   {
-   "datum": "2026-10-04",
-   "tid": "13:00",
+   "datum": "2026-10-05",
+   "tid": "14:00",
    "serie": "Veteran Norra C",
    "omgang": "Round 1",
    "hemma": "Huskvarna Södra IS D",
@@ -362,8 +362,8 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7"
   },
   {
-   "datum": "2026-11-01",
-   "tid": "13:00",
+   "datum": "2026-10-26",
+   "tid": "14:00",
    "serie": "Veteran Norra C",
    "omgang": "Round 3",
    "hemma": "Huskvarna Södra IS D",
@@ -570,6 +570,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
   },
   {
+   "datum": "2026-11-23",
+   "tid": "14:00",
+   "serie": "Veteran Norra C",
+   "omgang": "Round 6",
+   "hemma": "Huskvarna Södra IS D",
+   "borta": "KFUM Jönköping IA E",
+   "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+   "borta_klubb": "KFUM Jönköping",
+   "plats": "Huskvarna Sporthall",
+   "arrangor": "Huskvarna Södra Idrottssällskap",
+   "arrangorer": [
+    "Huskvarna Södra Idrottssällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
+  },
+  {
    "datum": "2026-11-26",
    "tid": "14:00",
    "serie": "Veteran Norra A",
@@ -632,22 +648,6 @@
     "Huskvarna Södra Idrottssällskap"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
-  },
-  {
-   "datum": "2026-12-06",
-   "tid": "13:00",
-   "serie": "Veteran Norra C",
-   "omgang": "Round 6",
-   "hemma": "Huskvarna Södra IS D",
-   "borta": "KFUM Jönköping IA E",
-   "hemma_klubb": "Huskvarna Södra Idrottssällskap",
-   "borta_klubb": "KFUM Jönköping",
-   "plats": "Huskvarna Sporthall",
-   "arrangor": "Huskvarna Södra Idrottssällskap",
-   "arrangorer": [
-    "Huskvarna Södra Idrottssällskap"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
   },
   {
    "datum": "2026-12-09",
@@ -1612,10 +1612,9 @@
     "Huskvarna Sporthall"
    ],
    "serier": [
-    "Div 6 Norra A ",
-    "Veteran Norra C"
+    "Div 6 Norra A "
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-04",
@@ -1632,10 +1631,22 @@
       "Huskvarna Södra Idrottssällskap"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-05",
+   "platser": [
+    "Huskvarna Sporthall"
+   ],
+   "serier": [
+    "Veteran Norra C"
+   ],
+   "antal": 1,
+   "matcher": [
     {
-     "datum": "2026-10-04",
-     "tid": "13:00",
+     "datum": "2026-10-05",
+     "tid": "14:00",
      "serie": "Veteran Norra C",
      "omgang": "Round 1",
      "hemma": "Huskvarna Södra IS D",
@@ -1716,7 +1727,7 @@
    ]
   },
   {
-   "datum": "2026-11-01",
+   "datum": "2026-10-26",
    "platser": [
     "Huskvarna Sporthall"
    ],
@@ -1726,8 +1737,8 @@
    "antal": 1,
    "matcher": [
     {
-     "datum": "2026-11-01",
-     "tid": "13:00",
+     "datum": "2026-10-26",
+     "tid": "14:00",
      "serie": "Veteran Norra C",
      "omgang": "Round 3",
      "hemma": "Huskvarna Södra IS D",
@@ -1894,6 +1905,34 @@
    ]
   },
   {
+   "datum": "2026-11-23",
+   "platser": [
+    "Huskvarna Sporthall"
+   ],
+   "serier": [
+    "Veteran Norra C"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-23",
+     "tid": "14:00",
+     "serie": "Veteran Norra C",
+     "omgang": "Round 6",
+     "hemma": "Huskvarna Södra IS D",
+     "borta": "KFUM Jönköping IA E",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Huskvarna Sporthall",
+     "arrangor": "Huskvarna Södra Idrottssällskap",
+     "arrangorer": [
+      "Huskvarna Södra Idrottssällskap"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2026-11-26",
    "platser": [
     "Huskvarna Sporthall"
@@ -1974,34 +2013,6 @@
       "Huskvarna Södra Idrottssällskap"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
-    }
-   ]
-  },
-  {
-   "datum": "2026-12-06",
-   "platser": [
-    "Huskvarna Sporthall"
-   ],
-   "serier": [
-    "Veteran Norra C"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-12-06",
-     "tid": "13:00",
-     "serie": "Veteran Norra C",
-     "omgang": "Round 6",
-     "hemma": "Huskvarna Södra IS D",
-     "borta": "KFUM Jönköping IA E",
-     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
-     "borta_klubb": "KFUM Jönköping",
-     "plats": "Huskvarna Sporthall",
-     "arrangor": "Huskvarna Södra Idrottssällskap",
-     "arrangorer": [
-      "Huskvarna Södra Idrottssällskap"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
     }
    ]
   },

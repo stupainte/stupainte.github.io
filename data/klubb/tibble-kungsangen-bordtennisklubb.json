@@ -4,7 +4,7 @@
   "namn": "Tibble-Kungsängen Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-17T09:00:51Z",
+ "uppdaterad": "2026-09-18T08:36:10Z",
  "lag": [
   {
    "namn": "Tibble Backhand Bandits",
@@ -52,6 +52,22 @@
  "kommande": [
   {
    "datum": "2026-09-19",
+   "tid": "10:00",
+   "serie": "Div 3 ÖSNÖ",
+   "omgang": "Round 1",
+   "hemma": "Tibble-Kungsängens BTK: B",
+   "borta": "IFK Täby BTK",
+   "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
    "tid": "11:00",
    "serie": "Div 1 N Herr",
    "omgang": "Round 1",
@@ -68,13 +84,13 @@
   },
   {
    "datum": "2026-09-19",
-   "tid": "11:00",
+   "tid": "14:00",
    "serie": "Div 3 ÖSNÖ",
-   "omgang": "Round 1",
-   "hemma": "Tibble-Kungsängens BTK: B",
-   "borta": "IFK Täby BTK",
-   "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
-   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "omgang": "Round 2",
+   "hemma": "Hammarby IF BTF: C1",
+   "borta": "Tibble-Kungsängens BTK: B",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "A-hallen",
    "arrangor": "Stratos Enköping Bordtennisklubb",
    "arrangorer": [
@@ -97,22 +113,6 @@
     "Söderhamns Ungdomsgårds IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 3 ÖSNÖ",
-   "omgang": "Round 2",
-   "hemma": "Hammarby IF BTF: C1",
-   "borta": "Tibble-Kungsängens BTK: B",
-   "hemma_klubb": "Hammarby IF Bordtennisförening",
-   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Stratos Enköping Bordtennisklubb",
-   "arrangorer": [
-    "Stratos Enköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
    "datum": "2026-09-19",
@@ -691,6 +691,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly C",
+   "omgang": "Round 3",
+   "hemma": "Spårvägens BTK 2",
+   "borta": "Vargarna från evighetens skog",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -1797,6 +1813,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Rigor Mortis BTK",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
      "lag": "TeamBT",
      "klubb": "Boo Racketklubb",
      "spelade": 4,
@@ -1807,24 +1834,13 @@
      "setdiff": "0–198"
     },
     {
-     "placering": 2,
-     "lag": "Rigor Mortis BTK",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "198–0"
-    },
-    {
      "placering": 3,
      "lag": "Vargarna från evighetens skog",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1832,15 +1848,26 @@
      "placering": 4,
      "lag": "IFK Österåkers BTK 1",
      "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "198–0"
     },
     {
      "placering": 5,
+     "lag": "Spårvägens BTK 2",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 6,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 2,
@@ -1849,17 +1876,6 @@
      "forlorade": 2,
      "matchpoang": 1,
      "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Spårvägens BTK 2",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–198"
     }
    ]
   },
@@ -1871,6 +1887,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Stocksunds Vällagarde",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 8,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
      "lag": "Spårvägen 3",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 4,
@@ -1881,7 +1908,7 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tibble Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 4,
@@ -1892,25 +1919,14 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 3,
-     "lag": "Stocksunds Vällagarde",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 6,
-     "setdiff": "198–0"
-    },
-    {
      "placering": 4,
      "lag": "The Gumpy Men",
      "klubb": "Boo Racketklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "198–0"
     },
     {

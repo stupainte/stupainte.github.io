@@ -4,7 +4,7 @@
   "namn": "KFUM Stocksund IA"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-17T09:00:51Z",
+ "uppdaterad": "2026-09-18T08:36:10Z",
  "lag": [
   {
    "namn": "KFUM Stocksund",
@@ -636,6 +636,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly E",
+   "omgang": "Round 5",
+   "hemma": "Stocksunds Vällagarde",
+   "borta": "The Gumpy Men",
+   "hemma_klubb": "KFUM Stocksund IA",
+   "borta_klubb": "Boo Racketklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -991,6 +1007,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Stocksunds Vällagarde",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 8,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
      "lag": "Spårvägen 3",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 4,
@@ -1001,7 +1028,7 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tibble Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 4,
@@ -1012,25 +1039,14 @@
      "setdiff": "198–0"
     },
     {
-     "placering": 3,
-     "lag": "Stocksunds Vällagarde",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 6,
-     "setdiff": "198–0"
-    },
-    {
      "placering": 4,
      "lag": "The Gumpy Men",
      "klubb": "Boo Racketklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "198–0"
     },
     {

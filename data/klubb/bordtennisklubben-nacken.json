@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Näcken"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-17T09:00:51Z",
+ "uppdaterad": "2026-09-18T08:36:10Z",
  "lag": [
   {
    "namn": "BTK Näcken A",
@@ -444,10 +444,21 @@
    "serie": "DIV 5 Mellersta",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Lessebo BTK B",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Dänningelanda BTK D",
      "klubb": "Dänningelanda Bordtennisklubb",
      "spelade": 0,
@@ -458,20 +469,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Böksholms IF A",
-     "klubb": "Böksholms Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Ljungby BTK A",
-     "klubb": "Ljungby Bordtennisklubb",
+     "lag": "Kosta SK C",
+     "klubb": "Kosta Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -503,6 +503,17 @@
     },
     {
      "placering": 6,
+     "lag": "Ljungby BTK A",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Örjansklubben/Ramkvilla IF A",
      "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 0,
@@ -513,24 +524,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Lessebo BTK B",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
-     "lag": "Kosta SK C",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 0,
+     "lag": "Böksholms IF A",
+     "klubb": "Böksholms Idrottsförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
