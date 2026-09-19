@@ -4,7 +4,7 @@
   "namn": "Kosta Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-18T08:36:10Z",
+ "uppdaterad": "2026-09-19T08:24:07Z",
  "lag": [
   {
    "namn": "Kosta SK",
@@ -278,22 +278,6 @@
    "arrangor": "Kosta Sportklubb",
    "arrangorer": [
     "Kosta Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
-  },
-  {
-   "datum": "2026-09-30",
-   "tid": "19:00",
-   "serie": "Div 6 Syd/ÖSTRA",
-   "omgang": "Round 3",
-   "hemma": "SK Frigg C",
-   "borta": "Kosta SK D",
-   "hemma_klubb": "Sportklubben Frigg",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "Karlskrona BT-hall",
-   "arrangor": "Sportklubben Frigg",
-   "arrangorer": [
-    "Sportklubben Frigg"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
   },
@@ -986,22 +970,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
   },
   {
-   "datum": "2027-02-14",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/ÖSTRA",
-   "omgang": "Round 10",
-   "hemma": "Kosta SK D",
-   "borta": "SK Frigg C",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Sportklubben Frigg",
-   "plats": "Kosta BT.hall",
-   "arrangor": "Kosta Sportklubb",
-   "arrangorer": [
-    "Kosta Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
-  },
-  {
    "datum": "2027-02-16",
    "tid": "18:30",
    "serie": "Pingisligan (herr)",
@@ -1296,6 +1264,42 @@
    "borta_poang": 1
   },
   {
+   "datum": "2026-09-17",
+   "tid": "19:00",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "omgang": "Round 1",
+   "hemma": "Kättilsmåla BTK A",
+   "borta": "Kosta SK D",
+   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "kättilsmåla skola",
+   "arrangor": "Kättilsmåla Bordtennisklubb",
+   "arrangorer": [
+    "Kättilsmåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "omgang": "Round 3",
+   "hemma": "SK Frigg C",
+   "borta": "Kosta SK D",
+   "hemma_klubb": "Sportklubben Frigg",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "Karlskrona BT-hall",
+   "arrangor": "Sportklubben Frigg",
+   "arrangorer": [
+    "Sportklubben Frigg"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-10-18",
    "tid": "13:00",
    "serie": "Div 6 Syd/ÖSTRA",
@@ -1312,6 +1316,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "omgang": "Round 10",
+   "hemma": "Kosta SK D",
+   "borta": "SK Frigg C",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Sportklubben Frigg",
+   "plats": "Kosta BT.hall",
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "2027-02-28",
@@ -1961,7 +1983,9 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -2387,6 +2411,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Ljungby BTK A",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Lessebo BTK B",
      "klubb": "Lessebo Bordtennisklubb",
      "spelade": 1,
@@ -2397,7 +2432,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Dänningelanda BTK D",
      "klubb": "Dänningelanda Bordtennisklubb",
      "spelade": 0,
@@ -2408,7 +2443,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kosta SK C",
      "klubb": "Kosta Sportklubb",
      "spelade": 0,
@@ -2419,7 +2454,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "BTK Näcken A",
      "klubb": "Bordtennisklubben Näcken",
      "spelade": 0,
@@ -2430,7 +2465,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "BTK Frej C",
      "klubb": "Bordtennisklubben Frej",
      "spelade": 0,
@@ -2441,31 +2476,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Ljungby BTK A",
-     "klubb": "Ljungby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Örjansklubben/Ramkvilla IF A",
-     "klubb": "Örjansklubben/Ramkvilla IF",
-     "spelade": 0,
+     "lag": "Böksholms IF A",
+     "klubb": "Böksholms Idrottsförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Böksholms IF A",
-     "klubb": "Böksholms Idrottsförening",
+     "lag": "Örjansklubben/Ramkvilla IF A",
+     "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2675,83 +2699,72 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Nävragöls BK B",
-     "klubb": "Nävragöls Bollklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Kättilsmåla BTK A",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "matchpoang": 6,
+     "setdiff": "528–0"
     },
     {
      "placering": 2,
-     "lag": "Kättilsmåla BTK A",
-     "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Nävragöls BK B",
+     "klubb": "Nävragöls Bollklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "matchpoang": 4,
+     "setdiff": "528–0"
     },
     {
      "placering": 3,
-     "lag": "Kosta SK D",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Lyckeby BTK F",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "matchpoang": 4,
+     "setdiff": "528–0"
     },
     {
      "placering": 4,
-     "lag": "Lyckeby BTK F",
+     "lag": "Lyckeby BTK I",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "matchpoang": 4,
+     "setdiff": "528–0"
     },
     {
      "placering": 5,
-     "lag": "Lyckeby BTK I",
+     "lag": "Lyckeby BTK J",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "matchpoang": 4,
+     "setdiff": "528–0"
     },
     {
      "placering": 6,
-     "lag": "Lyckeby BTK J",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Kosta SK D",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "528–0"
     },
     {
      "placering": 7,
-     "lag": "SK Frigg C",
-     "klubb": "Sportklubben Frigg",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 8,
      "lag": "Gullabo SK A",
      "klubb": "Gullabo Sportklubb",
      "spelade": 7,
@@ -2759,7 +2772,18 @@
      "oavgjorda": 0,
      "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–1848"
+     "setdiff": "0–1584"
+    },
+    {
+     "placering": 8,
+     "lag": "SK Frigg C",
+     "klubb": "Sportklubben Frigg",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1584"
     }
    ]
   },

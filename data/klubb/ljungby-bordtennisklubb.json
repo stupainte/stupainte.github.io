@@ -4,7 +4,7 @@
   "namn": "Ljungby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-18T08:36:10Z",
+ "uppdaterad": "2026-09-19T08:24:07Z",
  "lag": [
   {
    "namn": "Ljungby BTK A",
@@ -224,7 +224,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-17",
+   "tid": "18:30",
+   "serie": "DIV 5 Mellersta",
+   "omgang": "Round 1",
+   "hemma": "Ljungby BTK A",
+   "borta": "Örjansklubben/Ramkvilla IF A",
+   "hemma_klubb": "Ljungby Bordtennisklubb",
+   "borta_klubb": "Örjansklubben/Ramkvilla IF",
+   "plats": "Arrangörens",
+   "arrangor": "Ljungby Bordtennisklubb",
+   "arrangorer": [
+    "Ljungby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-10-04",
@@ -404,6 +423,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Ljungby BTK A",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Lessebo BTK B",
      "klubb": "Lessebo Bordtennisklubb",
      "spelade": 1,
@@ -414,7 +444,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Dänningelanda BTK D",
      "klubb": "Dänningelanda Bordtennisklubb",
      "spelade": 0,
@@ -425,7 +455,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kosta SK C",
      "klubb": "Kosta Sportklubb",
      "spelade": 0,
@@ -436,7 +466,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "BTK Näcken A",
      "klubb": "Bordtennisklubben Näcken",
      "spelade": 0,
@@ -447,7 +477,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "BTK Frej C",
      "klubb": "Bordtennisklubben Frej",
      "spelade": 0,
@@ -458,31 +488,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Ljungby BTK A",
-     "klubb": "Ljungby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Örjansklubben/Ramkvilla IF A",
-     "klubb": "Örjansklubben/Ramkvilla IF",
-     "spelade": 0,
+     "lag": "Böksholms IF A",
+     "klubb": "Böksholms Idrottsförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Böksholms IF A",
-     "klubb": "Böksholms Idrottsförening",
+     "lag": "Örjansklubben/Ramkvilla IF A",
+     "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
