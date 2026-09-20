@@ -4,7 +4,7 @@
   "namn": "Bullarens Gymnastik o Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Bullarens GoIF",
@@ -22,70 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "10:00",
-   "serie": "Nordvästra",
-   "omgang": "Round 1",
-   "hemma": "Bullarens GoIF",
-   "borta": "Kvillebyns SK",
-   "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
-   "borta_klubb": "Kvillebyns Sportklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Bullarens Gymnastik o Idrottsförening",
-   "arrangorer": [
-    "Bullarens Gymnastik o Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "10:00",
-   "serie": "Div 5 Nordvästra",
-   "omgang": "Round 1",
-   "hemma": "Bullarens GoIF B",
-   "borta": "Munkedals BTK C",
-   "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
-   "borta_klubb": "Munkedals Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Vänersborgs Bordtennisklubb",
-   "arrangorer": [
-    "Vänersborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "14:00",
-   "serie": "Nordvästra",
-   "omgang": "Round 2",
-   "hemma": "Trollhättans BTK A2",
-   "borta": "Bullarens GoIF",
-   "hemma_klubb": "Trollhättans Bordtennisklubb",
-   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
-   "plats": "Vinstahallen",
-   "arrangor": "Trollhättans Bordtennisklubb",
-   "arrangorer": [
-    "Trollhättans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "14:00",
-   "serie": "Div 5 Nordvästra",
-   "omgang": "Round 2",
-   "hemma": "Vänersborgs BTK B1",
-   "borta": "Bullarens GoIF B",
-   "hemma_klubb": "Vänersborgs Bordtennisklubb",
-   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
-   "plats": "-",
-   "arrangor": "Vänersborgs Bordtennisklubb",
-   "arrangorer": [
-    "Vänersborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7"
-  },
   {
    "datum": "2026-10-17",
    "tid": "10:00",
@@ -471,36 +407,63 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7"
   }
  ],
- "resultat": [],
- "arrangerar": [
+ "resultat": [
   {
    "datum": "2026-09-19",
-   "platser": [
-    "Vinstahallen"
+   "tid": "10:00",
+   "serie": "Div 5 Nordvästra",
+   "omgang": "Round 1",
+   "hemma": "Bullarens GoIF B",
+   "borta": "Munkedals BTK C",
+   "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "borta_klubb": "Munkedals Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
    ],
-   "serier": [
-    "Nordvästra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-19",
-     "tid": "10:00",
-     "serie": "Nordvästra",
-     "omgang": "Round 1",
-     "hemma": "Bullarens GoIF",
-     "borta": "Kvillebyns SK",
-     "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
-     "borta_klubb": "Kvillebyns Sportklubb",
-     "plats": "Vinstahallen",
-     "arrangor": "Bullarens Gymnastik o Idrottsförening",
-     "arrangorer": [
-      "Bullarens Gymnastik o Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-    }
-   ]
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
+  {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Nordvästra",
+   "omgang": "Round 2",
+   "hemma": "Trollhättans BTK A2",
+   "borta": "Bullarens GoIF",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Div 5 Nordvästra",
+   "omgang": "Round 2",
+   "hemma": "Vänersborgs BTK B1",
+   "borta": "Bullarens GoIF B",
+   "hemma_klubb": "Vänersborgs Bordtennisklubb",
+   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "plats": "-",
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
   {
    "datum": "2026-11-14",
    "platser": [
@@ -763,82 +726,82 @@
    "serie": "Div 5 Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Vänersborgs BTK B1",
-     "klubb": "Vänersborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "BTK Dalen B",
+     "klubb": "Bordtennisklubben Dalen",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "BTK Dalen B",
-     "klubb": "Bordtennisklubben Dalen",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Munkedals BTK C",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Bullarens GoIF B",
-     "klubb": "Bullarens Gymnastik o Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Vänersborgs BTK B1",
+     "klubb": "Vänersborgs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Stenungsunds BTF B2",
      "klubb": "Stenungsunds Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Munkedals BTK C",
-     "klubb": "Munkedals Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Stenungsunds BTF B1",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Stenungsunds BTF B1",
-     "klubb": "Stenungsunds Bordtennisförening",
-     "spelade": 0,
+     "lag": "Vänersborgs BTK B2",
+     "klubb": "Vänersborgs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Vänersborgs BTK B2",
-     "klubb": "Vänersborgs Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Bullarens GoIF B",
+     "klubb": "Bullarens Gymnastik o Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -846,10 +809,10 @@
      "placering": 8,
      "lag": "Svanesunds GIF C",
      "klubb": "Svanesunds Gymnastik o Idrottsförening",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -859,93 +822,93 @@
    "serie": "Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Eds FF A1",
-     "klubb": "Eds Fotbollsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Uddevalla BTK A1",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Uddevalla BTK A1",
-     "klubb": "Uddevalla Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kvillebyns SK",
+     "klubb": "Kvillebyns Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Trollhättans BTK A2",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Eds FF A1",
+     "klubb": "Eds Fotbollsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Uddevalla BTK A2",
-     "klubb": "Uddevalla Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Trollhättans BTK A1",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Eds FF A2",
-     "klubb": "Eds Fotbollsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Trollhättans BTK A2",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Bullarens GoIF",
-     "klubb": "Bullarens Gymnastik o Idrottsförening",
-     "spelade": 0,
+     "lag": "Eds FF A2",
+     "klubb": "Eds Fotbollsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Trollhättans BTK A1",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Uddevalla BTK A2",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Kvillebyns SK",
-     "klubb": "Kvillebyns Sportklubb",
-     "spelade": 0,
+     "lag": "Bullarens GoIF",
+     "klubb": "Bullarens Gymnastik o Idrottsförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

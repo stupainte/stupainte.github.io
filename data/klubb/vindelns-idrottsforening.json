@@ -4,7 +4,7 @@
   "namn": "Vindelns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Vindelns IF",
@@ -15,38 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "10:00",
-   "serie": "Div 5 Norra",
-   "omgang": "Round 1",
-   "hemma": "Skellefteå AIK BTF E",
-   "borta": "Vindelns IF",
-   "hemma_klubb": "Skellefteå AIK BTF",
-   "borta_klubb": "Vindelns Idrottsförening",
-   "plats": "Vinstahallen",
-   "arrangor": "Skellefteå AIK BTF",
-   "arrangorer": [
-    "Skellefteå AIK BTF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "14:00",
-   "serie": "Div 5 Norra",
-   "omgang": "Round 2",
-   "hemma": "Vindelns IF",
-   "borta": "Luleå PF D",
-   "hemma_klubb": "Vindelns Idrottsförening",
-   "borta_klubb": "Luleå Pingisförening",
-   "plats": "Vinstahallen",
-   "arrangor": "Skellefteå AIK BTF",
-   "arrangorer": [
-    "Skellefteå AIK BTF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "10:00",
@@ -240,39 +208,87 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "10:00",
+   "serie": "Div 5 Norra",
+   "omgang": "Round 1",
+   "hemma": "Skellefteå AIK BTF E",
+   "borta": "Vindelns IF",
+   "hemma_klubb": "Skellefteå AIK BTF",
+   "borta_klubb": "Vindelns Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Div 5 Norra",
+   "omgang": "Round 2",
+   "hemma": "Vindelns IF",
+   "borta": "Luleå PF D",
+   "hemma_klubb": "Vindelns Idrottsförening",
+   "borta_klubb": "Luleå Pingisförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 5 Norra",
    "evenemang": "NBTF distriktsserier",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Luleå PF C",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Umeå BTK G",
+     "klubb": "Umeå Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Umeå BTK G",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Luleå PF D",
+     "klubb": "Luleå Pingisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "Skellefteå AIK BTF E",
+     "klubb": "Skellefteå AIK BTF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Umeå BTK F",
      "klubb": "Umeå Bordtennisklubb",
      "spelade": 0,
@@ -283,57 +299,46 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vindelns IF",
-     "klubb": "Vindelns Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Luleå PF D",
+     "lag": "Luleå PF C",
      "klubb": "Luleå Pingisförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Sävast BTK",
-     "klubb": "Sävast Bordtennisklubb Boden",
-     "spelade": 0,
+     "lag": "Vindelns IF",
+     "klubb": "Vindelns Idrottsförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Skellefteå AIK BTF F",
-     "klubb": "Skellefteå AIK BTF",
-     "spelade": 0,
+     "lag": "Sävast BTK",
+     "klubb": "Sävast Bordtennisklubb Boden",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Skellefteå AIK BTF E",
+     "lag": "Skellefteå AIK BTF F",
      "klubb": "Skellefteå AIK BTF",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Köpings BTK Dam"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Köpings BTK Dam",
@@ -22,22 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Pingisligan (dam)",
-   "omgang": "Round 1",
-   "hemma": "Köpings BTK Dam",
-   "borta": "Tibble-Kungsängen BTK",
-   "hemma_klubb": "Köpings BTK Dam",
-   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
-   "arrangorer": [
-    "Tibble-Kungsängen Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "11:00",
@@ -256,6 +240,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 1",
+   "hemma": "Köpings BTK Dam",
+   "borta": "Tibble-Kungsängen BTK",
+   "hemma_klubb": "Köpings BTK Dam",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -264,78 +266,78 @@
    "serie": "Pingisligan (dam)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Eslövs AI BTK: A2",
+     "lag": "Eslövs AI BTK: A1",
      "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Eslövs AI BTK: A1",
-     "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Tibble-Kungsängen BTK",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Köpings BTK Dam",
      "klubb": "Köpings BTK Dam",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Ängby SK",
      "klubb": "Ängby Sportklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Västers BTK",
      "klubb": "Västers Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Sjömarkens BTK",
-     "klubb": "Sjömarkens Bordtennisklubb",
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -345,23 +347,23 @@
     },
     {
      "placering": 8,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 0,
+     "lag": "Tibble-Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 9,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Sjömarkens BTK",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -369,21 +371,21 @@
      "placering": 10,
      "lag": "Våxtorps BOIS",
      "klubb": "Våxtorps Boll O IS",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 11,
-     "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Eslövs AI BTK: A2",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

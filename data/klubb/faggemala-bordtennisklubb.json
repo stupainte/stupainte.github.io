@@ -4,7 +4,7 @@
   "namn": "Faggemåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Faggemåla BTK",
@@ -15,42 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "10:00",
-   "serie": "Div 3 SSNÖ",
-   "omgang": "Round 1",
-   "hemma": "Faggemåla BTK",
-   "borta": "Västerviks BTK",
-   "hemma_klubb": "Faggemåla Bordtennisklubb",
-   "borta_klubb": "Västerviks Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
-   "arrangorer": [
-    "Visby IF Gute Bordtennisklubb",
-    "IFK Visby",
-    "Visby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "14:00",
-   "serie": "Div 3 SSNÖ",
-   "omgang": "Round 2",
-   "hemma": "Oskarshamns BTK",
-   "borta": "Faggemåla BTK",
-   "hemma_klubb": "Oskarshamns Bordtennisklubb",
-   "borta_klubb": "Faggemåla Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
-   "arrangorer": [
-    "Visby IF Gute Bordtennisklubb",
-    "IFK Visby",
-    "Visby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "10:00",
@@ -248,7 +212,48 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "10:00",
+   "serie": "Div 3 SSNÖ",
+   "omgang": "Round 1",
+   "hemma": "Faggemåla BTK",
+   "borta": "Västerviks BTK",
+   "hemma_klubb": "Faggemåla Bordtennisklubb",
+   "borta_klubb": "Västerviks Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Div 3 SSNÖ",
+   "omgang": "Round 2",
+   "hemma": "Oskarshamns BTK",
+   "borta": "Faggemåla BTK",
+   "hemma_klubb": "Oskarshamns Bordtennisklubb",
+   "borta_klubb": "Faggemåla Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-11-14",
@@ -408,34 +413,34 @@
    "serie": "Div 3 SSNÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Visby BTK",
-     "klubb": "Visby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Faggemåla BTK",
+     "klubb": "Faggemåla Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Visby IF Gute BTK",
      "klubb": "Visby IF Gute Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IFK Visby",
-     "klubb": "IFK Visby",
+     "lag": "KFUM Jönköping IA: B",
+     "klubb": "KFUM Jönköping",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -445,8 +450,8 @@
     },
     {
      "placering": 4,
-     "lag": "KFUM Jönköping IA: B",
-     "klubb": "KFUM Jönköping",
+     "lag": "Västerviks BTK",
+     "klubb": "Västerviks Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -467,8 +472,8 @@
     },
     {
      "placering": 6,
-     "lag": "Oskarshamns BTK",
-     "klubb": "Oskarshamns Bordtennisklubb",
+     "lag": "IFK Visby",
+     "klubb": "IFK Visby",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -478,23 +483,23 @@
     },
     {
      "placering": 7,
-     "lag": "Faggemåla BTK",
-     "klubb": "Faggemåla Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Oskarshamns BTK",
+     "klubb": "Oskarshamns Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Västerviks BTK",
-     "klubb": "Västerviks Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Visby BTK",
+     "klubb": "Visby Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

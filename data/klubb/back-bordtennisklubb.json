@@ -4,7 +4,7 @@
   "namn": "Back Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Back BTK",
@@ -15,38 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 2 ÖSN",
-   "omgang": "Round 1",
-   "hemma": "Back BTK",
-   "borta": "Ängby SK: C",
-   "hemma_klubb": "Back Bordtennisklubb",
-   "borta_klubb": "Ängby Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "IFK Österåkers Bordtennisklubb",
-   "arrangorer": [
-    "IFK Österåkers Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 2 ÖSN",
-   "omgang": "Round 2",
-   "hemma": "Hammarby IF BTF: B",
-   "borta": "Back BTK",
-   "hemma_klubb": "Hammarby IF Bordtennisförening",
-   "borta_klubb": "Back Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "IFK Österåkers Bordtennisklubb",
-   "arrangorer": [
-    "IFK Österåkers Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
-  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -240,78 +208,115 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 2 ÖSN",
+   "omgang": "Round 1",
+   "hemma": "Back BTK",
+   "borta": "Ängby SK: C",
+   "hemma_klubb": "Back Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 2 ÖSN",
+   "omgang": "Round 2",
+   "hemma": "Hammarby IF BTF: B",
+   "borta": "Back BTK",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Back Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 2 ÖSN",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "IFK Lidingö BTK",
      "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Hammarby IF BTF: B",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Rotebro BTK",
+     "klubb": "Rotebro Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Back BTK",
-     "klubb": "Back Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ängby SK: C",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Ängby SK: C",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Boo Racketklubb",
+     "klubb": "Boo Racketklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Boo Racketklubb",
-     "klubb": "Boo Racketklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hammarby IF BTF: B",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IFK Österåkers BTK: B1",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Back BTK",
+     "klubb": "Back Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -319,21 +324,21 @@
      "placering": 7,
      "lag": "Spårvägens BTK: C1",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Rotebro BTK",
-     "klubb": "Rotebro Bordtennisklubb",
-     "spelade": 0,
+     "lag": "IFK Österåkers BTK: B1",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

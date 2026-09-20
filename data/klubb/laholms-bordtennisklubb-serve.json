@@ -4,7 +4,7 @@
   "namn": "Laholms Bordtennisklubb Serve"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Laholms BTK Serve",
@@ -29,70 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 1 V Dam",
-   "omgang": "Round 1",
-   "hemma": "Rudalens IF",
-   "borta": "Laholms BTK Serve",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Laholms Bordtennisklubb Serve",
-   "plats": "A-hallen",
-   "arrangor": "Rudalens Idrottsförening",
-   "arrangorer": [
-    "Rudalens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 1",
-   "hemma": "Varbergs BTK: B1",
-   "borta": "Laholms BTK Serve",
-   "hemma_klubb": "Varbergs Bordtennisklubb",
-   "borta_klubb": "Laholms Bordtennisklubb Serve",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 1 V Dam",
-   "omgang": "Round 2",
-   "hemma": "Laholms BTK Serve",
-   "borta": "Kågeröds BTK: A1",
-   "hemma_klubb": "Laholms Bordtennisklubb Serve",
-   "borta_klubb": "Kågeröds Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Rudalens Idrottsförening",
-   "arrangorer": [
-    "Rudalens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 3 SSSV",
-   "omgang": "Round 2",
-   "hemma": "Åstorps BTK: C",
-   "borta": "Laholms BTK Serve",
-   "hemma_klubb": "Åstorps Bordtennisklubb",
-   "borta_klubb": "Laholms Bordtennisklubb Serve",
-   "plats": "A-hallen",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
-  },
   {
    "datum": "2026-10-11",
    "tid": "19:00",
@@ -671,7 +607,80 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF",
+   "borta": "Laholms BTK Serve",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Laholms Bordtennisklubb Serve",
+   "plats": "A-hallen",
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 1",
+   "hemma": "Varbergs BTK: B1",
+   "borta": "Laholms BTK Serve",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Laholms Bordtennisklubb Serve",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 2",
+   "hemma": "Laholms BTK Serve",
+   "borta": "Kågeröds BTK: A1",
+   "hemma_klubb": "Laholms Bordtennisklubb Serve",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 2",
+   "hemma": "Åstorps BTK: C",
+   "borta": "Laholms BTK Serve",
+   "hemma_klubb": "Åstorps Bordtennisklubb",
+   "borta_klubb": "Laholms Bordtennisklubb Serve",
+   "plats": "A-hallen",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-10-11",
@@ -1031,82 +1040,82 @@
    "serie": "Div 1 V Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Kågeröds BTK: A1",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Laholms BTK Serve",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "BTK Linné",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Kågeröds BTK: A2",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kungälvs BTK",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kågeröds BTK: A1",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Laholms BTK Serve",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kågeröds BTK: A2",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Rudalens IF",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
+     "lag": "Kungälvs BTK",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Rudalens IF",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1116,93 +1125,93 @@
    "serie": "Div 3 SSSV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Kullahalvöns BTK",
      "klubb": "Kullahalvöns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kågeröds BTK: B",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "BTK Rekord: B",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "BTK Rekord: B",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Åstorps BTK: C",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IFK Lund Bordtennis: C2",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
+     "lag": "Halmstad BTK: D",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Halmstad BTK: D",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Varbergs BTK: B1",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Åstorps BTK: C",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Lund Bordtennis: C2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Varbergs BTK: B1",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Laholms BTK Serve",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Laholms BTK Serve",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
+     "lag": "Kågeröds BTK: B",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

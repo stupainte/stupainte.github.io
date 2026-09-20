@@ -4,7 +4,7 @@
   "namn": "KFUM Kristianstad Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "KFUM Kristianstad BTF",
@@ -15,38 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 1",
-   "hemma": "KFUM Kristianstad BTF",
-   "borta": "Degeberga GOIF",
-   "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
-   "borta_klubb": "Degeberga Gymnastik O IF",
-   "plats": "A-hallen",
-   "arrangor": "KFUM Kristianstad Bordtennisförening",
-   "arrangorer": [
-    "KFUM Kristianstad Bordtennisförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 3 SSSÖ",
-   "omgang": "Round 2",
-   "hemma": "Malmö IF: B",
-   "borta": "KFUM Kristianstad BTF",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
-   "plats": "A-hallen",
-   "arrangor": "KFUM Kristianstad Bordtennisförening",
-   "arrangorer": [
-    "KFUM Kristianstad Bordtennisförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -240,241 +208,137 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   }
  ],
- "resultat": [],
- "arrangerar": [
+ "resultat": [
   {
    "datum": "2026-09-19",
-   "platser": [
-    "A-hallen"
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 1",
+   "hemma": "KFUM Kristianstad BTF",
+   "borta": "Degeberga GOIF",
+   "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+   "borta_klubb": "Degeberga Gymnastik O IF",
+   "plats": "A-hallen",
+   "arrangor": "KFUM Kristianstad Bordtennisförening",
+   "arrangorer": [
+    "KFUM Kristianstad Bordtennisförening"
    ],
-   "serier": [
-    "Div 3 SSSÖ"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF: B",
+   "borta": "KFUM Kristianstad BTF",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
+   "plats": "A-hallen",
+   "arrangor": "KFUM Kristianstad Bordtennisförening",
+   "arrangorer": [
+    "KFUM Kristianstad Bordtennisförening"
    ],
-   "antal": 8,
-   "matcher": [
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 1",
-     "hemma": "Skurups BTK",
-     "borta": "IFK Lund Bordtennis: C1",
-     "hemma_klubb": "Skurups Bordtennisklubb",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 1",
-     "hemma": "IF Ale",
-     "borta": "Sölvesborgs BTK",
-     "hemma_klubb": "Idrottsföreningen Ale",
-     "borta_klubb": "Sölvesborgs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 1",
-     "hemma": "Malmö IF: B",
-     "borta": "BTK Scania",
-     "hemma_klubb": "Malmö Idrottsförening",
-     "borta_klubb": "Bordtennisklubben Scania",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 1",
-     "hemma": "KFUM Kristianstad BTF",
-     "borta": "Degeberga GOIF",
-     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
-     "borta_klubb": "Degeberga Gymnastik O IF",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 2",
-     "hemma": "Skurups BTK",
-     "borta": "IF Ale",
-     "hemma_klubb": "Skurups Bordtennisklubb",
-     "borta_klubb": "Idrottsföreningen Ale",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 2",
-     "hemma": "IFK Lund Bordtennis: C1",
-     "borta": "Sölvesborgs BTK",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "Sölvesborgs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 2",
-     "hemma": "Malmö IF: B",
-     "borta": "KFUM Kristianstad BTF",
-     "hemma_klubb": "Malmö Idrottsförening",
-     "borta_klubb": "KFUM Kristianstad Bordtennisförening",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSSÖ",
-     "omgang": "Round 2",
-     "hemma": "BTK Scania",
-     "borta": "Degeberga GOIF",
-     "hemma_klubb": "Bordtennisklubben Scania",
-     "borta_klubb": "Degeberga Gymnastik O IF",
-     "plats": "A-hallen",
-     "arrangor": "KFUM Kristianstad Bordtennisförening",
-     "arrangorer": [
-      "KFUM Kristianstad Bordtennisförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-    }
-   ]
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 3 SSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Skurups BTK",
-     "klubb": "Skurups Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Malmö IF: B",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Lund Bordtennis: C1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IF Ale",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IF Ale",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Lund Bordtennis: C1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sölvesborgs BTK",
-     "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Degeberga GOIF",
+     "klubb": "Degeberga Gymnastik O IF",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Malmö IF: B",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
+     "lag": "KFUM Kristianstad BTF",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Scania",
-     "klubb": "Bordtennisklubben Scania",
-     "spelade": 0,
+     "lag": "Skurups BTK",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "KFUM Kristianstad BTF",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 0,
+     "lag": "BTK Scania",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Degeberga GOIF",
-     "klubb": "Degeberga Gymnastik O IF",
-     "spelade": 0,
+     "lag": "Sölvesborgs BTK",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Eskilstuna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Eskilstuna BTK",
@@ -64,38 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 2 ÖSS",
-   "omgang": "Round 1",
-   "hemma": "Eskilstuna BTK",
-   "borta": "BTK Safir",
-   "hemma_klubb": "Eskilstuna Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Safir",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Safir",
-   "arrangorer": [
-    "Bordtennisklubben Safir"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 2 ÖSS",
-   "omgang": "Round 2",
-   "hemma": "Linköpings PK: B",
-   "borta": "Eskilstuna BTK",
-   "hemma_klubb": "Linköpings Pingisklubb",
-   "borta_klubb": "Eskilstuna Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Safir",
-   "arrangorer": [
-    "Bordtennisklubben Safir"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
-  },
   {
    "datum": "2026-09-26",
    "tid": "10:00",
@@ -1281,7 +1249,44 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1061/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 2 ÖSS",
+   "omgang": "Round 1",
+   "hemma": "Eskilstuna BTK",
+   "borta": "BTK Safir",
+   "hemma_klubb": "Eskilstuna Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Safir",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Safir",
+   "arrangorer": [
+    "Bordtennisklubben Safir"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 2 ÖSS",
+   "omgang": "Round 2",
+   "hemma": "Linköpings PK: B",
+   "borta": "Eskilstuna BTK",
+   "hemma_klubb": "Linköpings Pingisklubb",
+   "borta_klubb": "Eskilstuna Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Safir",
+   "arrangorer": [
+    "Bordtennisklubben Safir"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-10-24",
@@ -2418,82 +2423,82 @@
    "serie": "Div 2 ÖSS",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Västerås BTK",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Linköpings PK: B",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Eskilstuna BTK",
+     "klubb": "Eskilstuna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Eskilstuna BTK",
-     "klubb": "Eskilstuna Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IF Norcopensarna",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "BTK Safir",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kristinehamns BTF",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Kristinehamns BTF",
-     "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Västers BTK: C",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Västers BTK: C",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Linköpings PK: B",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "IF Norcopensarna",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 0,
+     "lag": "BTK Safir",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2501,10 +2506,10 @@
      "placering": 8,
      "lag": "Ljungsbro BTK",
      "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Bruzaholms Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Bruzaholms SK A",
@@ -791,28 +791,28 @@
    "serie": "DIV 4 NORRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "KFUM Jönköping IA D",
      "klubb": "KFUM Jönköping",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Bruzaholms SK A",
-     "klubb": "Bruzaholms Sportklubb",
-     "spelade": 0,
+     "lag": "KFUM Jönköping IA C",
+     "klubb": "KFUM Jönköping",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -828,6 +828,17 @@
     },
     {
      "placering": 4,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "BTK Final A",
      "klubb": "Bordtennisklubben Final",
      "spelade": 0,
@@ -838,9 +849,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "KFUM Jönköping IA C",
-     "klubb": "KFUM Jönköping",
+     "placering": 6,
+     "lag": "Bruzaholms SK A",
+     "klubb": "Bruzaholms Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -849,7 +860,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Tranås BTK A",
      "klubb": "Tranås Bordtennisklubb",
      "spelade": 0,
@@ -860,20 +871,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Sävsjö BTK A",
      "klubb": "Sävsjö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Kälom"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "BTK Kälom",
@@ -15,38 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 2 NSN",
-   "omgang": "Round 1",
-   "hemma": "Färila BTK",
-   "borta": "BTK Kälom",
-   "hemma_klubb": "Färila Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Kälom",
-   "plats": "A-hallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 2 NSN",
-   "omgang": "Round 2",
-   "hemma": "BTK Kälom",
-   "borta": "Ortvikens PK",
-   "hemma_klubb": "Bordtennisklubben Kälom",
-   "borta_klubb": "Ortvikens Pingisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "11:00",
@@ -240,89 +208,126 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 2 NSN",
+   "omgang": "Round 1",
+   "hemma": "Färila BTK",
+   "borta": "BTK Kälom",
+   "hemma_klubb": "Färila Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Kälom",
+   "plats": "A-hallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 2 NSN",
+   "omgang": "Round 2",
+   "hemma": "BTK Kälom",
+   "borta": "Ortvikens PK",
+   "hemma_klubb": "Bordtennisklubben Kälom",
+   "borta_klubb": "Ortvikens Pingisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 2 NSN",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Färila BTK",
-     "klubb": "Färila Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ortvikens PK",
+     "klubb": "Ortvikens Pingisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "BTK Kälom",
-     "klubb": "Bordtennisklubben Kälom",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Färila BTK",
+     "klubb": "Färila Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Ortvikens PK",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK: B1",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Gefle PK",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Öråns SK",
+     "klubb": "Öråns Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Öråns SK",
-     "klubb": "Öråns Sportklubb",
-     "spelade": 0,
+     "lag": "Ås IF",
+     "klubb": "Ås Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Ås IF",
-     "klubb": "Ås Idrottsförening",
-     "spelade": 0,
+     "lag": "BTK Kälom",
+     "klubb": "Bordtennisklubben Kälom",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "IK Sirius BTK: B1",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Gefle PK",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -330,10 +335,10 @@
      "placering": 8,
      "lag": "IK Juno: A1",
      "klubb": "Idrottsklubben Juno",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

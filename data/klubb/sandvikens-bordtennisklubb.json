@@ -4,7 +4,7 @@
   "namn": "Sandvikens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Sandvikens BTK A",
@@ -29,54 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "10:00",
-   "serie": "Division 5B",
-   "omgang": "Round 1",
-   "hemma": "Sandvikens BTK B",
-   "borta": "Norrtälje BTK D",
-   "hemma_klubb": "Sandvikens Bordtennisklubb",
-   "borta_klubb": "Norrtälje Bordtennisklubb",
-   "plats": "Gävle",
-   "arrangor": "Gefle Pingisklubb",
-   "arrangorer": [
-    "Gefle Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "13:00",
-   "serie": "Division 6C",
-   "omgang": "Round 2",
-   "hemma": "Sandvikens BTK C",
-   "borta": "Gefle PK E2",
-   "hemma_klubb": "Sandvikens Bordtennisklubb",
-   "borta_klubb": "Gefle Pingisklubb",
-   "plats": "Sandviken",
-   "arrangor": "Sandvikens Bordtennisklubb",
-   "arrangorer": [
-    "Sandvikens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "14:00",
-   "serie": "Division 5B",
-   "omgang": "Round 2",
-   "hemma": "Sandvikens BTK B",
-   "borta": "Gefle PK D2",
-   "hemma_klubb": "Sandvikens Bordtennisklubb",
-   "borta_klubb": "Gefle Pingisklubb",
-   "plats": "Gävle",
-   "arrangor": "Gefle Pingisklubb",
-   "arrangorer": [
-    "Gefle Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "10:00",
@@ -642,6 +594,24 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie": "Division 5B",
+   "omgang": "Round 1",
+   "hemma": "Sandvikens BTK B",
+   "borta": "Norrtälje BTK D",
+   "hemma_klubb": "Sandvikens Bordtennisklubb",
+   "borta_klubb": "Norrtälje Bordtennisklubb",
+   "plats": "Gävle",
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "10:00",
    "serie": "Division 6C",
    "omgang": "Round 1",
    "hemma": "Sandvikens BTK C",
@@ -656,6 +626,42 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "13:00",
+   "serie": "Division 6C",
+   "omgang": "Round 2",
+   "hemma": "Sandvikens BTK C",
+   "borta": "Gefle PK E2",
+   "hemma_klubb": "Sandvikens Bordtennisklubb",
+   "borta_klubb": "Gefle Pingisklubb",
+   "plats": "Sandviken",
+   "arrangor": "Sandvikens Bordtennisklubb",
+   "arrangorer": [
+    "Sandvikens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Division 5B",
+   "omgang": "Round 2",
+   "hemma": "Sandvikens BTK B",
+   "borta": "Gefle PK D2",
+   "hemma_klubb": "Sandvikens Bordtennisklubb",
+   "borta_klubb": "Gefle Pingisklubb",
+   "plats": "Gävle",
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   },
   {
    "datum": "2026-12-13",
@@ -713,150 +719,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-09-19",
-   "platser": [
-    "Sandviken"
-   ],
-   "serier": [
-    "Division 6C"
-   ],
-   "antal": 8,
-   "matcher": [
-    {
-     "datum": "2026-09-19",
-     "tid": "10:00",
-     "serie": "Division 6C",
-     "omgang": "Round 1",
-     "hemma": "Bålsta BTK B",
-     "borta": "Vassunda IF C3",
-     "hemma_klubb": "Bålsta Bordtennisklubb",
-     "borta_klubb": "Vassunda Idrottsförening",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "10:00",
-     "serie": "Division 6C",
-     "omgang": "Round 1",
-     "hemma": "IK Sirius BTK F5",
-     "borta": "Uppsala Life IF C2",
-     "hemma_klubb": "IK Sirius Bordtennisklubb",
-     "borta_klubb": "Uppsala Life Idrottsförening",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "10:00",
-     "serie": "Division 6C",
-     "omgang": "Round 1",
-     "hemma": "Sandvikens BTK C",
-     "borta": "IK Sirius BTK F4",
-     "hemma_klubb": "Sandvikens Bordtennisklubb",
-     "borta_klubb": "IK Sirius Bordtennisklubb",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "10:00",
-     "serie": "Division 6C",
-     "omgang": "Round 1",
-     "hemma": "Gefle PK E2",
-     "borta": "Norrtälje BTK E2",
-     "hemma_klubb": "Gefle Pingisklubb",
-     "borta_klubb": "Norrtälje Bordtennisklubb",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "13:00",
-     "serie": "Division 6C",
-     "omgang": "Round 2",
-     "hemma": "Bålsta BTK B",
-     "borta": "Uppsala Life IF C2",
-     "hemma_klubb": "Bålsta Bordtennisklubb",
-     "borta_klubb": "Uppsala Life Idrottsförening",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "13:00",
-     "serie": "Division 6C",
-     "omgang": "Round 2",
-     "hemma": "Vassunda IF C3",
-     "borta": "IK Sirius BTK F4",
-     "hemma_klubb": "Vassunda Idrottsförening",
-     "borta_klubb": "IK Sirius Bordtennisklubb",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "13:00",
-     "serie": "Division 6C",
-     "omgang": "Round 2",
-     "hemma": "IK Sirius BTK F5",
-     "borta": "Norrtälje BTK E2",
-     "hemma_klubb": "IK Sirius Bordtennisklubb",
-     "borta_klubb": "Norrtälje Bordtennisklubb",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "13:00",
-     "serie": "Division 6C",
-     "omgang": "Round 2",
-     "hemma": "Sandvikens BTK C",
-     "borta": "Gefle PK E2",
-     "hemma_klubb": "Sandvikens Bordtennisklubb",
-     "borta_klubb": "Gefle Pingisklubb",
-     "plats": "Sandviken",
-     "arrangor": "Sandvikens Bordtennisklubb",
-     "arrangorer": [
-      "Sandvikens Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-02-13",
    "platser": [
@@ -1383,50 +1245,50 @@
    "serie": "Division 5B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Sandvikens BTK B",
-     "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IK Sirius BTK E2",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Norrtälje BTK D",
      "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Gefle PK D2",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 0,
+     "lag": "Sandvikens BTK B",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IK Sirius BTK E2",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Gefle PK D2",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -1483,78 +1345,78 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Bålsta BTK B",
-     "klubb": "Bålsta Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IK Sirius BTK F5",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "198–0"
     },
     {
      "placering": 2,
-     "lag": "Vassunda IF C3",
-     "klubb": "Vassunda Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Gefle PK E2",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "198–0"
     },
     {
      "placering": 3,
-     "lag": "IK Sirius BTK F5",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Vassunda IF C3",
+     "klubb": "Vassunda Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "198–0"
     },
     {
      "placering": 4,
-     "lag": "Uppsala Life IF C2",
-     "klubb": "Uppsala Life Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Bålsta BTK B",
+     "klubb": "Bålsta Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "198–0"
     },
     {
      "placering": 5,
-     "lag": "Gefle PK E2",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 1,
+     "lag": "Norrtälje BTK E2",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "198–0"
     },
     {
      "placering": 6,
-     "lag": "Norrtälje BTK E2",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Sandvikens BTK C",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "198–0"
     },
     {
      "placering": 7,
-     "lag": "Sandvikens BTK C",
-     "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Uppsala Life IF C2",
+     "klubb": "Uppsala Life Idrottsförening",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "198–0"
     },

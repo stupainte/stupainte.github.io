@@ -4,7 +4,7 @@
   "namn": "Vetlanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-19T08:24:07Z",
+ "uppdaterad": "2026-09-20T08:56:27Z",
  "lag": [
   {
    "namn": "Vetlanda BTK",
@@ -85,38 +85,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-19",
-   "tid": "11:00",
-   "serie": "Div 3 SSNV",
-   "omgang": "Round 1",
-   "hemma": "Långemåla BTK",
-   "borta": "Vetlanda BTK: B",
-   "hemma_klubb": "Långemåla Bordtennisklubb",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-  },
-  {
-   "datum": "2026-09-19",
-   "tid": "15:00",
-   "serie": "Div 3 SSNV",
-   "omgang": "Round 2",
-   "hemma": "Dänningelanda BTK",
-   "borta": "Vetlanda BTK: B",
-   "hemma_klubb": "Dänningelanda Bordtennisklubb",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-  },
   {
    "datum": "2026-09-20",
    "tid": "11:00",
@@ -2256,84 +2224,45 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7"
   }
  ],
- "resultat": [],
- "arrangerar": [
+ "resultat": [
   {
    "datum": "2026-09-19",
-   "platser": [
-    "A-hallen"
+   "tid": "11:00",
+   "serie": "Div 3 SSNV",
+   "omgang": "Round 1",
+   "hemma": "Långemåla BTK",
+   "borta": "Vetlanda BTK: B",
+   "hemma_klubb": "Långemåla Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
    ],
-   "serier": [
-    "Div 3 SSNV"
-   ],
-   "antal": 4,
-   "matcher": [
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSNV",
-     "omgang": "Round 1",
-     "hemma": "Dänningelanda BTK",
-     "borta": "Högsby BTK",
-     "hemma_klubb": "Dänningelanda Bordtennisklubb",
-     "borta_klubb": "Högsby Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "11:00",
-     "serie": "Div 3 SSNV",
-     "omgang": "Round 1",
-     "hemma": "Långemåla BTK",
-     "borta": "Vetlanda BTK: B",
-     "hemma_klubb": "Långemåla Bordtennisklubb",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSNV",
-     "omgang": "Round 2",
-     "hemma": "Långemåla BTK",
-     "borta": "Högsby BTK",
-     "hemma_klubb": "Långemåla Bordtennisklubb",
-     "borta_klubb": "Högsby Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-    },
-    {
-     "datum": "2026-09-19",
-     "tid": "15:00",
-     "serie": "Div 3 SSNV",
-     "omgang": "Round 2",
-     "hemma": "Dänningelanda BTK",
-     "borta": "Vetlanda BTK: B",
-     "hemma_klubb": "Dänningelanda Bordtennisklubb",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
-    }
-   ]
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 SSNV",
+   "omgang": "Round 2",
+   "hemma": "Dänningelanda BTK",
+   "borta": "Vetlanda BTK: B",
+   "hemma_klubb": "Dänningelanda Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
   {
    "datum": "2026-09-30",
    "platser": [
@@ -3860,93 +3789,93 @@
    "serie": "Div 3 SSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Dänningelanda BTK",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Lyckeby BTK: C",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Högsby BTK",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "BTK Frej: B",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Lyckeby BTK: C",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Dänningelanda BTK",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Listerby IK",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Långemåla BTK",
+     "klubb": "Långemåla Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Jämjö BTK: B",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Högsby BTK",
+     "klubb": "Högsby Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Frej: B",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 0,
+     "lag": "Vetlanda BTK: B",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Långemåla BTK",
-     "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Jämjö BTK: B",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Vetlanda BTK: B",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Listerby IK",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
