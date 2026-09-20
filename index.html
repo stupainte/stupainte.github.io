@@ -299,10 +299,11 @@
     Inofficiellt skal ovanpå <a href="https://sbtfeventsott.stupaevents.com" target="_blank" rel="noopener">Pingisarenan</a>.
     Data hämtas automatiskt och kan vara upp till ett dygn gammal.
     <br>
-    Klickar du på en match öppnas rätt evenemang i STUPA, men fel division —
-    STUPA kan inte länka direkt till en serie. Väl där byter du division i
-    menyraden högst upp på STUPA-sidan (<em>Division 4 · Division 4A · Group
-    Stage</em>).
+    Klickar du på en match öppnas rätt evenemang i STUPA. Håll muspekaren
+    över länken för att se om det blir rätt division direkt eller om du
+    behöver byta division själv i menyraden högst upp på STUPA-sidan
+    (<em>Division 4 · Division 4A · Group Stage</em>) — det beror på om
+    divisionen har egna undergrupper.
   </footer>
 </div>
 
@@ -377,12 +378,17 @@
       ? `<span class="score">${esc(m.hemma_poang)}–${esc(m.borta_poang)}</span>` : "";
     const plats = [m.plats, m.arrangor && `arr. ${m.arrangor}`].filter(Boolean).join(" · ");
 
-    // STUPA kan inte djuplänka till en division — sidan öppnas alltid på
-    // evenemangets förvalda serie. Title-texten talar därför om exakt var
-    // och vad användaren ska välja när sidan öppnats.
+    // STUPA kan bara ibland djuplänka till rätt division — det beror på om
+    // divisionen har egna undergrupper (se hamta.py: exakt_lank). När den
+    // inte kan det öppnas rätt evenemang men fel serie, och title-texten
+    // talar om exakt vad användaren ska byta till.
+    const lankTitel = m.exakt_lank
+      ? "Öppnar rätt division direkt i STUPA."
+      : `Öppnar STUPA. Sidan visar en annan division — byt till ${esc(m.serie)} i menyraden högst upp på STUPA-sidan.`;
+
     return `
       <a class="match" href="${esc(m.stupa_url || "#")}" target="_blank" rel="noopener"
-         title="Öppnar STUPA. Sidan visar en annan division — byt till ${esc(m.serie)} i menyraden högst upp på STUPA-sidan.">
+         title="${lankTitel}">
         <div class="match-top">
           <span class="time">${esc(m.tid || "")}</span>
           <span class="serie">${esc(m.serie || "")}${m.omgang ? " · " + esc(m.omgang) : ""}</span>

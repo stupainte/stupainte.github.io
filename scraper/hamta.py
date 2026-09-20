@@ -294,10 +294,40 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
     ev_id = ev["id"]
     ev_namn = ev.get("name", "")
 
+    # Om en länk verkligen öppnar rätt division eller inte går att avgöra i
+    # förväg, och det skiljer sig från division till division inom SAMMA
+    # evenemang. Verifierat i webbläsare 2026-09-20:
+    #
+    #   /events/501/1060/... (Värmlands BTF, Division 5)   → stannar kvar
+    #   /events/417/1149/... (Nationellt, Div 2 SSÖ Dam)   → hoppar till
+    #                                                          /events/417/1119
+    #                                                          ("Pingisligan
+    #                                                          (dam)", en helt
+    #                                                          annan serie)
+    #
+    # Mönstret: länken stannar kvar EXAKT när divisionens category_id också
+    # finns bland evenemangets toppnivåkategorier (get_events_categories).
+    # Den listan innehåller bara de odelade divisionsnamnen ("Division 4",
+    # "Division 2 (dam)") — inte de bokstavs- eller regionsindelade
+    # undergrupperna ("Division 4A", "Div 2 SSÖ Dam") som varje faktisk
+    # match tillhör. Har en division bara EN grupp (litet distrikt, typ
+    # Värmlands BTF) är category_id detsamma på båda nivåerna och länken
+    # stämmer. Har den flera grupper (nationella serien, de flesta distrikt)
+    # finns undergruppens id bara på stage-nivå, och länken hoppar i stället
+    # till evenemangets första toppnivåkategori — helt obesläktad med den
+    # match man klickade på.
+    #
+    # Detta går att avgöra i förväg med ett enda extra anrop per evenemang.
+    toppniva_id = {
+        c.get("category_id")
+        for c in api.data("get_events_categories", event_id=ev_id, per_page=100)
+    }
+
     # Divisionsnamnet ligger inbäddat i varje stage:
     #   stage.event_category.category.category_description → "Division 4A"
     # get_events_categories returnerar bara toppnivåerna ("Division 4") och
-    # duger därför inte — undergrupperna A/B/C saknas där.
+    # duger därför inte för namnet — undergrupperna A/B/C saknas där. Den
+    # används ändå ovan, för att avgöra länkens tillförlitlighet.
     stages = api.data("get_stages", event_id=ev_id, per_page=200)
 
     matcher: list[dict] = []
@@ -311,21 +341,14 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
             or kat.get("abbr")                  # "Div 4"
             or ev_namn
         )
-        # Länken öppnar rätt EVENEMANG, men inte rätt division.
-        #
-        # Det går inte att djuplänka till en division. STUPA skriver om andra
-        # URL-segmentet till evenemangets förvalda kategori oavsett vad man
-        # anger — /events/435/1189 och /events/435/1193 landar båda på
-        # /events/435/1186. Divisionen väljs via en rullgardinsmeny, alltså
-        # klienttillstånd som aldrig hamnar i adressen.
-        #
-        # Den nakna adressen /events/435 duger inte heller, den ger
-        # "No Records Found". Vi behåller därför den fullständiga formen så
-        # att sidan i alla fall laddar korrekt, och låter frontenden berätta
-        # vilken division användaren ska välja i menyn.
+        # Den nakna adressen /events/435 ger "No Records Found", så den
+        # fullständiga formen behålls även när länken inte är exakt — se
+        # `exakt_lank`-resonemanget ovan för varför den ibland ändå landar
+        # på fel division.
         kat_id = ec.get("category_id")
         djuplank = (f"{WEBB}/events/{ev_id}/{kat_id}/2/7/7" if kat_id
                     else f"{WEBB}/events/{ev_id}")
+        exakt_lank = kat_id in toppniva_id if kat_id else False
 
         grupper = api.data(
             "get_group_matches",
@@ -368,6 +391,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "serie": serienamn,
                     "evenemang": ev_namn,
                     "stupa_url": djuplank,
+                    "exakt_lank": exakt_lank,
                     "startad": any(r["spelade"] for r in rader),
                     "rader": rader,
                 })
@@ -401,6 +425,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "arrangor": " / ".join(arr) or None,
                     "arrangorer": arr,
                     "stupa_url": djuplank,
+                    "exakt_lank": exakt_lank,
                 }
                 # Obs: score_published duger INTE som markör för spelad match.
                 # Det är en inställning på divisionsnivå och är True även för

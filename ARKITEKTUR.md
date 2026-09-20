@@ -218,21 +218,46 @@ Samma lagnamn kan dessutom förekomma i flera serier — "Spårvägens BTK" spel
 både Pingisligan herr och dam. Lag måste därför identifieras av namn *och*
 serie, annars försvinner det ena.
 
-### URL-strukturen — och varför djuplänkar inte går
+### URL-strukturen — och varför djuplänkar bara ibland går
 
 `https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7`
 
 Det första segmentet är `event_id` och pekar ut evenemanget. Resten ser ut
-att peka ut division och vy, men gör det inte.
+att peka ut division och vy — och gör det ibland, men inte alltid.
 
-**Andra segmentet väljer ingenting.** STUPA skriver om det till evenemangets
-förvalda kategori oavsett vad man anger. `/events/435/1189` (Division 5B) och
-`/events/435/1193` (Division 7A) landar båda på `/events/435/1186` och visar
-Division 4. Samma sak för det nationella seriespelet: `/events/417/1176`
-(Div 3 SSSV) skrivs om till `/events/417/1119` och visar Pingisligan dam.
+**Andra segmentet väljer division bara om den saknar egna undergrupper.**
+Testat i webbläsare 2026-09-20, med rensad `localStorage`/`sessionStorage`
+för att utesluta cachat klienttillstånd:
 
-Divisionen väljs via Angular Material-menyer på sidan — klienttillstånd som
-aldrig hamnar i adressen. Det är därför `thelinkan/bt-serier` styr
+- `/events/501/1060/...` (Värmlands BTF, Division 5 — ingen undergrupp)
+  stannar kvar på 1060.
+- `/events/435/1189/...` (Division 5B) och `/events/435/1193/...`
+  (Division 7A) landar båda på `/events/435/1186` och visar Division 4A.
+- `/events/417/1149/...` (Div 2 SSÖ Dam) skrivs om till `/events/417/1119`
+  och visar Pingisligan dam.
+
+Mönstret: `get_events_categories?event_id=X` returnerar bara de odelade
+toppnivådivisionerna ("Division 4", "Division 2 (dam)"). Har en division
+bara en grupp är dess `category_id` identisk på både topp- och stage-nivå,
+och länken stämmer. Har den flera bokstavs- eller regionindelade grupper
+(så gott som alla nationella och de flesta distriktsserier) finns bara
+undergruppens id på stage-nivå — inte i toppnivålistan — och STUPA hoppar då
+till evenemangets FÖRSTA toppnivåkategori, oavsett vilken match länken
+egentligen gällde.
+
+`hamta.py` (`hamta_serie`) räknar ut detta per evenemang: ett extra anrop
+till `get_events_categories`, jämfört mot varje stages `category_id`, sparat
+som `exakt_lank` på matchen. Frontenden anpassar sin `title`-text efter det.
+
+**Att länka till toppnivå-id:t hjälper inte generellt.** Testat:
+`/events/417/1123/...` ("Division 2 (dam)") hoppar till `/events/417/1149` —
+som råkar vara rätt undergrupp i just det fallet, men det är STUPA:s egen,
+opålitliga standardgissning för den toppnivån, inte en garanterad koppling.
+Det finns ingen API-relation att slå upp mellan en toppnivåkategori och
+"rätt" undergrupp.
+
+Divisionen väljs annars via Angular Material-menyer på sidan — klienttillstånd
+som aldrig hamnar i adressen. Det är därför `thelinkan/bt-serier` styr
 rullgardinsmenyerna med Playwright i stället för att konstruera adresser.
 Kommentaren i hans `scraper.py` säger det rakt ut: *"serie väljs i sidans
 eget gränssnitt"*.

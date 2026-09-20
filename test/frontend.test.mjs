@@ -4,10 +4,20 @@ const html = fs.readFileSync('index.html','utf8');
 const load = p => JSON.parse(fs.readFileSync('data/'+p,'utf8'));
 const index = load('index.json');
 
+// exakt_lank (länken öppnar rätt division direkt) finns bara på matcher i
+// serier utan lettrade undergrupper — sällsynt i stickprovsdatan. Tvinga
+// fram ett sant fall på Hammarbys första kommande match så båda
+// title-varianterna i matchKort() går att testa deterministiskt.
 const dom = new JSDOM(html,{runScripts:'dangerously',url:'https://etxgmg.github.io/stupainte/',
   beforeParse(w){ w.fetch = async u => {
     const s=String(u).replace(/^.*?data\//,'');
-    try { return {ok:true,status:200,json:async()=>load(s)}; }
+    try {
+      const data = load(s);
+      if (s === 'klubb/hammarby-if-bordtennisforening.json' && data.kommande?.[0]) {
+        data.kommande[0] = {...data.kommande[0], exakt_lank: true};
+      }
+      return {ok:true,status:200,json:async()=>data};
+    }
     catch { return {ok:false,status:404,json:async()=>({})}; } }; }});
 const w=dom.window, d=w.document, vänta=ms=>new Promise(r=>setTimeout(r,ms));
 await vänta(400);
@@ -28,11 +38,11 @@ const m=d.querySelectorAll('#panel .match');
 ok(m.length===82,`82 kommande matcher (fick ${m.length})`);
 ok(d.querySelectorAll('#panel .day').length>1,'grupperade per datum');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade');
-// STUPA kan inte djuplänka till en division — länken öppnar evenemanget och
-// användaren får välja serien i menyn. Testet kontrollerar därför bara att
-// länken pekar på rätt evenemang och att title-texten säger vad man ska välja.
+// STUPA kan bara ibland djuplänka till rätt division (se exakt_lank i
+// hamta.py). Testet kontrollerar båda varianterna av title-texten.
 ok(/href="https:\/\/sbtfeventsott[^"]*\/events\/\d+\//.test(d.getElementById('panel').innerHTML),'länk till rätt evenemang i STUPA');
-ok(/title="Öppnar STUPA\. Sidan visar en annan division — byt till [^"]+ i menyraden högst upp på STUPA-sidan\."/.test(d.getElementById('panel').innerHTML),'title säger var och vad som ska väljas');
+ok(/title="Öppnar STUPA\. Sidan visar en annan division — byt till [^"]+ i menyraden högst upp på STUPA-sidan\."/.test(d.getElementById('panel').innerHTML),'title säger var och vad som ska väljas (osäker länk)');
+ok(d.getElementById('panel').innerHTML.includes('title="Öppnar rätt division direkt i STUPA."'),'title säger att länken är exakt (säker länk)');
 ok(/arr\. \S/.test(d.getElementById('panel').innerHTML),'arrangör visas på matchkorten');
 
 const flik=n=>[...d.querySelectorAll('nav.tabs button')].find(b=>b.dataset.tab===n)

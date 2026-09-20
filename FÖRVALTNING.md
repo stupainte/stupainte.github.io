@@ -231,21 +231,48 @@ källa. Skillnaden är viktig — utvidga inte till suddig matchning.
 av namn *och* serie, annars försvinner det ena. Klubben gick från 9 till 14 lag
 när felet rättades.
 
-### Det går inte att djuplänka till en division
+### Djuplänkning till en division fungerar — men bara ibland
 
-Andra URL-segmentet väljer ingenting. `/events/435/1189` och `/events/435/1193`
-skrivs båda om till `/events/435/1186`. Divisionen väljs via menyer på sidan —
-klienttillstånd som aldrig hamnar i adressen. Den nakna formen `/events/435`
-ger "No Records Found".
+Länge dokumenterat här som "går inte alls". Det stämmer inte helt.
+Verifierat i webbläsare 2026-09-20, med rensad `localStorage`/`sessionStorage`
+för att utesluta cachad klienttillstånd:
 
-Frontenden länkar därför till evenemanget och talar om i tooltip och sidfot att
-serien måste väljas manuellt i STUPA:s menyrad. **Försök inte "fixa" detta** —
-det är verifierat att det inte går.
+- `/events/501/1060/...` (Värmlands BTF, Division 5) → **stannar kvar**.
+- `/events/417/1149/...` (Nationellt seriespel, Div 2 SSÖ Dam) → **hoppar**
+  till `/events/417/1119` ("Pingisligan (dam)"), en helt obesläktad serie.
+
+Mönstret, verifierat med flera exempel i båda riktningarna: länken stämmer
+EXAKT när divisionens `category_id` också finns bland evenemangets
+toppnivåkategorier (`get_events_categories`). Den listan innehåller bara de
+odelade divisionsnamnen ("Division 4", "Division 2 (dam)") — inte de
+bokstavs- eller regionindelade undergrupperna ("Division 4A", "Div 2 SSÖ
+Dam") som en enskild match faktiskt tillhör.
+
+- Har en division bara **en** grupp (litet distrikt, t.ex. Värmlands BTF) är
+  `category_id` detsamma på båda nivåerna → länken stämmer.
+- Har den **flera** grupper (nationella serien, de flesta distrikt) finns
+  undergruppens id bara på stage-nivå → länken hoppar i stället till
+  evenemangets FÖRSTA toppnivåkategori, oavsett vilken match man klickade på.
+
+`hamta.py` räknar ut detta i förväg: ett extra anrop till
+`get_events_categories` per evenemang, jämfört mot varje stages `category_id`,
+sparat som `exakt_lank` (bool) på varje match och tabell. Frontenden visar
+olika tooltip beroende på värdet — se `matchKort()` i `index.html`.
+
+**Försök inte höja träffsäkerheten ytterligare genom att länka till
+toppnivå-id:t i stället för undergruppens.** Testat: `/events/417/1123/...`
+("Division 2 (dam)") hoppar till `/events/417/1149` — som RÅKAR vara rätt i
+det här fallet, men det är STUPA:s egen förvalda undergrupp för den
+toppnivån, inte en garanti. Det finns ingen API-relation mellan en
+toppnivåkategori och "rätt" undergrupp att utnyttja; STUPA:s eget val är
+opålitligt och kan inte förutsägas utan att fråga STUPA:s frontend-kod
+direkt (vilket kräver en riktig webbläsare, inte `requests`).
 
 ### Divisionsnamn finns inte där man tror
 
 `get_events_categories` returnerar bara toppnivåerna ("Division 4") utan
-undergrupperna A/B/C. Rätt namn ligger i
+undergrupperna A/B/C — det är samma lista som `exakt_lank` jämför mot ovan.
+Rätt VISNINGSNAMN ligger i
 `stage.event_category.category.category_description`.
 
 ---
@@ -427,7 +454,7 @@ Fält som frontenden läser och som därför inte får byta namn:
 | `index.json` | `sasong`, `klubbar[].slug`, `.namn`, `.antal_lag` |
 | `turneringar.json` | `turneringar[].namn`, `.datum`, `.slutdatum`, `.ort`, `.arena`, `.land`, `.niva`, `.status`, `.kalla`, `.lank`, `.hink` |
 | klubbfil | `klubb.namn`, `sasong`, `uppdaterad`, `lag[].namn`, `lag[].serie.namn` |
-| match | `datum`, `tid`, `serie`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `hemma_poang`, `borta_poang` |
+| match | `datum`, `tid`, `serie`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `exakt_lank`, `hemma_poang`, `borta_poang` |
 | tabell | `serie`, `startad`, `rader[].placering`, `.lag`, `.spelade`, `.vunna`, `.oavgjorda`, `.forlorade`, `.matchpoang`, `.setdiff` |
 | arrangerar | `datum`, `antal`, `platser`, `serier`, `matcher[]` |
 | turnering | `namn`, `datum`, `ort`, `niva`, `status`, `stupa_url` |
@@ -441,7 +468,7 @@ sönder, och skulle krympa datan en del:
 | --- | ---- | --------- |
 | `index.json` | `arrangerar_dagar` | tillagt för framtida bruk, används inte |
 | match | `hemma_klubb`, `borta_klubb` | behövs under bearbetningen men inte i utdatan |
-| tabell | `evenemang` | |
+| tabell | `evenemang`, `stupa_url`, `exakt_lank` | skrivs för framtida bruk — tabellvyn har ingen klickbar länk än |
 | tabellrad | `klubb` | |
 | turnering | `slutdatum` | |
 
