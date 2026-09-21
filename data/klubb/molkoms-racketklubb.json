@@ -4,7 +4,7 @@
   "namn": "Molkoms Racketklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-20T08:56:27Z",
+ "uppdaterad": "2026-09-21T09:28:16Z",
  "lag": [
   {
    "namn": "Molkom",
@@ -22,13 +22,53 @@
   }
  ],
  "kommande": [],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 4",
+   "omgang": "Round 1",
+   "hemma": "Björkborn",
+   "borta": "Molkom",
+   "hemma_klubb": "Björkborns Gymnastik O IF",
+   "borta_klubb": "Molkoms Racketklubb",
+   "plats": null,
+   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangorer": [
+    "Björkborns Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "Carlstad",
+   "borta": "Molkom",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "Molkoms Racketklubb",
+   "plats": null,
+   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangorer": [
+    "Björkborns Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Division 4",
    "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
@@ -114,6 +154,7 @@
    "serie": "Division 6",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {

@@ -4,7 +4,7 @@
   "namn": "Höökens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-20T08:56:27Z",
+ "uppdaterad": "2026-09-21T09:28:16Z",
  "lag": [
   {
    "namn": "Hööken",
@@ -36,13 +36,91 @@
   }
  ],
  "kommande": [],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Sunne",
+   "borta": "Hööken",
+   "hemma_klubb": "Sunne Bordtennisklubb",
+   "borta_klubb": "Höökens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Höökens Bordtennisklubb",
+   "arrangorer": [
+    "Höökens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 6",
+   "omgang": "Round 2",
+   "hemma": "Hööken Rocky",
+   "borta": "Sunne",
+   "hemma_klubb": "Höökens Bordtennisklubb",
+   "borta_klubb": "Sunne Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Höökens Bordtennisklubb",
+   "arrangorer": [
+    "Höökens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 4",
+   "omgang": "Round 1",
+   "hemma": "Carlstad",
+   "borta": "Hööken",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "Höökens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangorer": [
+    "Björkborns Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "Björkborn",
+   "borta": "Hööken",
+   "hemma_klubb": "Björkborns Gymnastik O IF",
+   "borta_klubb": "Höökens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangorer": [
+    "Björkborns Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Division 4",
    "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
@@ -128,6 +206,7 @@
    "serie": "Division 5",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1060/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
@@ -224,6 +303,7 @@
    "serie": "Division 6",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {

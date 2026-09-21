@@ -4,7 +4,7 @@
   "namn": "Kosta Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-20T08:56:27Z",
+ "uppdaterad": "2026-09-21T09:28:16Z",
  "lag": [
   {
    "namn": "Kosta SK",
@@ -58,102 +58,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-09-20",
-   "tid": "11:00",
-   "serie": "Div 2 SSN",
-   "omgang": "Round 3",
-   "hemma": "Kosta SK: B",
-   "borta": "Lyckeby BTK: B",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Lessebo Bordtennisklubb",
-   "arrangorer": [
-    "Lessebo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "11:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 3",
-   "hemma": "Malmö IF: B",
-   "borta": "Kosta SK: B",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "Malmö Idrottsförening",
-   "arrangorer": [
-    "Malmö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "11:00",
-   "serie": "Pingisligan (dam)",
-   "omgang": "Round 2",
-   "hemma": "Kosta SK",
-   "borta": "Våxtorps BOIS",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Våxtorps Boll O IS",
-   "plats": "A-hallen",
-   "arrangor": "Kosta Sportklubb",
-   "arrangorer": [
-    "Kosta Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "11:00",
-   "serie": "DIV 5 Mellersta",
-   "omgang": "Round 1",
-   "hemma": "Dänningelanda BTK D",
-   "borta": "Kosta SK C",
-   "hemma_klubb": "Dänningelanda Bordtennisklubb",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "Arrangörens",
-   "arrangor": "Dänningelanda Bordtennisklubb",
-   "arrangorer": [
-    "Dänningelanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "15:00",
-   "serie": "Div 2 SSN",
-   "omgang": "Round 4",
-   "hemma": "Kosta SK: B",
-   "borta": "SK Frigg",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Sportklubben Frigg",
-   "plats": "A-hallen",
-   "arrangor": "Lessebo Bordtennisklubb",
-   "arrangorer": [
-    "Lessebo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
-  },
-  {
-   "datum": "2026-09-20",
-   "tid": "15:00",
-   "serie": "Div 2 SSÖ Dam",
-   "omgang": "Round 4",
-   "hemma": "Kosta SK: B",
-   "borta": "Trelleborgs BTK",
-   "hemma_klubb": "Kosta Sportklubb",
-   "borta_klubb": "Trelleborgs Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Malmö Idrottsförening",
-   "arrangorer": [
-    "Malmö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
-  },
-  {
    "datum": "2026-09-22",
    "tid": "18:30",
    "serie": "Pingisligan (herr)",
@@ -167,7 +71,8 @@
    "arrangorer": [
     "Söderhamns Ungdomsgårds IF"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-09-27",
@@ -183,7 +88,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-09-27",
@@ -199,7 +105,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-10-04",
@@ -215,7 +122,8 @@
    "arrangorer": [
     "Böksholms Idrottsförening"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-10-13",
@@ -231,7 +139,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-10-18",
@@ -247,7 +156,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-10-20",
@@ -263,7 +173,8 @@
    "arrangorer": [
     "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-10-20",
@@ -279,7 +190,8 @@
    "arrangorer": [
     "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-10-24",
@@ -295,7 +207,8 @@
    "arrangorer": [
     "Våxtorps Boll O IS"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-10-24",
@@ -311,7 +224,8 @@
    "arrangorer": [
     "Våxtorps Boll O IS"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-10",
@@ -327,7 +241,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-14",
@@ -343,7 +258,8 @@
    "arrangorer": [
     "Bergkvara Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-14",
@@ -359,7 +275,8 @@
    "arrangorer": [
     "Eslövs AI Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-14",
@@ -375,7 +292,8 @@
    "arrangorer": [
     "Bergkvara Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-14",
@@ -391,7 +309,8 @@
    "arrangorer": [
     "Eslövs AI Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -407,7 +326,8 @@
    "arrangorer": [
     "Huskvarna Södra Idrottssällskap"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
@@ -423,7 +343,8 @@
    "arrangorer": [
     "Ljungby Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
@@ -439,7 +360,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
@@ -455,7 +377,8 @@
    "arrangorer": [
     "Huskvarna Södra Idrottssällskap"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-17",
@@ -471,7 +394,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-29",
@@ -487,7 +411,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-29",
@@ -503,7 +428,25 @@
    "arrangorer": [
     "Nävragöls Bollklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "19:00",
+   "serie": "DIV 5 Mellersta",
+   "omgang": "Round 7",
+   "hemma": "BTK Näcken A",
+   "borta": "Kosta SK C",
+   "hemma_klubb": "Bordtennisklubben Näcken",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "Sparbankshallen virserum",
+   "arrangor": "Bordtennisklubben Näcken",
+   "arrangorer": [
+    "Bordtennisklubben Näcken"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -519,7 +462,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -535,7 +479,8 @@
    "arrangorer": [
     "Kalmar Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -551,7 +496,8 @@
    "arrangorer": [
     "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-12-12",
@@ -567,7 +513,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -583,7 +530,8 @@
    "arrangorer": [
     "Kalmar Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -599,7 +547,8 @@
    "arrangorer": [
     "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-12-13",
@@ -615,23 +564,8 @@
    "arrangorer": [
     "Halmstad Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-12-13",
-   "tid": "13:00",
-   "serie": "DIV 5 Mellersta",
-   "omgang": "Round 7",
-   "hemma": "BTK Näcken A",
-   "borta": "Kosta SK C",
-   "hemma_klubb": "Bordtennisklubben Näcken",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "Sparbankshallen virserum",
-   "arrangor": "Bordtennisklubben Näcken",
-   "arrangorer": [
-    "Bordtennisklubben Näcken"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-12-13",
@@ -647,7 +581,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-15",
@@ -663,7 +598,8 @@
    "arrangorer": [
     "Linden Bordtennisklubb Eskilstuna"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-12",
@@ -679,7 +615,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-16",
@@ -695,7 +632,8 @@
    "arrangorer": [
     "Lessebo Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-16",
@@ -711,7 +649,8 @@
    "arrangorer": [
     "Bergkvara Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-16",
@@ -727,7 +666,8 @@
    "arrangorer": [
     "Lessebo Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-16",
@@ -743,7 +683,8 @@
    "arrangorer": [
     "Bergkvara Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-17",
@@ -759,7 +700,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-17",
@@ -775,7 +717,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-19",
@@ -791,7 +734,8 @@
    "arrangorer": [
     "Bordtennisklubben Rekord"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-31",
@@ -807,7 +751,8 @@
    "arrangorer": [
     "Bordtennisklubben Frej"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-01-31",
@@ -823,7 +768,8 @@
    "arrangorer": [
     "Lyckeby Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-02-09",
@@ -839,7 +785,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-02-13",
@@ -855,7 +802,8 @@
    "arrangorer": [
     "Carlshamns Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-02-13",
@@ -871,7 +819,8 @@
    "arrangorer": [
     "Carlshamns Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-02-14",
@@ -887,7 +836,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-02-16",
@@ -903,7 +853,8 @@
    "arrangorer": [
     "Eslövs AI Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-02-28",
@@ -919,7 +870,8 @@
    "arrangorer": [
     "Örjansklubben/Ramkvilla IF"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-04",
@@ -935,7 +887,8 @@
    "arrangorer": [
     "Spårvägens Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-03-13",
@@ -951,7 +904,8 @@
    "arrangorer": [
     "KFUM Jönköping"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-13",
@@ -967,7 +921,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-13",
@@ -983,7 +938,8 @@
    "arrangorer": [
     "KFUM Jönköping"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-13",
@@ -999,7 +955,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-14",
@@ -1015,7 +972,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-14",
@@ -1031,7 +989,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-14",
@@ -1047,7 +1006,8 @@
    "arrangorer": [
     "Lyckeby Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-14",
@@ -1063,7 +1023,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-03-16",
@@ -1079,7 +1040,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-04-04",
@@ -1095,7 +1057,8 @@
    "arrangorer": [
     "Lessebo Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-04-04",
@@ -1111,7 +1074,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-04-18",
@@ -1127,7 +1091,8 @@
    "arrangorer": [
     "Kosta Sportklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2027-04-18",
@@ -1143,7 +1108,8 @@
    "arrangorer": [
     "Lyckeby Bordtennisklubb"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false
   }
  ],
  "resultat": [
@@ -1162,6 +1128,7 @@
     "Kosta Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
+   "exakt_lank": true,
    "hemma_poang": 1,
    "borta_poang": 2
   },
@@ -1180,6 +1147,7 @@
     "Eslövs AI Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
+   "exakt_lank": true,
    "hemma_poang": 2,
    "borta_poang": 1
   },
@@ -1198,6 +1166,7 @@
     "Kättilsmåla Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1216,6 +1185,7 @@
     "Lessebo Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1234,6 +1204,7 @@
     "Malmö Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -1252,6 +1223,7 @@
     "Lessebo Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1270,6 +1242,7 @@
     "Malmö Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1288,6 +1261,121 @@
     "Kosta Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Div 2 SSN",
+   "omgang": "Round 3",
+   "hemma": "Kosta SK: B",
+   "borta": "Lyckeby BTK: B",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 3",
+   "hemma": "Malmö IF: B",
+   "borta": "Kosta SK: B",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 2",
+   "hemma": "Kosta SK",
+   "borta": "Våxtorps BOIS",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Våxtorps Boll O IS",
+   "plats": "A-hallen",
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "DIV 5 Mellersta",
+   "omgang": "Round 1",
+   "hemma": "Dänningelanda BTK D",
+   "borta": "Kosta SK C",
+   "hemma_klubb": "Dänningelanda Bordtennisklubb",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Dänningelanda Bordtennisklubb",
+   "arrangorer": [
+    "Dänningelanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "15:00",
+   "serie": "Div 2 SSN",
+   "omgang": "Round 4",
+   "hemma": "Kosta SK: B",
+   "borta": "SK Frigg",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Sportklubben Frigg",
+   "plats": "A-hallen",
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "15:00",
+   "serie": "Div 2 SSÖ Dam",
+   "omgang": "Round 4",
+   "hemma": "Kosta SK: B",
+   "borta": "Trelleborgs BTK",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1306,6 +1394,7 @@
     "Sportklubben Frigg"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -1324,6 +1413,7 @@
     "Gullabo Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -1342,6 +1432,7 @@
     "Kosta Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -1360,71 +1451,12 @@
     "Kosta Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-09-20",
-   "platser": [
-    "A-hallen"
-   ],
-   "serier": [
-    "Pingisligan (dam)"
-   ],
-   "antal": 3,
-   "matcher": [
-    {
-     "datum": "2026-09-20",
-     "tid": "11:00",
-     "serie": "Pingisligan (dam)",
-     "omgang": "Round 2",
-     "hemma": "Eslövs AI BTK: A2",
-     "borta": "Halmstad BTK",
-     "hemma_klubb": "Eslövs AI Bordtennisklubb",
-     "borta_klubb": "Halmstad Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Kosta Sportklubb",
-     "arrangorer": [
-      "Kosta Sportklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-    },
-    {
-     "datum": "2026-09-20",
-     "tid": "11:00",
-     "serie": "Pingisligan (dam)",
-     "omgang": "Round 2",
-     "hemma": "Kosta SK",
-     "borta": "Våxtorps BOIS",
-     "hemma_klubb": "Kosta Sportklubb",
-     "borta_klubb": "Våxtorps Boll O IS",
-     "plats": "A-hallen",
-     "arrangor": "Kosta Sportklubb",
-     "arrangorer": [
-      "Kosta Sportklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-    },
-    {
-     "datum": "2026-09-20",
-     "tid": "11:00",
-     "serie": "Pingisligan (dam)",
-     "omgang": "Round 2",
-     "hemma": "Sjömarkens BTK",
-     "borta": "Eslövs AI BTK: A1",
-     "hemma_klubb": "Sjömarkens Bordtennisklubb",
-     "borta_klubb": "Eslövs AI Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Kosta Sportklubb",
-     "arrangorer": [
-      "Kosta Sportklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-09-27",
    "platser": [
@@ -1451,7 +1483,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-09-27",
@@ -1467,7 +1500,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1495,7 +1529,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1523,7 +1558,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1551,7 +1587,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1579,7 +1616,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1607,7 +1645,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1635,7 +1674,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1663,7 +1703,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1679,7 +1720,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1695,7 +1737,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1711,7 +1754,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1727,7 +1771,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1743,7 +1788,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1759,7 +1805,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2026-12-12",
@@ -1775,7 +1822,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1803,7 +1851,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1831,7 +1880,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1860,7 +1910,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-01-17",
@@ -1876,7 +1927,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1904,7 +1956,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1933,7 +1986,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-02-14",
@@ -1950,6 +2004,7 @@
       "Kosta Sportklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false,
      "hemma_poang": 2,
      "borta_poang": 0
     }
@@ -1980,6 +2035,7 @@
       "Kosta Sportklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false,
      "hemma_poang": 2,
      "borta_poang": 0
     }
@@ -2009,7 +2065,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2025,7 +2082,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2041,7 +2099,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2057,7 +2116,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2073,7 +2133,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2089,7 +2150,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2105,7 +2167,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-13",
@@ -2121,7 +2184,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -2151,7 +2215,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2167,7 +2232,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2183,7 +2249,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2199,7 +2266,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2215,7 +2283,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2231,7 +2300,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2247,7 +2317,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2263,7 +2334,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     },
     {
      "datum": "2027-03-14",
@@ -2279,7 +2351,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -2307,7 +2380,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -2335,7 +2409,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -2363,7 +2438,8 @@
      "arrangorer": [
       "Kosta Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "exakt_lank": false
     }
    ]
   }
@@ -2373,10 +2449,22 @@
    "serie": "DIV 5 Mellersta",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false,
    "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Kosta SK C",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Ljungby BTK A",
      "klubb": "Ljungby Bordtennisklubb",
      "spelade": 1,
@@ -2387,7 +2475,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Lessebo BTK B",
      "klubb": "Lessebo Bordtennisklubb",
      "spelade": 1,
@@ -2398,29 +2486,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Dänningelanda BTK D",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Kosta SK C",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "BTK Näcken A",
      "klubb": "Bordtennisklubben Näcken",
      "spelade": 0,
@@ -2431,7 +2497,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "BTK Frej C",
      "klubb": "Bordtennisklubben Frej",
      "spelade": 0,
@@ -2442,7 +2508,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Böksholms IF A",
      "klubb": "Böksholms Idrottsförening",
      "spelade": 1,
@@ -2453,9 +2519,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Örjansklubben/Ramkvilla IF A",
      "klubb": "Örjansklubben/Ramkvilla IF",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Dänningelanda BTK D",
+     "klubb": "Dänningelanda Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2469,93 +2546,94 @@
    "serie": "Div 2 SSN",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
+   "exakt_lank": false,
    "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Lessebo BTK",
      "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Kosta SK: B",
      "klubb": "Kosta Sportklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Lyckeby BTK: B",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "KFUM Jönköping IA",
-     "klubb": "KFUM Jönköping",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Jämjö BTK",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Jämjö BTK",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "KFUM Jönköping IA",
+     "klubb": "KFUM Jönköping",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Huskvarna Södra IS",
      "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Carlshamns BTK",
      "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "SK Frigg",
      "klubb": "Sportklubben Frigg",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2565,6 +2643,7 @@
    "serie": "Div 2 SSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
+   "exakt_lank": false,
    "startad": true,
    "rader": [
     {
@@ -2591,39 +2670,6 @@
     },
     {
      "placering": 3,
-     "lag": "IFK Lund Bordtennis: B",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "BTK Rekord",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Malmö IF: B",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Bergkvara BTK",
      "klubb": "Bergkvara Bordtennisklubb",
      "spelade": 1,
@@ -2634,24 +2680,57 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 4,
+     "lag": "Malmö IF: B",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "IFK Lund Bordtennis: B",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
      "lag": "Kosta SK: B",
      "klubb": "Kosta Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Trelleborgs BTK",
      "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2661,6 +2740,7 @@
    "serie": "Div 6 Syd/ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
    "startad": true,
    "rader": [
     {
@@ -2676,6 +2756,17 @@
     },
     {
      "placering": 2,
+     "lag": "Lyckeby BTK F",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 3,
      "lag": "Nävragöls BK B",
      "klubb": "Nävragöls Bollklubb",
      "spelade": 2,
@@ -2686,19 +2777,8 @@
      "setdiff": "528–0"
     },
     {
-     "placering": 3,
-     "lag": "Lyckeby BTK F",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "528–0"
-    },
-    {
      "placering": 4,
-     "lag": "Lyckeby BTK I",
+     "lag": "Lyckeby BTK J",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
@@ -2709,12 +2789,12 @@
     },
     {
      "placering": 5,
-     "lag": "Lyckeby BTK J",
+     "lag": "Lyckeby BTK I",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 4,
      "setdiff": "528–0"
     },
@@ -2757,45 +2837,57 @@
    "serie": "Pingisligan (dam)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Eslövs AI BTK: A1",
      "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Halmstad BTK",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Kosta SK",
      "klubb": "Kosta Sportklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Köpings BTK Dam",
      "klubb": "Köpings BTK Dam",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2804,7 +2896,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Ängby SK",
      "klubb": "Ängby Sportklubb",
      "spelade": 1,
@@ -2815,35 +2907,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Västers BTK",
      "klubb": "Västers Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Tibble-Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2851,10 +2932,10 @@
      "placering": 9,
      "lag": "Sjömarkens BTK",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2862,10 +2943,10 @@
      "placering": 10,
      "lag": "Våxtorps BOIS",
      "klubb": "Våxtorps Boll O IS",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2873,10 +2954,10 @@
      "placering": 11,
      "lag": "Eslövs AI BTK: A2",
      "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2886,6 +2967,7 @@
    "serie": "Pingisligan (herr)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
@@ -2971,6 +3053,7 @@
    "serie": "Pingisligan damer Knockout",
    "evenemang": "Pingisligan by STIGA Slutspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
+   "exakt_lank": true,
    "startad": true,
    "rader": [
     {

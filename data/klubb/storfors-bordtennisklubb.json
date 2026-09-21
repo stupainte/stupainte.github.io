@@ -4,7 +4,7 @@
   "namn": "Storfors Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-20T08:56:27Z",
+ "uppdaterad": "2026-09-21T09:28:16Z",
  "lag": [
   {
    "namn": "Storfors",
@@ -22,13 +22,34 @@
   }
  ],
  "kommande": [],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Storfors",
+   "borta": "Kristinehamn 2",
+   "hemma_klubb": "Storfors Bordtennisklubb",
+   "borta_klubb": "Kristinehamns Bordtennisförening",
+   "plats": null,
+   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangorer": [
+    "Kristinehamns Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
    "serie": "Division 5",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1060/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
@@ -125,6 +146,7 @@
    "serie": "Division 6",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
    "startad": false,
    "rader": [
     {
