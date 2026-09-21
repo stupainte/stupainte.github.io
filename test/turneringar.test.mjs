@@ -1,6 +1,16 @@
 import { JSDOM } from 'jsdom';
 import fs from 'fs';
 const load = p => JSON.parse(fs.readFileSync('data/'+p,'utf8'));
+
+// Turneringsdatan drivs av dagens datum (hink-fältet flyttas löpande mellan
+// kommande/pågående/passerad), så antal per filter och "senaste spelade"
+// räknas ut från själva datafilen i stället för att hårdkodas — annars
+// blev testet en återkommande underhållsbörda varje gång tiden gick.
+const tv = load('turneringar.json').turneringar;
+const antalKommande = tv.filter(t => t.hink === 'kommande').length;
+const senasteSpelad = tv.filter(t => t.hink === 'passerad')
+  .map(t => t.datum).sort().at(-1);
+
 const dom = new JSDOM(fs.readFileSync('index.html','utf8'),{runScripts:'dangerously',url:'https://stupainte.github.io/',
   beforeParse(w){ w.fetch=async u=>{const s=String(u).replace(/^.*?data\//,'');
     try{return{ok:true,status:200,json:async()=>load(s)}}catch{return{ok:false,status:404,json:async()=>({})}}}; }});
@@ -19,7 +29,7 @@ console.log('    ' + knappar.map(b=>b.textContent.trim()).join('  |  '));
 ok(d.querySelector('.filterrad button[aria-pressed="true"]')?.dataset.filter==='kommande','Kommande är förvalt');
 
 const rader=d.querySelectorAll('.tourn-tabell tbody tr');
-ok(rader.length===28,`28 kommande tävlingar (fick ${rader.length})`);
+ok(rader.length===antalKommande,`${antalKommande} kommande tävlingar (fick ${rader.length})`);
 ok(d.querySelectorAll('.tourn-tabell thead th').length===8,'8 kolumner');
 console.log('    kolumner: '+[...d.querySelectorAll('thead th')].map(t=>t.textContent).join(', '));
 
@@ -37,7 +47,7 @@ const p=d.querySelectorAll('.tourn-tabell tbody tr');
 ok(p.length===150,`begränsat till 150 rader (fick ${p.length})`);
 ok(!!d.querySelector('.visa-fler'),'"visa fler"-knapp finns');
 const forsta=d.querySelector('.tourn-tabell tbody tr td.datum').textContent.trim();
-ok(/^2026-0[78]/.test(forsta),`senaste först (${forsta})`);
+ok(forsta===senasteSpelad,`senaste först (${forsta}, väntat ${senasteSpelad})`);
 d.querySelector('.visa-fler').click(); await v(400);
 ok(d.querySelectorAll('.tourn-tabell tbody tr').length===450,'visa fler laddar 300 till');
 

@@ -82,18 +82,16 @@ starta manuellt under **Actions → Uppdatera data → Run workflow**.
 
 ## Innehåll just nu
 
-Hämtat 2026-08-05 från sex publicerade seriespel:
+Ögonblicksbild från 2026-09-21, ett stycke in i höstsäsongen — fler distrikt
+publicerar sitt seriespel allteftersom augusti–september går, se den årliga
+cykeln i `FÖRVALTNING.md`. Just nu **12 publicerade evenemang**: Nationellt
+seriespel och kvalspel, Pingisligan slutspel, samt distriktsserier för
+Dalarna, Nordöstra och Nordvästra Götaland, Södermanland, Stockholm,
+Västmanland, Östergötland, Sydöstra Götaland och NBTF.
 
-| Evenemang | Matcher |
-| --------- | ------- |
-| Nationellt seriespel 2026-2027 | 2131 |
-| Nordöstra Svealands BTF 26/27 | 560 |
-| Lag-SM 2026 | 165 |
-| Nordvästra Götalands BTF 25/26 | 40 |
-| Nationellt kvalspel 2026 | 35 |
-| Pingisligan by STIGA Slutspel | 18 |
-
-Totalt **177 klubbar, 2949 matcher, 68 serier** — plus 72 turneringar.
+Totalt **253 klubbar, 4910 matcher** — plus 1398 turneringar (STUPA och
+TT-Coordinator sammanslaget). Exakta siffror ändras varje natt; se
+`data/index.json` för den aktuella räkningen.
 
 Nio av SBTF:s femton distrikt saknas, för att de ännu inte publicerat sitt
 seriespel för 26/27 i STUPA. De dyker upp automatiskt när de gör det.
@@ -103,7 +101,8 @@ seriespel för 26/27 i STUPA. De dyker upp automatiskt när de gör det.
 STUPA:s publika evenemangslista blandar skarpa serier med utvecklings- och
 testdata. `hamta.py` filtrerar på tre kriterier: `published`,
 `event_level != "Testtävling"` och att namnet inte innehåller "test" som eget
-ord. 200 av 278 evenemang faller bort.
+ord. 220 av 335 evenemang faller bort (2026-09-21) — andelen växer i takt
+med att fler distrikt lägger upp sina interna test- och övningsserier.
 
 Var särskilt uppmärksam på att namn kan se helt trovärdiga ut.
 *"Bästkustens BTF 26/27"* låter som ett distrikt, men SBTF har bara 15

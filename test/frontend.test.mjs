@@ -23,7 +23,7 @@ const w=dom.window, d=w.document, vänta=ms=>new Promise(r=>setTimeout(r,ms));
 await vänta(400);
 const fel=[], ok=(v,t)=>(v?console.log('  ✓ '+t):fel.push(t));
 
-ok(d.getElementById('picker-status').textContent.includes('190 klubbar'),'177 klubbar laddade');
+ok(d.getElementById('picker-status').textContent.includes('253 klubbar'),'253 klubbar laddade');
 
 const s=d.getElementById('search');
 s.value='hammarby'; s.dispatchEvent(new w.Event('input'));
@@ -32,10 +32,10 @@ d.querySelector('.result[data-slug]').dispatchEvent(new w.MouseEvent('click',{bu
 await vänta(300);
 
 ok(d.getElementById('club-name').textContent.includes('Hammarby'),'klubbvyn öppnas');
-ok(d.getElementById('club-meta').textContent.includes('7 lag'),'7 lag');
+ok(d.getElementById('club-meta').textContent.includes('9 lag'),'9 lag');
 
 const m=d.querySelectorAll('#panel .match');
-ok(m.length===82,`82 kommande matcher (fick ${m.length})`);
+ok(m.length===70,`70 kommande matcher (fick ${m.length})`);
 ok(d.querySelectorAll('#panel .day').length>1,'grupperade per datum');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade');
 // STUPA kan bara ibland djuplänka till rätt division (se exakt_lank i
@@ -49,20 +49,22 @@ const flik=n=>[...d.querySelectorAll('nav.tabs button')].find(b=>b.dataset.tab==
   .dispatchEvent(new w.MouseEvent('click',{bubbles:true}));
 
 flik('tabeller');
-ok(d.querySelectorAll('#panel .table-block').length===7,'7 tabeller');
-ok(d.querySelectorAll('#panel .not-started').length===6,'6 ej startade serier visas som deltagarlista');
-ok(d.querySelectorAll('#panel thead').length===1,'bara den startade serien har tabellhuvud');
+ok(d.querySelectorAll('#panel .table-block').length===9,'9 tabeller');
+// Säsongen har kommit igång sedan sist — alla Hammarbys serier har nu
+// spelat minst en omgång, så ingen visas längre som ren deltagarlista.
+ok(d.querySelectorAll('#panel .not-started').length===0,'alla serier har startat');
+ok(d.querySelectorAll('#panel thead').length===9,'alla 9 startade serier har tabellhuvud');
 ok(d.querySelectorAll('#panel tr.mine-row').length>0,'egna lag markerade i tabellerna');
 
 flik('resultat');
-ok(d.querySelectorAll('#panel .match').length===1,'1 spelad match');
+ok(d.querySelectorAll('#panel .match').length===20,'20 spelade matcher');
 ok(/\d+–\d+/.test(d.getElementById('panel').innerHTML),'resultatsiffror visas');
 
 flik('arrangerar');
-ok(d.querySelectorAll('#panel .dag-block').length===4,'4 speldagar att arrangera');
-ok(d.querySelector('#panel .sammanfattning')?.textContent.includes('30 matcher'),'sammanfattning räknar 30 matcher');
-ok(d.querySelectorAll('#panel .arr-tabell tr').length===30,'30 matchrader');
-ok(d.querySelector('#panel .dag-topp').textContent.includes('A-Hallen'),'spelplats i dagsrubriken');
+ok(d.querySelectorAll('#panel .dag-block').length===3,'3 speldagar att arrangera');
+ok(d.querySelector('#panel .sammanfattning')?.textContent.includes('22 matcher'),'sammanfattning räknar 22 matcher');
+ok(d.querySelectorAll('#panel .arr-tabell tr').length===22,'22 matchrader');
+ok(d.querySelector('#panel .dag-topp').textContent.includes('A-hallen'),'spelplats i dagsrubriken');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade även här');
 
 // Tävlingsfliken testas separat i turneringar.test.mjs — den laddar en
