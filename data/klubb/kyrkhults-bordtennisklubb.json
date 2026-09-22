@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-22T08:59:04Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -51,23 +51,6 @@
     "Kyrkhults Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-09-27",
-   "tid": "13:00",
-   "serie": "DIV 4 SÖDRA",
-   "omgang": "Round 2",
-   "hemma": "Lyckeby BTK D",
-   "borta": "Kyrkhults BTK A",
-   "hemma_klubb": "Lyckeby Bordtennisklubb",
-   "borta_klubb": "Kyrkhults Bordtennisklubb",
-   "plats": "Aktivitetshusets BT-hall",
-   "arrangor": "Lyckeby Bordtennisklubb",
-   "arrangorer": [
-    "Lyckeby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
    "exakt_lank": false
   },
   {
@@ -119,6 +102,23 @@
     "Lyckeby Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "11:00",
+   "serie": "DIV 4 SÖDRA",
+   "omgang": "Round 2",
+   "hemma": "Lyckeby BTK D",
+   "borta": "Kyrkhults BTK A",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Kyrkhults Bordtennisklubb",
+   "plats": "Aktivitetshusets BT-hall",
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1654,23 +1654,23 @@
     },
     {
      "placering": 4,
-     "lag": "SK Frigg B",
-     "klubb": "Sportklubben Frigg",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Nävragöls BK ",
+     "klubb": "Nävragöls Bollklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Nävragöls BK ",
-     "klubb": "Nävragöls Bollklubb",
-     "spelade": 0,
+     "lag": "SK Frigg B",
+     "klubb": "Sportklubben Frigg",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1718,6 +1718,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kullåkra BTK A",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Listerby IK C",
      "klubb": "Listerby Idrottsklubb",
      "spelade": 1,
@@ -1728,7 +1739,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kyrkhults BTK B",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 1,
@@ -1739,7 +1750,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kättilsmåla BTK B",
      "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 0,
@@ -1750,7 +1761,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
      "spelade": 0,
@@ -1761,29 +1772,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Kullåkra BTK A",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "Lyckeby BTK E",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "BTK Frej D",
      "klubb": "Bordtennisklubben Frej",
      "spelade": 0,
@@ -1794,13 +1783,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Lyckeby BTK E",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1826,6 +1826,17 @@
     },
     {
      "placering": 2,
+     "lag": "Carlshamns BTK D",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Lyckeby BTK H",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 1,
@@ -1836,7 +1847,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Damnäs IF B",
      "klubb": "Damsnäs Idrottsförening",
      "spelade": 1,
@@ -1847,29 +1858,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Damsnäs IF C",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Carlshamns BTK D",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Kyrkhults BTK C",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 1,
@@ -1880,9 +1869,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Sölvesborgs BTK B",
      "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Damsnäs IF C",
+     "klubb": "Damsnäs Idrottsförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

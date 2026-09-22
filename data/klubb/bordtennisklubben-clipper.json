@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Clipper"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-22T08:59:04Z",
  "lag": [
   {
    "namn": "BTK Clipper A",
@@ -1827,6 +1827,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK B",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Sävsjö BTK B",
      "klubb": "Sävsjö Bordtennisklubb",
      "spelade": 1,
@@ -1837,7 +1848,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Clipper A",
      "klubb": "Bordtennisklubben Clipper",
      "spelade": 1,
@@ -1848,20 +1859,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ölmstad IF A",
-     "klubb": "Ölmstad Idrottsällskap",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Tranås BTK B",
-     "klubb": "Tranås Bordtennisklubb",
+     "lag": "KFUM Jönköping IAS E",
+     "klubb": "KFUM Jönköping",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1871,12 +1871,12 @@
     },
     {
      "placering": 6,
-     "lag": "KFUM Jönköping IAS E",
-     "klubb": "KFUM Jönköping",
-     "spelade": 0,
+     "lag": "Ölmstad IF A",
+     "klubb": "Ölmstad Idrottsällskap",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

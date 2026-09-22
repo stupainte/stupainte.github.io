@@ -4,7 +4,7 @@
   "namn": "Långemåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-22T08:59:04Z",
  "lag": [
   {
    "namn": "Långemåla BTK",
@@ -711,6 +711,46 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "DIV 4 ÖSTRA",
+   "omgang": "Round 1",
+   "hemma": "Kalmar BTK B",
+   "borta": "Långemåla BTK B",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Långemåla Bordtennisklubb",
+   "plats": "Demohallen",
+   "arrangor": "Damsnäs Idrottsförening / Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Damsnäs Idrottsförening",
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "15:00",
+   "serie": "DIV 4 ÖSTRA",
+   "omgang": "Round 2",
+   "hemma": "Långemåla BTK B",
+   "borta": "Högsby BTK B",
+   "hemma_klubb": "Långemåla Bordtennisklubb",
+   "borta_klubb": "Högsby Bordtennisklubb",
+   "plats": "Demohallen",
+   "arrangor": "Damsnäs Idrottsförening / Långemåla Bordtennisklubb",
+   "arrangorer": [
+    "Damsnäs Idrottsförening",
+    "Långemåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -994,8 +1034,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Oskarshamns BTK C",
-     "klubb": "Oskarshamns Bordtennisklubb",
+     "lag": "Nickebo IK A",
+     "klubb": "Nickebo Idrottsklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1005,6 +1045,28 @@
     },
     {
      "placering": 2,
+     "lag": "Damsnäs IF A",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Högsby BTK B",
+     "klubb": "Högsby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Oskarshamns BTK B",
      "klubb": "Oskarshamns Bordtennisklubb",
      "spelade": 2,
@@ -1015,64 +1077,42 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Nickebo IK A",
-     "klubb": "Nickebo Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Högsby BTK B",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Damsnäs IF A",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kalmar BTK B",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Kalmar BTK B",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Oskarshamns BTK C",
+     "klubb": "Oskarshamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Långemåla BTK B",
-     "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Västerviks BTK B",
+     "klubb": "Västerviks Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Västerviks BTK B",
-     "klubb": "Västerviks Bordtennisklubb",
+     "lag": "Långemåla BTK B",
+     "klubb": "Långemåla Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-22T08:59:04Z",
  "lag": [
   {
    "namn": "Tranås BTK A",
@@ -1669,6 +1669,25 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie": "DIV 5 NORRA",
+   "omgang": "Round 1",
+   "hemma": "Ölmstad IF A",
+   "borta": "Tranås BTK B",
+   "hemma_klubb": "Ölmstad Idrottsällskap",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "ÖIS Gården",
+   "arrangor": "Ölmstad Idrottsällskap",
+   "arrangorer": [
+    "Ölmstad Idrottsällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1178/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "13:00",
    "serie": "Div 6 Norra A ",
    "omgang": "Round 1",
    "hemma": "Tranås BTK C",
@@ -2891,6 +2910,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK B",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Sävsjö BTK B",
      "klubb": "Sävsjö Bordtennisklubb",
      "spelade": 1,
@@ -2901,7 +2931,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Clipper A",
      "klubb": "Bordtennisklubben Clipper",
      "spelade": 1,
@@ -2912,20 +2942,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ölmstad IF A",
-     "klubb": "Ölmstad Idrottsällskap",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Tranås BTK B",
-     "klubb": "Tranås Bordtennisklubb",
+     "lag": "KFUM Jönköping IAS E",
+     "klubb": "KFUM Jönköping",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2935,12 +2954,12 @@
     },
     {
      "placering": 6,
-     "lag": "KFUM Jönköping IAS E",
-     "klubb": "KFUM Jönköping",
-     "spelade": 0,
+     "lag": "Ölmstad IF A",
+     "klubb": "Ölmstad Idrottsällskap",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
