@@ -4,17 +4,127 @@
   "namn": "Rudalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-23T09:00:20Z",
  "lag": [
+  {
+   "namn": "Rudalen C",
+   "serie": {
+    "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Rudalens IF",
    "serie": {
     "namn": "Div 1 V Dam"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Rudalens IF A",
+   "serie": {
+    "namn": "Division 6"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Rudalens IF B",
+   "serie": {
+    "namn": "Division 7"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Rudalens IF C",
+   "serie": {
+    "namn": "Division 8"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Rudalens IF D",
+   "serie": {
+    "namn": "Division 10"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Rudalens IF E",
+   "serie": {
+    "namn": "Division 10"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-09-25",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "Warta B",
+   "borta": "Rudalen C",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-09-28",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 6",
+   "hemma": "Lindome D",
+   "borta": "Rudalen C",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 5",
+   "hemma": "Rudalen C",
+   "borta": "Warta B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-15",
+   "tid": "19:00",
+   "serie": "Division 8",
+   "omgang": "Round 1",
+   "hemma": "IF IFO E",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
   {
    "datum": "2026-10-17",
    "tid": "15:00",
@@ -31,6 +141,75 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF E",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF E",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF A",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF B",
+   "borta": "Romelanda UF",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Romelanda Ungdomsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-14",
@@ -67,6 +246,230 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-15",
+   "tid": "10:30",
+   "serie": "Division 10",
+   "omgang": "Round 2",
+   "hemma": "Backa BTK C",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 2",
+   "hemma": "Rudalens IF D",
+   "borta": "Askims BTK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 2",
+   "hemma": "Rudalens IF A",
+   "borta": "Backa BTK B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 2",
+   "hemma": "Rudalens IF B",
+   "borta": "Kungälvs BTK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 3",
+   "hemma": "Lekstorps IF E",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 3",
+   "hemma": "Rudalens IF D",
+   "borta": "Bohus IF A",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bohus Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 3",
+   "hemma": "Rudalens IF E",
+   "borta": "Askims BTK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 3",
+   "hemma": "Rudalens IF C",
+   "borta": "Mölndals BTK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 3",
+   "hemma": "BTK Linné H",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 4",
+   "hemma": "Lindome BTK C",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 4",
+   "hemma": "Rudalens IF A",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "14:00",
+   "serie": "Division 10",
+   "omgang": "Round 4",
+   "hemma": "Torslanda IK E",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "17:00",
+   "serie": "Division 8",
+   "omgang": "Round 4",
+   "hemma": "BTK Linné J",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-12-12",
    "tid": "11:00",
    "serie": "Div 1 V Dam",
@@ -101,6 +504,161 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-12-13",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 5",
+   "hemma": "Rudalens IF A",
+   "borta": "IF IFO C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 5",
+   "hemma": "Rudalens IF C",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 5",
+   "hemma": "BTK Linné I",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "18:00",
+   "serie": "Division 10",
+   "omgang": "Round 5",
+   "hemma": "Bohus IF A",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Bohus Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Bohushallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "10:00",
+   "serie": "Division 10",
+   "omgang": "Round 6",
+   "hemma": "Kungälvs BTK G",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 6",
+   "hemma": "Rudalens IF E",
+   "borta": "Torslanda IK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 6",
+   "hemma": "Rudalens IF A",
+   "borta": "IF IFO D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 6",
+   "hemma": "Rudalens IF C",
+   "borta": "Torslanda IK C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 6",
+   "hemma": "Askims BTK D",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-01-16",
    "tid": "11:00",
    "serie": "Div 1 V Dam",
@@ -116,6 +674,247 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 7",
+   "hemma": "Rudalens IF E",
+   "borta": "Kungälvs BTK G",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 7",
+   "hemma": "Rudalens IF D",
+   "borta": "Backa BTK C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 7",
+   "hemma": "Rudalens IF B",
+   "borta": "Mölndals BTK D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "17:30",
+   "serie": "Division 6",
+   "omgang": "Round 7",
+   "hemma": "Torslanda IK B",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-18",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 7",
+   "hemma": "Rudalens IF C",
+   "borta": "Mölndals BTK F",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-25",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 8",
+   "hemma": "BTK Warta D",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-26",
+   "tid": "18:30",
+   "serie": "Division 7",
+   "omgang": "Round 8",
+   "hemma": "Romelanda UF",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Romelanda Ungdomsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Romevi",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 8",
+   "hemma": "Rudalens IF D",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 8",
+   "hemma": "Rudalens IF D",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 8",
+   "hemma": "Rudalens IF C",
+   "borta": "IF IFO E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "10:30",
+   "serie": "Division 6",
+   "omgang": "Round 9",
+   "hemma": "Backa BTK B",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Backa Bordtennis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 9",
+   "hemma": "Rudalens IF E",
+   "borta": "Backa BTK C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "14:30",
+   "serie": "Division 7",
+   "omgang": "Round 9",
+   "hemma": "Kungälvs BTK E",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "17:00",
+   "serie": "Division 10",
+   "omgang": "Round 9",
+   "hemma": "Askims BTK E",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-02-13",
@@ -152,6 +951,179 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-02-14",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 10",
+   "hemma": "Rudalens IF A",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "14:00",
+   "serie": "Division 8",
+   "omgang": "Round 10",
+   "hemma": "Mölndals BTK E",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 10",
+   "hemma": "Rudalens IF B",
+   "borta": "BTK Linné H",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "17:00",
+   "serie": "Division 10",
+   "omgang": "Round 10",
+   "hemma": "Askims BTK E",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "18:00",
+   "serie": "Division 10",
+   "omgang": "Round 10",
+   "hemma": "Bohus IF A",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Bohus Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Bohushallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-27",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 11",
+   "hemma": "Lindome BTK B",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 11",
+   "hemma": "Rudalens IF D",
+   "borta": "Torslanda IK E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 11",
+   "hemma": "Rudalens IF B",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 11",
+   "hemma": "Rudalens IF C",
+   "borta": "BTK Linné J",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-10",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 12",
+   "hemma": "IF IFO C",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-03-13",
    "tid": "11:00",
    "serie": "Div 1 V Dam",
@@ -184,6 +1156,229 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 12",
+   "hemma": "Lekstorps IF F",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 12",
+   "hemma": "Rudalens IF E",
+   "borta": "Bohus IF A",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bohus Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 12",
+   "hemma": "Rudalens IF B",
+   "borta": "BTK Linné I",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-08",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 13",
+   "hemma": "IF IFO D",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "12:30",
+   "serie": "Division 10",
+   "omgang": "Round 13",
+   "hemma": "Rudalens IF D",
+   "borta": "Kungälvs BTK G",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "14:00",
+   "serie": "Division 10",
+   "omgang": "Round 13",
+   "hemma": "Torslanda IK E",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 13",
+   "hemma": "Rudalens IF B",
+   "borta": "Askims BTK D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "18:00",
+   "serie": "Division 8",
+   "omgang": "Round 13",
+   "hemma": "Torslanda IK C",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "10:00",
+   "serie": "Division 10",
+   "omgang": "Round 14",
+   "hemma": "Kungälvs BTK G",
+   "borta": "Rudalens IF E",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "10:30",
+   "serie": "Division 10",
+   "omgang": "Round 14",
+   "hemma": "Backa BTK C",
+   "borta": "Rudalens IF D",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 14",
+   "hemma": "Rudalens IF A",
+   "borta": "Torslanda IK B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "14:00",
+   "serie": "Division 7",
+   "omgang": "Round 14",
+   "hemma": "Mölndals BTK D",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "17:00",
+   "serie": "Division 8",
+   "omgang": "Round 14",
+   "hemma": "Mölndals BTK F",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
   }
  ],
  "resultat": [
@@ -226,7 +1421,247 @@
    "borta_poang": 0
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-30",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-30",
+     "tid": "19:00",
+     "serie": "Division 4",
+     "omgang": "Round 5",
+     "hemma": "Rudalen C",
+     "borta": "Warta B",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Vinstahallen",
+     "arrangor": "Rudalens Idrottsförening",
+     "arrangorer": [
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 1",
+     "hemma": "Rudalens IF A",
+     "borta": "BTK Warta D",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 2",
+     "hemma": "Rudalens IF A",
+     "borta": "Backa BTK B",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-29",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-29",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 4",
+     "hemma": "Rudalens IF A",
+     "borta": "Lindome BTK B",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Lindome Bordtennisklubb",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 5",
+     "hemma": "Rudalens IF A",
+     "borta": "IF IFO C",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-20",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-20",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 6",
+     "hemma": "Rudalens IF A",
+     "borta": "IF IFO D",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 10",
+     "hemma": "Rudalens IF A",
+     "borta": "Lekstorps IF E",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-18",
+   "platser": [
+    "Frölunda Kulturhus, lilla hallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-18",
+     "tid": "12:30",
+     "serie": "Division 6",
+     "omgang": "Round 14",
+     "hemma": "Rudalens IF A",
+     "borta": "Torslanda IK B",
+     "hemma_klubb": "Rudalens Idrottsförening",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Frölunda Kulturhus, lilla hallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Rudalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 1 V Dam",
@@ -309,6 +1744,458 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 10",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Backa BTK C",
+     "klubb": "Backa Bordtennis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Askims BTK E",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Kungälvs BTK G",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Rudalens IF D",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Rudalens IF E",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Bohus IF A",
+     "klubb": "Bohus Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Torslanda IK E",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 4",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Köpings BTK Valla",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Västerås BTK C1",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västerås BTK C3",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Köpings BTK GL",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Arboga BTK",
+     "klubb": "Arboga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hallstahammars BTK B",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Västerås BTK C2",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Norcopensarna: E1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kungälvs BTK E",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Rudalens IF B",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lindome BTK C",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Romelanda UF",
+     "klubb": "Romelanda Ungdomsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Mölndals BTK D",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Linné H",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "BTK Linné I",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK D",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 8",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Linné J",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lekstorps IF F",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Rudalens IF C",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF IFO E",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK C",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Mölndals BTK E",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Mölndals BTK F",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

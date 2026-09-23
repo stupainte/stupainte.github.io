@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Warta"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-23T09:00:20Z",
  "lag": [
   {
    "namn": "BTK Warta",
@@ -12,9 +12,95 @@
     "namn": "Div 2 VSS"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK Warta B",
+   "serie": {
+    "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK Warta C",
+   "serie": {
+    "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK Warta D",
+   "serie": {
+    "namn": "Division 6"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK Warta E",
+   "serie": {
+    "namn": "Division 9"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Warta B",
+   "serie": {
+    "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-09-25",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "Warta B",
+   "borta": "Rudalen C",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 4",
+   "hemma": "Lindome D",
+   "borta": "Warta B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 5",
+   "hemma": "Rudalen C",
+   "borta": "Warta B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -48,6 +134,148 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 1",
+   "hemma": "BTK Warta B",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 1",
+   "hemma": "BTK Warta B",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie": "Division 9",
+   "omgang": "Round 1",
+   "hemma": "Kungälvs BTK F",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF A",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 2",
+   "hemma": "BTK Warta D",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "IF IFO B1",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 2",
+   "hemma": "Torslanda BTK B",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Torslanda Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 2",
+   "hemma": "BTK Warta C",
+   "borta": "BTK Linné E",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -84,6 +312,202 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-18",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 3",
+   "hemma": "IF IFO B1",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 3",
+   "hemma": "BTK Warta B",
+   "borta": "TopSpeed BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "TopSpeed Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "17:30",
+   "serie": "Division 6",
+   "omgang": "Round 3",
+   "hemma": "Torslanda IK B",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 3",
+   "hemma": "Lekstorp IF H",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 4",
+   "hemma": "IF IFO B2",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 4",
+   "hemma": "BTK Warta E",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-25",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 4",
+   "hemma": "IF IFO D",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 4",
+   "hemma": "BTK Warta C",
+   "borta": "Kungälvs BTK D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-07",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 5",
+   "hemma": "BTK Warta D",
+   "borta": "Backa BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Division 4",
+   "omgang": "Round 5",
+   "hemma": "TopSpeed BTK B",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "TopSpeed Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "TopSpeed Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 5",
+   "hemma": "BTK Warta B",
+   "borta": "BTK Linné D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-12-13",
    "tid": "11:00",
    "serie": "Div 2 VSS",
@@ -116,6 +540,147 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 5",
+   "hemma": "BTK Linné K",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-14",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 6",
+   "hemma": "Lekstorps IF E",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "15:30",
+   "serie": "Division 9",
+   "omgang": "Round 6",
+   "hemma": "Torslanda IK D",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 6",
+   "hemma": "BTK Warta B",
+   "borta": "Kungälvs BTK D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "15:00",
+   "serie": "Division 4",
+   "omgang": "Round 6",
+   "hemma": "BTK Linné D",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-11",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 7",
+   "hemma": "BTK Warta E",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-11",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 7",
+   "hemma": "BTK Warta D",
+   "borta": "IF IFO C",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 7",
+   "hemma": "BTK Warta C",
+   "borta": "IF IFO B2",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-17",
@@ -152,6 +717,237 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-01-17",
+   "tid": "17:00",
+   "serie": "Division 4",
+   "omgang": "Round 7",
+   "hemma": "BTK Linné E",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-25",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 8",
+   "hemma": "BTK Warta E",
+   "borta": "Kungälvs BTK F",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-25",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 8",
+   "hemma": "BTK Warta D",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 8",
+   "hemma": "BTK Warta C",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 8",
+   "hemma": "BTK Warta C",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-01",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 9",
+   "hemma": "BTK Warta E",
+   "borta": "Torslanda BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-06",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 9",
+   "hemma": "Lindome BTK B",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 9",
+   "hemma": "BTK Warta B",
+   "borta": "IF IFO B1",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "17:00",
+   "serie": "Division 4",
+   "omgang": "Round 9",
+   "hemma": "BTK Linné E",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-08",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 10",
+   "hemma": "BTK Warta E",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-08",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 10",
+   "hemma": "BTK Warta D",
+   "borta": "Torslanda IK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Division 4",
+   "omgang": "Round 10",
+   "hemma": "TopSpeed BTK B",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "TopSpeed Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "TopSpeed Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 10",
+   "hemma": "BTK Warta C",
+   "borta": "IF IFO B1",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-02-14",
    "tid": "11:00",
    "serie": "Div 2 VSS",
@@ -186,6 +982,130 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-02-22",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 11",
+   "hemma": "BTK Warta D",
+   "borta": "IF IFO D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 11",
+   "hemma": "BTK Warta B",
+   "borta": "IF IFO B2",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 11",
+   "hemma": "Kungälvs BTK D",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Kungälvs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 11",
+   "hemma": "Askims BTK F",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-08",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 12",
+   "hemma": "BTK Warta E",
+   "borta": "BTK Linné K",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 12",
+   "hemma": "BTK Warta C",
+   "borta": "TopSpeed BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "TopSpeed Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "10:30",
+   "serie": "Division 6",
+   "omgang": "Round 12",
+   "hemma": "Backa BTK B",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Backa Bordtennis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie": "Div 2 VSS",
@@ -218,6 +1138,166 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Division 4",
+   "omgang": "Round 12",
+   "hemma": "BTK Linné D",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-05",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 13",
+   "hemma": "BTK Warta E",
+   "borta": "Torslanda IK D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-05",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 13",
+   "hemma": "BTK Warta D",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 13",
+   "hemma": "Kungälvs BTK D",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Kungälvs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 13",
+   "hemma": "BTK Warta C",
+   "borta": "BTK Linné D",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-12",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 14",
+   "hemma": "IF IFO B2",
+   "borta": "BTK Warta C",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-15",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 14",
+   "hemma": "IF IFO C",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "10:00",
+   "serie": "Division 4",
+   "omgang": "Round 14",
+   "hemma": "BTK Warta B",
+   "borta": "BTK Linné E",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 14",
+   "hemma": "Lekstorps IF G",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
   }
  ],
  "resultat": [
@@ -262,15 +1342,244 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-12-13",
+   "datum": "2026-09-25",
    "platser": [
-    "A-hallen"
+    "Vinstahallen"
    ],
    "serier": [
-    "Div 2 VSS"
+    "Division 4"
    ],
-   "antal": 8,
+   "antal": 1,
    "matcher": [
+    {
+     "datum": "2026-09-25",
+     "tid": "19:00",
+     "serie": "Division 4",
+     "omgang": "Round 2",
+     "hemma": "Warta B",
+     "borta": "Rudalen C",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Vinstahallen",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 1",
+     "hemma": "BTK Warta B",
+     "borta": "BTK Warta C",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-09",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-09",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 2",
+     "hemma": "BTK Warta D",
+     "borta": "Lindome BTK B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Lindome Bordtennisklubb",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 2",
+     "hemma": "BTK Warta C",
+     "borta": "BTK Linné E",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-22",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-22",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 3",
+     "hemma": "BTK Warta B",
+     "borta": "TopSpeed BTK B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "TopSpeed Bordtennisklubb",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-29",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-29",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 4",
+     "hemma": "BTK Warta C",
+     "borta": "Kungälvs BTK D",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-07",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-07",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 5",
+     "hemma": "BTK Warta D",
+     "borta": "Backa BTK B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "A-hallen",
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Div 2 VSS",
+    "Division 4"
+   ],
+   "antal": 9,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 5",
+     "hemma": "BTK Warta B",
+     "borta": "BTK Linné D",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    },
     {
      "datum": "2026-12-13",
      "tid": "11:00",
@@ -410,15 +1719,335 @@
    ]
   },
   {
-   "datum": "2027-03-14",
+   "datum": "2026-12-20",
    "platser": [
-    "A-hallen"
+    "Vinstahallen"
    ],
    "serier": [
-    "Div 2 VSS"
+    "Division 4"
    ],
-   "antal": 8,
+   "antal": 1,
    "matcher": [
+    {
+     "datum": "2026-12-20",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 6",
+     "hemma": "BTK Warta B",
+     "borta": "Kungälvs BTK D",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-11",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-11",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 7",
+     "hemma": "BTK Warta D",
+     "borta": "IF IFO C",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 7",
+     "hemma": "BTK Warta C",
+     "borta": "IF IFO B2",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-25",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-25",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 8",
+     "hemma": "BTK Warta D",
+     "borta": "Rudalens IF A",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-31",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-31",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 8",
+     "hemma": "BTK Warta C",
+     "borta": "BTK Warta B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-07",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-07",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 9",
+     "hemma": "BTK Warta B",
+     "borta": "IF IFO B1",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-08",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-08",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 10",
+     "hemma": "BTK Warta D",
+     "borta": "Torslanda IK B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 10",
+     "hemma": "BTK Warta C",
+     "borta": "IF IFO B1",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-22",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-22",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 11",
+     "hemma": "BTK Warta D",
+     "borta": "IF IFO D",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-28",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-28",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 11",
+     "hemma": "BTK Warta B",
+     "borta": "IF IFO B2",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "A-hallen",
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Div 2 VSS",
+    "Division 4"
+   ],
+   "antal": 9,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 12",
+     "hemma": "BTK Warta C",
+     "borta": "TopSpeed BTK B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "TopSpeed Bordtennisklubb",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    },
     {
      "datum": "2027-03-14",
      "tid": "11:00",
@@ -556,6 +2185,96 @@
      "exakt_lank": false
     }
    ]
+  },
+  {
+   "datum": "2027-04-05",
+   "platser": [
+    "Wartagården"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-05",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 13",
+     "hemma": "BTK Warta D",
+     "borta": "Lekstorps IF E",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-11",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-11",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 13",
+     "hemma": "BTK Warta C",
+     "borta": "BTK Linné D",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-18",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-18",
+     "tid": "10:00",
+     "serie": "Division 4",
+     "omgang": "Round 14",
+     "hemma": "BTK Warta B",
+     "borta": "BTK Linné E",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+     "exakt_lank": true
+    }
+   ]
   }
  ],
  "tabeller": [
@@ -652,6 +2371,286 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 4",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Köpings BTK Valla",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Västerås BTK C1",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västerås BTK C3",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Köpings BTK GL",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Arboga BTK",
+     "klubb": "Arboga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hallstahammars BTK B",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Västerås BTK C2",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Norcopensarna: E1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Torslanda BTK B",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Warta E",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Torslanda IK D",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lekstorp IF H",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Linné K",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lekstorps IF G",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kungälvs BTK F",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK F",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]

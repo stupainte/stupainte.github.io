@@ -4,7 +4,7 @@
   "namn": "Spårvägens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-22T08:59:04Z",
+ "uppdaterad": "2026-09-23T09:00:20Z",
  "lag": [
   {
    "namn": "Smashing Pumpkins",
@@ -169,23 +169,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-22",
-   "tid": "18:00",
-   "serie": "Pingisligan (herr)",
-   "omgang": "Round 1",
-   "hemma": "BTK Rekord",
-   "borta": "Spårvägens BTK",
-   "hemma_klubb": "Bordtennisklubben Rekord",
-   "borta_klubb": "Spårvägens Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Rekord",
-   "arrangorer": [
-    "Bordtennisklubben Rekord"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
-   "exakt_lank": true
-  },
   {
    "datum": "2026-10-13",
    "tid": "18:30",
@@ -3557,6 +3540,25 @@
    "tid": "",
    "serie": "Silly E",
    "omgang": "Round 5",
+   "hemma": "IFK Haninge",
+   "borta": "Spårvägen 3",
+   "hemma_klubb": "IFK Haninge",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "IFK Haninge",
+   "arrangorer": [
+    "IFK Haninge"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1299/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly E",
+   "omgang": "Round 5",
    "hemma": "Spårvägens BTK Almen",
    "borta": "Tibble Kungsängen BTK",
    "hemma_klubb": "Spårvägens Bordtennisklubb",
@@ -4082,6 +4084,25 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7",
    "exakt_lank": false,
    "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-22",
+   "tid": "18:00",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 1",
+   "hemma": "BTK Rekord",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
    "borta_poang": 1
   }
  ],
@@ -7242,56 +7263,56 @@
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
    "exakt_lank": true,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Eslövs AI BTK",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "BTK Rekord",
      "klubb": "Bordtennisklubben Rekord",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Spårvägens BTK",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Eslövs AI BTK",
-     "klubb": "Eslövs AI Bordtennisklubb",
+     "lag": "Eskilstuna by STIGA",
+     "klubb": "Linden Bordtennisklubb Eskilstuna",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -7301,23 +7322,23 @@
     },
     {
      "placering": 6,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Eskilstuna by STIGA",
-     "klubb": "Linden Bordtennisklubb Eskilstuna",
-     "spelade": 0,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -7570,15 +7591,26 @@
      "placering": 3,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 5,
+     "setdiff": "198–198"
+    },
+    {
+     "placering": 4,
+     "lag": "The Midz",
+     "klubb": "Nynäshamns Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 5,
+     "matchpoang": 4,
      "setdiff": "198–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "The homo sapiens",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 3,
@@ -7589,7 +7621,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Tyresö BTK F",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 4,
@@ -7598,17 +7630,6 @@
      "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–198"
-    },
-    {
-     "placering": 6,
-     "lag": "The Midz",
-     "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
     }
    ]
   },
@@ -7621,8 +7642,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Stocksunds Vällagarde",
-     "klubb": "KFUM Stocksund IA",
+     "lag": "Spårvägen 3",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -7632,13 +7653,13 @@
     },
     {
      "placering": 2,
-     "lag": "Spårvägen 3",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Stocksunds Vällagarde",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "198–0"
     },
     {
@@ -7654,6 +7675,17 @@
     },
     {
      "placering": 4,
+     "lag": "IFK Haninge",
+     "klubb": "IFK Haninge",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 5,
      "lag": "The Gumpy Men",
      "klubb": "Boo Racketklubb",
      "spelade": 3,
@@ -7661,17 +7693,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 5,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 5,
-     "lag": "IFK Haninge",
-     "klubb": "IFK Haninge",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
      "setdiff": "198–0"
     },
     {

@@ -4,12 +4,47 @@
   "namn": "Lekstorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-23T09:00:20Z",
  "lag": [
+  {
+   "namn": "Lekstorp IF H",
+   "serie": {
+    "namn": "Division 9"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Lekstorps IF",
    "serie": {
     "namn": "Div 1 V Herr"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lekstorps IF D",
+   "serie": {
+    "namn": "Division 5"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lekstorps IF E",
+   "serie": {
+    "namn": "Division 6"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lekstorps IF F",
+   "serie": {
+    "namn": "Division 8"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lekstorps IF G",
+   "serie": {
+    "namn": "Division 9"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -36,6 +71,24 @@
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-15",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 1",
+   "hemma": "Lekstorps IF D",
+   "borta": "Askims BTK C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -89,6 +142,24 @@
   },
   {
    "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Lindome BTK B",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-17",
    "tid": "15:00",
    "serie": "Div 1 V Herr",
    "omgang": "Round 4",
@@ -139,6 +210,93 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 1",
+   "hemma": "Lekstorps IF F",
+   "borta": "BTK Linné J",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 1",
+   "hemma": "Lekstorp IF H",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 1",
+   "hemma": "Lekstorp IF H",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 2",
+   "hemma": "Lekstorps IF E",
+   "borta": "IF IFO C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 2",
+   "hemma": "Lekstorps IF D",
+   "borta": "BTK Linné G",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-11-14",
    "tid": "11:00",
    "serie": "Div 1 V Herr",
@@ -171,6 +329,40 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:30",
+   "serie": "Division 9",
+   "omgang": "Round 2",
+   "hemma": "Torslanda IK D",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 2",
+   "hemma": "Lekstorps IF F",
+   "borta": "IF IFO E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -241,6 +433,197 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-15",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 2",
+   "hemma": "Lekstorps IF G",
+   "borta": "Kungälvs BTK F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 3",
+   "hemma": "Lekstorps IF E",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 3",
+   "hemma": "Lekstorps IF D",
+   "borta": "Torslanda IK A",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 3",
+   "hemma": "Torslanda BTK B",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Torslanda Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 3",
+   "hemma": "Lekstorps IF F",
+   "borta": "Mölndals BTK F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 3",
+   "hemma": "Lekstorp IF H",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "14:00",
+   "serie": "Division 8",
+   "omgang": "Round 4",
+   "hemma": "Mölndals BTK E",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 4",
+   "hemma": "BTK Linné K",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "17:30",
+   "serie": "Division 6",
+   "omgang": "Round 4",
+   "hemma": "Torslanda IK B",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 4",
+   "hemma": "Lekstorp IF H",
+   "borta": "Torslanda BTK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-07",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 5",
+   "hemma": "Lekstorps IF E",
+   "borta": "IF IFO D",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-12-12",
    "tid": "11:00",
    "serie": "Div 1 V Herr",
@@ -273,6 +656,23 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "15:30",
+   "serie": "Division 9",
+   "omgang": "Round 5",
+   "hemma": "Torslanda IK D",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-12-13",
@@ -326,6 +726,163 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Division 8",
+   "omgang": "Round 5",
+   "hemma": "Rudalens IF C",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "17:00",
+   "serie": "Division 5",
+   "omgang": "Round 5",
+   "hemma": "Mölndals BTK C",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund / Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Mölndals Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 5",
+   "hemma": "Lekstorp IF H",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-14",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 6",
+   "hemma": "Lekstorps IF E",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "10:00",
+   "serie": "Division 9",
+   "omgang": "Round 6",
+   "hemma": "Kungälvs BTK F",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "17:00",
+   "serie": "Division 5",
+   "omgang": "Round 6",
+   "hemma": "BTK Linné F",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 6",
+   "hemma": "Lekstorps IF G",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-11",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 7",
+   "hemma": "BTK Warta E",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-14",
+   "tid": "19:00",
+   "serie": "Division 5",
+   "omgang": "Round 7",
+   "hemma": "Torslanda BTK A",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Torslanda Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Björlandaskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-01-16",
    "tid": "11:00",
    "serie": "Div 1 V Herr",
@@ -358,6 +915,41 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 7",
+   "hemma": "Lekstorps IF F",
+   "borta": "Torslanda IK C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:30",
+   "serie": "Division 6",
+   "omgang": "Round 7",
+   "hemma": "Backa BTK B",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Backa Bordtennis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-17",
@@ -426,6 +1018,214 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 7",
+   "hemma": "Lekstorp IF H",
+   "borta": "BTK Linné K",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-25",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 8",
+   "hemma": "Lekstorps IF E",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "17:00",
+   "serie": "Division 8",
+   "omgang": "Round 8",
+   "hemma": "BTK Linné J",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "17:00",
+   "serie": "Division 5",
+   "omgang": "Round 8",
+   "hemma": "Askims BTK C",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Askims Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 8",
+   "hemma": "Lekstorps IF G",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 8",
+   "hemma": "Lekstorps IF G",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-01",
+   "tid": "19:00",
+   "serie": "Division 8",
+   "omgang": "Round 9",
+   "hemma": "IF IFO E",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-03",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 9",
+   "hemma": "IF IFO C",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "10:00",
+   "serie": "Division 9",
+   "omgang": "Round 9",
+   "hemma": "Kungälvs BTK F",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "17:00",
+   "serie": "Division 5",
+   "omgang": "Round 9",
+   "hemma": "BTK Linné G",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 9",
+   "hemma": "Lekstorp IF H",
+   "borta": "Torslanda IK D",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-08",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 10",
+   "hemma": "BTK Warta E",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-02-13",
@@ -497,6 +1297,42 @@
   },
   {
    "datum": "2027-02-14",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 10",
+   "hemma": "Rudalens IF A",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "14:00",
+   "serie": "Division 5",
+   "omgang": "Round 10",
+   "hemma": "Torslanda IK A",
+   "borta": "Lekstorps IF D",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
    "tid": "15:00",
    "serie": "Div 2 VSS",
    "omgang": "Round 12",
@@ -528,6 +1364,145 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "17:00",
+   "serie": "Division 8",
+   "omgang": "Round 10",
+   "hemma": "Mölndals BTK F",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 10",
+   "hemma": "Lekstorps IF G",
+   "borta": "Torslanda BTK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-22",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 11",
+   "hemma": "Lekstorps IF E",
+   "borta": "Torslanda IK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-25",
+   "tid": "19:00",
+   "serie": "Division 9",
+   "omgang": "Round 11",
+   "hemma": "Torslanda BTK B",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Torslanda Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 11",
+   "hemma": "Lekstorps IF F",
+   "borta": "Mölndals BTK E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 11",
+   "hemma": "Lekstorps IF G",
+   "borta": "BTK Linné K",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-11",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 12",
+   "hemma": "Lekstorps IF D",
+   "borta": "Mölndals BTK C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-11",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 12",
+   "hemma": "IF IFO D",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-03-13",
@@ -562,6 +1537,23 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "10:00",
+   "serie": "Division 8",
+   "omgang": "Round 12",
+   "hemma": "Lekstorps IF F",
+   "borta": "Rudalens IF C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-03-14",
@@ -613,6 +1605,197 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 12",
+   "hemma": "Askims BTK F",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 12",
+   "hemma": "Lekstorps IF G",
+   "borta": "Torslanda IK D",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-05",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 13",
+   "hemma": "BTK Warta D",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-08",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 13",
+   "hemma": "Lekstorps IF D",
+   "borta": "BTK Linné F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 13",
+   "hemma": "Askims BTK F",
+   "borta": "Lekstorps IF G",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 13",
+   "hemma": "Lekstorp IF H",
+   "borta": "Kungälvs BTK F",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-12",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 14",
+   "hemma": "Lekstorps IF E",
+   "borta": "Backa BTK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-15",
+   "tid": "18:30",
+   "serie": "Division 5",
+   "omgang": "Round 14",
+   "hemma": "Lekstorps IF D",
+   "borta": "Torslanda BTK A",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "17:00",
+   "serie": "Division 9",
+   "omgang": "Round 14",
+   "hemma": "BTK Linné K",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "18:00",
+   "serie": "Division 9",
+   "omgang": "Round 14",
+   "hemma": "Lekstorps IF G",
+   "borta": "BTK Warta E",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "18:00",
+   "serie": "Division 8",
+   "omgang": "Round 14",
+   "hemma": "Torslanda IK C",
+   "borta": "Lekstorps IF F",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true
   }
  ],
  "resultat": [
@@ -809,6 +1992,96 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-10-15",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-15",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 1",
+     "hemma": "Lekstorps IF D",
+     "borta": "Askims BTK C",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-09",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-09",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 2",
+     "hemma": "Lekstorps IF E",
+     "borta": "IF IFO C",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-12",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-12",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 2",
+     "hemma": "Lekstorps IF D",
+     "borta": "BTK Linné G",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
    "datum": "2026-11-14",
    "platser": [
     "A-hallen"
@@ -953,6 +2226,126 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
      "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-16",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-16",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 3",
+     "hemma": "Lekstorps IF E",
+     "borta": "Rudalens IF A",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-19",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-19",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 3",
+     "hemma": "Lekstorps IF D",
+     "borta": "Torslanda IK A",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-07",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-07",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 5",
+     "hemma": "Lekstorps IF E",
+     "borta": "IF IFO D",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-14",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-14",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 6",
+     "hemma": "Lekstorps IF E",
+     "borta": "BTK Warta D",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -1251,6 +2644,186 @@
      "exakt_lank": false
     }
    ]
+  },
+  {
+   "datum": "2027-01-25",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-25",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 8",
+     "hemma": "Lekstorps IF E",
+     "borta": "Lindome BTK B",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Lindome Bordtennisklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-22",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-22",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 11",
+     "hemma": "Lekstorps IF E",
+     "borta": "Torslanda IK B",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-11",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-11",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 12",
+     "hemma": "Lekstorps IF D",
+     "borta": "Mölndals BTK C",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Mölndals Bordtennisklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-08",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-08",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 13",
+     "hemma": "Lekstorps IF D",
+     "borta": "BTK Linné F",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-12",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-12",
+     "tid": "19:00",
+     "serie": "Division 6",
+     "omgang": "Round 14",
+     "hemma": "Lekstorps IF E",
+     "borta": "Backa BTK B",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-15",
+   "platser": [
+    "Röselidsskolan"
+   ],
+   "serier": [
+    "Division 5"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-15",
+     "tid": "18:30",
+     "serie": "Division 5",
+     "omgang": "Round 14",
+     "hemma": "Lekstorps IF D",
+     "borta": "Torslanda BTK A",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Torslanda Bordtennisklubb",
+     "plats": "Röselidsskolan",
+     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lekstorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+     "exakt_lank": true
+    }
+   ]
   }
  ],
  "tabeller": [
@@ -1542,6 +3115,383 @@
      "forlorade": 7,
      "matchpoang": 0,
      "setdiff": "0–1848"
+    }
+   ]
+  },
+  {
+   "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1060/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IF Norcopensarna: D1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IF Norcopensarna: D2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Linköpings PK: E1",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kuddby IF",
+     "klubb": "Kuddby Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Linköpings PK: E2",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Linköpings PK: E3",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Linköpings PK: E4",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Linköpings PK: E5",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Norcopensarna: E1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 8",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Linné J",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lekstorps IF F",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Rudalens IF C",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF IFO E",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK C",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Mölndals BTK E",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Mölndals BTK F",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Torslanda BTK B",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Warta E",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Torslanda IK D",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lekstorp IF H",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Linné K",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lekstorps IF G",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kungälvs BTK F",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK F",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   },

@@ -4,7 +4,7 @@
   "namn": "Lindome Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-23T09:00:20Z",
  "lag": [
   {
    "namn": "Lindome BTK",
@@ -12,9 +12,64 @@
     "namn": "Div 3 VSSV"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lindome BTK B",
+   "serie": {
+    "namn": "Division 6"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lindome BTK C",
+   "serie": {
+    "namn": "Division 7"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lindome D",
+   "serie": {
+    "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-09-28",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 6",
+   "hemma": "Lindome D",
+   "borta": "Rudalen C",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Division 4",
+   "omgang": "Round 4",
+   "hemma": "Lindome D",
+   "borta": "Warta B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-17",
    "tid": "10:00",
@@ -34,6 +89,41 @@
   },
   {
    "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 1",
+   "hemma": "Lindome BTK C",
+   "borta": "Kungälvs BTK E",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 1",
+   "hemma": "Lindome BTK B",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-17",
    "tid": "14:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 4",
@@ -48,6 +138,24 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 2",
+   "hemma": "BTK Warta D",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -84,6 +192,93 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-15",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 2",
+   "hemma": "BTK Linné I",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 3",
+   "hemma": "Lindome BTK C",
+   "borta": "Mölndals BTK D",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 3",
+   "hemma": "Lindome BTK B",
+   "borta": "IF IFO C",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 4",
+   "hemma": "Lindome BTK C",
+   "borta": "Rudalens IF B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "12:30",
+   "serie": "Division 6",
+   "omgang": "Round 4",
+   "hemma": "Rudalens IF A",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Rudalens Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-12-12",
    "tid": "11:00",
    "serie": "Div 3 VSSV",
@@ -102,6 +297,23 @@
   },
   {
    "datum": "2026-12-12",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 5",
+   "hemma": "Lindome BTK C",
+   "borta": "BTK Linné H",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-12",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 8",
@@ -116,6 +328,77 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "17:30",
+   "serie": "Division 6",
+   "omgang": "Round 5",
+   "hemma": "Torslanda IK B",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-15",
+   "tid": "18:30",
+   "serie": "Division 7",
+   "omgang": "Round 6",
+   "hemma": "Romelanda UF",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Romelanda Ungdomsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Romevi",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 6",
+   "hemma": "Lindome BTK B",
+   "borta": "Backa BTK B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-13",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 7",
+   "hemma": "IF IFO D",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-01-16",
@@ -152,6 +435,111 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-01-17",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 7",
+   "hemma": "Askims BTK D",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-25",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 8",
+   "hemma": "Lekstorps IF E",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-31",
+   "tid": "14:30",
+   "serie": "Division 7",
+   "omgang": "Round 8",
+   "hemma": "Kungälvs BTK E",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-06",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 9",
+   "hemma": "Lindome BTK C",
+   "borta": "BTK Linné I",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-06",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 9",
+   "hemma": "Lindome BTK B",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "19:00",
+   "serie": "Division 6",
+   "omgang": "Round 10",
+   "hemma": "IF IFO C",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exhuset",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-02-13",
    "tid": "11:00",
    "serie": "Div 3 VSSV",
@@ -186,6 +574,58 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-02-14",
+   "tid": "14:00",
+   "serie": "Division 7",
+   "omgang": "Round 10",
+   "hemma": "Mölndals BTK D",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Aktiviteten, Mölndal",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-27",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 11",
+   "hemma": "Lindome BTK B",
+   "borta": "Rudalens IF A",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-28",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 11",
+   "hemma": "Rudalens IF B",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-03-13",
    "tid": "11:00",
    "serie": "Div 3 VSSV",
@@ -204,6 +644,24 @@
   },
   {
    "datum": "2027-03-13",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 12",
+   "hemma": "Lindome BTK B",
+   "borta": "Torslanda IK B",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-13",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 14",
@@ -218,6 +676,93 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "17:00",
+   "serie": "Division 7",
+   "omgang": "Round 12",
+   "hemma": "BTK Linné H",
+   "borta": "Lindome BTK C",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Dunrosshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 13",
+   "hemma": "Lindome BTK C",
+   "borta": "Romelanda UF",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Romelanda Ungdomsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "10:30",
+   "serie": "Division 6",
+   "omgang": "Round 13",
+   "hemma": "Backa BTK B",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Backa Bordtennis Klubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "VinstahallenSkogomeskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Backa Bordtennis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "12:00",
+   "serie": "Division 7",
+   "omgang": "Round 14",
+   "hemma": "Lindome BTK C",
+   "borta": "Askims BTK D",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "12:00",
+   "serie": "Division 6",
+   "omgang": "Round 14",
+   "hemma": "Lindome BTK B",
+   "borta": "IF IFO D",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true
   }
  ],
  "resultat": [
@@ -261,6 +806,124 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-09-28",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-28",
+     "tid": "19:00",
+     "serie": "Division 4",
+     "omgang": "Round 6",
+     "hemma": "Lindome D",
+     "borta": "Rudalen C",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Vinstahallen",
+     "arrangor": "Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-30",
+   "platser": [
+    "Vinstahallen"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-30",
+     "tid": "19:00",
+     "serie": "Division 4",
+     "omgang": "Round 4",
+     "hemma": "Lindome D",
+     "borta": "Warta B",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Vinstahallen",
+     "arrangor": "Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 1",
+     "hemma": "Lindome BTK B",
+     "borta": "Lekstorps IF E",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-21",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-21",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 3",
+     "hemma": "Lindome BTK B",
+     "borta": "IF IFO C",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
   {
    "datum": "2026-12-12",
    "platser": [
@@ -408,6 +1071,156 @@
      "exakt_lank": false
     }
    ]
+  },
+  {
+   "datum": "2026-12-19",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-19",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 6",
+     "hemma": "Lindome BTK B",
+     "borta": "Backa BTK B",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-06",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-06",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 9",
+     "hemma": "Lindome BTK B",
+     "borta": "BTK Warta D",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-27",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-27",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 11",
+     "hemma": "Lindome BTK B",
+     "borta": "Rudalens IF A",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 12",
+     "hemma": "Lindome BTK B",
+     "borta": "Torslanda IK B",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-17",
+   "platser": [
+    "Almåshallen"
+   ],
+   "serier": [
+    "Division 6"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-17",
+     "tid": "12:00",
+     "serie": "Division 6",
+     "omgang": "Round 14",
+     "hemma": "Lindome BTK B",
+     "borta": "IF IFO D",
+     "hemma_klubb": "Lindome Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Almåshallen",
+     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "Lindome Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+     "exakt_lank": true
+    }
+   ]
   }
  ],
  "tabeller": [
@@ -503,6 +1316,286 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 4",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Köpings BTK Valla",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Västerås BTK C1",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västerås BTK C3",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Köpings BTK GL",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Arboga BTK",
+     "klubb": "Arboga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hallstahammars BTK B",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Västerås BTK C2",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Norcopensarna: E1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kungälvs BTK E",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Rudalens IF B",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lindome BTK C",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Romelanda UF",
+     "klubb": "Romelanda Ungdomsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Mölndals BTK D",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Linné H",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "BTK Linné I",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK D",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
