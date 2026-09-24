@@ -4,8 +4,22 @@
   "namn": "Torslanda Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-23T09:00:20Z",
+ "uppdaterad": "2026-09-24T08:54:39Z",
  "lag": [
+  {
+   "namn": "Team Tors-Björ",
+   "serie": {
+    "namn": "Äldre 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Torslanda Brothers",
+   "serie": {
+    "namn": "Äldre 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Torslanda IK A",
    "serie": {
@@ -40,9 +54,90 @@
     "namn": "Division 10"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Torslanda IK Grön Äldre",
+   "serie": {
+    "namn": "Äldre 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Torslanda IK Lions",
+   "serie": {
+    "namn": "Äldre 2"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Torslanda WF",
+   "serie": {
+    "namn": "Äldre 9"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-11",
+   "tid": "12:30",
+   "serie": "Äldre 9",
+   "omgang": "Round 1",
+   "hemma": "Torslanda WF",
+   "borta": "Warta Weasels",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "14:15",
+   "serie": "Äldre 9",
+   "omgang": "Round 2",
+   "hemma": "Lindome Stars",
+   "borta": "Torslanda WF",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "16:00",
+   "serie": "Äldre 4",
+   "omgang": "Round 1",
+   "hemma": "Team Tors-Björ",
+   "borta": "Lindome Lightyear",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "17:45",
+   "serie": "Äldre 4",
+   "omgang": "Round 2",
+   "hemma": "Team Tors-Björ",
+   "borta": "Rudalen Röd Äldre",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-18",
    "tid": "10:30",
@@ -63,6 +158,81 @@
   },
   {
    "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Äldre 9",
+   "omgang": "Round 3",
+   "hemma": "Torslanda WF",
+   "borta": "Lindome Galaxy",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "14:15",
+   "serie": "Äldre 9",
+   "omgang": "Round 4",
+   "hemma": "Torslanda WF",
+   "borta": "Rudalen Orange Äldre",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "16:00",
+   "serie": "Äldre 2",
+   "omgang": "Round 1",
+   "hemma": "Torslanda IK Lions",
+   "borta": "Askims BTK Röd",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "16:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 1",
+   "hemma": "Torslanda Brothers",
+   "borta": "Torslanda IK Grön Äldre",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "16:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 1",
+   "hemma": "Torslanda Brothers",
+   "borta": "Torslanda IK Grön Äldre",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
    "tid": "17:00",
    "serie": "Division 9",
    "omgang": "Round 1",
@@ -77,6 +247,51 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
    "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "17:45",
+   "serie": "Äldre 2",
+   "omgang": "Round 2",
+   "hemma": "BTK Linné Svart",
+   "borta": "Torslanda IK Lions",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "17:45",
+   "serie": "Äldre 1",
+   "omgang": "Round 2",
+   "hemma": "Lindome Tigers",
+   "borta": "Torslanda IK Grön Äldre",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "17:45",
+   "serie": "Äldre 1",
+   "omgang": "Round 2",
+   "hemma": "Mölndal Wombats",
+   "borta": "Torslanda Brothers",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-14",
@@ -219,6 +434,111 @@
   },
   {
    "datum": "2026-11-22",
+   "tid": "09:00",
+   "serie": "Äldre 2",
+   "omgang": "Round 3",
+   "hemma": "Kungälv Thunder",
+   "borta": "Torslanda IK Lions",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "09:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 3",
+   "hemma": "Torslanda IK Grön Äldre",
+   "borta": "Mölndal Wombats",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Mölndals Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "09:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 3",
+   "hemma": "Torslanda Brothers",
+   "borta": "Warta Wolves",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:45",
+   "serie": "Äldre 2",
+   "omgang": "Round 4",
+   "hemma": "Rudalen Grön Äldre",
+   "borta": "Torslanda IK Lions",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:45",
+   "serie": "Äldre 1",
+   "omgang": "Round 4",
+   "hemma": "Lekstorp Smash Brothers",
+   "borta": "Torslanda Brothers",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:45",
+   "serie": "Äldre 1",
+   "omgang": "Round 4",
+   "hemma": "Warta Wolves",
+   "borta": "Torslanda IK Grön Äldre",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "12:30",
+   "serie": "Äldre 4",
+   "omgang": "Round 3",
+   "hemma": "BTK Linné Gul",
+   "borta": "Team Tors-Björ",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
    "tid": "14:00",
    "serie": "Division 10",
    "omgang": "Round 3",
@@ -233,6 +553,21 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
    "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "14:15",
+   "serie": "Äldre 4",
+   "omgang": "Round 4",
+   "hemma": "Team Tors-Björ",
+   "borta": "BTK Linné Blå",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-11-22",
@@ -338,6 +673,81 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
    "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "09:00",
+   "serie": "Äldre 9",
+   "omgang": "Round 5",
+   "hemma": "Lekstorp Titans",
+   "borta": "Torslanda WF",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "11:00",
+   "serie": "Äldre 4",
+   "omgang": "Round 5",
+   "hemma": "Rudalen Gul Äldre",
+   "borta": "Team Tors-Björ",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "13:00",
+   "serie": "Äldre 2",
+   "omgang": "Round 5",
+   "hemma": "Torslanda IK Lions",
+   "borta": "Torslanda BTK Vargar",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "13:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 5",
+   "hemma": "Lindome Tigers",
+   "borta": "Torslanda Brothers",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "13:00",
+   "serie": "Äldre 1",
+   "omgang": "Round 5",
+   "hemma": "Torslanda IK Grön Äldre",
+   "borta": "Lekstorp Smash Brothers",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
@@ -1976,6 +2386,306 @@
      "placering": 8,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Warta Wolves",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lindome Tigers",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Torslanda Brothers",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Torslanda IK Grön Äldre",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Lekstorp Smash Brothers",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Mölndal Wombats",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Äldre 2",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Rudalen Grön Äldre",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Linné Svart",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Torslanda IK Lions",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Askims BTK Röd",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kungälv Thunder",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Torslanda BTK Vargar",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Äldre 4",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Team Tors-Björ",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lindome Lightyear",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Linné Gul",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "BTK Linné Blå",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Rudalen Röd Äldre",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rudalen Gul Äldre",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lindome Stars",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Torslanda WF",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Rudalen Orange Äldre",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lekstorp Titans",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Warta Weasels",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lindome Galaxy",
+     "klubb": "Lindome Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

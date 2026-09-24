@@ -4,7 +4,7 @@
   "namn": "Bruzaholms Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-24T08:54:39Z",
  "lag": [
   {
    "namn": "Bruzaholms SK A",
@@ -23,7 +23,7 @@
  ],
  "kommande": [
   {
-   "datum": "2026-09-27",
+   "datum": "2026-09-26",
    "tid": "13:00",
    "serie": "DIV 4 NORRA",
    "omgang": "Round 2",
@@ -811,6 +811,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Tranås BTK A",
      "klubb": "Tranås Bordtennisklubb",
      "spelade": 1,
@@ -821,7 +832,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Bruzaholms SK A",
      "klubb": "Bruzaholms Sportklubb",
      "spelade": 1,
@@ -832,7 +843,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "KFUM Jönköping IA D",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
@@ -843,7 +854,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "KFUM Jönköping IA C",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
@@ -854,7 +865,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "BTK Final A",
      "klubb": "Bordtennisklubben Final",
      "spelade": 1,
@@ -865,31 +876,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Vaggeryds BTK B",
-     "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 0,
+     "lag": "Sävsjö BTK A",
+     "klubb": "Sävsjö Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Sävsjö BTK A",
-     "klubb": "Sävsjö Bordtennisklubb",
+     "lag": "Vaggeryds BTK B",
+     "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

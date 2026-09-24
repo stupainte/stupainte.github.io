@@ -4,7 +4,7 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-24T08:54:39Z",
  "lag": [
   {
    "namn": "Ulricehamns IF",
@@ -12,9 +12,156 @@
     "namn": "Div 3 VSNÖ"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ulricehamns IF",
+   "serie": {
+    "namn": "Pensionärsserier"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ulricehamns IF B",
+   "serie": {
+    "namn": "Div 5 Södra"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ulricehamns IF C",
+   "serie": {
+    "namn": "Södra"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ulricehamns IF D",
+   "serie": {
+    "namn": "Mellersta"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-09-30",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 1",
+   "hemma": "Sjömarkens BTK",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 1",
+   "hemma": "Ulricehamns IF B",
+   "borta": "ÖSTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Östra Stadsgränsen Tennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-06",
+   "tid": "19:00",
+   "serie": "Södra",
+   "omgang": "Round 1",
+   "hemma": "Borgstena IF B",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Borgstena IF",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-07",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 2",
+   "hemma": "IFK Falköping BTK",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "14:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 2",
+   "hemma": "Mariedals IK D2",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-12",
+   "tid": "19:00",
+   "serie": "Södra",
+   "omgang": "Round 2",
+   "hemma": "Kinna BTK B1",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-14",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 3",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Byttorps IF B1",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-18",
    "tid": "11:00",
@@ -47,6 +194,142 @@
     "Karlsborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 3",
+   "hemma": "Ulricehamns IF",
+   "borta": "Kinna BTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 3",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Byttorps IF C1",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 4",
+   "hemma": "Kinna BTK",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 4",
+   "hemma": "Byttorps IF 2",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "11:00",
+   "serie": "Södra",
+   "omgang": "Round 4",
+   "hemma": "Sandareds BTK C",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 5",
+   "hemma": "Ulricehamns IF",
+   "borta": "Ödenäs IF",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Ödenäs Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 5",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Byttorps IF B2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 5",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Kinna BTK B2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "exakt_lank": false
   },
   {
@@ -84,6 +367,159 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-18",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 6",
+   "hemma": "Byttorps IF 1",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 6",
+   "hemma": "Mariedals IK D1",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:00",
+   "serie": "Södra",
+   "omgang": "Round 6",
+   "hemma": "Sjömarkens BTK C",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-24",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 7",
+   "hemma": "Sandareds BTK B",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-25",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 7",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Byttorps IF C2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-02",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 7",
+   "hemma": "Ulricehamns IF",
+   "borta": "Mariedals IK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-02",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 8",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Borgstena IF B",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Borgstena IF",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-06",
+   "tid": "14:30",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 8",
+   "hemma": "ÖSTK",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Östra Stadsgränsen Tennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Östra Stadsgränsen Tennisklubb",
+   "arrangorer": [
+    "Östra Stadsgränsen Tennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 8",
+   "hemma": "Ulricehamns IF",
+   "borta": "Sjömarkens BTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2026-12-12",
    "tid": "11:00",
    "serie": "Div 3 VSNÖ",
@@ -118,6 +554,74 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-01-06",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 9",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Mariedals IK D2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-06",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 9",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Kinna BTK B1",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-12",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 10",
+   "hemma": "Byttorps IF B1",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-13",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 9",
+   "hemma": "Ulricehamns IF",
+   "borta": "IFK Falköping BTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "IFK Falköping Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
    "datum": "2027-01-17",
    "tid": "11:00",
    "serie": "Div 3 VSNÖ",
@@ -136,6 +640,23 @@
   },
   {
    "datum": "2027-01-17",
+   "tid": "11:00",
+   "serie": "Södra",
+   "omgang": "Round 10",
+   "hemma": "Byttorps IF C1",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
    "tid": "15:00",
    "serie": "Div 3 VSNÖ",
    "omgang": "Round 10",
@@ -150,6 +671,108 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-27",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 10",
+   "hemma": "Kinna BTK",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-27",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 11",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Kinna BTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-27",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 11",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Sandareds BTK C",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-04",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 12",
+   "hemma": "Byttorps IF B2",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-04",
+   "tid": "19:00",
+   "serie": "Södra",
+   "omgang": "Round 12",
+   "hemma": "Kinna BTK B2",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 11",
+   "hemma": "Ulricehamns IF",
+   "borta": "Byttorps IF 2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-02-14",
@@ -184,6 +807,125 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-24",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 12",
+   "hemma": "Ödenäs IF",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Ödenäs Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ödenäs Idrottsförening",
+   "arrangorer": [
+    "Ödenäs Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-24",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 13",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Mariedals IK D1",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-24",
+   "tid": "18:30",
+   "serie": "Södra",
+   "omgang": "Round 13",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Sjömarkens BTK C",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-03",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 14",
+   "hemma": "Ulricehamns IF B",
+   "borta": "Sandareds BTK B",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-07",
+   "tid": "11:00",
+   "serie": "Södra",
+   "omgang": "Round 14",
+   "hemma": "Byttorps IF C2",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-10",
+   "tid": "10:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 13",
+   "hemma": "Ulricehamns IF",
+   "borta": "Byttorps IF 1",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-10",
+   "tid": "14:00",
+   "serie": "Pensionärsserier",
+   "omgang": "Round 14",
+   "hemma": "Mariedals IK",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2027-03-14",
@@ -261,6 +1003,357 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-09-30",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-30",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 1",
+     "hemma": "Ulricehamns IF B",
+     "borta": "ÖSTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Östra Stadsgränsen Tennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-14",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-14",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 3",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Byttorps IF B1",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-21",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier",
+    "Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-10-21",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 3",
+     "hemma": "Ulricehamns IF",
+     "borta": "Kinna BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2026-10-21",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 3",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Byttorps IF C1",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-11",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra",
+    "Pensionärsserier",
+    "Södra"
+   ],
+   "antal": 3,
+   "matcher": [
+    {
+     "datum": "2026-11-11",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 5",
+     "hemma": "Ulricehamns IF",
+     "borta": "Ödenäs IF",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Ödenäs Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2026-11-11",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 5",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Byttorps IF B2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-11-11",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 5",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Kinna BTK B2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-25",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-25",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 7",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Byttorps IF C2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-02",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier",
+    "Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-12-02",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 7",
+     "hemma": "Ulricehamns IF",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2026-12-02",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 8",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Borgstena IF B",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Borgstena IF",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-09",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-09",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 8",
+     "hemma": "Ulricehamns IF",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-06",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra",
+    "Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-01-06",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 9",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Mariedals IK D2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-01-06",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 9",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Kinna BTK B1",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-13",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-13",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 9",
+     "hemma": "Ulricehamns IF",
+     "borta": "IFK Falköping BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "IFK Falköping Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
   {
    "datum": "2027-01-17",
    "platser": [
@@ -406,6 +1499,318 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
      "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-27",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra",
+    "Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-01-27",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 11",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Kinna BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-01-27",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 11",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Sandareds BTK C",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Sandareds Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-10",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-10",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 11",
+     "hemma": "Ulricehamns IF",
+     "borta": "Byttorps IF 2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-24",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra",
+    "Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-02-24",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 13",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Mariedals IK D1",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-24",
+     "tid": "18:30",
+     "serie": "Södra",
+     "omgang": "Round 13",
+     "hemma": "Ulricehamns IF C",
+     "borta": "Sjömarkens BTK C",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-03",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 5 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-03",
+     "tid": "18:00",
+     "serie": "Div 5 Södra",
+     "omgang": "Round 14",
+     "hemma": "Ulricehamns IF B",
+     "borta": "Sandareds BTK B",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Sandareds Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-04",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-04",
+     "tid": "14:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 14",
+     "hemma": "Byttorps IF 1",
+     "borta": "Kinna BTK",
+     "hemma_klubb": "Byttorps Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-10",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 7,
+   "matcher": [
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 13",
+     "hemma": "Byttorps IF 2",
+     "borta": "IFK Falköping BTK",
+     "hemma_klubb": "Byttorps Idrottsförening",
+     "borta_klubb": "IFK Falköping Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 13",
+     "hemma": "Kinna BTK",
+     "borta": "Ödenäs IF",
+     "hemma_klubb": "Kinna Bordtennisklubb",
+     "borta_klubb": "Ödenäs Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 13",
+     "hemma": "Ulricehamns IF",
+     "borta": "Byttorps IF 1",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 13",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 14",
+     "hemma": "IFK Falköping BTK",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "IFK Falköping Bordtennisklubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 14",
+     "hemma": "Mariedals IK",
+     "borta": "Ulricehamns IF",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie": "Pensionärsserier",
+     "omgang": "Round 14",
+     "hemma": "Ödenäs IF",
+     "borta": "Byttorps IF 2",
+     "hemma_klubb": "Ödenäs Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "exakt_lank": true
     }
    ]
   },
@@ -647,6 +2052,339 @@
      "placering": 8,
      "lag": "Larvs FK",
      "klubb": "Larvs Fotbollklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Byttorps IF B2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Mariedals IK D1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Ulricehamns IF B",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "ÖSTK",
+     "klubb": "Östra Stadsgränsen Tennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Mariedals IK D2",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Byttorps IF B1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Sandareds BTK B",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Alingsås PK D",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lidköping BTK C2",
+     "klubb": "IFK Lidköping",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Örslösa - Söne IK B",
+     "klubb": "Örslösa-Söne Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lidan BTK B",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vedums AIS D",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "IFK Falköping BTK C2",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Lidköping C1",
+     "klubb": "IFK Lidköping",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Vårgårda IK B",
+     "klubb": "Vårgårda IK Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Byttorps IF 1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Byttorps IF 2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ödenäs IF",
+     "klubb": "Ödenäs Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Mariedals IK",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sjömarkens BTK",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Ulricehamns IF",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Södra",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Halmstad BTK: B",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund Bordtennis: B1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Varbergs BTK",
+     "klubb": "Varbergs Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
