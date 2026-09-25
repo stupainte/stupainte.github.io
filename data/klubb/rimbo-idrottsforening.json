@@ -4,7 +4,7 @@
   "namn": "Rimbo Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-23T09:00:20Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": "Rimbo IF A",
@@ -473,6 +473,25 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-09-19",
+   "tid": "14:00",
+   "serie": "Division 5B",
+   "omgang": "Round 2",
+   "hemma": "Rimbo IF A",
+   "borta": "Sunnersta AIF C2",
+   "hemma_klubb": "Rimbo Idrottsförening",
+   "borta_klubb": "Sunnersta Allmänna IF",
+   "plats": "Sven-Persson Hallen",
+   "arrangor": "Rimbo Idrottsförening",
+   "arrangorer": [
+    "Rimbo Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-01-16",
    "tid": "10:00",
    "serie": "Division 7C",
@@ -766,6 +785,17 @@
     },
     {
      "placering": 3,
+     "lag": "Rimbo IF A",
+     "klubb": "Rimbo Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Norrtälje BTK D",
      "klubb": "Norrtälje Bordtennisklubb",
      "spelade": 2,
@@ -776,7 +806,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sandvikens BTK B",
      "klubb": "Sandvikens Bordtennisklubb",
      "spelade": 2,
@@ -787,7 +817,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Gefle PK D2",
      "klubb": "Gefle Pingisklubb",
      "spelade": 2,
@@ -798,20 +828,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Sunnersta AIF C2",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Rimbo IF A",
-     "klubb": "Rimbo Idrottsförening",
+     "lag": "Öregrunds IK B",
+     "klubb": "Öregrunds Idrottsklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -821,8 +840,8 @@
     },
     {
      "placering": 8,
-     "lag": "Öregrunds IK B",
-     "klubb": "Öregrunds Idrottsklubb",
+     "lag": "Sunnersta AIF C2",
+     "klubb": "Sunnersta Allmänna IF",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "KFUM Jönköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-24T08:54:39Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": " KFUM Jönköping IA G",
@@ -195,6 +195,23 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-10-01",
+   "tid": "12:00",
+   "serie": "Veteran Norra B",
+   "omgang": "Round 1",
+   "hemma": "KFUM Jönköping IA C",
+   "borta": "Vetlanda BTK B",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2026-10-04",
    "tid": "13:00",
    "serie": "DIV 4 NORRA",
@@ -277,23 +294,6 @@
     "KFUM Jönköping"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Veteran Norra B",
-   "omgang": "Round 1",
-   "hemma": "KFUM Jönköping IA C",
-   "borta": "Vetlanda BTK B",
-   "hemma_klubb": "KFUM Jönköping",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "Ungdomens Hus",
-   "arrangor": "KFUM Jönköping",
-   "arrangorer": [
-    "KFUM Jönköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
    "exakt_lank": false
   },
   {
@@ -484,8 +484,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-01",
-   "tid": "13:00",
+   "datum": "2026-10-29",
+   "tid": "12:00",
    "serie": "Veteran Norra B",
    "omgang": "Round 3",
    "hemma": "KFUM Jönköping IA C",
@@ -501,8 +501,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-01",
-   "tid": "13:00",
+   "datum": "2026-10-29",
+   "tid": "12:00",
    "serie": "Veteran Norra B",
    "omgang": "Round 3",
    "hemma": "KFUM Jönköping IA C",
@@ -600,23 +600,6 @@
     "Bordtennisklubben Clipper"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-11-12",
-   "tid": "13:00",
-   "serie": "Veteran Norra B",
-   "omgang": "Round 4",
-   "hemma": "KFUM Jönköping IA B",
-   "borta": "Tranås BTK B",
-   "hemma_klubb": "KFUM Jönköping",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Ungdomens Hus",
-   "arrangor": "KFUM Jönköping",
-   "arrangorer": [
-    "KFUM Jönköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
    "exakt_lank": false
   },
   {
@@ -855,6 +838,23 @@
     "Huskvarna Södra Idrottssällskap"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "12:00",
+   "serie": "Veteran Norra B",
+   "omgang": "Round 4",
+   "hemma": "KFUM Jönköping IA B",
+   "borta": "Tranås BTK B",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
    "exakt_lank": false
   },
   {
@@ -2843,6 +2843,35 @@
    ]
   },
   {
+   "datum": "2026-10-01",
+   "platser": [
+    "Ungdomens Hus"
+   ],
+   "serier": [
+    "Veteran Norra B"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-01",
+     "tid": "12:00",
+     "serie": "Veteran Norra B",
+     "omgang": "Round 1",
+     "hemma": "KFUM Jönköping IA C",
+     "borta": "Vetlanda BTK B",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Vetlanda Bordtennisklubb",
+     "plats": "Ungdomens Hus",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2026-10-04",
    "platser": [
     "Ungdomens Hus"
@@ -2850,10 +2879,9 @@
    "serier": [
     "DIV 4 NORRA",
     "DIV 5 NORRA",
-    "Div 6 Norra A ",
-    "Veteran Norra B"
+    "Div 6 Norra A "
    ],
-   "antal": 4,
+   "antal": 3,
    "matcher": [
     {
      "datum": "2026-10-04",
@@ -2904,23 +2932,6 @@
       "KFUM Jönköping"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2026-10-04",
-     "tid": "13:00",
-     "serie": "Veteran Norra B",
-     "omgang": "Round 1",
-     "hemma": "KFUM Jönköping IA C",
-     "borta": "Vetlanda BTK B",
-     "hemma_klubb": "KFUM Jönköping",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "Ungdomens Hus",
-     "arrangor": "KFUM Jönköping",
-     "arrangorer": [
-      "KFUM Jönköping"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -3049,7 +3060,7 @@
    ]
   },
   {
-   "datum": "2026-11-01",
+   "datum": "2026-10-29",
    "platser": [
     "Ungdomens Hus"
    ],
@@ -3059,8 +3070,8 @@
    "antal": 1,
    "matcher": [
     {
-     "datum": "2026-11-01",
-     "tid": "13:00",
+     "datum": "2026-10-29",
+     "tid": "12:00",
      "serie": "Veteran Norra B",
      "omgang": "Round 3",
      "hemma": "KFUM Jönköping IA C",
@@ -3131,35 +3142,6 @@
       "KFUM Jönköping"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "Ungdomens Hus"
-   ],
-   "serier": [
-    "Veteran Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "13:00",
-     "serie": "Veteran Norra B",
-     "omgang": "Round 4",
-     "hemma": "KFUM Jönköping IA B",
-     "borta": "Tranås BTK B",
-     "hemma_klubb": "KFUM Jönköping",
-     "borta_klubb": "Tranås Bordtennisklubb",
-     "plats": "Ungdomens Hus",
-     "arrangor": "KFUM Jönköping",
-     "arrangorer": [
-      "KFUM Jönköping"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -3271,6 +3253,35 @@
       "KFUM Jönköping"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-26",
+   "platser": [
+    "Ungdomens Hus"
+   ],
+   "serier": [
+    "Veteran Norra B"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-26",
+     "tid": "12:00",
+     "serie": "Veteran Norra B",
+     "omgang": "Round 4",
+     "hemma": "KFUM Jönköping IA B",
+     "borta": "Tranås BTK B",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Tranås Bordtennisklubb",
+     "plats": "Ungdomens Hus",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -5099,6 +5110,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK D",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": " KFUM Jönköping IA G",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
@@ -5109,7 +5131,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tabergs SK A",
      "klubb": "Tabergs Sportklubb",
      "spelade": 1,
@@ -5120,20 +5142,9 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "KFUM Jönköping IA F",
      "klubb": "KFUM Jönköping",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tranås BTK D",
-     "klubb": "Tranås Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -5145,10 +5156,10 @@
      "placering": 6,
      "lag": "Sandsjöfors SK A",
      "klubb": "Sandsjöfors Sportklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "264–0"
     },

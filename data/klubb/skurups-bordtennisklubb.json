@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -12,9 +12,78 @@
     "namn": "Div 3 SSSÖ"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Skurups BTK B",
+   "serie": {
+    "namn": "Division 5 Södra 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Skurups BTK C",
+   "serie": {
+    "namn": "Division 5 Södra 2"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Skurups BTK C",
+   "serie": {
+    "namn": "Division 6 Södra 2"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-14",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 1",
+   "hemma": "Skurups BTK C",
+   "borta": "Kvarnby AK C",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-15",
+   "tid": "19:15",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 1",
+   "hemma": "IFK Lund E3",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 1",
+   "hemma": "Tomelilla AIS",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Tomelilla Allmänna IS",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Tomelilla Allmänna IS / Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Tomelilla Allmänna IS",
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -50,6 +119,36 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-10-19",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF G",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 3",
+   "hemma": "Skurups BTK C",
+   "borta": "Trelleborgs BTK E",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2026-11-15",
    "tid": "11:00",
    "serie": "Div 3 SSSÖ",
@@ -68,6 +167,21 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 3",
+   "hemma": "Skurups BTK B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 6",
@@ -81,6 +195,116 @@
     "IFK Lund Bordtennis"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 4",
+   "hemma": "Malmö IF F",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "10:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 4",
+   "hemma": "Kvarnby AK B",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 5",
+   "hemma": "Skurups BTK B",
+   "borta": "Malmö IF E",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 6",
+   "hemma": "Limhamns BTK B",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 6",
+   "hemma": "Skurups BTK C",
+   "borta": "IF Ale C ",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 5",
+   "hemma": "Skurups BTK C",
+   "borta": "IF Ale D",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "Skurups Bordtennisklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Skurups Bordtennisklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 6",
+   "hemma": "IFK Lund F3",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
    "exakt_lank": false
   },
   {
@@ -118,6 +342,84 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-12-17",
+   "tid": "19:15",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 7",
+   "hemma": "IFK Lund E4",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 7",
+   "hemma": "Skurups BTK B",
+   "borta": "FIFH Malmö B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "FIFH Malmö Parasportförening",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "10:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 8",
+   "hemma": "Kvarnby AK C",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 8",
+   "hemma": "Skurups BTK B",
+   "borta": "IFK Lund E3",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 7",
+   "hemma": "Skurups BTK C",
+   "borta": "Trelleborgs BTK F",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Österlenhallen, Tomelilla",
+   "arrangor": "Skurups Bordtennisklubb / Tomelilla Allmänna IS",
+   "arrangorer": [
+    "Skurups Bordtennisklubb",
+    "Tomelilla Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2027-01-17",
    "tid": "11:00",
    "serie": "Div 3 SSSÖ",
@@ -136,6 +438,24 @@
   },
   {
    "datum": "2027-01-17",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 8",
+   "hemma": "Skurups BTK C",
+   "borta": "Tomelilla AIS",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Tomelilla Allmänna IS",
+   "plats": "Österlenhallen, Tomelilla",
+   "arrangor": "Skurups Bordtennisklubb / Tomelilla Allmänna IS",
+   "arrangorer": [
+    "Skurups Bordtennisklubb",
+    "Tomelilla Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
    "tid": "15:00",
    "serie": "Div 3 SSSÖ",
    "omgang": "Round 10",
@@ -149,6 +469,114 @@
     "Bordtennisklubben Scania"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-20",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 9",
+   "hemma": "Skurups BTK C",
+   "borta": "Malmö IF G",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-26",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 10",
+   "hemma": "Trelleborgs BTK E",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-27",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 10",
+   "hemma": "Bjärreds BTK B",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 11",
+   "hemma": "Skurups BTK B",
+   "borta": "Kvarnby AK B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "18:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 12",
+   "hemma": "Malmö IF E",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 11",
+   "hemma": "Skurups BTK C",
+   "borta": "Malmö IF F",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 10",
+   "hemma": "Limhamns BTK C2",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": "Limhamns Bordtennisklubb / Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb",
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
    "exakt_lank": false
   },
   {
@@ -186,6 +614,101 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-03-06",
+   "tid": "10:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 13",
+   "hemma": "IF Ale C ",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Idrottsvillan, Kåseberga",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-07",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 13",
+   "hemma": "Skurups BTK B",
+   "borta": "Limhamns BTK B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-10",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 2",
+   "omgang": "Round 14",
+   "hemma": "Skurups BTK C",
+   "borta": "IFK Lund E4",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-12",
+   "tid": "18:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 14",
+   "hemma": "FIFH Malmö B",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "FIFH Malmö Parasportförening",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "FIFH Hallen, Pildammsvägen 26",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 11",
+   "hemma": "Skurups BTK C",
+   "borta": "IFK Lund F4",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Köpingebro Sporthall",
+   "arrangor": "Idrottsföreningen Ale / Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Idrottsföreningen Ale",
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 12",
+   "hemma": "IF Ale D",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Köpingebro Sporthall",
+   "arrangor": "Idrottsföreningen Ale",
+   "arrangorer": [
+    "Idrottsföreningen Ale"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie": "Div 3 SSSÖ",
@@ -217,6 +740,41 @@
     "Skurups Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 13",
+   "hemma": "Skurups BTK C",
+   "borta": "IFK Lund F3",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Skurups Bordtennisklubb / Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb",
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 2",
+   "omgang": "Round 14",
+   "hemma": "Trelleborgs BTK F",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
    "exakt_lank": false
   }
  ],
@@ -261,6 +819,234 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "IFK-hallen, Centrala IP, Lund"
+   ],
+   "serier": [
+    "Division 6 Södra 2"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 5",
+     "hemma": "Skurups BTK C",
+     "borta": "IF Ale D",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "IFK-hallen, Centrala IP, Lund",
+     "arrangor": "Skurups Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Österlenhallen, Tomelilla"
+   ],
+   "serier": [
+    "Division 6 Södra 2"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 7",
+     "hemma": "Skurups BTK C",
+     "borta": "Trelleborgs BTK F",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "Trelleborgs Bordtennisklubb",
+     "plats": "Österlenhallen, Tomelilla",
+     "arrangor": "Skurups Bordtennisklubb / Tomelilla Allmänna IS",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "Tomelilla Allmänna IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 8",
+     "hemma": "Skurups BTK C",
+     "borta": "Tomelilla AIS",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "Tomelilla Allmänna IS",
+     "plats": "Österlenhallen, Tomelilla",
+     "arrangor": "Skurups Bordtennisklubb / Tomelilla Allmänna IS",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "Tomelilla Allmänna IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Skurups Sparbank Arena"
+   ],
+   "serier": [
+    "Division 6 Södra 2"
+   ],
+   "antal": 6,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 9",
+     "hemma": "Tomelilla AIS",
+     "borta": "Limhamns BTK C2",
+     "hemma_klubb": "Tomelilla Allmänna IS",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Skurups Bordtennisklubb / Tomelilla Allmänna IS",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "Tomelilla Allmänna IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 9",
+     "hemma": "Trelleborgs BTK F",
+     "borta": "IFK Lund F4",
+     "hemma_klubb": "Trelleborgs Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Skurups Bordtennisklubb / Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 9",
+     "hemma": "IFK Lund F3",
+     "borta": "IF Ale D",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Skurups Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 10",
+     "hemma": "IF Ale D",
+     "borta": "Trelleborgs BTK F",
+     "hemma_klubb": "Idrottsföreningen Ale",
+     "borta_klubb": "Trelleborgs Bordtennisklubb",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Idrottsföreningen Ale / Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Idrottsföreningen Ale",
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 10",
+     "hemma": "IFK Lund F4",
+     "borta": "Tomelilla AIS",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Tomelilla Allmänna IS",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Skurups Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 10",
+     "hemma": "Limhamns BTK C2",
+     "borta": "Skurups BTK C",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "Skurups Bordtennisklubb",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Limhamns Bordtennisklubb / Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Limhamns Bordtennisklubb",
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Köpingebro Sporthall"
+   ],
+   "serier": [
+    "Division 6 Södra 2"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 11",
+     "hemma": "Skurups BTK C",
+     "borta": "IFK Lund F4",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Köpingebro Sporthall",
+     "arrangor": "Idrottsföreningen Ale / Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Idrottsföreningen Ale",
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
   {
    "datum": "2027-03-14",
    "platser": [
@@ -408,6 +1194,36 @@
      "exakt_lank": false
     }
    ]
+  },
+  {
+   "datum": "2027-04-17",
+   "platser": [
+    "Söderslättshallen, Trelleborg"
+   ],
+   "serier": [
+    "Division 6 Södra 2"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-17",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 2",
+     "omgang": "Round 13",
+     "hemma": "Skurups BTK C",
+     "borta": "IFK Lund F3",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Skurups Bordtennisklubb / Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb",
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+     "exakt_lank": false
+    }
+   ]
   }
  ],
  "tabeller": [
@@ -503,6 +1319,264 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Skurups BTK B",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kvarnby AK B",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Trelleborgs BTK E",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Malmö IF F",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Skurups BTK C",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Ale C ",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Lund E4",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kvarnby AK C",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Malmö IF G",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IF Ale D",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund F3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Trelleborgs BTK F",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Tomelilla AIS",
+     "klubb": "Tomelilla Allmänna IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Skurups BTK C",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Limhamns BTK C2",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Lund F4",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

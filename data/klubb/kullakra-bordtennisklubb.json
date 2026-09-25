@@ -4,7 +4,7 @@
   "namn": "Kullåkra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-24T08:54:39Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": "Kullåkra BTK A",
@@ -43,23 +43,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-24",
-   "tid": "19:00",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "omgang": "Round 2",
-   "hemma": "Jämjö BTK D",
-   "borta": "Kullåkra BTK B",
-   "hemma_klubb": "Jämjö Bordtennisklubb",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "Klubblokalen Jämjö BTK",
-   "arrangor": "Jämjö Bordtennisklubb",
-   "arrangorer": [
-    "Jämjö Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-09-27",
    "tid": "13:00",
@@ -1187,6 +1170,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-24",
+   "tid": "19:00",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "omgang": "Round 2",
+   "hemma": "Jämjö BTK D",
+   "borta": "Kullåkra BTK B",
+   "hemma_klubb": "Jämjö Bordtennisklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Klubblokalen Jämjö BTK",
+   "arrangor": "Jämjö Bordtennisklubb",
+   "arrangorer": [
+    "Jämjö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2064,19 +2066,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Lyckeby BTK G",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
+     "lag": "Lyckeby BTK G",
+     "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2099,10 +2101,10 @@
      "placering": 4,
      "lag": "Jämjö BTK D",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

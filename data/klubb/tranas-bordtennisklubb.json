@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-24T08:54:39Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": "Tranås BTK A",
@@ -456,23 +456,6 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-12",
-   "tid": "13:00",
-   "serie": "Veteran Norra B",
-   "omgang": "Round 4",
-   "hemma": "KFUM Jönköping IA B",
-   "borta": "Tranås BTK B",
-   "hemma_klubb": "KFUM Jönköping",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Ungdomens Hus",
-   "arrangor": "KFUM Jönköping",
-   "arrangorer": [
-    "KFUM Jönköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
-   "exakt_lank": false
-  },
-  {
    "datum": "2026-11-15",
    "tid": "13:00",
    "serie": "DIV 4 NORRA",
@@ -587,6 +570,23 @@
    "arrangor": "Tranås Bordtennisklubb",
    "arrangorer": [
     "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "12:00",
+   "serie": "Veteran Norra B",
+   "omgang": "Round 4",
+   "hemma": "KFUM Jönköping IA B",
+   "borta": "Tranås BTK B",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
    "exakt_lank": false
@@ -1711,6 +1711,25 @@
    "borta": "Huskvarna Södra IS E",
    "hemma_klubb": "Tranås Bordtennisklubb",
    "borta_klubb": "Huskvarna Södra Idrottssällskap",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "14:00",
+   "serie": "Div 6 Norra A ",
+   "omgang": "Round 1",
+   "hemma": "Tranås BTK D",
+   "borta": "Sandsjöfors SK A",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Sandsjöfors Sportklubb",
    "plats": "Floragatan",
    "arrangor": "Tranås Bordtennisklubb",
    "arrangorer": [
@@ -3143,6 +3162,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK D",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": " KFUM Jönköping IA G",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
@@ -3153,7 +3183,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tabergs SK A",
      "klubb": "Tabergs Sportklubb",
      "spelade": 1,
@@ -3164,20 +3194,9 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "KFUM Jönköping IA F",
      "klubb": "KFUM Jönköping",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tranås BTK D",
-     "klubb": "Tranås Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -3189,10 +3208,10 @@
      "placering": 6,
      "lag": "Sandsjöfors SK A",
      "klubb": "Sandsjöfors Sportklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "264–0"
     },

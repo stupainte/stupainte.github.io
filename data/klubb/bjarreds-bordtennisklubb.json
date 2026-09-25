@@ -4,7 +4,7 @@
   "namn": "Bjärreds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-25T09:14:56Z",
  "lag": [
   {
    "namn": "Bjärreds BTK",
@@ -12,9 +12,99 @@
     "namn": "Div 1 S Herr"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bjärreds BTK B",
+   "serie": {
+    "namn": "Division 5 Södra 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bjärreds BTK C",
+   "serie": {
+    "namn": "Division 6 Södra 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bjärreds BTK D",
+   "serie": {
+    "namn": "Division 7"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-16",
+   "tid": "18:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 1",
+   "hemma": "FIFH Malmö B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "FIFH Malmö Parasportförening",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "FIFH Hallen, Pildammsvägen 26",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 1",
+   "hemma": "Bjärreds BTK C",
+   "borta": "Kvarnby AK D",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 2",
+   "hemma": "Limhamns BTK C3",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "Limhamns Bordtennisklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie": "Division 7",
+   "omgang": "Round 1",
+   "hemma": "Bjärreds BTK D",
+   "borta": "Kvarnby AK E",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": "Bordtennisklubben Scania / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bordtennisklubben Scania",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
   {
    "datum": "2026-10-18",
    "tid": "11:00",
@@ -34,6 +124,24 @@
   },
   {
    "datum": "2026-10-18",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF I",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": "Bordtennisklubben Scania / Malmö Idrottsförening",
+   "arrangorer": [
+    "Bordtennisklubben Scania",
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-18",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 4",
@@ -48,6 +156,39 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 2",
+   "hemma": "Bjärreds BTK B",
+   "borta": "IFK Lund E3",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "10:00",
+   "serie": "Division 7",
+   "omgang": "Round 3",
+   "hemma": "Bjärreds BTK D",
+   "borta": "Bjärnums BTK B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Bjärnums Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -68,6 +209,57 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 3",
+   "hemma": "Skurups BTK B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 4",
+   "hemma": "Kullahalvöns BTK Blå",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / Kullahalvöns Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Kullahalvöns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 3",
+   "hemma": "Bjärreds BTK C",
+   "borta": "IFK Lund F2",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Bjärreds Bordtennisklubb / Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb",
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 6",
@@ -81,6 +273,108 @@
     "Bordtennisklubben Frej"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 4",
+   "hemma": "Limhamns BTK C1",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Limhamns Bordtennisklubb / Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb",
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 5",
+   "hemma": "Bjärreds BTK B",
+   "borta": "Kvarnby AK B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "18:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 6",
+   "hemma": "Malmö IF E",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "10:00",
+   "serie": "Division 7",
+   "omgang": "Round 5",
+   "hemma": "Bjärreds BTK D",
+   "borta": "Kågeröds BTK Youth",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 6",
+   "hemma": "BTK Scania E",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
+   "arrangor": "Bordtennisklubben Scania / Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Bordtennisklubben Scania",
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 5",
+   "hemma": "Bjärreds BTK C",
+   "borta": "IFK Lund F5",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
    "exakt_lank": false
   },
   {
@@ -102,6 +396,24 @@
   },
   {
    "datum": "2026-12-13",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 6",
+   "hemma": "Bjärreds BTK C",
+   "borta": "Malmö IF H",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-13",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 8",
@@ -115,6 +427,36 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-12-16",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 7",
+   "hemma": "Bjärreds BTK B",
+   "borta": "Limhamns BTK B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-14",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 8",
+   "hemma": "Bjärreds BTK B",
+   "borta": "FIFH Malmö B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "FIFH Malmö Parasportförening",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
    "exakt_lank": false
   },
   {
@@ -136,6 +478,41 @@
   },
   {
    "datum": "2027-01-17",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 8",
+   "hemma": "Kvarnby AK E",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Varggatan 17, Puls Arena",
+   "arrangor": "Bordtennisklubben Scania / Kvarnby Atletklubb",
+   "arrangorer": [
+    "Bordtennisklubben Scania",
+    "Kvarnby Atletklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "13:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 7",
+   "hemma": "Vellinge Näsets BTK",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "Vellinge Näsets Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 10",
@@ -149,6 +526,122 @@
     "Trelleborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "15:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 8",
+   "hemma": "Kvarnby AK D",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Kvarnby Atletklubb / Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-22",
+   "tid": "19:15",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 9",
+   "hemma": "IFK Lund E3",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-27",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 10",
+   "hemma": "Bjärreds BTK B",
+   "borta": "Skurups BTK B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "10:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 12",
+   "hemma": "Kvarnby AK B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 10",
+   "hemma": "Bjärnums BTK B",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Bjärnums Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärnums Bordtennisklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärnums Bordtennisklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "15:00",
+   "serie": "Division 7",
+   "omgang": "Round 9",
+   "hemma": "Bjärreds BTK D",
+   "borta": "Malmö IF I",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 9",
+   "hemma": "Bjärreds BTK C",
+   "borta": "Limhamns BTK C3",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
    "exakt_lank": false
   },
   {
@@ -170,6 +663,24 @@
   },
   {
    "datum": "2027-02-14",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 10",
+   "hemma": "IFK Lund F2",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Kvarnby Atletklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-02-14",
    "tid": "15:00",
    "serie": "Div 1 S Herr",
    "omgang": "Round 12",
@@ -183,6 +694,106 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-04",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 13",
+   "hemma": "Bjärreds BTK B",
+   "borta": "Malmö IF E",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-10",
+   "tid": "19:00",
+   "serie": "Division 5 Södra 1",
+   "omgang": "Round 14",
+   "hemma": "Limhamns BTK B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "10:00",
+   "serie": "Division 7",
+   "omgang": "Round 11",
+   "hemma": "Bjärreds BTK D",
+   "borta": "Kullahalvöns BTK Blå",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Bordtennishallen Böketoftavägen 5  26877 Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb / Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb",
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 11",
+   "hemma": "Bjärreds BTK C",
+   "borta": "Limhamns BTK C1",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 12",
+   "hemma": "Kågeröds BTK Youth",
+   "borta": "Bjärreds BTK D",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Bordtennishallen Böketoftavägen 5  26877 Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "15:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 12",
+   "hemma": "IFK Lund F5",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
    "exakt_lank": false
   },
   {
@@ -218,6 +829,60 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
    "exakt_lank": false
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "10:00",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 13",
+   "hemma": "Malmö IF H",
+   "borta": "Bjärreds BTK C",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Malmö Idrottsförening / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Malmö Idrottsförening",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "12:30",
+   "serie": "Division 6 Södra 1",
+   "omgang": "Round 14",
+   "hemma": "Bjärreds BTK C",
+   "borta": "Vellinge Näsets BTK",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb",
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-04-17",
+   "tid": "12:30",
+   "serie": "Division 7",
+   "omgang": "Round 13",
+   "hemma": "Bjärreds BTK D",
+   "borta": "BTK Scania E",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Scania",
+   "plats": "Hall 1",
+   "arrangor": "Bjärreds Bordtennisklubb / Kullahalvöns Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb",
+    "Kullahalvöns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true
   }
  ],
  "resultat": [
@@ -260,7 +925,569 @@
    "borta_poang": 1
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "IFK-hallen, Centrala IP, Lund"
+   ],
+   "serier": [
+    "Division 6 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 1",
+     "hemma": "Bjärreds BTK C",
+     "borta": "Kvarnby AK D",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "IFK-hallen, Centrala IP, Lund",
+     "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Puls Arena, Varggatan 17, Landskrona"
+   ],
+   "serier": [
+    "Division 7"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "10:00",
+     "serie": "Division 7",
+     "omgang": "Round 1",
+     "hemma": "Bjärreds BTK D",
+     "borta": "Kvarnby AK E",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "Puls Arena, Varggatan 17, Landskrona",
+     "arrangor": "Bordtennisklubben Scania / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bordtennisklubben Scania",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+    "Vanningen Sporthall, Vellinge"
+   ],
+   "serier": [
+    "Division 6 Södra 1",
+    "Division 7"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "10:00",
+     "serie": "Division 7",
+     "omgang": "Round 3",
+     "hemma": "Bjärreds BTK D",
+     "borta": "Bjärnums BTK B",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Bjärnums Bordtennisklubb",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "13:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 3",
+     "hemma": "Bjärreds BTK C",
+     "borta": "IFK Lund F2",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Vanningen Sporthall, Vellinge",
+     "arrangor": "Bjärreds Bordtennisklubb / Vellinge Näsets Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "Vellinge Näsets Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Böketoftavägen 5, 268 77 Kågeröd"
+   ],
+   "serier": [
+    "Division 7"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 7",
+     "omgang": "Round 5",
+     "hemma": "Bjärreds BTK D",
+     "borta": "Kågeröds BTK Youth",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Kågeröds Bordtennisklubb",
+     "plats": "Böketoftavägen 5, 268 77 Kågeröd",
+     "arrangor": "Kågeröds Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
+   ],
+   "serier": [
+    "Division 6 Södra 1"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 5",
+     "hemma": "Bjärreds BTK C",
+     "borta": "IFK Lund F5",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 6",
+     "hemma": "Bjärreds BTK C",
+     "borta": "Malmö IF H",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred"
+   ],
+   "serier": [
+    "Division 7"
+   ],
+   "antal": 6,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 7",
+     "omgang": "Round 10",
+     "hemma": "Kullahalvöns BTK Blå",
+     "borta": "BTK Scania E",
+     "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Scania",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Bjärreds Bordtennisklubb / Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 7",
+     "omgang": "Round 10",
+     "hemma": "Bjärnums BTK B",
+     "borta": "Bjärreds BTK D",
+     "hemma_klubb": "Bjärnums Bordtennisklubb",
+     "borta_klubb": "Bjärreds Bordtennisklubb",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Bjärnums Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bjärnums Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "12:30",
+     "serie": "Division 7",
+     "omgang": "Round 10",
+     "hemma": "Malmö IF I",
+     "borta": "Kvarnby AK E",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Malmö Idrottsförening / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Malmö Idrottsförening",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Division 7",
+     "omgang": "Round 9",
+     "hemma": "Bjärreds BTK D",
+     "borta": "Malmö IF I",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Division 7",
+     "omgang": "Round 9",
+     "hemma": "BTK Scania E",
+     "borta": "Bjärnums BTK B",
+     "hemma_klubb": "Bordtennisklubben Scania",
+     "borta_klubb": "Bjärnums Bordtennisklubb",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Bordtennisklubben Scania / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bordtennisklubben Scania",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Division 7",
+     "omgang": "Round 9",
+     "hemma": "Kågeröds BTK Youth",
+     "borta": "Kullahalvöns BTK Blå",
+     "hemma_klubb": "Kågeröds Bordtennisklubb",
+     "borta_klubb": "Kullahalvöns Bordtennisklubb",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Kågeröds Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
+   ],
+   "serier": [
+    "Division 6 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 9",
+     "hemma": "Bjärreds BTK C",
+     "borta": "Limhamns BTK C3",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Bordtennishallen Böketoftavägen 5  26877 Kågeröd",
+    "Hall 1"
+   ],
+   "serier": [
+    "Division 6 Södra 1",
+    "Division 7"
+   ],
+   "antal": 9,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 7",
+     "omgang": "Round 11",
+     "hemma": "Bjärreds BTK D",
+     "borta": "Kullahalvöns BTK Blå",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Kullahalvöns Bordtennisklubb",
+     "plats": "Bordtennishallen Böketoftavägen 5  26877 Kågeröd",
+     "arrangor": "Kågeröds Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 11",
+     "hemma": "Kvarnby AK D",
+     "borta": "IFK Lund F5",
+     "hemma_klubb": "Kvarnby Atletklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Kvarnby Atletklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 11",
+     "hemma": "Vellinge Näsets BTK",
+     "borta": "Limhamns BTK C3",
+     "hemma_klubb": "Vellinge Näsets Bordtennisklubb",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb / Vellinge Näsets Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "Vellinge Näsets Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 11",
+     "hemma": "Malmö IF H",
+     "borta": "IFK Lund F2",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Malmö Idrottsförening / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Malmö Idrottsförening",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 11",
+     "hemma": "Bjärreds BTK C",
+     "borta": "Limhamns BTK C1",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 12",
+     "hemma": "IFK Lund F5",
+     "borta": "Bjärreds BTK C",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Bjärreds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 12",
+     "hemma": "Limhamns BTK C1",
+     "borta": "Malmö IF H",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Limhamns Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Limhamns Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 12",
+     "hemma": "IFK Lund F2",
+     "borta": "Vellinge Näsets BTK",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 12",
+     "hemma": "Limhamns BTK C3",
+     "borta": "Kvarnby AK D",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "Hall 1",
+     "arrangor": "Limhamns Bordtennisklubb / Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Limhamns Bordtennisklubb",
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Division 6 Södra 1",
+    "Division 7"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-04-17",
+     "tid": "12:30",
+     "serie": "Division 6 Södra 1",
+     "omgang": "Round 14",
+     "hemma": "Bjärreds BTK C",
+     "borta": "Vellinge Näsets BTK",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb / IFK Lund Bordtennis",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-04-17",
+     "tid": "12:30",
+     "serie": "Division 7",
+     "omgang": "Round 13",
+     "hemma": "Bjärreds BTK D",
+     "borta": "BTK Scania E",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Scania",
+     "plats": "Hall 1",
+     "arrangor": "Bjärreds Bordtennisklubb / Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb",
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 1 S Herr",
@@ -354,6 +1581,275 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Skurups BTK B",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kvarnby AK B",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Lund F2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Limhamns BTK C1",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Bjärreds BTK C",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Malmö IF H",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vellinge Näsets BTK",
+     "klubb": "Vellinge Näsets Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kvarnby AK D",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Limhamns BTK C3",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IFK Lund F5",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kullahalvöns BTK Blå",
+     "klubb": "Kullahalvöns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kågeröds BTK Youth",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Scania E",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bjärreds BTK D",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kvarnby AK E",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Malmö IF I",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Bjärnums BTK B",
+     "klubb": "Bjärnums Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
