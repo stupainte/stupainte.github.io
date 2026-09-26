@@ -4,12 +4,26 @@
   "namn": "Åsa Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-26T09:03:14Z",
  "lag": [
   {
    "namn": "Åsa IF B",
    "serie": {
     "namn": "Division 4"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Åsa IF C",
+   "serie": {
+    "namn": "Division 5 Norra"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Åsa IF D",
+   "serie": {
+    "namn": "Division 6 Norra"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -39,11 +53,26 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Särö Kullavik",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "19:00",
+   "serie": "Division 5 Norra",
+   "omgang": "Round 1",
+   "hemma": "Särö Kullavik IF C",
+   "borta": "Åsa IF C",
+   "hemma_klubb": "Särö Kullavik Idrottsförening",
+   "borta_klubb": "Åsa Idrottsförening",
+   "plats": "Hall 4",
    "arrangor": "Särö Kullavik Idrottsförening",
    "arrangorer": [
     "Särö Kullavik Idrottsförening"
    ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1246/2/7/7",
    "exakt_lank": true
   },
   {
@@ -51,15 +80,13 @@
    "tid": "10:00",
    "serie": "Division 4",
    "omgang": "Round 2",
-   "hemma": "Åsa IF B",
-   "borta": "Kungsbacka BTK C",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Kungsbacka Bordtennisklubb",
+   "hemma": "Varbergs BTK C",
+   "borta": "Åsa IF B",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Åsa Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": "Varbergs Bordtennisklubb",
-   "arrangorer": [
-    "Varbergs Bordtennisklubb"
-   ],
+   "arrangor": null,
+   "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
    "exakt_lank": true
   },
@@ -82,23 +109,6 @@
   },
   {
    "datum": "2026-10-17",
-   "tid": "13:30",
-   "serie": "Division 4",
-   "omgang": "Round 3",
-   "hemma": "Åsa IF B",
-   "borta": "Sibbarps GoIF A",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Sibbarps Gymnastik O IF",
-   "plats": "BT Hallen Varberg",
-   "arrangor": "Varbergs Bordtennisklubb",
-   "arrangorer": [
-    "Varbergs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-10-17",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 4",
@@ -113,40 +123,6 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie": "Division 4",
-   "omgang": "Round 4",
-   "hemma": "Åsa IF B",
-   "borta": "Laholms BTK Serve B",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Laholms Bordtennisklubb Serve",
-   "plats": "Servehallen",
-   "arrangor": "Laholms Bordtennisklubb Serve",
-   "arrangorer": [
-    "Laholms Bordtennisklubb Serve"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "13:00",
-   "serie": "Division 4",
-   "omgang": "Round 5",
-   "hemma": "Halmstad BTK E",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Servehallen",
-   "arrangor": "Laholms Bordtennisklubb Serve",
-   "arrangorer": [
-    "Laholms Bordtennisklubb Serve"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
   },
   {
    "datum": "2026-11-15",
@@ -184,23 +160,6 @@
   },
   {
    "datum": "2026-12-12",
-   "tid": "10:00",
-   "serie": "Division 4",
-   "omgang": "Round 6",
-   "hemma": "BTK Ratic B",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Bordtennisklubben Ratic",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Åsa Idrottshall",
-   "arrangor": "Åsa Idrottsförening",
-   "arrangorer": [
-    "Åsa Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-12-12",
    "tid": "11:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 7",
@@ -218,23 +177,6 @@
   },
   {
    "datum": "2026-12-12",
-   "tid": "13:30",
-   "serie": "Division 4",
-   "omgang": "Round 7",
-   "hemma": "Varbergs BTK C",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Varbergs Bordtennisklubb",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Åsa Idrottshall",
-   "arrangor": "Åsa Idrottsförening",
-   "arrangorer": [
-    "Åsa Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-12-12",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 8",
@@ -249,40 +191,6 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
-  },
-  {
-   "datum": "2027-01-10",
-   "tid": "19:00",
-   "serie": "Division 4",
-   "omgang": "Round 8",
-   "hemma": "Åsa IF B",
-   "borta": "Särö Kullavik IF B",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Särö Kullavik Idrottsförening",
-   "plats": "Hall 4",
-   "arrangor": "Åsa Idrottsförening",
-   "arrangorer": [
-    "Åsa Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2027-01-16",
-   "tid": "10:00",
-   "serie": "Division 4",
-   "omgang": "Round 9",
-   "hemma": "Kungsbacka BTK C",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Kungsbacka Bordtennisklubb",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Kungsbacka",
-   "arrangor": "Kungsbacka Bordtennisklubb",
-   "arrangorer": [
-    "Kungsbacka Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
   },
   {
    "datum": "2027-01-16",
@@ -303,23 +211,6 @@
   },
   {
    "datum": "2027-01-16",
-   "tid": "13:30",
-   "serie": "Division 4",
-   "omgang": "Round 10",
-   "hemma": "Sibbarps GoIF A",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Sibbarps Gymnastik O IF",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Kungsbacka",
-   "arrangor": "Kungsbacka Bordtennisklubb",
-   "arrangorer": [
-    "Kungsbacka Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2027-01-16",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 10",
@@ -334,23 +225,6 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
-  },
-  {
-   "datum": "2027-02-13",
-   "tid": "10:00",
-   "serie": "Division 4",
-   "omgang": "Round 11",
-   "hemma": "Laholms BTK Serve B",
-   "borta": "Åsa IF B",
-   "hemma_klubb": "Laholms Bordtennisklubb Serve",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Ratichallen",
-   "arrangor": "Bordtennisklubben Ratic",
-   "arrangorer": [
-    "Bordtennisklubben Ratic"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
   },
   {
    "datum": "2027-02-13",
@@ -371,23 +245,6 @@
   },
   {
    "datum": "2027-02-13",
-   "tid": "13:30",
-   "serie": "Division 4",
-   "omgang": "Round 12",
-   "hemma": "Åsa IF B",
-   "borta": "Halmstad BTK E",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Ratichallen",
-   "arrangor": "Bordtennisklubben Ratic",
-   "arrangorer": [
-    "Bordtennisklubben Ratic"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2027-02-13",
    "tid": "15:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 12",
@@ -405,23 +262,6 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "10:00",
-   "serie": "Division 4",
-   "omgang": "Round 13",
-   "hemma": "Åsa IF B",
-   "borta": "BTK Ratic B",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Bordtennisklubben Ratic",
-   "plats": "Särö Kullavik",
-   "arrangor": "Särö Kullavik Idrottsförening",
-   "arrangorer": [
-    "Särö Kullavik Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2027-03-13",
    "tid": "11:00",
    "serie": "Div 3 VSSV",
    "omgang": "Round 13",
@@ -436,23 +276,6 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
    "exakt_lank": false
-  },
-  {
-   "datum": "2027-03-13",
-   "tid": "13:30",
-   "serie": "Division 4",
-   "omgang": "Round 14",
-   "hemma": "Åsa IF B",
-   "borta": "Varbergs BTK C",
-   "hemma_klubb": "Åsa Idrottsförening",
-   "borta_klubb": "Varbergs Bordtennisklubb",
-   "plats": "Särö Kullavik",
-   "arrangor": "Särö Kullavik Idrottsförening",
-   "arrangorer": [
-    "Särö Kullavik Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-   "exakt_lank": true
   },
   {
    "datum": "2027-03-13",
@@ -775,183 +598,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-12-12",
-   "platser": [
-    "Åsa Idrottshall"
-   ],
-   "serier": [
-    "Division 4"
-   ],
-   "antal": 8,
-   "matcher": [
-    {
-     "datum": "2026-12-12",
-     "tid": "10:00",
-     "serie": "Division 4",
-     "omgang": "Round 6",
-     "hemma": "Varbergs BTK C",
-     "borta": "Särö Kullavik IF B",
-     "hemma_klubb": "Varbergs Bordtennisklubb",
-     "borta_klubb": "Särö Kullavik Idrottsförening",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "10:00",
-     "serie": "Division 4",
-     "omgang": "Round 6",
-     "hemma": "Sibbarps GoIF A",
-     "borta": "Laholms BTK Serve B",
-     "hemma_klubb": "Sibbarps Gymnastik O IF",
-     "borta_klubb": "Laholms Bordtennisklubb Serve",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "10:00",
-     "serie": "Division 4",
-     "omgang": "Round 6",
-     "hemma": "BTK Ratic B",
-     "borta": "Åsa IF B",
-     "hemma_klubb": "Bordtennisklubben Ratic",
-     "borta_klubb": "Åsa Idrottsförening",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "10:00",
-     "serie": "Division 4",
-     "omgang": "Round 6",
-     "hemma": "Kungsbacka BTK C",
-     "borta": "Halmstad BTK E",
-     "hemma_klubb": "Kungsbacka Bordtennisklubb",
-     "borta_klubb": "Halmstad Bordtennisklubb",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "13:30",
-     "serie": "Division 4",
-     "omgang": "Round 7",
-     "hemma": "Särö Kullavik IF B",
-     "borta": "Laholms BTK Serve B",
-     "hemma_klubb": "Särö Kullavik Idrottsförening",
-     "borta_klubb": "Laholms Bordtennisklubb Serve",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "13:30",
-     "serie": "Division 4",
-     "omgang": "Round 7",
-     "hemma": "Varbergs BTK C",
-     "borta": "Åsa IF B",
-     "hemma_klubb": "Varbergs Bordtennisklubb",
-     "borta_klubb": "Åsa Idrottsförening",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "13:30",
-     "serie": "Division 4",
-     "omgang": "Round 7",
-     "hemma": "Sibbarps GoIF A",
-     "borta": "Halmstad BTK E",
-     "hemma_klubb": "Sibbarps Gymnastik O IF",
-     "borta_klubb": "Halmstad Bordtennisklubb",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2026-12-12",
-     "tid": "13:30",
-     "serie": "Division 4",
-     "omgang": "Round 7",
-     "hemma": "BTK Ratic B",
-     "borta": "Kungsbacka BTK C",
-     "hemma_klubb": "Bordtennisklubben Ratic",
-     "borta_klubb": "Kungsbacka Bordtennisklubb",
-     "plats": "Åsa Idrottshall",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    }
-   ]
-  },
-  {
-   "datum": "2027-01-10",
-   "platser": [
-    "Hall 4"
-   ],
-   "serier": [
-    "Division 4"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2027-01-10",
-     "tid": "19:00",
-     "serie": "Division 4",
-     "omgang": "Round 8",
-     "hemma": "Åsa IF B",
-     "borta": "Särö Kullavik IF B",
-     "hemma_klubb": "Åsa Idrottsförening",
-     "borta_klubb": "Särö Kullavik Idrottsförening",
-     "plats": "Hall 4",
-     "arrangor": "Åsa Idrottsförening",
-     "arrangorer": [
-      "Åsa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
-     "exakt_lank": true
-    }
-   ]
-  },
   {
    "datum": "2027-01-16",
    "platser": [
@@ -1389,6 +1035,178 @@
      "placering": 7,
      "lag": "Västerås BTK C2",
      "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 5 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1246/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kungsbacka BTK D1",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Horreds BTK B1",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Särö Kullavik IF C",
+     "klubb": "Särö Kullavik Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Varbergs BTK D1",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Varbergs BTK D2",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Åsa IF C",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Horreds BTK B2",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kungsbacka BTK D2",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1256/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Varbergs BTK E1",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Åsa IF D",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Falkenbergs BTK D",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kungsbacka BTK E2",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kungsbacka BTK E1",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Varbergs BTK E2",
+     "klubb": "Varbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
