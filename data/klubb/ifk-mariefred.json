@@ -4,7 +4,7 @@
   "namn": "IFK Mariefred"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-27T09:45:23Z",
  "lag": [
   {
    "namn": "IFK Mariefred A",
@@ -22,40 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-26",
-   "tid": "10:00",
-   "serie": "Division 5",
-   "omgang": "Round 1",
-   "hemma": "IFA Eskilstuna B",
-   "borta": "IFK Mariefred A",
-   "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
-   "borta_klubb": "IFK Mariefred",
-   "plats": "Hall 1",
-   "arrangor": "Flens Bordtennisklubb",
-   "arrangorer": [
-    "Flens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-09-26",
-   "tid": "13:00",
-   "serie": "Division 5",
-   "omgang": "Round 2",
-   "hemma": "IFK Mariefred A",
-   "borta": "Barva IF A",
-   "hemma_klubb": "IFK Mariefred",
-   "borta_klubb": "Barva Idrottsförening",
-   "plats": "Hall 1",
-   "arrangor": "Flens Bordtennisklubb",
-   "arrangorer": [
-    "Flens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
-   "exakt_lank": true
-  },
   {
    "datum": "2026-09-27",
    "tid": "10:00",
@@ -397,7 +363,46 @@
    "exakt_lank": true
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-26",
+   "tid": "10:00",
+   "serie": "Division 5",
+   "omgang": "Round 1",
+   "hemma": "IFA Eskilstuna B",
+   "borta": "IFK Mariefred A",
+   "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
+   "borta_klubb": "IFK Mariefred",
+   "plats": "Hall 1",
+   "arrangor": "Flens Bordtennisklubb",
+   "arrangorer": [
+    "Flens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-26",
+   "tid": "13:00",
+   "serie": "Division 5",
+   "omgang": "Round 2",
+   "hemma": "IFK Mariefred A",
+   "borta": "Barva IF A",
+   "hemma_klubb": "IFK Mariefred",
+   "borta_klubb": "Barva Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Flens Bordtennisklubb",
+   "arrangorer": [
+    "Flens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
