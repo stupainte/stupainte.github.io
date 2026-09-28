@@ -4,7 +4,7 @@
   "namn": "Ihre Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-26T09:03:14Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Ihre BTK A",
@@ -29,57 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-27",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "omgang": "Round 2",
-   "hemma": "Listerby IK D",
-   "borta": "Ihre BTK B",
-   "hemma_klubb": "Listerby Idrottsklubb",
-   "borta_klubb": "Ihre Bordtennisklubb",
-   "plats": "Listerby BT-hallen",
-   "arrangor": "Listerby Idrottsklubb",
-   "arrangorer": [
-    "Listerby Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-09-27",
-   "tid": "13:00",
-   "serie": "DIV 5 SÖDRA",
-   "omgang": "Round 2",
-   "hemma": "Ihre BTK A",
-   "borta": "Lyckeby BTK E",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-09-27",
-   "tid": "17:00",
-   "serie": "Veteran Södra",
-   "omgang": "Round 2",
-   "hemma": "Kyrkhults BTK A",
-   "borta": "Ihre BTK A",
-   "hemma_klubb": "Kyrkhults Bordtennisklubb",
-   "borta_klubb": "Ihre Bordtennisklubb",
-   "plats": "Kyrkhults skola",
-   "arrangor": "Kyrkhults Bordtennisklubb",
-   "arrangorer": [
-    "Kyrkhults Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -731,38 +680,47 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "omgang": "Round 2",
+   "hemma": "Listerby IK D",
+   "borta": "Ihre BTK B",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Ihre Bordtennisklubb",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "Listerby Idrottsklubb",
+   "arrangorer": [
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "DIV 5 SÖDRA",
+   "omgang": "Round 2",
+   "hemma": "Ihre BTK A",
+   "borta": "Lyckeby BTK E",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-09-27",
-   "platser": [
-    "ihre stugan"
-   ],
-   "serier": [
-    "DIV 5 SÖDRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-27",
-     "tid": "13:00",
-     "serie": "DIV 5 SÖDRA",
-     "omgang": "Round 2",
-     "hemma": "Ihre BTK A",
-     "borta": "Lyckeby BTK E",
-     "hemma_klubb": "Ihre Bordtennisklubb",
-     "borta_klubb": "Lyckeby Bordtennisklubb",
-     "plats": "ihre stugan",
-     "arrangor": "Ihre Bordtennisklubb",
-     "arrangorer": [
-      "Ihre Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
   {
    "datum": "2026-10-04",
    "platser": [
@@ -1226,6 +1184,28 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kullåkra BTK A",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Frej D",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
      "spelade": 1,
@@ -1236,29 +1216,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Kullåkra BTK A",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Frej D",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
+     "lag": "Lyckeby BTK E",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Listerby IK C",
      "klubb": "Listerby Idrottsklubb",
      "spelade": 1,
@@ -1269,35 +1238,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Kyrkhults BTK B",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Lyckeby BTK E",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1305,10 +1263,10 @@
      "placering": 8,
      "lag": "Kättilsmåla BTK B",
      "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1323,6 +1281,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kullåkra BTK B",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
@@ -1333,20 +1302,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1367,6 +1325,17 @@
     },
     {
      "placering": 5,
+     "lag": "Listerby IK D",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Carlshamns BTK C",
      "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 1,
@@ -1377,24 +1346,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Ihre BTK B",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Listerby IK D",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1402,10 +1360,10 @@
      "placering": 8,
      "lag": "Sölvesborgs BTK C",
      "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

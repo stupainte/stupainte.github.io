@@ -4,7 +4,7 @@
   "namn": "Haga Fotbollsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-27T09:45:23Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Haga FF",
@@ -22,40 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-27",
-   "tid": "09:00",
-   "serie": "Öst",
-   "omgang": "Round 1",
-   "hemma": "Åtvidabergs TK",
-   "borta": "Haga FF: B",
-   "hemma_klubb": "Åtvidabergs Tennisklubb",
-   "borta_klubb": "Haga Fotbollsförening",
-   "plats": "Norcohallen",
-   "arrangor": "Idrottsföreningen Norcopensarna",
-   "arrangorer": [
-    "Idrottsföreningen Norcopensarna"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-09-27",
-   "tid": "12:00",
-   "serie": "Öst",
-   "omgang": "Round 2",
-   "hemma": "Valdemarsviks IF",
-   "borta": "Haga FF: B",
-   "hemma_klubb": "Valdemarsviks Idrottsförening",
-   "borta_klubb": "Haga Fotbollsförening",
-   "plats": "Norcohallen",
-   "arrangor": "Idrottsföreningen Norcopensarna",
-   "arrangorer": [
-    "Idrottsföreningen Norcopensarna"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-24",
    "tid": "10:00",
@@ -299,6 +265,44 @@
    "exakt_lank": true,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "09:00",
+   "serie": "Öst",
+   "omgang": "Round 1",
+   "hemma": "Åtvidabergs TK",
+   "borta": "Haga FF: B",
+   "hemma_klubb": "Åtvidabergs Tennisklubb",
+   "borta_klubb": "Haga Fotbollsförening",
+   "plats": "Norcohallen",
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "12:00",
+   "serie": "Öst",
+   "omgang": "Round 2",
+   "hemma": "Valdemarsviks IF",
+   "borta": "Haga FF: B",
+   "hemma_klubb": "Valdemarsviks Idrottsförening",
+   "borta_klubb": "Haga Fotbollsförening",
+   "plats": "Norcohallen",
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -394,60 +398,60 @@
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Valdemarsviks IF",
      "klubb": "Valdemarsviks Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Åtvidabergs TK",
      "klubb": "Åtvidabergs Tennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IF Norcopensarna: F1",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Dagsbergs IF",
+     "klubb": "Dagsbergs Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Dagsbergs IF",
-     "klubb": "Dagsbergs Idrottsförening",
-     "spelade": 0,
+     "lag": "IF Norcopensarna: F1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Haga FF: B",
      "klubb": "Haga Fotbollsförening",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -455,10 +459,10 @@
      "placering": 6,
      "lag": "IF Norcopensarna: F2",
      "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

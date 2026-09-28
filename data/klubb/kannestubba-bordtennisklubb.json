@@ -4,7 +4,7 @@
   "namn": "Kännestubba Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-21T09:28:16Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Kännestubba BTK A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-27",
-   "tid": "13:00",
-   "serie": "Div 6 Norra B",
-   "omgang": "Round 2",
-   "hemma": "Kännestubba BTK A",
-   "borta": "Bruzaholms SK B",
-   "hemma_klubb": "Kännestubba Bordtennisklubb",
-   "borta_klubb": "Bruzaholms Sportklubb",
-   "plats": "Kännestubba Bygdgården",
-   "arrangor": "Kännestubba Bordtennisklubb",
-   "arrangorer": [
-    "Kännestubba Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -226,35 +209,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-09-27",
-   "platser": [
-    "Kännestubba Bygdgården"
-   ],
-   "serier": [
-    "Div 6 Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-27",
-     "tid": "13:00",
-     "serie": "Div 6 Norra B",
-     "omgang": "Round 2",
-     "hemma": "Kännestubba BTK A",
-     "borta": "Bruzaholms SK B",
-     "hemma_klubb": "Kännestubba Bordtennisklubb",
-     "borta_klubb": "Bruzaholms Sportklubb",
-     "plats": "Kännestubba Bygdgården",
-     "arrangor": "Kännestubba Bordtennisklubb",
-     "arrangorer": [
-      "Kännestubba Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
    "datum": "2027-02-14",
    "platser": [
     "Kännestubba Bygdgården"
@@ -381,6 +335,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "BTK Frej E",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
      "spelade": 1,
@@ -391,7 +356,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kännestubba BTK A",
      "klubb": "Kännestubba Bordtennisklubb",
      "spelade": 1,
@@ -402,7 +367,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vetlanda BTK B",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 1,
@@ -413,7 +378,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Bruzaholms SK B",
      "klubb": "Bruzaholms Sportklubb",
      "spelade": 1,
@@ -424,24 +389,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "BTK Frej E",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Lessebo BTK C",
      "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -449,12 +403,12 @@
      "placering": 7,
      "lag": "Vaggeryds BTK C",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–264"
     }
    ]
   }

@@ -4,7 +4,7 @@
   "namn": "Kvillebyns Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Kvillebyns SK",
@@ -200,8 +200,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-15",
-   "tid": "19:00",
+   "datum": "2026-11-28",
+   "tid": "10:00",
    "serie": "Nordvästra",
    "omgang": "Round 5",
    "hemma": "Kvillebyns SK B",
@@ -217,8 +217,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-29",
-   "tid": "19:00",
+   "datum": "2026-11-28",
+   "tid": "14:00",
    "serie": "Nordvästra",
    "omgang": "Round 6",
    "hemma": "Kvillebyns SK B",
@@ -557,6 +557,23 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-03-01",
+   "tid": "19:00",
+   "serie": "Nordvästra",
+   "omgang": "Round 10",
+   "hemma": "Kvillebyns SK C",
+   "borta": "Bullarens GoIF C",
+   "hemma_klubb": "Kvillebyns Sportklubb",
+   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kvillebyns Sportklubb",
+   "arrangorer": [
+    "Kvillebyns Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2027-03-13",
    "tid": "10:00",
    "serie": "Nordvästra",
@@ -622,23 +639,6 @@
     "Kvillebyns Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2027-04-05",
-   "tid": "19:00",
-   "serie": "Nordvästra",
-   "omgang": "Round 10",
-   "hemma": "Kvillebyns SK C",
-   "borta": "Bullarens GoIF C",
-   "hemma_klubb": "Kvillebyns Sportklubb",
-   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
-   "plats": "-",
-   "arrangor": "Kvillebyns Sportklubb",
-   "arrangorer": [
-    "Kvillebyns Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
    "exakt_lank": false
   }
  ],
@@ -803,18 +803,18 @@
    ]
   },
   {
-   "datum": "2026-11-15",
+   "datum": "2026-11-28",
    "platser": [
     "-"
    ],
    "serier": [
     "Nordvästra"
    ],
-   "antal": 1,
+   "antal": 4,
    "matcher": [
     {
-     "datum": "2026-11-15",
-     "tid": "19:00",
+     "datum": "2026-11-28",
+     "tid": "10:00",
      "serie": "Nordvästra",
      "omgang": "Round 5",
      "hemma": "Kvillebyns SK B",
@@ -828,22 +828,44 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
      "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2026-11-29",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Nordvästra"
-   ],
-   "antal": 1,
-   "matcher": [
+    },
     {
-     "datum": "2026-11-29",
-     "tid": "19:00",
+     "datum": "2026-11-28",
+     "tid": "10:00",
+     "serie": "Nordvästra",
+     "omgang": "Round 5",
+     "hemma": "Varekils IF",
+     "borta": "Stenungsunds BTF C",
+     "hemma_klubb": "Varekils Idrottsförening",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Kvillebyns Sportklubb",
+     "arrangorer": [
+      "Kvillebyns Sportklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-11-28",
+     "tid": "14:00",
+     "serie": "Nordvästra",
+     "omgang": "Round 6",
+     "hemma": "Varekils IF",
+     "borta": "Skee IF",
+     "hemma_klubb": "Varekils Idrottsförening",
+     "borta_klubb": "Skee Idrottsförening",
+     "plats": "-",
+     "arrangor": "Kvillebyns Sportklubb",
+     "arrangorer": [
+      "Kvillebyns Sportklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-11-28",
+     "tid": "14:00",
      "serie": "Nordvästra",
      "omgang": "Round 6",
      "hemma": "Kvillebyns SK B",
@@ -1079,6 +1101,35 @@
    ]
   },
   {
+   "datum": "2027-03-01",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Nordvästra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-01",
+     "tid": "19:00",
+     "serie": "Nordvästra",
+     "omgang": "Round 10",
+     "hemma": "Kvillebyns SK C",
+     "borta": "Bullarens GoIF C",
+     "hemma_klubb": "Kvillebyns Sportklubb",
+     "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+     "plats": "-",
+     "arrangor": "Kvillebyns Sportklubb",
+     "arrangorer": [
+      "Kvillebyns Sportklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2027-03-13",
    "platser": [
     "-"
@@ -1154,35 +1205,6 @@
       "Kvillebyns Sportklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2027-04-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Nordvästra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2027-04-05",
-     "tid": "19:00",
-     "serie": "Nordvästra",
-     "omgang": "Round 10",
-     "hemma": "Kvillebyns SK C",
-     "borta": "Bullarens GoIF C",
-     "hemma_klubb": "Kvillebyns Sportklubb",
-     "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
-     "plats": "-",
-     "arrangor": "Kvillebyns Sportklubb",
-     "arrangorer": [
-      "Kvillebyns Sportklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
      "exakt_lank": false
     }
    ]

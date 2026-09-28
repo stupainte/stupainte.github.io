@@ -4,7 +4,7 @@
   "namn": "Senorens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Senorens IF A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-27",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "omgang": "Round 2",
-   "hemma": "Senorens IF A",
-   "borta": "Sölvesborgs BTK C",
-   "hemma_klubb": "Senorens Idrottsförening",
-   "borta_klubb": "Sölvesborgs Bordtennisklubb",
-   "plats": "Ramdala Medborgarhus",
-   "arrangor": "Senorens Idrottsförening",
-   "arrangorer": [
-    "Senorens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -256,38 +239,28 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "omgang": "Round 2",
+   "hemma": "Senorens IF A",
+   "borta": "Sölvesborgs BTK C",
+   "hemma_klubb": "Senorens Idrottsförening",
+   "borta_klubb": "Sölvesborgs Bordtennisklubb",
+   "plats": "Ramdala Medborgarhus",
+   "arrangor": "Senorens Idrottsförening",
+   "arrangorer": [
+    "Senorens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-09-27",
-   "platser": [
-    "Ramdala Medborgarhus"
-   ],
-   "serier": [
-    "Div 6 Syd/MELLERSTA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-27",
-     "tid": "13:00",
-     "serie": "Div 6 Syd/MELLERSTA",
-     "omgang": "Round 2",
-     "hemma": "Senorens IF A",
-     "borta": "Sölvesborgs BTK C",
-     "hemma_klubb": "Senorens Idrottsförening",
-     "borta_klubb": "Sölvesborgs Bordtennisklubb",
-     "plats": "Ramdala Medborgarhus",
-     "arrangor": "Senorens Idrottsförening",
-     "arrangorer": [
-      "Senorens Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -473,6 +446,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kullåkra BTK B",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
@@ -483,20 +467,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -517,6 +490,17 @@
     },
     {
      "placering": 5,
+     "lag": "Listerby IK D",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Carlshamns BTK C",
      "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 1,
@@ -527,24 +511,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Ihre BTK B",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Listerby IK D",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -552,10 +525,10 @@
      "placering": 8,
      "lag": "Sölvesborgs BTK C",
      "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Kristvalla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-27T09:45:23Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Kristvalla BTK A",
@@ -453,6 +453,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kalmar BTK C",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "BTK Arsenal Nybro A",
      "klubb": "Bordtennisklubben Arsenal Nybro",
      "spelade": 1,
@@ -463,20 +474,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Kalmar BTK A",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Kalmar BTK C",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "BTK Enig A",
+     "klubb": "Bordtennisklubben Enig",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -486,13 +486,13 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Enig A",
-     "klubb": "Bordtennisklubben Enig",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kalmar BTK A",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -508,17 +508,6 @@
     },
     {
      "placering": 6,
-     "lag": "Högsby BTK C",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Långemåla BTK C",
      "klubb": "Långemåla Bordtennisklubb",
      "spelade": 1,
@@ -529,13 +518,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "BTK Arsenal Nybro B",
      "klubb": "Bordtennisklubben Arsenal Nybro",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Högsby BTK C",
+     "klubb": "Högsby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

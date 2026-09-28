@@ -4,7 +4,7 @@
   "namn": "Uddevalla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-28T10:20:57Z",
  "lag": [
   {
    "namn": "Uddevalla BTK",
@@ -969,6 +969,23 @@
    "exakt_lank": false
   },
   {
+   "datum": "2027-03-01",
+   "tid": "19:00",
+   "serie": "Nordvästra",
+   "omgang": "Round 10",
+   "hemma": "Uddevalla BTK C",
+   "borta": "Stenungsunds BTF D1",
+   "hemma_klubb": "Uddevalla Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "-",
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2027-03-07",
    "tid": "19:00",
    "serie": "Nordvästra",
@@ -1085,23 +1102,6 @@
     "Kvillebyns Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2027-04-05",
-   "tid": "19:00",
-   "serie": "Nordvästra",
-   "omgang": "Round 10",
-   "hemma": "Uddevalla BTK C",
-   "borta": "Stenungsunds BTF D1",
-   "hemma_klubb": "Uddevalla Bordtennisklubb",
-   "borta_klubb": "Stenungsunds Bordtennisförening",
-   "plats": "-",
-   "arrangor": "Uddevalla Bordtennisklubb",
-   "arrangorer": [
-    "Uddevalla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
    "exakt_lank": false
   }
  ],
@@ -1879,6 +1879,35 @@
    ]
   },
   {
+   "datum": "2027-03-01",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Nordvästra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-01",
+     "tid": "19:00",
+     "serie": "Nordvästra",
+     "omgang": "Round 10",
+     "hemma": "Uddevalla BTK C",
+     "borta": "Stenungsunds BTF D1",
+     "hemma_klubb": "Uddevalla Bordtennisklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Uddevalla Bordtennisklubb",
+     "arrangorer": [
+      "Uddevalla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2027-03-07",
    "platser": [
     "-"
@@ -1903,35 +1932,6 @@
       "Uddevalla Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2027-04-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Nordvästra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2027-04-05",
-     "tid": "19:00",
-     "serie": "Nordvästra",
-     "omgang": "Round 10",
-     "hemma": "Uddevalla BTK C",
-     "borta": "Stenungsunds BTF D1",
-     "hemma_klubb": "Uddevalla Bordtennisklubb",
-     "borta_klubb": "Stenungsunds Bordtennisförening",
-     "plats": "-",
-     "arrangor": "Uddevalla Bordtennisklubb",
-     "arrangorer": [
-      "Uddevalla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
      "exakt_lank": false
     }
    ]
