@@ -4,7 +4,7 @@
   "namn": "Götene/Tor Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-29T10:17:41Z",
  "lag": [
   {
    "namn": "Götene Tor BTK",
@@ -105,7 +105,7 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-10-18",
+   "datum": "2026-10-17",
    "tid": "11:00",
    "serie": "Div 3 VSNÖ",
    "omgang": "Round 3",
@@ -122,7 +122,7 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-10-18",
+   "datum": "2026-10-17",
    "tid": "15:00",
    "serie": "Div 3 VSNÖ",
    "omgang": "Round 4",
@@ -360,23 +360,6 @@
    "exakt_lank": false
   },
   {
-   "datum": "2027-01-05",
-   "tid": "19:00",
-   "serie": "Nordöstra",
-   "omgang": "Round 6",
-   "hemma": "Götene Tor BTK D",
-   "borta": "IFK Lidköping D",
-   "hemma_klubb": "Götene/Tor Bordtennisklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Götene/Tor Bordtennisklubb",
-   "arrangorer": [
-    "Götene/Tor Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
-   "exakt_lank": false
-  },
-  {
    "datum": "2027-01-07",
    "tid": "19:00",
    "serie": "Div 5 Nordöstra",
@@ -391,6 +374,23 @@
     "Götene/Tor Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-07",
+   "tid": "19:00",
+   "serie": "Nordöstra",
+   "omgang": "Round 6",
+   "hemma": "Götene Tor BTK D",
+   "borta": "IFK Lidköping D",
+   "hemma_klubb": "Götene/Tor Bordtennisklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1306,43 +1306,16 @@
    ]
   },
   {
-   "datum": "2027-01-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2027-01-05",
-     "tid": "19:00",
-     "serie": "Nordöstra",
-     "omgang": "Round 6",
-     "hemma": "Götene Tor BTK D",
-     "borta": "IFK Lidköping D",
-     "hemma_klubb": "Götene/Tor Bordtennisklubb",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Götene/Tor Bordtennisklubb",
-     "arrangorer": [
-      "Götene/Tor Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
    "datum": "2027-01-07",
    "platser": [
+    "-",
     "Olinsgymnasiet Götene"
    ],
    "serier": [
-    "Div 5 Nordöstra"
+    "Div 5 Nordöstra",
+    "Nordöstra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-07",
@@ -1359,6 +1332,23 @@
       "Götene/Tor Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-01-07",
+     "tid": "19:00",
+     "serie": "Nordöstra",
+     "omgang": "Round 6",
+     "hemma": "Götene Tor BTK D",
+     "borta": "IFK Lidköping D",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "-",
+     "arrangor": "Götene/Tor Bordtennisklubb",
+     "arrangorer": [
+      "Götene/Tor Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
      "exakt_lank": false
     }
    ]

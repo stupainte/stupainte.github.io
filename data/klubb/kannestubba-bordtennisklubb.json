@@ -4,7 +4,7 @@
   "namn": "Kännestubba Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-28T10:20:57Z",
+ "uppdaterad": "2026-09-29T10:17:41Z",
  "lag": [
   {
    "namn": "Kännestubba BTK A",
@@ -28,6 +28,23 @@
    "arrangor": "Södra Vi Idrottsförening",
    "arrangorer": [
     "Södra Vi Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-06",
+   "tid": "13:00",
+   "serie": "Div 6 Norra B",
+   "omgang": "Round 2",
+   "hemma": "Kännestubba BTK A",
+   "borta": "Bruzaholms SK B",
+   "hemma_klubb": "Kännestubba Bordtennisklubb",
+   "borta_klubb": "Bruzaholms Sportklubb",
+   "plats": "Kännestubba Bygdgården",
+   "arrangor": "Kännestubba Bordtennisklubb",
+   "arrangorer": [
+    "Kännestubba Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
    "exakt_lank": false
@@ -209,6 +226,35 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-10-06",
+   "platser": [
+    "Kännestubba Bygdgården"
+   ],
+   "serier": [
+    "Div 6 Norra B"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-06",
+     "tid": "13:00",
+     "serie": "Div 6 Norra B",
+     "omgang": "Round 2",
+     "hemma": "Kännestubba BTK A",
+     "borta": "Bruzaholms SK B",
+     "hemma_klubb": "Kännestubba Bordtennisklubb",
+     "borta_klubb": "Bruzaholms Sportklubb",
+     "plats": "Kännestubba Bygdgården",
+     "arrangor": "Kännestubba Bordtennisklubb",
+     "arrangorer": [
+      "Kännestubba Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2027-02-14",
    "platser": [
     "Kännestubba Bygdgården"
@@ -335,6 +381,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Södra VI IF A",
+     "klubb": "Södra Vi Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "BTK Frej E",
      "klubb": "Bordtennisklubben Frej",
      "spelade": 2,
@@ -343,17 +400,6 @@
      "forlorade": 0,
      "matchpoang": 4,
      "setdiff": "264–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Södra VI IF A",
-     "klubb": "Södra Vi Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
     },
     {
      "placering": 3,
@@ -368,8 +414,8 @@
     },
     {
      "placering": 4,
-     "lag": "Vetlanda BTK B",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "Bruzaholms SK B",
+     "klubb": "Bruzaholms Sportklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -379,12 +425,12 @@
     },
     {
      "placering": 5,
-     "lag": "Bruzaholms SK B",
-     "klubb": "Bruzaholms Sportklubb",
-     "spelade": 1,
+     "lag": "Vetlanda BTK B",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

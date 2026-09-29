@@ -4,7 +4,7 @@
   "namn": "Tabergs Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-28T10:20:57Z",
+ "uppdaterad": "2026-09-29T10:17:42Z",
  "lag": [
   {
    "namn": "Tabergs SK A",
@@ -187,6 +187,25 @@
   }
  ],
  "resultat": [
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "Div 6 Norra A ",
+   "omgang": "Round 2",
+   "hemma": "Tranås BTK D",
+   "borta": "Tabergs SK A",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Tabergs Sportklubb",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
   {
    "datum": "2026-11-29",
    "tid": "13:00",
@@ -414,6 +433,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Tranås BTK D",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Tranås BTK C",
      "klubb": "Tranås Bordtennisklubb",
      "spelade": 2,
@@ -424,31 +454,20 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 2,
-     "lag": "Tranås BTK D",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
-     "lag": " KFUM Jönköping IA G",
-     "klubb": "KFUM Jönköping",
-     "spelade": 1,
+     "lag": "Tabergs SK A",
+     "klubb": "Tabergs Sportklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Tabergs SK A",
-     "klubb": "Tabergs Sportklubb",
+     "lag": " KFUM Jönköping IA G",
+     "klubb": "KFUM Jönköping",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,

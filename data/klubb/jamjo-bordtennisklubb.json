@@ -4,7 +4,7 @@
   "namn": "Jämjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-28T10:20:57Z",
+ "uppdaterad": "2026-09-29T10:17:41Z",
  "lag": [
   {
    "namn": "Jämjö BTK",
@@ -43,23 +43,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-28",
-   "tid": "13:00",
-   "serie": "DIV 5 SÖDRA",
-   "omgang": "Round 3",
-   "hemma": "Kullåkra BTK A",
-   "borta": "Jämjö BTK C",
-   "hemma_klubb": "Kullåkra Bordtennisklubb",
-   "borta_klubb": "Jämjö Bordtennisklubb",
-   "plats": "Bräkne-Hoby Idrottshall",
-   "arrangor": "Kullåkra Bordtennisklubb",
-   "arrangorer": [
-    "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-09-30",
    "tid": "19:00",
@@ -1258,6 +1241,25 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-28",
+   "tid": "13:00",
+   "serie": "DIV 5 SÖDRA",
+   "omgang": "Round 3",
+   "hemma": "Kullåkra BTK A",
+   "borta": "Jämjö BTK C",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Jämjö Bordtennisklubb",
+   "plats": "Bräkne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1771,11 +1773,11 @@
      "placering": 1,
      "lag": "Kullåkra BTK A",
      "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1793,10 +1795,10 @@
      "placering": 3,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

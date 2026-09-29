@@ -4,7 +4,7 @@
   "namn": "Göteborgs Bordtennisförbund"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-09-29T10:17:41Z",
  "lag": [],
  "kommande": [],
  "resultat": [],
@@ -3121,10 +3121,9 @@
    ],
    "serier": [
     "Division 4",
-    "Division 6",
-    "Division 9"
+    "Division 6"
    ],
-   "antal": 3,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-11",
@@ -3160,23 +3159,6 @@
       "Bordtennisklubben Warta"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
-     "exakt_lank": true
-    },
-    {
-     "datum": "2027-01-11",
-     "tid": "19:00",
-     "serie": "Division 9",
-     "omgang": "Round 7",
-     "hemma": "BTK Warta E",
-     "borta": "Lekstorps IF G",
-     "hemma_klubb": "Bordtennisklubben Warta",
-     "borta_klubb": "Lekstorps Idrottsförening",
-     "plats": "Wartagården",
-     "arrangor": "Göteborgs Bordtennisförbund",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
      "exakt_lank": true
     }
    ]
@@ -3613,12 +3595,14 @@
   {
    "datum": "2027-01-18",
    "platser": [
-    "Frölunda Kulturhus, lilla hallen"
+    "Frölunda Kulturhus, lilla hallen",
+    "Wartagården"
    ],
    "serier": [
-    "Division 8"
+    "Division 8",
+    "Division 9"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-18",
@@ -3635,6 +3619,23 @@
       "Göteborgs Bordtennisförbund"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
+     "exakt_lank": true
+    },
+    {
+     "datum": "2027-01-18",
+     "tid": "19:00",
+     "serie": "Division 9",
+     "omgang": "Round 7",
+     "hemma": "BTK Warta E",
+     "borta": "Lekstorps IF G",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Wartagården",
+     "arrangor": "Göteborgs Bordtennisförbund",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
      "exakt_lank": true
     }
    ]

@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-26T09:03:14Z",
+ "uppdaterad": "2026-09-29T10:17:41Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -1362,6 +1362,25 @@
    "datum": "",
    "tid": "",
    "serie": "Silly D",
+   "omgang": "Round 1",
+   "hemma": "The homo sapiens",
+   "borta": "The Midz",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Nynäshamns Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly D",
    "omgang": "Round 2",
    "hemma": "Ängby Ulfsundians",
    "borta": "The homo sapiens",
@@ -1414,6 +1433,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Silly D",
+   "omgang": "Round 5",
+   "hemma": "Tyresö BTK F",
+   "borta": "The homo sapiens",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": "Tyresö Bordtennisklubb",
+   "arrangorer": [
+    "Tyresö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2026-04-11",
@@ -2731,6 +2769,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "The homo sapiens",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Smashing Pumpkins",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 5,
@@ -2741,7 +2790,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Ängby Ulfsundians",
      "klubb": "Ängby Sportklubb",
      "spelade": 5,
@@ -2752,7 +2801,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "IFK Täby 4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 5,
@@ -2763,35 +2812,24 @@
      "setdiff": "198–198"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "The Midz",
      "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "198–0"
-    },
-    {
-     "placering": 5,
-     "lag": "The homo sapiens",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Tyresö BTK F",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–198"
     }
