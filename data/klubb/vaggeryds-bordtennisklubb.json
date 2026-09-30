@@ -4,7 +4,7 @@
   "namn": "Vaggeryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-29T10:17:42Z",
+ "uppdaterad": "2026-09-30T10:09:08Z",
  "lag": [
   {
    "namn": "Vaggeryds BTK",
@@ -36,23 +36,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-29",
-   "tid": "10:00",
-   "serie": "Veteran Norra A",
-   "omgang": "Round 1",
-   "hemma": "BTK Clipper A",
-   "borta": "Vaggeryds BTK A",
-   "hemma_klubb": "Bordtennisklubben Clipper",
-   "borta_klubb": "Vaggeryds Bordtennisklubb",
-   "plats": "Sporthallen Nässjö",
-   "arrangor": "Bordtennisklubben Clipper",
-   "arrangorer": [
-    "Bordtennisklubben Clipper"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -122,8 +105,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-10-29",
-   "tid": "13:00",
+   "datum": "2026-10-30",
+   "tid": "14:00",
    "serie": "Veteran Norra A",
    "omgang": "Round 3",
    "hemma": "Vaggeryds BTK A",
@@ -1025,7 +1008,7 @@
    ]
   },
   {
-   "datum": "2026-10-29",
+   "datum": "2026-10-30",
    "platser": [
     "Vaggeryds Idrottshall"
    ],
@@ -1035,8 +1018,8 @@
    "antal": 1,
    "matcher": [
     {
-     "datum": "2026-10-29",
-     "tid": "13:00",
+     "datum": "2026-10-30",
+     "tid": "14:00",
      "serie": "Veteran Norra A",
      "omgang": "Round 3",
      "hemma": "Vaggeryds BTK A",
@@ -1448,13 +1431,13 @@
     },
     {
      "placering": 3,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 1,
+     "lag": "KFUM Jönköping IA C",
+     "klubb": "KFUM Jönköping",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1470,13 +1453,13 @@
     },
     {
      "placering": 5,
-     "lag": "KFUM Jönköping IA C",
-     "klubb": "KFUM Jönköping",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1706,6 +1689,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Tranås BTK A",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Huskvarna Södra IS A",
      "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 1,
@@ -1716,7 +1710,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "BTK Clipper A",
      "klubb": "Bordtennisklubben Clipper",
      "spelade": 0,
@@ -1727,7 +1721,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vaggeryds BTK A",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 0,
@@ -1738,29 +1732,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Tranås BTK A",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "KFUM Jönköping IA A",
      "klubb": "KFUM Jönköping",
      "spelade": 0,
@@ -1771,9 +1743,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Vetlanda BTK A",
      "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

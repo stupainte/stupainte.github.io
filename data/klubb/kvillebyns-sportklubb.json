@@ -4,7 +4,7 @@
   "namn": "Kvillebyns Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-28T10:20:57Z",
+ "uppdaterad": "2026-09-30T10:09:08Z",
  "lag": [
   {
    "namn": "Kvillebyns SK",
@@ -645,6 +645,25 @@
  "resultat": [
   {
    "datum": "2026-09-19",
+   "tid": "10:00",
+   "serie": "Nordvästra",
+   "omgang": "Round 1",
+   "hemma": "Bullarens GoIF",
+   "borta": "Kvillebyns SK",
+   "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "borta_klubb": "Kvillebyns Sportklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Bullarens Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Bullarens Gymnastik o Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-19",
    "tid": "14:00",
    "serie": "Nordvästra",
    "omgang": "Round 2",
@@ -1214,13 +1233,13 @@
   {
    "serie": "Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Stenungsunds BTF D2",
+     "lag": "Stenungsunds BTF Vit",
      "klubb": "Stenungsunds Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
@@ -1231,8 +1250,8 @@
     },
     {
      "placering": 2,
-     "lag": "Uddevalla BTK C",
-     "klubb": "Uddevalla Bordtennisklubb",
+     "lag": "Munkedals BTK Röd",
+     "klubb": "Munkedals Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1242,8 +1261,8 @@
     },
     {
      "placering": 3,
-     "lag": "Kvillebyns SK C",
-     "klubb": "Kvillebyns Sportklubb",
+     "lag": "Skee IF",
+     "klubb": "Skee Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1253,18 +1272,7 @@
     },
     {
      "placering": 4,
-     "lag": "Grästorps BTK C",
-     "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Bullarens GoIF C",
+     "lag": "Bullarens GoIF",
      "klubb": "Bullarens Gymnastik o Idrottsförening",
      "spelade": 0,
      "vunna": 0,
@@ -1274,8 +1282,19 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 5,
+     "lag": "Munkedals BTK Blå",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 6,
-     "lag": "Stenungsunds BTF D1",
+     "lag": "Stenungsunds BTF Blå",
      "klubb": "Stenungsunds Bordtennisförening",
      "spelade": 0,
      "vunna": 0,

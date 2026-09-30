@@ -4,7 +4,7 @@
   "namn": "Örslösa-Söne Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-29T10:17:42Z",
+ "uppdaterad": "2026-09-30T10:09:08Z",
  "lag": [
   {
    "namn": "Örslösa - Söne IK B",
@@ -29,23 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-29",
-   "tid": "19:00",
-   "serie": "Div 5 Mellersta",
-   "omgang": "Round 1",
-   "hemma": "Örslösa-Söne IK",
-   "borta": "Grästorps BTK B",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "Grästorps Bordtennisklubb",
-   "plats": "Örslösa IP",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-05",
    "tid": "19:00",
@@ -217,8 +200,8 @@
    "exakt_lank": false
   },
   {
-   "datum": "2026-11-11",
-   "tid": "18:00",
+   "datum": "2026-11-14",
+   "tid": "10:00",
    "serie": "Div 5 Mellersta",
    "omgang": "Round 5",
    "hemma": "Trollhättans BTK B",
@@ -265,23 +248,6 @@
     "Örslösa-Söne Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-11-19",
-   "tid": "18:00",
-   "serie": "Div 5 Mellersta",
-   "omgang": "Round 6",
-   "hemma": "Örslösa-Söne IK",
-   "borta": "IFK Lidköping B2",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
    "exakt_lank": false
   },
   {
@@ -659,37 +625,28 @@
    "exakt_lank": false
   }
  ],
- "resultat": [],
- "arrangerar": [
+ "resultat": [
   {
    "datum": "2026-09-29",
-   "platser": [
-    "Örslösa IP"
+   "tid": "19:00",
+   "serie": "Div 5 Mellersta",
+   "omgang": "Round 1",
+   "hemma": "Örslösa-Söne IK",
+   "borta": "Grästorps BTK B",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "Grästorps Bordtennisklubb",
+   "plats": "Örslösa IP",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
    ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-29",
-     "tid": "19:00",
-     "serie": "Div 5 Mellersta",
-     "omgang": "Round 1",
-     "hemma": "Örslösa-Söne IK",
-     "borta": "Grästorps BTK B",
-     "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-     "borta_klubb": "Grästorps Bordtennisklubb",
-     "plats": "Örslösa IP",
-     "arrangor": "Örslösa-Söne Idrottsklubb",
-     "arrangorer": [
-      "Örslösa-Söne Idrottsklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
   {
    "datum": "2026-10-06",
    "platser": [
@@ -849,35 +806,6 @@
       "Örslösa-Söne Idrottsklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "18:00",
-     "serie": "Div 5 Mellersta",
-     "omgang": "Round 6",
-     "hemma": "Örslösa-Söne IK",
-     "borta": "IFK Lidköping B2",
-     "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Örslösa-Söne Idrottsklubb",
-     "arrangorer": [
-      "Örslösa-Söne Idrottsklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -1172,6 +1100,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Örslösa-Söne IK",
+     "klubb": "Örslösa-Söne Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Herrljunga BTK",
      "klubb": "Herrljunga Bordtennisklubb",
      "spelade": 1,
@@ -1182,7 +1121,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Vedums AIS C",
      "klubb": "Vedums Allmänna IS",
      "spelade": 0,
@@ -1193,7 +1132,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vårgårda IK",
      "klubb": "Vårgårda IK Bordtennis",
      "spelade": 0,
@@ -1204,29 +1143,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Örslösa-Söne IK",
-     "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Grästorps BTK B",
-     "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Larvs FK B",
      "klubb": "Larvs Fotbollklubb",
      "spelade": 0,
@@ -1237,7 +1154,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Trollhättans BTK B",
      "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 0,
@@ -1248,9 +1165,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Grästorps BTK B",
+     "klubb": "Grästorps Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1263,14 +1191,14 @@
   {
    "serie": "Mellersta",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Alingsås PK D",
-     "klubb": "Alingsås Pingis Klubb",
+     "lag": "Trollhättans BTK Röd",
+     "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1280,8 +1208,8 @@
     },
     {
      "placering": 2,
-     "lag": "IFK Lidköping BTK C2",
-     "klubb": "IFK Lidköping",
+     "lag": "Alingsås PK svart",
+     "klubb": "Ådalslidens Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1291,8 +1219,8 @@
     },
     {
      "placering": 3,
-     "lag": "Örslösa - Söne IK B",
-     "klubb": "Örslösa-Söne Idrottsklubb",
+     "lag": "Lidan BTK Grön",
+     "klubb": "Lidan Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1302,7 +1230,7 @@
     },
     {
      "placering": 4,
-     "lag": "Lidan BTK B",
+     "lag": "Lidan BTK Svart",
      "klubb": "Lidan Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1313,8 +1241,8 @@
     },
     {
      "placering": 5,
-     "lag": "Vedums AIS D",
-     "klubb": "Vedums Allmänna IS",
+     "lag": "Alingsås PK Ultra",
+     "klubb": "Alingsås Pingis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1324,30 +1252,8 @@
     },
     {
      "placering": 6,
-     "lag": "IFK Falköping BTK C2",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "IFK Lidköping C1",
-     "klubb": "IFK Lidköping",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Vårgårda IK B",
-     "klubb": "Vårgårda IK Bordtennis",
+     "lag": "Trollhättans BTK Blå",
+     "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1360,67 +1266,12 @@
   {
    "serie": "Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Blikstorps AIK C",
-     "klubb": "Blikstorps Allmänna IK",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Karlsborgs BTK C1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hangelösa IF",
-     "klubb": "Hangelösa Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IFK Falköping BTK C1",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Hova BTK B",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Varnhems IF",
      "klubb": "Varnhems Idrottsförening",
      "spelade": 0,
@@ -1431,8 +1282,30 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Karlsborgs BTK C2",
+     "placering": 2,
+     "lag": "Lidan BTK Gul",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Karlsborgs BTK",
      "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1442,8 +1315,19 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Skövde PK D",
+     "placering": 5,
+     "lag": "Lidan BTK Röd",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Skövde PK",
      "klubb": "Skövde Pingisklubb",
      "spelade": 0,
      "vunna": 0,

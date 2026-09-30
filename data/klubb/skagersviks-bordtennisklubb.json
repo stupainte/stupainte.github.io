@@ -4,7 +4,7 @@
   "namn": "Skagersviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-24T08:54:39Z",
+ "uppdaterad": "2026-09-30T10:09:08Z",
  "lag": [
   {
    "namn": "Skagersviks BTK",
@@ -1350,10 +1350,21 @@
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Lidköping B1",
+     "klubb": "IFK Lidköping",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Skagersviks BTK C",
      "klubb": "Skagersviks Bordtennisklubb",
      "spelade": 0,
@@ -1364,7 +1375,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
+     "lag": "Istrums SK",
+     "klubb": "Istrums Skidklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Skövde PK C",
      "klubb": "Skövde Pingisklubb",
      "spelade": 0,
@@ -1375,51 +1397,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Karlsborgs BTK B1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Götene Tor BTK C",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "IFK Lidköping B1",
-     "klubb": "IFK Lidköping",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Karlsborgs BTK B2",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Mariestads BTK B",
      "klubb": "Mariestads Bordtennisklubb",
      "spelade": 0,
@@ -1430,39 +1408,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Istrums SK",
-     "klubb": "Istrums Skidklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Blikstorps AIK C",
-     "klubb": "Blikstorps Allmänna IK",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Karlsborgs BTK C1",
+     "placering": 6,
+     "lag": "Karlsborgs BTK B1",
      "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1472,9 +1419,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Hangelösa IF",
-     "klubb": "Hangelösa Idrottsförening",
+     "placering": 7,
+     "lag": "Karlsborgs BTK B2",
+     "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1483,29 +1430,27 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "IFK Falköping BTK C1",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
+     "placering": 8,
+     "lag": "Götene Tor BTK C",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
-    },
+    }
+   ]
+  },
+  {
+   "serie": "Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
     {
-     "placering": 5,
-     "lag": "Hova BTK B",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
+     "placering": 1,
      "lag": "Varnhems IF",
      "klubb": "Varnhems Idrottsförening",
      "spelade": 0,
@@ -1516,8 +1461,30 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Karlsborgs BTK C2",
+     "placering": 2,
+     "lag": "Lidan BTK Gul",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Karlsborgs BTK",
      "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1527,8 +1494,19 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Skövde PK D",
+     "placering": 5,
+     "lag": "Lidan BTK Röd",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Skövde PK",
      "klubb": "Skövde Pingisklubb",
      "spelade": 0,
      "vunna": 0,
