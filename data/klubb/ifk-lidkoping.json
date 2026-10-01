@@ -4,7 +4,7 @@
   "namn": "IFK Lidköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-01T10:37:24Z",
  "lag": [
   {
    "namn": "IFK Lidköping B1",
@@ -662,6 +662,23 @@
   {
    "datum": "2026-11-24",
    "tid": "19:00",
+   "serie": "Div 5 Mellersta",
+   "omgang": "Round 6",
+   "hemma": "Örslösa-Söne IK",
+   "borta": "IFK Lidköping B2",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-24",
+   "tid": "19:00",
    "serie": "Mellersta",
    "omgang": "Round 7",
    "hemma": "IFK Falköping BTK C2",
@@ -851,23 +868,6 @@
    "tid": "19:00",
    "serie": "Mellersta",
    "omgang": "Round 9",
-   "hemma": "Örslösa - Söne IK B",
-   "borta": "IFK Lidköping C1",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2027-01-04",
-   "tid": "19:00",
-   "serie": "Mellersta",
-   "omgang": "Round 9",
    "hemma": "IFK Lidköping BTK C2",
    "borta": "Alingsås PK D",
    "hemma_klubb": "IFK Lidköping",
@@ -912,6 +912,23 @@
     "Götene/Tor Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-07",
+   "tid": "19:00",
+   "serie": "Mellersta",
+   "omgang": "Round 9",
+   "hemma": "Örslösa - Söne IK B",
+   "borta": "IFK Lidköping C1",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1102,23 +1119,6 @@
    "exakt_lank": false
   },
   {
-   "datum": "2027-01-25",
-   "tid": "19:00",
-   "serie": "Mellersta",
-   "omgang": "Round 11",
-   "hemma": "Örslösa - Söne IK B",
-   "borta": "IFK Lidköping BTK C2",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
-   "exakt_lank": false
-  },
-  {
    "datum": "2027-01-28",
    "tid": "19:00",
    "serie": "Mellersta",
@@ -1131,6 +1131,23 @@
    "arrangor": "Vedums Allmänna IS",
    "arrangorer": [
     "Vedums Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2027-01-28",
+   "tid": "19:00",
+   "serie": "Mellersta",
+   "omgang": "Round 11",
+   "hemma": "Örslösa - Söne IK B",
+   "borta": "IFK Lidköping BTK C2",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
    "exakt_lank": false
@@ -2885,22 +2902,22 @@
      "placering": 2,
      "lag": "Skagersviks BTK C",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Istrums SK",
      "klubb": "Istrums Skidklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

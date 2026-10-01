@@ -4,7 +4,7 @@
   "namn": "Kättilsmåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-29T10:17:41Z",
+ "uppdaterad": "2026-10-01T10:37:24Z",
  "lag": [
   {
    "namn": "Kättilsmåla BTK",
@@ -814,6 +814,25 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "omgang": "Round 2",
+   "hemma": "Lyckeby BTK I",
+   "borta": "Kättilsmåla BTK A",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Kättilsmåla Bordtennisklubb",
+   "plats": "Aktivitetshusets BT-hall",
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-15",
    "tid": "13:00",
    "serie": "Div 6 Syd/ÖSTRA",
@@ -1335,15 +1354,26 @@
      "placering": 3,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Listerby IK C",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Lyckeby BTK E",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 2,
@@ -1351,17 +1381,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Listerby IK C",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -1496,11 +1515,11 @@
      "placering": 2,
      "lag": "Kättilsmåla BTK A",
      "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "528–0"
     },
     {
@@ -1540,10 +1559,10 @@
      "placering": 6,
      "lag": "Lyckeby BTK I",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "528–0"
     },

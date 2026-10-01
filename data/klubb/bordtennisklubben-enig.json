@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Enig"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-01T10:37:24Z",
  "lag": [
   {
    "namn": "BTK Enig A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-30",
-   "tid": "19:00",
-   "serie": "DIV 5 ÖSTRA",
-   "omgang": "Round 1",
-   "hemma": "BTK Enig A",
-   "borta": "Kristvalla BTK A",
-   "hemma_klubb": "Bordtennisklubben Enig",
-   "borta_klubb": "Kristvalla Bordtennisklubb",
-   "plats": "BT-hallen Läckeby",
-   "arrangor": "Bordtennisklubben Enig",
-   "arrangorer": [
-    "Bordtennisklubben Enig"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -256,38 +239,28 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "DIV 5 ÖSTRA",
+   "omgang": "Round 1",
+   "hemma": "BTK Enig A",
+   "borta": "Kristvalla BTK A",
+   "hemma_klubb": "Bordtennisklubben Enig",
+   "borta_klubb": "Kristvalla Bordtennisklubb",
+   "plats": "BT-hallen Läckeby",
+   "arrangor": "Bordtennisklubben Enig",
+   "arrangorer": [
+    "Bordtennisklubben Enig"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-09-30",
-   "platser": [
-    "BT-hallen Läckeby"
-   ],
-   "serier": [
-    "DIV 5 ÖSTRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-30",
-     "tid": "19:00",
-     "serie": "DIV 5 ÖSTRA",
-     "omgang": "Round 1",
-     "hemma": "BTK Enig A",
-     "borta": "Kristvalla BTK A",
-     "hemma_klubb": "Bordtennisklubben Enig",
-     "borta_klubb": "Kristvalla Bordtennisklubb",
-     "plats": "BT-hallen Läckeby",
-     "arrangor": "Bordtennisklubben Enig",
-     "arrangorer": [
-      "Bordtennisklubben Enig"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
   {
    "datum": "2026-10-04",
    "platser": [
@@ -455,6 +428,17 @@
     },
     {
      "placering": 2,
+     "lag": "BTK Enig A",
+     "klubb": "Bordtennisklubben Enig",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kalmar BTK C",
      "klubb": "Kalmar Bordtennisklubb",
      "spelade": 2,
@@ -465,31 +449,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Kristvalla BTK A",
-     "klubb": "Kristvalla Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "BTK Enig A",
-     "klubb": "Bordtennisklubben Enig",
-     "spelade": 1,
+     "lag": "Kalmar BTK A",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Kalmar BTK A",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "Kristvalla BTK A",
+     "klubb": "Kristvalla Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,

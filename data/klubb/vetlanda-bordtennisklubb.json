@@ -4,7 +4,7 @@
   "namn": "Vetlanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-01T10:37:24Z",
  "lag": [
   {
    "namn": "Vetlanda BTK",
@@ -2414,37 +2414,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-09-30",
-   "platser": [
-    "Vetlanda BT-hall"
-   ],
-   "serier": [
-    "Veteran Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-09-30",
-     "tid": "10:00",
-     "serie": "Veteran Norra B",
-     "omgang": "Round 1",
-     "hemma": "Vetlanda BTK C",
-     "borta": "Huskvarna Södra IS C",
-     "hemma_klubb": "Vetlanda Bordtennisklubb",
-     "borta_klubb": "Huskvarna Södra Idrottssällskap",
-     "plats": "Vetlanda BT-hall",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
-     "exakt_lank": false,
-     "hemma_poang": 1,
-     "borta_poang": 1
-    }
-   ]
-  },
-  {
    "datum": "2026-10-01",
    "platser": [
     "Vetlanda BT-hall"
@@ -4195,6 +4164,17 @@
     },
     {
      "placering": 2,
+     "lag": "Vaggeryds BTK A",
+     "klubb": "Vaggeryds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Huskvarna Södra IS A",
      "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 1,
@@ -4205,29 +4185,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "BTK Clipper A",
-     "klubb": "Bordtennisklubben Clipper",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Vaggeryds BTK A",
-     "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "KFUM Jönköping IA A",
      "klubb": "KFUM Jönköping",
      "spelade": 0,
@@ -4238,9 +4196,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Vetlanda BTK A",
      "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Clipper A",
+     "klubb": "Bordtennisklubben Clipper",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

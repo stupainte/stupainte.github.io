@@ -4,7 +4,7 @@
   "namn": "Istrums Skidklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-01T10:37:24Z",
  "lag": [
   {
    "namn": "Istrums SK",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-09-30",
-   "tid": "19:00",
-   "serie": "Div 5 Nordöstra",
-   "omgang": "Round 1",
-   "hemma": "Skagersviks BTK C",
-   "borta": "Istrums SK",
-   "hemma_klubb": "Skagersviks Bordtennisklubb",
-   "borta_klubb": "Istrums Skidklubb",
-   "plats": "-",
-   "arrangor": "Skagersviks Bordtennisklubb",
-   "arrangorer": [
-    "Skagersviks Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-06",
    "tid": "19:00",
@@ -254,7 +237,27 @@
    "exakt_lank": false
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-09-30",
+   "tid": "19:00",
+   "serie": "Div 5 Nordöstra",
+   "omgang": "Round 1",
+   "hemma": "Skagersviks BTK C",
+   "borta": "Istrums SK",
+   "hemma_klubb": "Skagersviks Bordtennisklubb",
+   "borta_klubb": "Istrums Skidklubb",
+   "plats": "-",
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 1,
+   "borta_poang": 1
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-10-06",
@@ -483,22 +486,22 @@
      "placering": 2,
      "lag": "Skagersviks BTK C",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Istrums SK",
      "klubb": "Istrums Skidklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
