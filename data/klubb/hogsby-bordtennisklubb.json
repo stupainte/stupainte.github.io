@@ -4,7 +4,7 @@
   "namn": "Högsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Högsby BTK",
@@ -29,23 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "DIV 5 ÖSTRA",
-   "omgang": "Round 3",
-   "hemma": "Högsby BTK C",
-   "borta": "Långemåla BTK C",
-   "hemma_klubb": "Högsby Bordtennisklubb",
-   "borta_klubb": "Långemåla Bordtennisklubb",
-   "plats": "Berga Sporthall",
-   "arrangor": "Högsby Bordtennisklubb",
-   "arrangorer": [
-    "Högsby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-17",
    "tid": "11:00",
@@ -752,6 +735,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "13:00",
+   "serie": "DIV 5 ÖSTRA",
+   "omgang": "Round 3",
+   "hemma": "Högsby BTK C",
+   "borta": "Långemåla BTK C",
+   "hemma_klubb": "Högsby Bordtennisklubb",
+   "borta_klubb": "Långemåla Bordtennisklubb",
+   "plats": "Berga Sporthall",
+   "arrangor": "Högsby Bordtennisklubb",
+   "arrangorer": [
+    "Högsby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -780,7 +782,9 @@
       "Högsby Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
-     "exakt_lank": false
+     "exakt_lank": false,
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1524,17 +1528,17 @@
      "placering": 6,
      "lag": "Högsby BTK C",
      "klubb": "Högsby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Långemåla BTK C",
-     "klubb": "Långemåla Bordtennisklubb",
+     "lag": "BTK Arsenal Nybro B",
+     "klubb": "Bordtennisklubben Arsenal Nybro",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1544,12 +1548,12 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Arsenal Nybro B",
-     "klubb": "Bordtennisklubben Arsenal Nybro",
-     "spelade": 2,
+     "lag": "Långemåla BTK C",
+     "klubb": "Långemåla Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

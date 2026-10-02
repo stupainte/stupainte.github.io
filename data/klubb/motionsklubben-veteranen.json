@@ -4,7 +4,7 @@
   "namn": "Motionsklubben Veteranen"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "MK Veteranen A",
@@ -22,23 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-01",
-   "tid": "11:00",
-   "serie": "Veteran Norra D",
-   "omgang": "Round 1",
-   "hemma": "Vetlanda BTK E",
-   "borta": "MK Veteranen B",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Motionsklubben Veteranen",
-   "plats": "Vetlanda BT-hall",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-15",
    "tid": "13:00",
@@ -430,6 +413,25 @@
     "KFUM Jönköping"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-01",
+   "tid": "11:00",
+   "serie": "Veteran Norra D",
+   "omgang": "Round 1",
+   "hemma": "Vetlanda BTK E",
+   "borta": "MK Veteranen B",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Motionsklubben Veteranen",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
@@ -859,6 +861,17 @@
     },
     {
      "placering": 2,
+     "lag": "MK Veteranen B",
+     "klubb": "Motionsklubben Veteranen",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Vetlanda BTK F",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 0,
@@ -869,7 +882,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vetlanda BTK H",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 0,
@@ -880,20 +893,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vetlanda BTK E",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "MK Veteranen B",
-     "klubb": "Motionsklubben Veteranen",
+     "lag": "BTK Clipper D",
+     "klubb": "Bordtennisklubben Clipper",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -903,12 +905,12 @@
     },
     {
      "placering": 6,
-     "lag": "BTK Clipper D",
-     "klubb": "Bordtennisklubben Clipper",
-     "spelade": 0,
+     "lag": "Vetlanda BTK E",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

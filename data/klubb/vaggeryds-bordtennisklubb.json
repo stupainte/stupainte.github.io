@@ -4,7 +4,7 @@
   "namn": "Vaggeryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Vaggeryds BTK",
@@ -39,23 +39,6 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
-   "serie": "DIV 4 NORRA",
-   "omgang": "Round 3",
-   "hemma": "Vaggeryds BTK B",
-   "borta": "KFUM Jönköping IA D",
-   "hemma_klubb": "Vaggeryds Bordtennisklubb",
-   "borta_klubb": "KFUM Jönköping",
-   "plats": "Vaggeryds Idrottshall",
-   "arrangor": "Vaggeryds Bordtennisklubb",
-   "arrangorer": [
-    "Vaggeryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
    "serie": "Div 6 Norra B",
    "omgang": "Round 3",
    "hemma": "Vaggeryds BTK C",
@@ -68,6 +51,23 @@
     "Vaggeryds Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-07",
+   "tid": "19:00",
+   "serie": "DIV 4 NORRA",
+   "omgang": "Round 3",
+   "hemma": "Vaggeryds BTK B",
+   "borta": "KFUM Jönköping IA D",
+   "hemma_klubb": "Vaggeryds Bordtennisklubb",
+   "borta_klubb": "KFUM Jönköping",
+   "plats": "Vaggeryds Idrottshall",
+   "arrangor": "Vaggeryds Bordtennisklubb",
+   "arrangorer": [
+    "Vaggeryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
    "exakt_lank": false
   },
   {
@@ -956,28 +956,10 @@
     "Vaggeryds Idrottshall"
    ],
    "serier": [
-    "DIV 4 NORRA",
     "Div 6 Norra B"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
-    {
-     "datum": "2026-10-04",
-     "tid": "13:00",
-     "serie": "DIV 4 NORRA",
-     "omgang": "Round 3",
-     "hemma": "Vaggeryds BTK B",
-     "borta": "KFUM Jönköping IA D",
-     "hemma_klubb": "Vaggeryds Bordtennisklubb",
-     "borta_klubb": "KFUM Jönköping",
-     "plats": "Vaggeryds Idrottshall",
-     "arrangor": "Vaggeryds Bordtennisklubb",
-     "arrangorer": [
-      "Vaggeryds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
-     "exakt_lank": false
-    },
     {
      "datum": "2026-10-04",
      "tid": "13:00",
@@ -993,6 +975,35 @@
       "Vaggeryds Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-07",
+   "platser": [
+    "Vaggeryds Idrottshall"
+   ],
+   "serier": [
+    "DIV 4 NORRA"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-07",
+     "tid": "19:00",
+     "serie": "DIV 4 NORRA",
+     "omgang": "Round 3",
+     "hemma": "Vaggeryds BTK B",
+     "borta": "KFUM Jönköping IA D",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Vaggeryds Idrottshall",
+     "arrangor": "Vaggeryds Bordtennisklubb",
+     "arrangorer": [
+      "Vaggeryds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
      "exakt_lank": false
     }
    ]

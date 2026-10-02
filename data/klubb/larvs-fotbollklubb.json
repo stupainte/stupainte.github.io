@@ -4,7 +4,7 @@
   "namn": "Larvs Fotbollklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Larvs FK",
@@ -22,23 +22,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-01",
-   "tid": "18:00",
-   "serie": "Div 5 Mellersta",
-   "omgang": "Round 1",
-   "hemma": "Larvs FK B",
-   "borta": "Trollhättans BTK B",
-   "hemma_klubb": "Larvs Fotbollklubb",
-   "borta_klubb": "Trollhättans Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Larvs Fotbollklubb",
-   "arrangorer": [
-    "Larvs Fotbollklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-05",
    "tid": "18:00",
@@ -278,7 +261,7 @@
    "exakt_lank": false
   },
   {
-   "datum": "2027-01-12",
+   "datum": "2027-01-13",
    "tid": "19:00",
    "serie": "Div 5 Mellersta",
    "omgang": "Round 10",
@@ -503,38 +486,28 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-01",
+   "tid": "18:00",
+   "serie": "Div 5 Mellersta",
+   "omgang": "Round 1",
+   "hemma": "Larvs FK B",
+   "borta": "Trollhättans BTK B",
+   "hemma_klubb": "Larvs Fotbollklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Larvs Fotbollklubb",
+   "arrangorer": [
+    "Larvs Fotbollklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-01",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-01",
-     "tid": "18:00",
-     "serie": "Div 5 Mellersta",
-     "omgang": "Round 1",
-     "hemma": "Larvs FK B",
-     "borta": "Trollhättans BTK B",
-     "hemma_klubb": "Larvs Fotbollklubb",
-     "borta_klubb": "Trollhättans Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Larvs Fotbollklubb",
-     "arrangorer": [
-      "Larvs Fotbollklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
   {
    "datum": "2026-10-15",
    "platser": [
@@ -897,6 +870,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Trollhättans BTK B",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Örslösa-Söne IK",
      "klubb": "Örslösa-Söne Idrottsklubb",
      "spelade": 1,
@@ -907,7 +891,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Herrljunga BTK",
      "klubb": "Herrljunga Bordtennisklubb",
      "spelade": 1,
@@ -918,7 +902,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vedums AIS C",
      "klubb": "Vedums Allmänna IS",
      "spelade": 0,
@@ -929,7 +913,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Vårgårda IK",
      "klubb": "Vårgårda IK Bordtennis",
      "spelade": 0,
@@ -940,29 +924,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "Trollhättans BTK B",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
      "spelade": 1,
@@ -973,9 +935,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Grästorps BTK B",
      "klubb": "Grästorps Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

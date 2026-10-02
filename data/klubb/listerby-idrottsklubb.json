@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -109,6 +109,23 @@
     "Listerby Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-10-08",
+   "tid": "19:30",
+   "serie": "Veteran Södra",
+   "omgang": "Round 2",
+   "hemma": "Listerby IK A",
+   "borta": "Gammalstorps GOIF A",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Gammalstorps Gymnastik O IF",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "Listerby Idrottsklubb",
+   "arrangorer": [
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1265,6 +1282,35 @@
    ]
   },
   {
+   "datum": "2026-10-08",
+   "platser": [
+    "Listerby BT-hallen"
+   ],
+   "serier": [
+    "Veteran Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-08",
+     "tid": "19:30",
+     "serie": "Veteran Södra",
+     "omgang": "Round 2",
+     "hemma": "Listerby IK A",
+     "borta": "Gammalstorps GOIF A",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Gammalstorps Gymnastik O IF",
+     "plats": "Listerby BT-hallen",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2026-10-18",
    "platser": [
     "Listerby BT-hallen"
@@ -1854,6 +1900,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Lyckeby BTK D",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Nävragöls BK ",
      "klubb": "Nävragöls Bollklubb",
      "spelade": 2,
@@ -1864,7 +1921,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 1,
@@ -1875,20 +1932,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Lyckeby BTK D",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Bergkvara BTK",
-     "klubb": "Bergkvara Bordtennisklubb",
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1898,12 +1944,12 @@
     },
     {
      "placering": 5,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 2,
+     "lag": "Bergkvara BTK",
+     "klubb": "Bergkvara Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -2167,23 +2213,23 @@
     },
     {
      "placering": 3,
+     "lag": "Jämjö BTK D",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Jämjö BTK D",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -2213,11 +2259,11 @@
      "placering": 7,
      "lag": "Ihre BTK B",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

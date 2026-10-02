@@ -4,7 +4,7 @@
   "namn": "Lyckeby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Lyckeby BTK",
@@ -196,23 +196,6 @@
     "Damsnäs Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "DIV 4 SÖDRA",
-   "omgang": "Round 3",
-   "hemma": "Bergkvara BTK",
-   "borta": "Lyckeby BTK D",
-   "hemma_klubb": "Bergkvara Bordtennisklubb",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "bergkvara BT-hall",
-   "arrangor": "Bergkvara Bordtennisklubb",
-   "arrangorer": [
-    "Bergkvara Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
    "exakt_lank": false
   },
   {
@@ -3123,6 +3106,25 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie": "DIV 4 SÖDRA",
+   "omgang": "Round 3",
+   "hemma": "Bergkvara BTK",
+   "borta": "Lyckeby BTK D",
+   "hemma_klubb": "Bergkvara Bordtennisklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "bergkvara BT-hall",
+   "arrangor": "Bergkvara Bordtennisklubb",
+   "arrangorer": [
+    "Bergkvara Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "13:00",
    "serie": "Div 6 Syd/ÖSTRA",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK F",
@@ -5014,6 +5016,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Lyckeby BTK D",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Nävragöls BK ",
      "klubb": "Nävragöls Bollklubb",
      "spelade": 2,
@@ -5024,7 +5037,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 1,
@@ -5035,20 +5048,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Lyckeby BTK D",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Bergkvara BTK",
-     "klubb": "Bergkvara Bordtennisklubb",
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -5058,12 +5060,12 @@
     },
     {
      "placering": 5,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 2,
+     "lag": "Bergkvara BTK",
+     "klubb": "Bergkvara Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -5499,23 +5501,23 @@
     },
     {
      "placering": 3,
+     "lag": "Jämjö BTK D",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Jämjö BTK D",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -5545,11 +5547,11 @@
      "placering": 7,
      "lag": "Ihre BTK B",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

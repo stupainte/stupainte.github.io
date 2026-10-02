@@ -4,7 +4,7 @@
   "namn": "Ihre Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-02T10:12:40Z",
  "lag": [
   {
    "namn": "Ihre BTK A",
@@ -29,23 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "omgang": "Round 3",
-   "hemma": "Ihre BTK B",
-   "borta": "Jämjö BTK D",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Jämjö Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -718,6 +701,25 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "omgang": "Round 3",
+   "hemma": "Ihre BTK B",
+   "borta": "Jämjö BTK D",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Jämjö Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -746,7 +748,9 @@
       "Ihre Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-     "exakt_lank": false
+     "exakt_lank": false,
+     "hemma_poang": 1,
+     "borta_poang": 1
     }
    ]
   },
@@ -1303,23 +1307,23 @@
     },
     {
      "placering": 3,
+     "lag": "Jämjö BTK D",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Jämjö BTK D",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1349,11 +1353,11 @@
      "placering": 7,
      "lag": "Ihre BTK B",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
