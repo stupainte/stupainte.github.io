@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-03T09:36:03Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -1592,6 +1592,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Vedums AIS C",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Trollhättans BTK B",
      "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 1,
@@ -1602,7 +1613,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Örslösa-Söne IK",
      "klubb": "Örslösa-Söne Idrottsklubb",
      "spelade": 1,
@@ -1613,7 +1624,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Herrljunga BTK",
      "klubb": "Herrljunga Bordtennisklubb",
      "spelade": 1,
@@ -1624,29 +1635,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vedums AIS C",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Vårgårda IK",
-     "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
      "spelade": 1,
@@ -1657,7 +1646,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Grästorps BTK B",
      "klubb": "Grästorps Bordtennisklubb",
      "spelade": 1,
@@ -1668,9 +1657,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Larvs FK B",
      "klubb": "Larvs Fotbollklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Vårgårda IK",
+     "klubb": "Vårgårda IK Bordtennis",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
