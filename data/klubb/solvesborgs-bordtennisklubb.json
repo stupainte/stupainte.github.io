@@ -4,7 +4,7 @@
   "namn": "Sölvesborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-04T10:24:12Z",
  "lag": [
   {
    "namn": "Sölvesborgs BTK",
@@ -29,23 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-03",
-   "tid": "11:00",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "omgang": "Round 3",
-   "hemma": "Dänningelanda BTK F",
-   "borta": "Sölvesborgs BTK B",
-   "hemma_klubb": "Dänningelanda Bordtennisklubb",
-   "borta_klubb": "Sölvesborgs Bordtennisklubb",
-   "plats": "Skir",
-   "arrangor": "Dänningelanda Bordtennisklubb",
-   "arrangorer": [
-    "Dänningelanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -756,6 +739,25 @@
    "exakt_lank": false,
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-03",
+   "tid": "11:00",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "omgang": "Round 3",
+   "hemma": "Dänningelanda BTK F",
+   "borta": "Sölvesborgs BTK B",
+   "hemma_klubb": "Dänningelanda Bordtennisklubb",
+   "borta_klubb": "Sölvesborgs Bordtennisklubb",
+   "plats": "Skir",
+   "arrangor": "Dänningelanda Bordtennisklubb",
+   "arrangorer": [
+    "Dänningelanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1252,11 +1254,11 @@
      "placering": 1,
      "lag": "Dänningelanda BTK F",
      "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1305,8 +1307,8 @@
     },
     {
      "placering": 6,
-     "lag": "Sölvesborgs BTK B",
-     "klubb": "Sölvesborgs Bordtennisklubb",
+     "lag": "Damsnäs IF C",
+     "klubb": "Damsnäs Idrottsförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1316,12 +1318,12 @@
     },
     {
      "placering": 7,
-     "lag": "Damsnäs IF C",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 2,
+     "lag": "Sölvesborgs BTK B",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

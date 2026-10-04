@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-03T09:36:03Z",
+ "uppdaterad": "2026-10-04T10:24:12Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -36,23 +36,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-03",
-   "tid": "11:00",
-   "serie": "DIV 4 SÖDRA",
-   "omgang": "Round 2",
-   "hemma": "Lyckeby BTK D",
-   "borta": "Kyrkhults BTK A",
-   "hemma_klubb": "Lyckeby Bordtennisklubb",
-   "borta_klubb": "Kyrkhults Bordtennisklubb",
-   "plats": "Aktivitetshusets BT-hall",
-   "arrangor": "Lyckeby Bordtennisklubb",
-   "arrangorer": [
-    "Lyckeby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-04",
    "tid": "13:00",
@@ -946,6 +929,25 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-03",
+   "tid": "11:00",
+   "serie": "DIV 4 SÖDRA",
+   "omgang": "Round 2",
+   "hemma": "Lyckeby BTK D",
+   "borta": "Kyrkhults BTK A",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Kyrkhults Bordtennisklubb",
+   "plats": "Aktivitetshusets BT-hall",
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1526,11 +1528,11 @@
      "placering": 1,
      "lag": "Lyckeby BTK D",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1546,19 +1548,19 @@
     },
     {
      "placering": 3,
-     "lag": "Kyrkhults BTK A",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
+     "lag": "Kyrkhults BTK A",
+     "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1603,10 +1605,10 @@
      "placering": 8,
      "lag": "Carlshamns BTK B",
      "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1720,11 +1722,11 @@
      "placering": 1,
      "lag": "Dänningelanda BTK F",
      "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1773,8 +1775,8 @@
     },
     {
      "placering": 6,
-     "lag": "Sölvesborgs BTK B",
-     "klubb": "Sölvesborgs Bordtennisklubb",
+     "lag": "Damsnäs IF C",
+     "klubb": "Damsnäs Idrottsförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1784,12 +1786,12 @@
     },
     {
      "placering": 7,
-     "lag": "Damsnäs IF C",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 2,
+     "lag": "Sölvesborgs BTK B",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

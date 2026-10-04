@@ -4,7 +4,7 @@
   "namn": "Kännestubba Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-29T10:17:41Z",
+ "uppdaterad": "2026-10-04T10:24:12Z",
  "lag": [
   {
    "namn": "Kännestubba BTK A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Norra B",
-   "omgang": "Round 3",
-   "hemma": "Södra VI IF A",
-   "borta": "Kännestubba BTK A",
-   "hemma_klubb": "Södra Vi Idrottsförening",
-   "borta_klubb": "Kännestubba Bordtennisklubb",
-   "plats": "Södra Vi Sporthall",
-   "arrangor": "Södra Vi Idrottsförening",
-   "arrangorer": [
-    "Södra Vi Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-06",
    "tid": "13:00",
@@ -222,6 +205,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "13:00",
+   "serie": "Div 6 Norra B",
+   "omgang": "Round 3",
+   "hemma": "Södra VI IF A",
+   "borta": "Kännestubba BTK A",
+   "hemma_klubb": "Södra Vi Idrottsförening",
+   "borta_klubb": "Kännestubba Bordtennisklubb",
+   "plats": "Södra Vi Sporthall",
+   "arrangor": "Södra Vi Idrottsförening",
+   "arrangorer": [
+    "Södra Vi Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -383,11 +385,11 @@
      "placering": 1,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -405,10 +407,10 @@
      "placering": 3,
      "lag": "Kännestubba BTK A",
      "klubb": "Kännestubba Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

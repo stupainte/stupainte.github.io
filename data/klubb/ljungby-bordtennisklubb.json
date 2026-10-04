@@ -4,7 +4,7 @@
   "namn": "Ljungby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-03T09:36:03Z",
+ "uppdaterad": "2026-10-04T10:24:12Z",
  "lag": [
   {
    "namn": "Ljungby BTK A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-03",
-   "tid": "11:00",
-   "serie": "DIV 5 Mellersta",
-   "omgang": "Round 2",
-   "hemma": "Lessebo BTK B",
-   "borta": "Ljungby BTK A",
-   "hemma_klubb": "Lessebo Bordtennisklubb",
-   "borta_klubb": "Ljungby Bordtennisklubb",
-   "plats": "Kapellet Lessebo",
-   "arrangor": "Lessebo Bordtennisklubb",
-   "arrangorer": [
-    "Lessebo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-06",
    "tid": "18:00",
@@ -256,6 +239,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-03",
+   "tid": "11:00",
+   "serie": "DIV 5 Mellersta",
+   "omgang": "Round 2",
+   "hemma": "Lessebo BTK B",
+   "borta": "Ljungby BTK A",
+   "hemma_klubb": "Lessebo Bordtennisklubb",
+   "borta_klubb": "Ljungby Bordtennisklubb",
+   "plats": "Kapellet Lessebo",
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -444,6 +446,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Lessebo BTK B",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Böksholms IF A",
      "klubb": "Böksholms Idrottsförening",
      "spelade": 3,
@@ -454,7 +467,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kosta SK C",
      "klubb": "Kosta Sportklubb",
      "spelade": 3,
@@ -462,17 +475,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ljungby BTK A",
-     "klubb": "Ljungby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -488,12 +490,12 @@
     },
     {
      "placering": 5,
-     "lag": "Lessebo BTK B",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Ljungby BTK A",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

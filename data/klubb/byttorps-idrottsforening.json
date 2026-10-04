@@ -4,7 +4,7 @@
   "namn": "Byttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-04T10:24:12Z",
  "lag": [
   {
    "namn": "Byttorps A1",
@@ -93,23 +93,6 @@
     "Mariedals Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "18:00",
-   "serie": "Div 5 Södra",
-   "omgang": "Round 2",
-   "hemma": "Byttorps IF B1",
-   "borta": "Mariedals IK D1",
-   "hemma_klubb": "Byttorps Idrottsförening",
-   "borta_klubb": "Mariedals Idrottsklubb",
-   "plats": "-",
-   "arrangor": "Byttorps Idrottsförening",
-   "arrangorer": [
-    "Byttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1944,6 +1927,25 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "18:00",
+   "serie": "Div 5 Södra",
+   "omgang": "Round 2",
+   "hemma": "Byttorps IF B1",
+   "borta": "Mariedals IK D1",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1972,7 +1974,9 @@
       "Byttorps Idrottsförening"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
-     "exakt_lank": false
+     "exakt_lank": false,
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -3108,19 +3112,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Byttorps IF B2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Mariedals IK D1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Mariedals IK D1",
-     "klubb": "Mariedals Idrottsklubb",
+     "lag": "Byttorps IF B2",
+     "klubb": "Byttorps Idrottsförening",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -3187,10 +3191,10 @@
      "placering": 8,
      "lag": "Byttorps IF B1",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
