@@ -4,13 +4,14 @@
   "namn": "Idrottsföreningen För Alla Eskilstuna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "IFA Eskilstuna",
    "serie": {
     "namn": "Div 2 ÖSV Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Södermanlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Division 5"
    },
+   "evenemang": "Södermanlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Södermanlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 7"
    },
+   "evenemang": "Södermanlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Division 7"
    },
+   "evenemang": "Södermanlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "Kval Nationellt seriespel"
    },
+   "evenemang": "Nationellt kvalspel 2026",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -60,7 +67,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "IFK Österåkers BTK: B2",
    "borta": "IFA Eskilstuna",
@@ -77,7 +86,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IFA Eskilstuna",
    "borta": "Vassunda IF",
@@ -94,7 +105,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 3",
    "hemma": "Eskilstuna BTK B2",
    "borta": "IFA Eskilstuna A",
@@ -111,7 +124,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 4",
    "hemma": "Flens BTK A",
    "borta": "IFA Eskilstuna B",
@@ -128,7 +143,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 4",
    "hemma": "IFA Eskilstuna C",
    "borta": "Flens BTK B",
@@ -145,7 +162,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 4",
    "hemma": "IFA Eskilstuna A",
    "borta": "Järna SK A",
@@ -162,7 +181,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 5",
    "hemma": "IFA Eskilstuna B",
    "borta": "Vadsbro IF B",
@@ -179,7 +200,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 5",
    "hemma": "Hälleforsnäs BTK B",
    "borta": "IFA Eskilstuna C",
@@ -196,7 +219,9 @@
   {
    "datum": "2026-10-25",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 3",
    "hemma": "IFA Eskilstuna D1",
    "borta": "IFA Eskilstuna D2",
@@ -213,7 +238,9 @@
   {
    "datum": "2026-10-25",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 3",
    "hemma": "IFA Eskilstuna D1",
    "borta": "IFA Eskilstuna D2",
@@ -230,7 +257,9 @@
   {
    "datum": "2026-10-25",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 4",
    "hemma": "Eskilstuna BTK D1",
    "borta": "IFA Eskilstuna D2",
@@ -247,7 +276,9 @@
   {
    "datum": "2026-10-25",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 4",
    "hemma": "IFA Eskilstuna D1",
    "borta": "Nyköpings BTK E2",
@@ -264,7 +295,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IFK Täby BTK: B",
    "borta": "IFA Eskilstuna",
@@ -281,7 +314,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IFA Eskilstuna",
    "borta": "Ängby SK: D1",
@@ -298,7 +333,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 5",
    "hemma": "IFA Eskilstuna A",
    "borta": "Vadsbro IF A",
@@ -315,7 +352,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 6",
    "hemma": "Nyköpings BTK C2",
    "borta": "IFA Eskilstuna B",
@@ -332,7 +371,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 6",
    "hemma": "IFA Eskilstuna C",
    "borta": "Vadsbro IF C",
@@ -349,7 +390,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 6",
    "hemma": "IFA Eskilstuna A",
    "borta": "Hälleforsnäs BTK A",
@@ -366,7 +409,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 7",
    "hemma": "IFA Eskilstuna B",
    "borta": "Järna SK B",
@@ -383,7 +428,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 7",
    "hemma": "Barva IF B",
    "borta": "IFA Eskilstuna C",
@@ -400,7 +447,9 @@
   {
    "datum": "2026-11-21",
    "tid": "15:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 8",
    "hemma": "Katrineholms BTK C",
    "borta": "IFA Eskilstuna B",
@@ -417,7 +466,9 @@
   {
    "datum": "2026-11-21",
    "tid": "15:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 8",
    "hemma": "Järna SK C",
    "borta": "IFA Eskilstuna C",
@@ -434,7 +485,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 5",
    "hemma": "IFA Eskilstuna D2",
    "borta": "IFK Mariefred B",
@@ -451,7 +504,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 5",
    "hemma": "Flens BTK C",
    "borta": "IFA Eskilstuna D1",
@@ -468,7 +523,9 @@
   {
    "datum": "2026-11-22",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 6",
    "hemma": "IFA Eskilstuna D2",
    "borta": "Järna SK D",
@@ -485,7 +542,9 @@
   {
    "datum": "2026-11-22",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 6",
    "hemma": "Eskilstuna BTK D2",
    "borta": "IFA Eskilstuna D1",
@@ -502,7 +561,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Stratos Enköping BTK: B",
    "borta": "IFA Eskilstuna",
@@ -519,7 +580,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Hammarby IF BTF: A1",
    "borta": "IFA Eskilstuna",
@@ -536,7 +599,9 @@
   {
    "datum": "2027-01-09",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 7",
    "hemma": "Nyköpings BTK B",
    "borta": "IFA Eskilstuna A",
@@ -553,7 +618,9 @@
   {
    "datum": "2027-01-09",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 9",
    "hemma": "IFA Eskilstuna B",
    "borta": "Strängnäs BTK A",
@@ -570,7 +637,9 @@
   {
    "datum": "2027-01-09",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 9",
    "hemma": "IFA Eskilstuna C",
    "borta": "Södertälje BTK C",
@@ -587,7 +656,9 @@
   {
    "datum": "2027-01-09",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 8",
    "hemma": "IFA Eskilstuna A",
    "borta": "Södertälje BTK B",
@@ -604,7 +675,9 @@
   {
    "datum": "2027-01-09",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 10",
    "hemma": "IFA Eskilstuna B",
    "borta": "Nyköpings BTK C1",
@@ -621,7 +694,9 @@
   {
    "datum": "2027-01-09",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 10",
    "hemma": "Strängnäs BTK B",
    "borta": "IFA Eskilstuna C",
@@ -638,7 +713,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Djurgårdens IF BTF: B",
    "borta": "IFA Eskilstuna",
@@ -655,7 +732,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "IFA Eskilstuna",
    "borta": "IFK Österåkers BTK: B2",
@@ -672,7 +751,9 @@
   {
    "datum": "2027-02-06",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 9",
    "hemma": "IFA Eskilstuna A",
    "borta": "Eskilstuna BTK B1",
@@ -689,7 +770,9 @@
   {
    "datum": "2027-02-06",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 12",
    "hemma": "IFK Mariefred A",
    "borta": "IFA Eskilstuna B",
@@ -706,7 +789,9 @@
   {
    "datum": "2027-02-06",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 12",
    "hemma": "IFA Eskilstuna C",
    "borta": "Nyköpings BTK D",
@@ -723,7 +808,9 @@
   {
    "datum": "2027-02-06",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 10",
    "hemma": "IFA Eskilstuna A",
    "borta": "Eskilstuna BTK B2",
@@ -740,7 +827,9 @@
   {
    "datum": "2027-02-06",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 13",
    "hemma": "IFA Eskilstuna B",
    "borta": "Flens BTK A",
@@ -757,7 +846,9 @@
   {
    "datum": "2027-02-06",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 13",
    "hemma": "Flens BTK B",
    "borta": "IFA Eskilstuna C",
@@ -774,7 +865,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Vassunda IF",
    "borta": "IFA Eskilstuna",
@@ -791,7 +884,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "IFA Eskilstuna",
    "borta": "IFK Täby BTK: B",
@@ -808,7 +903,9 @@
   {
    "datum": "2027-03-06",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 11",
    "hemma": "Järna SK A",
    "borta": "IFA Eskilstuna A",
@@ -825,7 +922,9 @@
   {
    "datum": "2027-03-06",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 14",
    "hemma": "Vadsbro IF B",
    "borta": "IFA Eskilstuna B",
@@ -842,7 +941,9 @@
   {
    "datum": "2027-03-06",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 14",
    "hemma": "IFA Eskilstuna C",
    "borta": "Hälleforsnäs BTK B",
@@ -859,7 +960,9 @@
   {
    "datum": "2027-03-06",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 12",
    "hemma": "Vadsbro IF A",
    "borta": "IFA Eskilstuna A",
@@ -876,7 +979,9 @@
   {
    "datum": "2027-03-06",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 15",
    "hemma": "IFA Eskilstuna B",
    "borta": "Nyköpings BTK C2",
@@ -893,7 +998,9 @@
   {
    "datum": "2027-03-06",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 15",
    "hemma": "Vadsbro IF C",
    "borta": "IFA Eskilstuna C",
@@ -910,7 +1017,9 @@
   {
    "datum": "2027-03-06",
    "tid": "15:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 16",
    "hemma": "Järna SK B",
    "borta": "IFA Eskilstuna B",
@@ -927,7 +1036,9 @@
   {
    "datum": "2027-03-06",
    "tid": "15:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 16",
    "hemma": "IFA Eskilstuna C",
    "borta": "Barva IF B",
@@ -944,7 +1055,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Ängby SK: D1",
    "borta": "IFA Eskilstuna",
@@ -961,7 +1074,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "IFA Eskilstuna",
    "borta": "Stratos Enköping BTK: B",
@@ -978,7 +1093,9 @@
   {
    "datum": "2027-03-18",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 18",
    "hemma": "Strängnäs BTK A",
    "borta": "IFA Eskilstuna B",
@@ -995,7 +1112,9 @@
   {
    "datum": "2027-03-20",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 13",
    "hemma": "Hälleforsnäs BTK A",
    "borta": "IFA Eskilstuna A",
@@ -1012,7 +1131,9 @@
   {
    "datum": "2027-03-20",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 17",
    "hemma": "IFA Eskilstuna B",
    "borta": "Katrineholms BTK C",
@@ -1029,7 +1150,9 @@
   {
    "datum": "2027-03-20",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 17",
    "hemma": "IFA Eskilstuna C",
    "borta": "Järna SK C",
@@ -1046,7 +1169,9 @@
   {
    "datum": "2027-03-20",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 14",
    "hemma": "IFA Eskilstuna A",
    "borta": "Nyköpings BTK B",
@@ -1063,7 +1188,9 @@
   {
    "datum": "2027-03-20",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 18",
    "hemma": "Södertälje BTK C",
    "borta": "IFA Eskilstuna C",
@@ -1082,7 +1209,9 @@
   {
    "datum": "2026-04-11",
    "tid": "11:00",
+   "serie_id": "259-3871-0",
    "serie": "Kval Nationellt seriespel",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "BTK Kungsör",
    "borta": "IFA Eskilstuna: B",
@@ -1101,7 +1230,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "IFA Eskilstuna",
    "borta": "Hammarby IF BTF: A1",
@@ -1120,7 +1251,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IFA Eskilstuna",
    "borta": "Djurgårdens IF BTF: B",
@@ -1139,7 +1272,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 1",
    "hemma": "Södertälje BTK B",
    "borta": "IFA Eskilstuna A",
@@ -1158,7 +1293,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 1",
    "hemma": "IFA Eskilstuna B",
    "borta": "IFK Mariefred A",
@@ -1177,7 +1314,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 1",
    "hemma": "Nyköpings BTK D",
    "borta": "IFA Eskilstuna C",
@@ -1196,7 +1335,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 2",
    "hemma": "Eskilstuna BTK B1",
    "borta": "IFA Eskilstuna A",
@@ -1215,7 +1356,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "519-7376-0",
    "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 2",
    "hemma": "Nyköpings BTK C1",
    "borta": "IFA Eskilstuna B",
@@ -1234,7 +1377,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "519-7377-0",
    "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 2",
    "hemma": "IFA Eskilstuna C",
    "borta": "Strängnäs BTK B",
@@ -1253,7 +1398,9 @@
   {
    "datum": "2026-09-27",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 1",
    "hemma": "Trosa Racketklubb A",
    "borta": "IFA Eskilstuna D2",
@@ -1272,7 +1419,9 @@
   {
    "datum": "2026-09-27",
    "tid": "10:00",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 1",
    "hemma": "IFA Eskilstuna D1",
    "borta": "Järna SK D",
@@ -1291,7 +1440,9 @@
   {
    "datum": "2026-09-27",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 2",
    "hemma": "NIKUS A",
    "borta": "IFA Eskilstuna D2",
@@ -1310,7 +1461,9 @@
   {
    "datum": "2026-09-27",
    "tid": "12:30",
+   "serie_id": "519-7424-0",
    "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
    "omgang": "Round 2",
    "hemma": "IFA Eskilstuna D1",
    "borta": "IFK Mariefred B",
@@ -1342,7 +1495,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Nyköpings BTK C1",
      "borta": "Flens BTK A",
@@ -1359,7 +1514,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Vadsbro IF B",
      "borta": "IFK Mariefred A",
@@ -1376,7 +1533,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Nyköpings BTK C2",
      "borta": "IFA Eskilstuna B",
@@ -1393,7 +1552,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Järna SK B",
      "borta": "Barva IF A",
@@ -1410,7 +1571,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Katrineholms BTK C",
      "borta": "Strängnäs BTK A",
@@ -1427,7 +1590,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Järna SK C",
      "borta": "Barva IF B",
@@ -1444,7 +1609,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "IFA Eskilstuna C",
      "borta": "Vadsbro IF C",
@@ -1461,7 +1628,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Södertälje BTK C",
      "borta": "Hälleforsnäs BTK B",
@@ -1478,7 +1647,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Eskilstuna BTK C",
      "borta": "Flens BTK B",
@@ -1495,7 +1666,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Strängnäs BTK B",
      "borta": "Nyköpings BTK D",
@@ -1512,7 +1685,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Strängnäs BTK A",
      "borta": "Nyköpings BTK C1",
@@ -1529,7 +1704,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Barva IF A",
      "borta": "Katrineholms BTK C",
@@ -1546,7 +1723,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "IFA Eskilstuna B",
      "borta": "Järna SK B",
@@ -1563,7 +1742,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "IFK Mariefred A",
      "borta": "Nyköpings BTK C2",
@@ -1580,7 +1761,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Flens BTK A",
      "borta": "Vadsbro IF B",
@@ -1597,7 +1780,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Nyköpings BTK D",
      "borta": "Järna SK C",
@@ -1614,7 +1799,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Flens BTK B",
      "borta": "Strängnäs BTK B",
@@ -1631,7 +1818,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Hälleforsnäs BTK B",
      "borta": "Eskilstuna BTK C",
@@ -1648,7 +1837,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Vadsbro IF C",
      "borta": "Södertälje BTK C",
@@ -1665,7 +1856,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 7",
      "hemma": "Barva IF B",
      "borta": "IFA Eskilstuna C",
@@ -1682,7 +1875,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Nyköpings BTK C1",
      "borta": "Vadsbro IF B",
@@ -1699,7 +1894,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Nyköpings BTK C2",
      "borta": "Flens BTK A",
@@ -1716,7 +1913,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Järna SK B",
      "borta": "IFK Mariefred A",
@@ -1733,7 +1932,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Katrineholms BTK C",
      "borta": "IFA Eskilstuna B",
@@ -1750,7 +1951,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7376-0",
      "serie": "Division 5",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Strängnäs BTK A",
      "borta": "Barva IF A",
@@ -1767,7 +1970,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Järna SK C",
      "borta": "IFA Eskilstuna C",
@@ -1784,7 +1989,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Södertälje BTK C",
      "borta": "Barva IF B",
@@ -1801,7 +2008,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Eskilstuna BTK C",
      "borta": "Vadsbro IF C",
@@ -1818,7 +2027,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Strängnäs BTK B",
      "borta": "Hälleforsnäs BTK B",
@@ -1835,7 +2046,9 @@
     {
      "datum": "2026-11-21",
      "tid": "15:00",
+     "serie_id": "519-7377-0",
      "serie": "Division 6",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 8",
      "hemma": "Nyköpings BTK D",
      "borta": "Flens BTK B",
@@ -1864,7 +2077,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "Eskilstuna BTK D1",
      "borta": "Nyköpings BTK E1",
@@ -1881,7 +2096,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "IFA Eskilstuna D2",
      "borta": "IFK Mariefred B",
@@ -1898,7 +2115,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "Eskilstuna BTK D3",
      "borta": "Södertälje BTK D",
@@ -1915,7 +2134,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "Trosa Racketklubb A",
      "borta": "Järna SK D",
@@ -1932,7 +2153,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "Eskilstuna BTK D2",
      "borta": "Strängnäs BTK C",
@@ -1949,7 +2172,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "NIKUS A",
      "borta": "Nyköpings BTK E2",
@@ -1966,7 +2191,9 @@
     {
      "datum": "2026-11-22",
      "tid": "10:00",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 5",
      "hemma": "Flens BTK C",
      "borta": "IFA Eskilstuna D1",
@@ -1983,7 +2210,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Eskilstuna BTK D1",
      "borta": "IFK Mariefred B",
@@ -2000,7 +2229,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Nyköpings BTK E1",
      "borta": "Södertälje BTK D",
@@ -2017,7 +2248,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "IFA Eskilstuna D2",
      "borta": "Järna SK D",
@@ -2034,7 +2267,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Eskilstuna BTK D3",
      "borta": "Strängnäs BTK C",
@@ -2051,7 +2286,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Trosa Racketklubb A",
      "borta": "Nyköpings BTK E2",
@@ -2068,7 +2305,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "Eskilstuna BTK D2",
      "borta": "IFA Eskilstuna D1",
@@ -2085,7 +2324,9 @@
     {
      "datum": "2026-11-22",
      "tid": "12:30",
+     "serie_id": "519-7424-0",
      "serie": "Division 7",
+     "evenemang": "Södermanlands BTF",
      "omgang": "Round 6",
      "hemma": "NIKUS A",
      "borta": "Flens BTK C",
@@ -2114,7 +2355,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Stratos Enköping BTK: B",
      "borta": "Hammarby IF BTF: A1",
@@ -2131,7 +2374,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Ängby SK: D1",
      "borta": "IFA Eskilstuna",
@@ -2148,7 +2393,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "IFK Täby BTK: B",
      "borta": "Djurgårdens IF BTF: B",
@@ -2165,7 +2412,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Vassunda IF",
      "borta": "IFK Österåkers BTK: B2",
@@ -2182,7 +2431,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Hammarby IF BTF: A1",
      "borta": "Vassunda IF",
@@ -2199,7 +2450,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "IFK Österåkers BTK: B2",
      "borta": "IFK Täby BTK: B",
@@ -2216,7 +2469,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Djurgårdens IF BTF: B",
      "borta": "Ängby SK: D1",
@@ -2233,7 +2488,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "IFA Eskilstuna",
      "borta": "Stratos Enköping BTK: B",
@@ -2252,6 +2509,39 @@
  ],
  "tabeller": [
   {
+   "serie_id": "259-3871-0",
+   "serie": "Kval Nationellt seriespel",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/923/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Kungsör",
+     "klubb": "Bordtennisklubben Kungsör",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFA Eskilstuna: B",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7",
@@ -2349,243 +2639,17 @@
    ]
   },
   {
+   "serie_id": "519-7374-0",
    "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "evenemang": "Södermanlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1059/2/7/7",
    "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 5",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
-   "exakt_lank": true,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Hallstahammar",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås 5",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Arboga",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Västerås 8",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås 4",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Västerås 7",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Västerås 2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Köping",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Västerås 6",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 10,
-     "lag": "Västerås 3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 11,
-     "lag": "Kungsör",
-     "klubb": "Bordtennisklubben Kungsör",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 12,
-     "lag": "Västerås 1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
+     "lag": "Vadsbro IF A",
+     "klubb": "Vadsbro Idrottsförening",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -2595,30 +2659,30 @@
     },
     {
      "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
+     "lag": "IFA Eskilstuna A",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
      "spelade": 2,
-     "vunna": 1,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
+     "lag": "Södertälje BTK B",
+     "klubb": "Södertälje Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Eskilstuna BTK B2",
+     "klubb": "Eskilstuna Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2628,8 +2692,8 @@
     },
     {
      "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
+     "lag": "Eskilstuna BTK B1",
+     "klubb": "Eskilstuna Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2639,30 +2703,30 @@
     },
     {
      "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Nyköpings BTK B",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
      "spelade": 2,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
+     "lag": "Järna SK A",
+     "klubb": "Järna Sportklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IF Norcopensarna: E2",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Hälleforsnäs BTK A",
+     "klubb": "Hälleforsnäs Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2673,128 +2737,404 @@
    ]
   },
   {
-   "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
-   "exakt_lank": true,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Kungälvs BTK E",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Rudalens IF B",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lindome BTK C",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Romelanda UF",
-     "klubb": "Romelanda Ungdomsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Mölndals BTK D",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "BTK Linné H",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "BTK Linné I",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Askims BTK D",
-     "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Kval Nationellt seriespel",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/923/2/7/7",
+   "serie_id": "519-7376-0",
+   "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
    "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Kungsör",
-     "klubb": "Bordtennisklubben Kungsör",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Vadsbro IF B",
+     "klubb": "Vadsbro Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFA Eskilstuna: B",
-     "klubb": "Idrottsföreningen För Alla Eskilstuna",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Nyköpings BTK C1",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Flens BTK A",
+     "klubb": "Flens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFA Eskilstuna B",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Katrineholms BTK C",
+     "klubb": "Katrineholms Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Nyköpings BTK C2",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Barva IF A",
+     "klubb": "Barva Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Strängnäs BTK A",
+     "klubb": "Strängnäs Bordtennisklubb ",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Järna SK B",
+     "klubb": "Järna Sportklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "IFK Mariefred A",
+     "klubb": "IFK Mariefred",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "519-7377-0",
+   "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Vadsbro IF C",
+     "klubb": "Vadsbro Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Järna SK C",
+     "klubb": "Järna Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Södertälje BTK C",
+     "klubb": "Södertälje Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Nyköpings BTK D",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFA Eskilstuna C",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Barva IF B",
+     "klubb": "Barva Idrottsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Flens BTK B",
+     "klubb": "Flens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Eskilstuna BTK C",
+     "klubb": "Eskilstuna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Hälleforsnäs BTK B",
+     "klubb": "Hälleforsnäs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Strängnäs BTK B",
+     "klubb": "Strängnäs Bordtennisklubb ",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "519-7424-0",
+   "serie": "Division 7",
+   "evenemang": "Södermanlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1062/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Eskilstuna BTK D1",
+     "klubb": "Eskilstuna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "NIKUS A",
+     "klubb": "Nyköping idrott kultur och utbildningssällskap",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Nyköpings BTK E1",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Järna SK D",
+     "klubb": "Järna Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Södertälje BTK D",
+     "klubb": "Södertälje Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Nyköpings BTK E2",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Eskilstuna BTK D2",
+     "klubb": "Eskilstuna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IFA Eskilstuna D1",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Trosa Racketklubb A",
+     "klubb": "Trosa Racketklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "IFA Eskilstuna D2",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 11,
+     "lag": "Flens BTK C",
+     "klubb": "Flens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 12,
+     "lag": "Strängnäs BTK C",
+     "klubb": "Strängnäs Bordtennisklubb ",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 13,
+     "lag": "IFK Mariefred B",
+     "klubb": "IFK Mariefred",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 14,
+     "lag": "Eskilstuna BTK D3",
+     "klubb": "Eskilstuna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

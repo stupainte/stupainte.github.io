@@ -4,27 +4,14 @@
   "namn": "Ingarö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Ingarö IF",
-   "serie": {
-    "namn": "Div 4 Södra"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Ingarö IF",
-   "serie": {
-    "namn": "Serie C"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Ingarö IF",
    "serie": {
     "namn": "Silly C"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +19,31 @@
    "serie": {
     "namn": "Silly G"
    },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ingarö IF",
+   "serie": {
+    "namn": "Div 4 Södra"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ingarö IF",
+   "serie": {
+    "namn": "Pensionär Serie C"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ingarö IF B",
+   "serie": {
+    "namn": "Pensionär Serie D Södra"
+   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,13 +51,15 @@
    "serie": {
     "namn": "Div 5 Södra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
-   "namn": "Ingarö IF B",
+   "namn": "Ingarö IF C1",
    "serie": {
-    "namn": "Serie D Södra"
+    "namn": "Pensionär Serie E"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,13 +67,15 @@
    "serie": {
     "namn": "Div 7 Södra A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
-   "namn": "Ingarö IF C1",
+   "namn": "Ingarö IF C2",
    "serie": {
-    "namn": "Serie E"
+    "namn": "Pensionär Serie E"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,13 +83,7 @@
    "serie": {
     "namn": "Div 7 Södra B"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Ingarö IF C2",
-   "serie": {
-    "namn": "Serie E"
-   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -81,6 +91,7 @@
    "serie": {
     "namn": "Silly F"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -89,7 +100,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "GurkBoork",
    "borta": "Ingarö IF",
@@ -108,7 +121,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "IFK Täby 1",
    "borta": "Ingarö IF",
@@ -127,7 +142,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ingarö IF",
    "borta": "Solna BTK old boys",
@@ -146,7 +163,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "The Vetz",
    "borta": "Ingarö IF",
@@ -165,7 +184,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6649-0",
    "serie": "Silly C",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "TeamBT",
    "borta": "Ingarö IF",
@@ -184,7 +205,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6649-0",
    "serie": "Silly C",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ingarö IF",
    "borta": "Rigor Mortis BTK",
@@ -203,7 +226,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6649-0",
    "serie": "Silly C",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Spårvägens BTK 2",
    "borta": "Ingarö IF",
@@ -222,7 +247,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ingarö Retajjerd Båjjs",
    "borta": "Tullinge TP BTK 2",
@@ -241,7 +268,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Ingarö Retajjerd Båjjs",
    "borta": "IFK Österåkers BTK 2",
@@ -260,7 +289,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "KFUM Stocksund A",
    "borta": "Ingarö Retajjerd Båjjs",
@@ -279,7 +310,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ingarö Retajjerd Båjjs",
    "borta": "Spårvägen 5",
@@ -298,7 +331,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Upplands Väsby BTK 3",
    "borta": "Ingarö Retajjerd Båjjs",
@@ -318,16 +353,17 @@
  "arrangerar": [],
  "tabeller": [
   {
+   "serie_id": "464-7780-0",
    "serie": "Div 4 Södra",
-   "evenemang": "Norrlands BTF",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1533/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Marma IF",
-     "klubb": "Marma Idrottsförening",
+     "lag": "Ängby SK D2",
+     "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -337,8 +373,8 @@
     },
     {
      "placering": 2,
-     "lag": "Ortvikens PK B",
-     "klubb": "Ortvikens Pingisklubb",
+     "lag": "Spårvägens BTK F2",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -348,8 +384,8 @@
     },
     {
      "placering": 3,
-     "lag": "Färila BTK B",
-     "klubb": "Färila Bordtennisklubb",
+     "lag": "IFK Lidingö BTK B1",
+     "klubb": "IFK Lidingö Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -359,8 +395,8 @@
     },
     {
      "placering": 4,
-     "lag": "Hudiksvalls IF BTK A",
-     "klubb": "Hudiksvalls IF Bordtennisklubb",
+     "lag": "Ingarö IF",
+     "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -370,8 +406,8 @@
     },
     {
      "placering": 5,
-     "lag": "Alfta BTK B",
-     "klubb": "Alfta Bordtennisklubb",
+     "lag": "Tullinge TP BTK B1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -381,8 +417,8 @@
     },
     {
      "placering": 6,
-     "lag": "Ortvikens PK C",
-     "klubb": "Ortvikens Pingisklubb",
+     "lag": "Spånga TBK",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -392,115 +428,128 @@
     },
     {
      "placering": 7,
-     "lag": "Norrfjärns IF A",
-     "klubb": "Norrfjärns Idrottsförening",
+     "lag": "Huddinge BTK",
+     "klubb": "Huddinge Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Div 5 Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Mariedals IK D1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Byttorps IF B2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "ÖSTK",
-     "klubb": "Östra Stadsgränsen Tennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Sandareds BTK B",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Ulricehamns IF B",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Mariedals IK D2",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Byttorps IF B1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 2,
+     "lag": "Hammarby IF BTF D",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
+   "serie_id": "464-7911-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ingarö IF B",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Tyresö BTK C",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Norrtulls SK E",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Spårvägens BTK G",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Tullinge TP BTK C",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Djurgårdens IF BTF ",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Boo RK D",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Jarlabergs BTK",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7937-0",
    "serie": "Div 7 Södra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1593/2/7/7",
@@ -598,6 +647,7 @@
    ]
   },
   {
+   "serie_id": "464-7938-0",
    "serie": "Div 7 Södra B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1594/2/7/7",
@@ -684,7 +734,8 @@
    ]
   },
   {
-   "serie": "Serie C",
+   "serie_id": "464-7786-0",
+   "serie": "Pensionär Serie C",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1579/2/7/7",
    "exakt_lank": false,
@@ -781,7 +832,8 @@
    ]
   },
   {
-   "serie": "Serie D Södra",
+   "serie_id": "464-7789-0",
+   "serie": "Pensionär Serie D Södra",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1581/2/7/7",
    "exakt_lank": false,
@@ -878,16 +930,39 @@
    ]
   },
   {
-   "serie": "Serie E",
+   "serie_id": "464-7790-0",
+   "serie": "Pensionär Serie E",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1582/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Ingarö IF C1",
-     "klubb": "Ingarö Idrottsförening",
+     "lag": "Fältöverstens BTK C2",
+     "klubb": "Fältöverstens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Ängby SK D",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Fältöverstens BTK C1",
+     "klubb": "Fältöverstens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -896,9 +971,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Fältöverstens BTK C1",
-     "klubb": "Fältöverstens Bordtennisklubb",
+     "placering": 3,
+     "lag": "Hammarby IF BTF D",
+     "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -918,18 +993,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ingarö IF C2",
-     "klubb": "Ingarö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
+     "placering": 3,
      "lag": "IFK Österåkers BTK C",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
@@ -940,9 +1004,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Hammarby IF BTF D",
-     "klubb": "Hammarby IF Bordtennisförening",
+     "placering": 3,
+     "lag": "Ingarö IF C1",
+     "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -951,20 +1015,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Ängby SK D",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Fältöverstens BTK C2",
-     "klubb": "Fältöverstens Bordtennisklubb",
+     "placering": 3,
+     "lag": "Ingarö IF C2",
+     "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -975,6 +1028,7 @@
    ]
   },
   {
+   "serie_id": "464-6649-0",
    "serie": "Silly C",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1297/2/7/7",
@@ -1050,6 +1104,7 @@
    ]
   },
   {
+   "serie_id": "464-6653-0",
    "serie": "Silly F",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1300/2/7/7",
@@ -1125,6 +1180,7 @@
    ]
   },
   {
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",

@@ -4,55 +4,46 @@
   "namn": "Spånga Tennis o Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Spånga P. A1",
    "serie": {
-    "namn": "Serie A"
+    "namn": "Pensionär Serie A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Spånga P. A2",
    "serie": {
-    "namn": "Serie A"
+    "namn": "Pensionär Serie A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Spånga P. B",
    "serie": {
-    "namn": "Serie C"
+    "namn": "Pensionär Serie C"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Spånga P. C1",
    "serie": {
-    "namn": "Serie D Norra"
+    "namn": "Pensionär Serie D Norra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Spånga P. C2",
    "serie": {
-    "namn": "Serie D Norra"
+    "namn": "Pensionär Serie D Norra"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Spånga TBK",
-   "serie": {
-    "namn": "Div 2"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Spånga TBK",
-   "serie": {
-    "namn": "Div 4 Södra"
-   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +51,23 @@
    "serie": {
     "namn": "Silly A"
    },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spånga TBK",
+   "serie": {
+    "namn": "Div 4 Södra"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spånga TBK",
+   "serie": {
+    "namn": "Vet 35 Div 2"
+   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,6 +75,7 @@
    "serie": {
     "namn": "Div 6 Norra A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "div 7 Mellersta A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -82,7 +92,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Spårvägens BTK",
    "borta": "Spånga TBK",
@@ -101,7 +113,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK A",
    "borta": "Spånga TBK",
@@ -120,7 +134,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Spånga TBK",
    "borta": "Bro IK A",
@@ -139,7 +155,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Boolaget",
    "borta": "Spånga TBK",
@@ -159,16 +177,17 @@
  "arrangerar": [],
  "tabeller": [
   {
-   "serie": "Div 2",
+   "serie_id": "464-7780-0",
+   "serie": "Div 4 Södra",
    "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1596/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1533/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "IFK Österåkers BTK B",
-     "klubb": "IFK Österåkers Bordtennisklubb",
+     "lag": "Ängby SK D2",
+     "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -178,7 +197,7 @@
     },
     {
      "placering": 2,
-     "lag": "Spårvägens BTK B",
+     "lag": "Spårvägens BTK F2",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -189,8 +208,8 @@
     },
     {
      "placering": 3,
-     "lag": "Norrtulls SK B",
-     "klubb": "Norrtulls Sportklubb",
+     "lag": "IFK Lidingö BTK B1",
+     "klubb": "IFK Lidingö Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -200,8 +219,8 @@
     },
     {
      "placering": 4,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
+     "lag": "Ingarö IF",
+     "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -211,8 +230,8 @@
     },
     {
      "placering": 5,
-     "lag": "Hammarby IF BTF ",
-     "klubb": "Hammarby IF Bordtennisförening",
+     "lag": "Tullinge TP BTK B1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -222,8 +241,8 @@
     },
     {
      "placering": 6,
-     "lag": "Boo RK B",
-     "klubb": "Boo Racketklubb",
+     "lag": "Spånga TBK",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -233,8 +252,8 @@
     },
     {
      "placering": 7,
-     "lag": "KFUM Stocksund B",
-     "klubb": "KFUM Stocksund IA",
+     "lag": "Huddinge BTK",
+     "klubb": "Huddinge Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -244,8 +263,8 @@
     },
     {
      "placering": 8,
-     "lag": "Spånga TBK",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "lag": "Hammarby IF BTF D",
+     "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -256,92 +275,7 @@
    ]
   },
   {
-   "serie": "Div 4 Södra",
-   "evenemang": "Norrlands BTF",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Marma IF",
-     "klubb": "Marma Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Ortvikens PK B",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Färila BTK B",
-     "klubb": "Färila Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Hudiksvalls IF BTK A",
-     "klubb": "Hudiksvalls IF Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Alfta BTK B",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Ortvikens PK C",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Norrfjärns IF A",
-     "klubb": "Norrfjärns Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "464-7919-0",
    "serie": "Div 6 Norra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
@@ -439,7 +373,8 @@
    ]
   },
   {
-   "serie": "Serie A",
+   "serie_id": "464-7829-0",
+   "serie": "Pensionär Serie A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1577/2/7/7",
    "exakt_lank": false,
@@ -536,7 +471,8 @@
    ]
   },
   {
-   "serie": "Serie C",
+   "serie_id": "464-7786-0",
+   "serie": "Pensionär Serie C",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1579/2/7/7",
    "exakt_lank": false,
@@ -633,7 +569,8 @@
    ]
   },
   {
-   "serie": "Serie D Norra",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "exakt_lank": false,
@@ -730,6 +667,7 @@
    ]
   },
   {
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
@@ -794,6 +732,105 @@
    ]
   },
   {
+   "serie_id": "464-7940-0",
+   "serie": "Vet 35 Div 2",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1596/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Österåkers BTK B",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Spårvägens BTK B",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Norrtulls SK B",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hammarby IF BTF ",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Boo RK B",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "KFUM Stocksund B",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Spånga TBK",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7935-0",
    "serie": "div 7 Mellersta A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",

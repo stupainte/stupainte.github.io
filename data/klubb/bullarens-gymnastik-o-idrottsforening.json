@@ -4,13 +4,22 @@
   "namn": "Bullarens Gymnastik o Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-30T10:09:08Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Bullarens GoIF",
    "serie": {
-    "namn": "Nordvästra"
+    "namn": "Div 4 Nordvästra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bullarens GoIF",
+   "serie": {
+    "namn": "Höst Ungd Nordvästra"
+   },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,13 +27,15 @@
    "serie": {
     "namn": "Div 5 Nordvästra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Bullarens GoIF C",
    "serie": {
-    "namn": "Nordvästra"
+    "namn": "Div 7 Nordvästra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -32,7 +43,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Uddevalla BTK A1",
    "borta": "Bullarens GoIF",
@@ -49,7 +62,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Bullarens GoIF B",
    "borta": "Svanesunds GIF C",
@@ -66,7 +81,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Uddevalla BTK C",
    "borta": "Bullarens GoIF C",
@@ -83,7 +100,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Uddevalla BTK A2",
    "borta": "Bullarens GoIF",
@@ -100,7 +119,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "BTK Dalen B",
    "borta": "Bullarens GoIF B",
@@ -117,7 +138,9 @@
   {
    "datum": "2026-10-19",
    "tid": "19:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Bullarens GoIF C",
    "borta": "Stenungsunds BTF D2",
@@ -134,7 +157,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF",
    "borta": "Trollhättans BTK A1",
@@ -151,7 +176,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF B",
    "borta": "Vänersborgs BTK B2",
@@ -168,7 +195,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Eds FF A2",
    "borta": "Bullarens GoIF",
@@ -185,7 +214,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Bullarens GoIF B",
    "borta": "Stenungsunds BTF B2",
@@ -202,37 +233,47 @@
   {
    "datum": "2026-11-15",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Skee IF",
    "borta": "Bullarens GoIF",
    "hemma_klubb": "Skee Idrottsförening",
    "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "12:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Stenungsunds BTF Blå",
    "borta": "Bullarens GoIF",
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-12",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Eds FF A1",
    "borta": "Bullarens GoIF",
@@ -249,7 +290,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Bullarens GoIF B",
    "borta": "Stenungsunds BTF B1",
@@ -266,7 +309,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Bullarens GoIF C",
    "borta": "Stenungsunds BTF D1",
@@ -283,7 +328,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Kvillebyns SK",
    "borta": "Bullarens GoIF",
@@ -300,7 +347,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Munkedals BTK C",
    "borta": "Bullarens GoIF B",
@@ -317,7 +366,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Grästorps BTK C",
    "borta": "Bullarens GoIF C",
@@ -334,52 +385,66 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Bullarens GoIF",
    "borta": "Munkedals BTK Blå",
    "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Bullarens Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Bullarens Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "12:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Stenungsunds BTF Vit",
    "borta": "Bullarens GoIF",
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Bullarens Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Bullarens Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "15:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF",
    "borta": "Munkedals BTK Röd",
    "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Bullarens Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Bullarens Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2027-01-11",
    "tid": "19:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF C",
    "borta": "Kvillebyns SK C",
@@ -396,7 +461,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Bullarens GoIF",
    "borta": "Trollhättans BTK A2",
@@ -413,7 +480,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Bullarens GoIF B",
    "borta": "Vänersborgs BTK B1",
@@ -430,7 +499,9 @@
   {
    "datum": "2027-01-16",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Bullarens GoIF",
    "borta": "Eds FF A2",
@@ -447,7 +518,9 @@
   {
    "datum": "2027-01-25",
    "tid": "19:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Bullarens GoIF C",
    "borta": "Uddevalla BTK C",
@@ -464,7 +537,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Stenungsunds BTF B2",
    "borta": "Bullarens GoIF B",
@@ -481,7 +556,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Trollhättans BTK A1",
    "borta": "Bullarens GoIF",
@@ -498,7 +575,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Svanesunds GIF C",
    "borta": "Bullarens GoIF B",
@@ -515,7 +594,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Stenungsunds BTF D2",
    "borta": "Bullarens GoIF C",
@@ -532,7 +613,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Bullarens GoIF",
    "borta": "Eds FF A1",
@@ -549,7 +632,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Bullarens GoIF B",
    "borta": "BTK Dalen B",
@@ -566,7 +651,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Stenungsunds BTF D1",
    "borta": "Bullarens GoIF C",
@@ -583,7 +670,9 @@
   {
    "datum": "2027-02-22",
    "tid": "19:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Bullarens GoIF C",
    "borta": "Grästorps BTK C",
@@ -600,7 +689,9 @@
   {
    "datum": "2027-03-01",
    "tid": "19:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Kvillebyns SK C",
    "borta": "Bullarens GoIF C",
@@ -617,7 +708,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Bullarens GoIF",
    "borta": "Uddevalla BTK A1",
@@ -634,7 +727,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Bullarens GoIF B",
@@ -651,7 +746,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Bullarens GoIF",
    "borta": "Uddevalla BTK A2",
@@ -668,7 +765,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Stenungsunds BTF B1",
    "borta": "Bullarens GoIF B",
@@ -687,7 +786,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Bullarens GoIF",
    "borta": "Kvillebyns SK",
@@ -706,7 +807,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Bullarens GoIF B",
    "borta": "Munkedals BTK C",
@@ -725,7 +828,9 @@
   {
    "datum": "2026-09-19",
    "tid": "14:00",
-   "serie": "Nordvästra",
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Trollhättans BTK A2",
    "borta": "Bullarens GoIF",
@@ -744,7 +849,9 @@
   {
    "datum": "2026-09-19",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Bullarens GoIF B",
@@ -768,14 +875,16 @@
     "-"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 7 Nordvästra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-19",
      "tid": "19:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Bullarens GoIF C",
      "borta": "Stenungsunds BTF D2",
@@ -804,7 +913,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Stenungsunds BTF B2",
      "borta": "Svanesunds GIF C",
@@ -821,7 +932,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Bullarens GoIF B",
      "borta": "Vänersborgs BTK B2",
@@ -838,7 +951,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Bullarens GoIF B",
      "borta": "Stenungsunds BTF B2",
@@ -855,7 +970,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Vänersborgs BTK B2",
      "borta": "Svanesunds GIF C",
@@ -877,14 +994,16 @@
     "-"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 7 Nordvästra"
    ],
    "antal": 6,
    "matcher": [
     {
      "datum": "2026-12-12",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Bullarens GoIF C",
      "borta": "Stenungsunds BTF D1",
@@ -901,7 +1020,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Grästorps BTK C",
      "borta": "Stenungsunds BTF D1",
@@ -918,7 +1039,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Kvillebyns SK C",
      "borta": "Stenungsunds BTF D2",
@@ -935,7 +1058,9 @@
     {
      "datum": "2026-12-12",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Uddevalla BTK C",
      "borta": "Kvillebyns SK C",
@@ -952,7 +1077,9 @@
     {
      "datum": "2026-12-12",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Grästorps BTK C",
      "borta": "Bullarens GoIF C",
@@ -969,7 +1096,9 @@
     {
      "datum": "2026-12-12",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Stenungsunds BTF D2",
      "borta": "Uddevalla BTK C",
@@ -986,19 +1115,204 @@
    ]
   },
   {
+   "datum": "2026-12-13",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Höst Ungd Nordvästra"
+   ],
+   "antal": 9,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 3",
+     "hemma": "Munkedals BTK Röd",
+     "borta": "Stenungsunds BTF Blå",
+     "hemma_klubb": "Munkedals Bordtennisklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 3",
+     "hemma": "Skee IF",
+     "borta": "Stenungsunds BTF Vit",
+     "hemma_klubb": "Skee Idrottsförening",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 3",
+     "hemma": "Bullarens GoIF",
+     "borta": "Munkedals BTK Blå",
+     "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Stenungsunds BTF Blå",
+     "borta": "Munkedals BTK Blå",
+     "hemma_klubb": "Stenungsunds Bordtennisförening",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Stenungsunds BTF Vit",
+     "borta": "Bullarens GoIF",
+     "hemma_klubb": "Stenungsunds Bordtennisförening",
+     "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Munkedals BTK Röd",
+     "borta": "Skee IF",
+     "hemma_klubb": "Munkedals Bordtennisklubb",
+     "borta_klubb": "Skee Idrottsförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Skee IF",
+     "borta": "Stenungsunds BTF Blå",
+     "hemma_klubb": "Skee Idrottsförening",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Bullarens GoIF",
+     "borta": "Munkedals BTK Röd",
+     "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7707-0",
+     "serie": "Höst Ungd Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Munkedals BTK Blå",
+     "borta": "Stenungsunds BTF Vit",
+     "hemma_klubb": "Munkedals Bordtennisklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "-",
+     "arrangor": "Bullarens Gymnastik o Idrottsförening",
+     "arrangorer": [
+      "Bullarens Gymnastik o Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2027-01-11",
    "platser": [
     "-"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 7 Nordvästra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-11",
      "tid": "19:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Bullarens GoIF C",
      "borta": "Kvillebyns SK C",
@@ -1027,7 +1341,9 @@
     {
      "datum": "2027-01-16",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Bullarens GoIF B",
      "borta": "Vänersborgs BTK B1",
@@ -1049,14 +1365,16 @@
     "-"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 7 Nordvästra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-25",
      "tid": "19:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Bullarens GoIF C",
      "borta": "Uddevalla BTK C",
@@ -1079,14 +1397,17 @@
     "Bullaren"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 4 Nordvästra",
+    "Div 7 Nordvästra"
    ],
    "antal": 10,
    "matcher": [
     {
      "datum": "2027-02-13",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-6342-0",
+     "serie": "Div 4 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Uddevalla BTK A2",
      "borta": "Eds FF A1",
@@ -1103,7 +1424,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-6342-0",
+     "serie": "Div 4 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Trollhättans BTK A1",
      "borta": "Bullarens GoIF",
@@ -1120,7 +1443,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Kvillebyns SK C",
      "borta": "Stenungsunds BTF D1",
@@ -1137,7 +1462,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Uddevalla BTK C",
      "borta": "Grästorps BTK C",
@@ -1154,7 +1481,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Stenungsunds BTF D2",
      "borta": "Bullarens GoIF C",
@@ -1171,7 +1500,9 @@
     {
      "datum": "2027-02-13",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-6342-0",
+     "serie": "Div 4 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Bullarens GoIF",
      "borta": "Eds FF A1",
@@ -1188,7 +1519,9 @@
     {
      "datum": "2027-02-13",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-6342-0",
+     "serie": "Div 4 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Trollhättans BTK A1",
      "borta": "Uddevalla BTK A2",
@@ -1205,7 +1538,9 @@
     {
      "datum": "2027-02-13",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Stenungsunds BTF D1",
      "borta": "Bullarens GoIF C",
@@ -1222,7 +1557,9 @@
     {
      "datum": "2027-02-13",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Stenungsunds BTF D1",
      "borta": "Grästorps BTK C",
@@ -1239,7 +1576,9 @@
     {
      "datum": "2027-02-13",
      "tid": "14:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Stenungsunds BTF D2",
      "borta": "Kvillebyns SK C",
@@ -1261,14 +1600,16 @@
     "-"
    ],
    "serier": [
-    "Nordvästra"
+    "Div 7 Nordvästra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-22",
      "tid": "19:00",
-     "serie": "Nordvästra",
+     "serie_id": "367-7535-0",
+     "serie": "Div 7 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Bullarens GoIF C",
      "borta": "Grästorps BTK C",
@@ -1297,7 +1638,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Stenungsunds BTF B1",
      "borta": "BTK Dalen B",
@@ -1314,7 +1657,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Vänersborgs BTK B2",
      "borta": "Bullarens GoIF B",
@@ -1331,7 +1676,9 @@
     {
      "datum": "2027-03-13",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Stenungsunds BTF B1",
      "borta": "Bullarens GoIF B",
@@ -1348,7 +1695,9 @@
     {
      "datum": "2027-03-13",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Vänersborgs BTK B2",
      "borta": "BTK Dalen B",
@@ -1367,6 +1716,105 @@
  ],
  "tabeller": [
   {
+   "serie_id": "367-6342-0",
+   "serie": "Div 4 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Uddevalla BTK A1",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kvillebyns SK",
+     "klubb": "Kvillebyns Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Trollhättans BTK A1",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Trollhättans BTK A2",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Eds FF A1",
+     "klubb": "Eds Fotbollsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Eds FF A2",
+     "klubb": "Eds Fotbollsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Bullarens GoIF",
+     "klubb": "Bullarens Gymnastik o Idrottsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Uddevalla BTK A2",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7",
@@ -1464,7 +1912,84 @@
    ]
   },
   {
-   "serie": "Nordvästra",
+   "serie_id": "367-7535-0",
+   "serie": "Div 7 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Stenungsunds BTF D2",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Uddevalla BTK C",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Kvillebyns SK C",
+     "klubb": "Kvillebyns Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Grästorps BTK C",
+     "klubb": "Grästorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Bullarens GoIF C",
+     "klubb": "Bullarens Gymnastik o Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Stenungsunds BTF D1",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-7707-0",
+   "serie": "Höst Ungd Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7",
    "exakt_lank": false,

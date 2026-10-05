@@ -4,20 +4,30 @@
   "namn": "Bro Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Bro IK",
-   "serie": {
-    "namn": "Div 1"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Bro IK",
    "serie": {
     "namn": "Div 2 NSS"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bro IK",
+   "serie": {
+    "namn": "Pensionär Serie B"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bro IK",
+   "serie": {
+    "namn": "Vet 35 Div 1"
+   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,13 +35,7 @@
    "serie": {
     "namn": "Grupp 3"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Bro IK",
-   "serie": {
-    "namn": "Serie B"
-   },
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,20 +43,7 @@
    "serie": {
     "namn": "Silly A"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Bro IK B",
-   "serie": {
-    "namn": "Div 2"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Bro IK B",
-   "serie": {
-    "namn": "Serie D Norra"
-   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +51,23 @@
    "serie": {
     "namn": "Silly B"
    },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bro IK B",
+   "serie": {
+    "namn": "Pensionär Serie D Norra"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Bro IK B",
+   "serie": {
+    "namn": "Vet 35 Div 2"
+   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,20 +75,23 @@
    "serie": {
     "namn": "Div 5 Norra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Bro IK C1",
    "serie": {
-    "namn": "Div 3 Norra"
+    "namn": "Vet 35 Div 3 Norra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Bro IK C2",
    "serie": {
-    "namn": "Div 3 Södra"
+    "namn": "Vet 35 Div 3 Södra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -88,6 +99,7 @@
    "serie": {
     "namn": "Div 7 Norra A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -95,6 +107,7 @@
    "serie": {
     "namn": "Div 3 NSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -102,7 +115,9 @@
   {
    "datum": "2026-10-10",
    "tid": "09:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 1",
    "hemma": "Köpings BTK Kolsva Exiles",
    "borta": "Bro IK",
@@ -119,7 +134,9 @@
   {
    "datum": "2026-10-10",
    "tid": "10:30",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 2",
    "hemma": "Bro IK",
    "borta": "Västerås BTK VoV",
@@ -136,7 +153,9 @@
   {
    "datum": "2026-10-10",
    "tid": "12:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 3",
    "hemma": "Hallstahammars BTK",
    "borta": "Bro IK",
@@ -153,7 +172,9 @@
   {
    "datum": "2026-10-10",
    "tid": "13:30",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 4",
    "hemma": "Köpings BTK Kix Boys",
    "borta": "Bro IK",
@@ -170,7 +191,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Upplands-Ekeby IF: A1",
    "borta": "Bro IK: B",
@@ -187,7 +210,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Bro IK",
    "borta": "IK Juno: A2",
@@ -204,7 +229,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IK Sirius BTK: C",
    "borta": "Bro IK: B",
@@ -221,7 +248,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Bro IK",
    "borta": "IFK Österåkers BTK: B2",
@@ -238,7 +267,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Boo Racketklubb: B2",
    "borta": "Bro IK: B",
@@ -255,7 +286,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Bro IK",
    "borta": "Norrtälje BTK: B",
@@ -272,7 +305,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Järfälla BTF",
    "borta": "Bro IK: B",
@@ -289,7 +324,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Bro IK",
    "borta": "Falu BTK",
@@ -306,7 +343,9 @@
   {
    "datum": "2026-11-21",
    "tid": "09:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 5",
    "hemma": "Borlänge BTK",
    "borta": "Bro IK",
@@ -323,7 +362,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:30",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 6",
    "hemma": "Bro IK",
    "borta": "Köpings BTK Kolsva Exiles",
@@ -340,7 +381,9 @@
   {
    "datum": "2026-11-21",
    "tid": "12:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 7",
    "hemma": "Bro IK",
    "borta": "Hallstahammars BTK",
@@ -357,7 +400,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Vassunda IF",
    "borta": "Bro IK: B",
@@ -374,7 +419,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Norrtulls SK: B",
    "borta": "Bro IK",
@@ -391,7 +438,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "KFUM Stocksund: B",
    "borta": "Bro IK: B",
@@ -408,7 +457,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IK Juno: A2",
    "borta": "Bro IK",
@@ -425,7 +476,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Bro IK: B",
    "borta": "Boo Racketklubb: B2",
@@ -442,7 +495,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Bro IK",
    "borta": "Spårvägens BTK: C2",
@@ -459,7 +514,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Bro IK: B",
    "borta": "Järfälla BTF",
@@ -476,7 +533,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "KFUM Stocksund",
    "borta": "Bro IK",
@@ -493,7 +552,9 @@
   {
    "datum": "2027-01-30",
    "tid": "09:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 8",
    "hemma": "Bro IK",
    "borta": "Borlänge BTK",
@@ -510,7 +571,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:30",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 9",
    "hemma": "Bro IK",
    "borta": "Köpings BTK Kix Boys",
@@ -527,7 +590,9 @@
   {
    "datum": "2027-01-30",
    "tid": "12:00",
+   "serie_id": "482-6770-0",
    "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "omgang": "Round 10",
    "hemma": "Västerås BTK VoV",
    "borta": "Bro IK",
@@ -544,7 +609,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Bro IK: B",
    "borta": "IK Sirius BTK: C",
@@ -561,7 +628,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "IFK Österåkers BTK: B2",
    "borta": "Bro IK",
@@ -578,7 +647,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Bro IK: B",
    "borta": "Sunnersta AIF: A2",
@@ -595,7 +666,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Norrtälje BTK: B",
    "borta": "Bro IK",
@@ -612,7 +685,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Bro IK: B",
    "borta": "Upplands-Ekeby IF: A1",
@@ -629,7 +704,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Falu BTK",
    "borta": "Bro IK",
@@ -646,7 +723,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Bro IK: B",
    "borta": "Vassunda IF",
@@ -663,7 +742,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Bro IK",
    "borta": "Norrtulls SK: B",
@@ -682,7 +763,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Bro IK A",
    "borta": "Boolaget",
@@ -701,7 +784,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Bro IK A",
    "borta": "Spårvägens BTK",
@@ -720,7 +805,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Spånga TBK",
    "borta": "Bro IK A",
@@ -739,7 +826,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK A",
    "borta": "Bro IK A",
@@ -758,7 +847,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Bro IK B",
    "borta": "Upplands Väsby BTK 1",
@@ -777,7 +868,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tullinge TP BTK 1",
    "borta": "Bro IK B",
@@ -796,7 +889,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bro IK B",
    "borta": "Spårvägen 1",
@@ -815,7 +910,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Bro IK: B",
    "borta": "KFUM Stocksund: B",
@@ -834,7 +931,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Bro IK",
    "borta": "KFUM Stocksund",
@@ -853,7 +952,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Sunnersta AIF: A2",
    "borta": "Bro IK: B",
@@ -872,7 +973,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Spårvägens BTK: C2",
    "borta": "Bro IK",
@@ -903,7 +1006,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Järfälla BTF",
      "borta": "KFUM Stocksund: B",
@@ -920,7 +1025,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Boo Racketklubb: B2",
      "borta": "Bro IK: B",
@@ -937,7 +1044,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Boo Racketklubb: B2",
      "borta": "KFUM Stocksund: B",
@@ -954,7 +1063,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Järfälla BTF",
      "borta": "Bro IK: B",
@@ -984,7 +1095,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Bro IK",
      "borta": "Spårvägens BTK: C2",
@@ -1001,7 +1114,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "KFUM Stocksund",
      "borta": "Norrtulls SK: B",
@@ -1018,7 +1133,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "KFUM Stocksund: B",
      "borta": "Järfälla BTF",
@@ -1035,7 +1152,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Bro IK: B",
      "borta": "Boo Racketklubb: B2",
@@ -1052,7 +1171,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Norrtulls SK: B",
      "borta": "Spårvägens BTK: C2",
@@ -1069,7 +1190,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "KFUM Stocksund",
      "borta": "Bro IK",
@@ -1086,7 +1209,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "KFUM Stocksund: B",
      "borta": "Boo Racketklubb: B2",
@@ -1103,7 +1228,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Bro IK: B",
      "borta": "Järfälla BTF",
@@ -1122,200 +1249,7 @@
  ],
  "tabeller": [
   {
-   "serie": "Div 1",
-   "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1595/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IFK Österåkers BTK ",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Back BTK",
-     "klubb": "Back Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Täby",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Boo RK",
-     "klubb": "Boo Racketklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "KFUM Stocksund A",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Bro IK",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Norrtulls SK",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Div 2",
-   "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1596/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IFK Österåkers BTK B",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Spårvägens BTK B",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Norrtulls SK B",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Hammarby IF BTF ",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Boo RK B",
-     "klubb": "Boo Racketklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "KFUM Stocksund B",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Spånga TBK",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7",
@@ -1413,6 +1347,7 @@
    ]
   },
   {
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7",
@@ -1510,37 +1445,16 @@
    ]
   },
   {
-   "serie": "Div 3 Norra",
+   "serie_id": "464-7910-0",
+   "serie": "Div 5 Norra",
    "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1597/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1583/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "IFK Österåkers BTK C",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Hammarby IF BTF B2",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ängby SK",
+     "lag": "Ängby SK E",
      "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1550,8 +1464,30 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 2,
+     "lag": "IFK Österåkers BTK D",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Täby BTK B",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 4,
-     "lag": "Bro IK C1",
+     "lag": "Bro IK C",
      "klubb": "Bro Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1562,8 +1498,8 @@
     },
     {
      "placering": 5,
-     "lag": "Tullinge TP BTK A1",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "lag": "Tibble Kungsängen BTK C",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1573,6 +1509,17 @@
     },
     {
      "placering": 6,
+     "lag": "KFUM Stocksund C",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Sundbybergs IK",
      "klubb": "Sundbybergs Idrottsklubb",
      "spelade": 0,
@@ -1583,20 +1530,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "IFK Täby BTK B1",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
-     "lag": "Norrtulls SK C",
-     "klubb": "Norrtulls Sportklubb",
+     "lag": "Järfälla BTF C",
+     "klubb": "Järfälla Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1607,200 +1543,7 @@
    ]
   },
   {
-   "serie": "Div 3 Södra",
-   "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1598/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IFK Täby BTK C1",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Tullinge TP BTK A2",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IK Makkabi ",
-     "klubb": "IK Makkabi",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Bro IK C2",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Spårvägens BTK C",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Hammarby IF BTF B1",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Djurgårdens IF BTF ",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "IFK Lidingö BTK",
-     "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Div 5 Norra",
-   "evenemang": "Norrlands BTF",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Umeå BTK G",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Umeå BTK F",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Skellefteå AIK BTF E",
-     "klubb": "Skellefteå AIK BTF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Vindelns IF",
-     "klubb": "Vindelns Idrottsförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Luleå PF D",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Luleå PF C",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Skellefteå AIK BTF F",
-     "klubb": "Skellefteå AIK BTF",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Sävast BTK",
-     "klubb": "Sävast Bordtennisklubb Boden",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "464-7933-0",
    "serie": "Div 7 Norra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1589/2/7/7",
@@ -1898,47 +1641,37 @@
    ]
   },
   {
-   "serie": "Grupp 3",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
+   "serie_id": "464-7784-0",
+   "serie": "Pensionär Serie B",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Borlänge BTK",
-     "klubb": "Borlänge Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Spårvägens V. BTK B2",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Köpings BTK Kolsva Exiles",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Hammarby IF BTF ",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Västerås BTK VoV",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Bro IK",
      "klubb": "Bro Idrottsklubb",
      "spelade": 0,
@@ -1949,9 +1682,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Hallstahammars BTK",
-     "klubb": "Hallstahammars Bordtennisklubb",
+     "placering": 3,
+     "lag": "Fältöverstens BTK",
+     "klubb": "Fältöverstens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1960,38 +1693,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Köpings BTK Kix Boys",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Serie B",
-   "evenemang": "Stockholms BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Ängby SK B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
+     "placering": 3,
      "lag": "Hässelby PBK",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
      "spelade": 0,
@@ -2003,39 +1705,6 @@
     },
     {
      "placering": 3,
-     "lag": "Bro IK",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Ängby SK B1",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Fältöverstens BTK",
-     "klubb": "Fältöverstens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Spårvägens V. BTK B1",
      "klubb": "Spårvägens Veteran Bordtennisklubb",
      "spelade": 0,
@@ -2046,9 +1715,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Hammarby IF BTF ",
-     "klubb": "Hammarby IF Bordtennisförening",
+     "placering": 3,
+     "lag": "Ängby SK B1",
+     "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2057,9 +1726,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Spårvägens V. BTK B2",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "placering": 3,
+     "lag": "Ängby SK B2",
+     "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2070,7 +1739,8 @@
    ]
   },
   {
-   "serie": "Serie D Norra",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "exakt_lank": false,
@@ -2167,6 +1837,7 @@
    ]
   },
   {
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
@@ -2231,6 +1902,7 @@
    ]
   },
   {
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
@@ -2302,6 +1974,474 @@
      "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–198"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7939-0",
+   "serie": "Vet 35 Div 1",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1595/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Österåkers BTK ",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Back BTK",
+     "klubb": "Back Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Täby",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Boo RK",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "KFUM Stocksund A",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Bro IK",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Norrtulls SK",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7940-0",
+   "serie": "Vet 35 Div 2",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1596/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Österåkers BTK B",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Spårvägens BTK B",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Norrtulls SK B",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hammarby IF BTF ",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Boo RK B",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "KFUM Stocksund B",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Spånga TBK",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7941-0",
+   "serie": "Vet 35 Div 3 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1597/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Österåkers BTK C",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Hammarby IF BTF B2",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bro IK C1",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Tullinge TP BTK A1",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Sundbybergs IK",
+     "klubb": "Sundbybergs Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Täby BTK B1",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Norrtulls SK C",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "464-7942-0",
+   "serie": "Vet 35 Div 3 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1598/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Täby BTK C1",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Tullinge TP BTK A2",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IK Makkabi ",
+     "klubb": "IK Makkabi",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bro IK C2",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Spårvägens BTK C",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hammarby IF BTF B1",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Djurgårdens IF BTF ",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IFK Lidingö BTK",
+     "klubb": "IFK Lidingö Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "482-6770-0",
+   "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Borlänge BTK",
+     "klubb": "Borlänge Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Köpings BTK Kolsva Exiles",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västerås BTK VoV",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bro IK",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hallstahammars BTK",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Köpings BTK Kix Boys",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   }

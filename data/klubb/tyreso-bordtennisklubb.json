@@ -4,13 +4,14 @@
   "namn": "Tyresö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Tyresö BTK",
    "serie": {
     "namn": "Div 1 Ö Herr"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,13 +19,15 @@
    "serie": {
     "namn": "Div 2 ÖSÖ Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Tyresö BTK",
    "serie": {
-    "namn": "Serie C"
+    "namn": "Pensionär Serie C"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Silly A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,15 @@
    "serie": {
     "namn": "Silly B"
    },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Tyresö BTK C",
+   "serie": {
+    "namn": "Silly I"
+   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,13 +59,15 @@
    "serie": {
     "namn": "Div 5 Södra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
-   "namn": "Tyresö BTK C",
+   "namn": "Tyresö BTK D",
    "serie": {
-    "namn": "Silly I"
+    "namn": "Silly J"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,13 +75,7 @@
    "serie": {
     "namn": "Div 6 Södra A"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Tyresö BTK D",
-   "serie": {
-    "namn": "Silly J"
-   },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "Silly J"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -81,6 +91,7 @@
    "serie": {
     "namn": "Div 7 Mellersta B"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -88,6 +99,7 @@
    "serie": {
     "namn": "Div 7 Södra B"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -95,6 +107,7 @@
    "serie": {
     "namn": "Div 7 Södra A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -102,6 +115,7 @@
    "serie": {
     "namn": "Silly D"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -109,6 +123,7 @@
    "serie": {
     "namn": "Silly I"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -116,6 +131,7 @@
    "serie": {
     "namn": "Div 3 ÖSNV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -123,7 +139,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Tyresö BTK: B",
@@ -140,7 +158,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK",
    "borta": "Hammarby IF BTF",
@@ -157,7 +177,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Solna BTK",
    "borta": "Tyresö BTK",
@@ -174,7 +196,9 @@
   {
    "datum": "2026-10-18",
    "tid": "14:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Tyresö BTK: B",
    "borta": "Boo Racketklubb: B1",
@@ -191,7 +215,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Spårvägens BTK: B",
    "borta": "Tyresö BTK",
@@ -208,7 +234,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Tullinge TP BTK",
    "borta": "Tyresö BTK: B",
@@ -225,7 +253,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Tyresö BTK: B",
    "borta": "Norrtulls SK: C2",
@@ -242,7 +272,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK",
    "borta": "Stratos Enköping BTK",
@@ -259,7 +291,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK",
    "borta": "Visby IF Gute",
@@ -276,7 +310,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Katrineholms BTK",
    "borta": "Tyresö BTK",
@@ -293,7 +329,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Tyresö BTK",
    "borta": "Spårvägens BTK: D",
@@ -310,7 +348,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Tyresö BTK",
    "borta": "Västers BTK: B",
@@ -327,7 +367,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Linköpings PK",
    "borta": "Tyresö BTK",
@@ -344,7 +386,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "IFK Österåkers BTK: B1",
    "borta": "Tyresö BTK",
@@ -361,7 +405,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Ängby SK: D",
    "borta": "Tyresö BTK: B",
@@ -378,7 +424,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Hammarby IF BTF: A2",
    "borta": "Tyresö BTK",
@@ -395,7 +443,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Tyresö BTK: B",
    "borta": "Hammarby IF BTF: C2",
@@ -412,7 +462,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Spårvägens BTK: D2",
    "borta": "Tyresö BTK: B",
@@ -429,7 +481,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Tyresö BTK: B",
    "borta": "Sundbyberg/Solna BTK",
@@ -446,7 +500,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Tyresö BTK",
    "borta": "Ängby SK: B1",
@@ -463,7 +519,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Tyresö BTK",
    "borta": "Ängby SK: D2",
@@ -480,7 +538,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Hammarby IF BTF",
    "borta": "Tyresö BTK",
@@ -497,7 +557,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Tyresö BTK",
    "borta": "Solna BTK",
@@ -514,7 +576,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Tyresö BTK",
    "borta": "Spårvägens BTK: B",
@@ -531,7 +595,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Boo Racketklubb: B1",
    "borta": "Tyresö BTK: B",
@@ -548,7 +614,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Stratos Enköping BTK",
    "borta": "Tyresö BTK",
@@ -565,7 +633,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Visby IF Gute",
    "borta": "Tyresö BTK",
@@ -582,7 +652,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Tyresö BTK: B",
    "borta": "Tullinge TP BTK",
@@ -599,7 +671,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Tyresö BTK",
    "borta": "Katrineholms BTK",
@@ -616,7 +690,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Spårvägens BTK: D",
    "borta": "Tyresö BTK",
@@ -633,7 +709,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Norrtulls SK: C2",
    "borta": "Tyresö BTK: B",
@@ -650,7 +728,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Västers BTK: B",
    "borta": "Tyresö BTK",
@@ -667,7 +747,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Tyresö BTK",
    "borta": "IFK Österåkers BTK: B1",
@@ -684,7 +766,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Tyresö BTK: B",
    "borta": "Ängby SK: D",
@@ -703,7 +787,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Spårvägens BTK",
    "borta": "Tyresö BTK A",
@@ -722,7 +808,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Boolaget",
    "borta": "Tyresö BTK A",
@@ -741,7 +829,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK A",
    "borta": "Spånga TBK",
@@ -760,7 +850,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK A",
    "borta": "Bro IK A",
@@ -779,7 +871,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Spårvägen 1",
    "borta": "Tyresö BTK B",
@@ -798,7 +892,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Smashing Pumpkins",
    "borta": "Tyresö BTK F",
@@ -817,7 +913,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Tyresö BTK F",
    "borta": "The Midz",
@@ -836,7 +934,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK F",
    "borta": "IFK Täby 4",
@@ -855,7 +955,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ängby Ulfsundians",
    "borta": "Tyresö BTK F",
@@ -874,7 +976,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK F",
    "borta": "The homo sapiens",
@@ -893,7 +997,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Djurgårdens IF BTF D",
    "borta": "Tyresö BTK D",
@@ -912,7 +1018,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Tyresö BTK E",
    "borta": "Upplands Väsby BTK 4",
@@ -931,7 +1039,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Tyresö BTK D",
    "borta": "Djurgårdens IF BTF E",
@@ -950,7 +1060,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Djurgårdens IF BTF D",
    "borta": "Tyresö BTK E",
@@ -969,7 +1081,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK D",
    "borta": "Tyresö BTK E",
@@ -988,7 +1102,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK D",
    "borta": "Tyresö BTK E",
@@ -1007,7 +1123,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Upplands Väsby BTK 4",
    "borta": "Tyresö BTK D",
@@ -1026,7 +1144,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Tyresö BTK E",
    "borta": "IFK Österåkers BTK 3",
@@ -1045,7 +1165,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK D",
    "borta": "IFK Österåkers BTK 3",
@@ -1064,7 +1186,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Djurgårdens IF BTF E",
    "borta": "Tyresö BTK E",
@@ -1083,7 +1207,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Djurgårdens IF BTF A",
    "borta": "Tyresö BTK G",
@@ -1102,7 +1228,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Tyresö BTK C",
    "borta": "Ängby SK",
@@ -1121,7 +1249,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Tyresö BTK G",
    "borta": "Jarlabergs BTK",
@@ -1140,7 +1270,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Djurgårdens IF BTF A",
    "borta": "Tyresö BTK C",
@@ -1159,7 +1291,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK G",
    "borta": "Tyresö BTK C",
@@ -1178,7 +1312,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK G",
    "borta": "Tyresö BTK C",
@@ -1197,7 +1333,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ängby SK",
    "borta": "Tyresö BTK G",
@@ -1216,7 +1354,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Tyresö BTK C",
    "borta": "IFK Täby 3",
@@ -1235,7 +1375,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Tyresö BTK G",
    "borta": "IFK Täby 3",
@@ -1254,7 +1396,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Jarlabergs BTK",
    "borta": "Tyresö BTK C",
@@ -1273,7 +1417,9 @@
   {
    "datum": "",
    "tid": "",
-   "serie": "Serie C",
+   "serie_id": "464-7786-0",
+   "serie": "Pensionär Serie C",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ängby SK C1",
    "borta": "Tyresö BTK",
@@ -1292,7 +1438,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Hammarby IF BTF: C2",
    "borta": "Tyresö BTK: B",
@@ -1311,7 +1459,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Tyresö BTK: B",
    "borta": "Spårvägens BTK: D2",
@@ -1330,7 +1480,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Tyresö BTK",
    "borta": "Linköpings PK",
@@ -1349,7 +1501,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Tyresö BTK",
    "borta": "Hammarby IF BTF: A2",
@@ -1368,7 +1522,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Ängby SK: B1",
    "borta": "Tyresö BTK",
@@ -1387,7 +1543,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Ängby SK: D2",
    "borta": "Tyresö BTK",
@@ -1407,6 +1565,7 @@
  "arrangerar": [],
  "tabeller": [
   {
+   "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7",
@@ -1504,6 +1663,7 @@
    ]
   },
   {
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7",
@@ -1590,6 +1750,7 @@
    ]
   },
   {
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7",
@@ -1687,103 +1848,105 @@
    ]
   },
   {
+   "serie_id": "464-7911-0",
    "serie": "Div 5 Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
    "exakt_lank": false,
-   "startad": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Mariedals IK D1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Ingarö IF B",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Byttorps IF B2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Tyresö BTK C",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "ÖSTK",
-     "klubb": "Östra Stadsgränsen Tennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Norrtulls SK E",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Spårvägens BTK G",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Sandareds BTK B",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Tullinge TP BTK C",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Ulricehamns IF B",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 1,
+     "lag": "Djurgårdens IF BTF ",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Mariedals IK D2",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 1,
+     "lag": "Boo RK D",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Byttorps IF B1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 2,
+     "lag": "Jarlabergs BTK",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
+   "serie_id": "464-7927-0",
    "serie": "Div 6 Södra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
@@ -1881,6 +2044,7 @@
    ]
   },
   {
+   "serie_id": "464-7936-0",
    "serie": "Div 7 Mellersta B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1592/2/7/7",
@@ -1967,6 +2131,7 @@
    ]
   },
   {
+   "serie_id": "464-7937-0",
    "serie": "Div 7 Södra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1593/2/7/7",
@@ -2064,6 +2229,7 @@
    ]
   },
   {
+   "serie_id": "464-7938-0",
    "serie": "Div 7 Södra B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1594/2/7/7",
@@ -2150,7 +2316,8 @@
    ]
   },
   {
-   "serie": "Serie C",
+   "serie_id": "464-7786-0",
+   "serie": "Pensionär Serie C",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1579/2/7/7",
    "exakt_lank": false,
@@ -2247,6 +2414,7 @@
    ]
   },
   {
+   "serie_id": "464-6643-0",
    "serie": "Silly A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1295/2/7/7",
@@ -2311,6 +2479,7 @@
    ]
   },
   {
+   "serie_id": "464-6646-0",
    "serie": "Silly B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1296/2/7/7",
@@ -2386,6 +2555,7 @@
    ]
   },
   {
+   "serie_id": "464-6650-0",
    "serie": "Silly D",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1298/2/7/7",
@@ -2461,6 +2631,7 @@
    ]
   },
   {
+   "serie_id": "464-6658-0",
    "serie": "Silly I",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1303/2/7/7",
@@ -2536,6 +2707,7 @@
    ]
   },
   {
+   "serie_id": "464-6662-0",
    "serie": "Silly J",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1304/2/7/7",

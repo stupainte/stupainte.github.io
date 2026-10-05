@@ -4,13 +4,14 @@
   "namn": "Solna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-03T09:36:03Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Silly Smashers",
    "serie": {
     "namn": "Silly H"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Div 1 Ö Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,20 +27,23 @@
    "serie": {
     "namn": "Div 2 ÖSÖ Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Solna BTK A1",
    "serie": {
-    "namn": "Serie D Norra"
+    "namn": "Pensionär Serie D Norra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Solna BTK A2",
    "serie": {
-    "namn": "Serie D Södra"
+    "namn": "Pensionär Serie D Södra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Div 4 Norra"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "Div 6 Södra A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +67,7 @@
    "serie": {
     "namn": "Div 7 Norra B"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,6 +75,7 @@
    "serie": {
     "namn": "Div 7 Mellersta B"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "div 7 Mellersta A"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -81,6 +91,7 @@
    "serie": {
     "namn": "Silly G"
    },
+   "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -88,6 +99,7 @@
    "serie": {
     "namn": "Div 3 ÖSNV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -95,7 +107,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Solna BTK",
    "borta": "Spårvägens BTK: C1",
@@ -112,7 +126,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Ängby SK: C2",
    "borta": "Solna BTK",
@@ -129,7 +145,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Tyresö BTK: B",
@@ -146,7 +164,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Solna BTK",
    "borta": "Tyresö BTK",
@@ -163,7 +183,9 @@
   {
    "datum": "2026-10-18",
    "tid": "14:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Tullinge TP BTK",
@@ -180,7 +202,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Solna BTK",
    "borta": "Visby IF Gute",
@@ -197,7 +221,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Solna BTK",
    "borta": "Spårvägens BTK: C2",
@@ -214,7 +240,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Ängby SK: D",
    "borta": "Sundbyberg/Solna BTK",
@@ -231,7 +259,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Djurgårdens IF BTF: A2",
    "borta": "Solna BTK",
@@ -248,7 +278,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Spårvägens BTK: D2",
@@ -265,7 +297,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Spårvägens BTK: D",
    "borta": "Solna BTK",
@@ -282,7 +316,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Solna BTK",
    "borta": "Linköpings PK",
@@ -299,7 +335,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Norrtulls SK",
    "borta": "Solna BTK",
@@ -316,7 +354,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Hammarby IF BTF: A2",
    "borta": "Solna BTK",
@@ -333,7 +373,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Boo Racketklubb: B1",
    "borta": "Sundbyberg/Solna BTK",
@@ -350,7 +392,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Ängby SK: D2",
    "borta": "Solna BTK",
@@ -367,7 +411,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Norrtulls SK: C2",
    "borta": "Sundbyberg/Solna BTK",
@@ -384,7 +430,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Solna BTK",
    "borta": "Stratos Enköping BTK: A1",
@@ -401,7 +449,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Hammarby IF BTF: C2",
@@ -418,7 +468,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Spårvägens BTK: C1",
    "borta": "Solna BTK",
@@ -435,7 +487,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Tyresö BTK: B",
    "borta": "Sundbyberg/Solna BTK",
@@ -452,7 +506,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Solna BTK",
    "borta": "IFK Österåkers BTK: B1",
@@ -469,7 +525,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Tyresö BTK",
    "borta": "Solna BTK",
@@ -486,7 +544,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Solna BTK",
    "borta": "Ängby SK: C2",
@@ -503,7 +563,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Spårvägens BTK: C2",
    "borta": "Solna BTK",
@@ -520,7 +582,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Visby IF Gute",
    "borta": "Solna BTK",
@@ -537,7 +601,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Tullinge TP BTK",
    "borta": "Sundbyberg/Solna BTK",
@@ -554,7 +620,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Solna BTK",
    "borta": "Spårvägens BTK: D",
@@ -571,7 +639,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Ängby SK: D",
@@ -588,7 +658,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Solna BTK",
    "borta": "Djurgårdens IF BTF: A2",
@@ -605,7 +677,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Linköpings PK",
    "borta": "Solna BTK",
@@ -622,7 +696,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Spårvägens BTK: D2",
    "borta": "Sundbyberg/Solna BTK",
@@ -639,7 +715,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Solna BTK",
    "borta": "Hammarby IF BTF: A2",
@@ -656,7 +734,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Boo Racketklubb: B1",
@@ -675,7 +755,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6656-0",
    "serie": "Silly H",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Spårvägens BTK 4",
    "borta": "Silly Smashers",
@@ -694,7 +776,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6656-0",
    "serie": "Silly H",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Silly Smashers",
    "borta": "Djurgårdens IF BTF B",
@@ -713,7 +797,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6656-0",
    "serie": "Silly H",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Silly Smashers",
    "borta": "Peek-A-Boo",
@@ -732,7 +818,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6656-0",
    "serie": "Silly H",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Silly Smashers",
    "borta": "Upplands Väsby BTK 2",
@@ -751,7 +839,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Tibble Backhand Bandits",
    "borta": "Solna BTK old boys",
@@ -770,7 +860,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Solna BTK old boys",
    "borta": "GurkBoork",
@@ -789,7 +881,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ingarö IF",
    "borta": "Solna BTK old boys",
@@ -808,7 +902,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Solna BTK old boys",
    "borta": "IFK Täby 1",
@@ -827,7 +923,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Solna BTK old boys",
    "borta": "The Vetz",
@@ -846,7 +944,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Solna BTK",
    "borta": "Norrtulls SK",
@@ -865,7 +965,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Sundbyberg/Solna BTK",
    "borta": "Norrtulls SK: C2",
@@ -884,7 +986,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Stratos Enköping BTK: A1",
    "borta": "Solna BTK",
@@ -903,7 +1007,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Hammarby IF BTF: C2",
    "borta": "Sundbyberg/Solna BTK",
@@ -922,7 +1028,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Solna BTK",
    "borta": "Ängby SK: D2",
@@ -941,7 +1049,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IFK Österåkers BTK: B1",
    "borta": "Solna BTK",
@@ -972,7 +1082,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Spårvägens BTK: D",
      "borta": "Hammarby IF BTF: A2",
@@ -989,7 +1101,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Tyresö BTK",
      "borta": "Ängby SK: D2",
@@ -1006,7 +1120,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Solna BTK",
      "borta": "IFK Österåkers BTK: B1",
@@ -1023,7 +1139,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Ängby SK: D2",
      "borta": "Visby IF Gute",
@@ -1040,7 +1158,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "IFK Österåkers BTK: B1",
      "borta": "Spårvägens BTK: D",
@@ -1057,7 +1177,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-6344-0",
      "serie": "Div 2 ÖSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Tyresö BTK",
      "borta": "Solna BTK",
@@ -1076,6 +1198,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5739-0",
    "serie": "Div 1 Ö Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7",
@@ -1173,6 +1296,7 @@
    ]
   },
   {
+   "serie_id": "417-6344-0",
    "serie": "Div 2 ÖSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7",
@@ -1259,6 +1383,7 @@
    ]
   },
   {
+   "serie_id": "417-5768-0",
    "serie": "Div 3 ÖSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7",
@@ -1356,27 +1481,28 @@
    ]
   },
   {
+   "serie_id": "464-7779-0",
    "serie": "Div 4 Norra",
-   "evenemang": "Norrlands BTF",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1532/2/7/7",
    "exakt_lank": false,
-   "startad": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Umeå BTK C",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Spårvägens BTK F1",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Luleå PF A",
-     "klubb": "Luleå Pingisförening",
+     "lag": "Tullinge TP BTK B2",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1386,8 +1512,8 @@
     },
     {
      "placering": 3,
-     "lag": "Luleå PF B",
-     "klubb": "Luleå Pingisförening",
+     "lag": "Järfälla BTK B",
+     "klubb": "Järfälla Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1397,8 +1523,8 @@
     },
     {
      "placering": 4,
-     "lag": "Skellefteå AIK BTF C",
-     "klubb": "Skellefteå AIK BTF",
+     "lag": "Ängby SK D1",
+     "klubb": "Ängby Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1408,8 +1534,8 @@
     },
     {
      "placering": 5,
-     "lag": "Skellefteå AIK BTF D",
-     "klubb": "Skellefteå AIK BTF",
+     "lag": "IFK Österåkers BTK C",
+     "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1419,8 +1545,8 @@
     },
     {
      "placering": 6,
-     "lag": "Pitepingis BTF",
-     "klubb": "PitePingis Bordtennisförening",
+     "lag": "Solna BTK B",
+     "klubb": "Solna Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1430,8 +1556,8 @@
     },
     {
      "placering": 7,
-     "lag": "Umeå BTK E",
-     "klubb": "Umeå Bordtennisklubb",
+     "lag": "Upplands Väsby BTK",
+     "klubb": "Upplands Väsby Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1441,18 +1567,19 @@
     },
     {
      "placering": 8,
-     "lag": "Umeå BTK D",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 1,
+     "lag": "IFK Lidingö BTK B2",
+     "klubb": "IFK Lidingö Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
+   "serie_id": "464-7927-0",
    "serie": "Div 6 Södra A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
@@ -1550,6 +1677,7 @@
    ]
   },
   {
+   "serie_id": "464-7936-0",
    "serie": "Div 7 Mellersta B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1592/2/7/7",
@@ -1636,6 +1764,7 @@
    ]
   },
   {
+   "serie_id": "464-7934-0",
    "serie": "Div 7 Norra B",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1590/2/7/7",
@@ -1733,7 +1862,8 @@
    ]
   },
   {
-   "serie": "Serie D Norra",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "exakt_lank": false,
@@ -1830,7 +1960,8 @@
    ]
   },
   {
-   "serie": "Serie D Södra",
+   "serie_id": "464-7789-0",
+   "serie": "Pensionär Serie D Södra",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1581/2/7/7",
    "exakt_lank": false,
@@ -1927,6 +2058,7 @@
    ]
   },
   {
+   "serie_id": "464-6655-0",
    "serie": "Silly G",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1301/2/7/7",
@@ -2002,6 +2134,7 @@
    ]
   },
   {
+   "serie_id": "464-6656-0",
    "serie": "Silly H",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1302/2/7/7",
@@ -2077,6 +2210,7 @@
    ]
   },
   {
+   "serie_id": "464-7935-0",
    "serie": "div 7 Mellersta A",
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",

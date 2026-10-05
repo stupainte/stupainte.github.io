@@ -4,27 +4,30 @@
   "namn": "Bordtennisklubben Warta"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "BTK Warta",
    "serie": {
     "namn": "Div 2 VSS"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "BTK Warta B",
    "serie": {
-    "namn": "Division 4"
+    "namn": "Division 4 (1)"
    },
+   "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "BTK Warta C",
    "serie": {
-    "namn": "Division 4"
+    "namn": "Division 4 (1)"
    },
+   "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,48 +43,55 @@
    "serie": {
     "namn": "Division 9"
    },
+   "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta B",
    "serie": {
-    "namn": "Division 4"
+    "namn": "Division 4 (2)"
    },
+   "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta Wallabies",
    "serie": {
-    "namn": "Äldre 10"
+    "namn": "Höst Ungd Äldre 10"
    },
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta Wasps",
    "serie": {
-    "namn": "Äldre 11"
+    "namn": "Höst Ungd Äldre 11"
    },
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta Weasels",
    "serie": {
-    "namn": "Äldre 9"
+    "namn": "Höst Ungd Äldre 9"
    },
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta Wolverines",
    "serie": {
-    "namn": "Äldre 5"
+    "namn": "Höst Ungd Äldre 5"
    },
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Warta Wolves",
    "serie": {
-    "namn": "Äldre 1"
+    "namn": "Höst Ungd Äldre 1"
    },
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -88,7 +99,9 @@
   {
    "datum": "2026-10-11",
    "tid": "09:00",
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 1",
    "hemma": "Mölndal Snakes",
    "borta": "Warta Wallabies",
@@ -103,7 +116,9 @@
   {
    "datum": "2026-10-11",
    "tid": "09:00",
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 1",
    "hemma": "Warta Wasps",
    "borta": "Rudalen Vinröd Äldre",
@@ -118,7 +133,9 @@
   {
    "datum": "2026-10-11",
    "tid": "10:45",
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 2",
    "hemma": "Warta Wallabies",
    "borta": "Kungälv Storm",
@@ -133,7 +150,9 @@
   {
    "datum": "2026-10-11",
    "tid": "10:45",
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 2",
    "hemma": "Kungälv Phoenix",
    "borta": "Warta Wasps",
@@ -148,7 +167,9 @@
   {
    "datum": "2026-10-11",
    "tid": "12:30",
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 1",
    "hemma": "Torslanda WF",
    "borta": "Warta Weasels",
@@ -163,7 +184,9 @@
   {
    "datum": "2026-10-11",
    "tid": "14:15",
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 2",
    "hemma": "Warta Weasels",
    "borta": "Rudalen Orange Äldre",
@@ -178,7 +201,9 @@
   {
    "datum": "2026-10-11",
    "tid": "16:00",
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 1",
    "hemma": "Mölndal The Leons",
    "borta": "Warta Wolverines",
@@ -193,7 +218,9 @@
   {
    "datum": "2026-10-11",
    "tid": "17:45",
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 2",
    "hemma": "Warta Wolverines",
    "borta": "BTK Linné Röd",
@@ -208,7 +235,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Alingsås PK",
    "borta": "BTK Warta",
@@ -225,7 +254,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Borgstena IF",
    "borta": "BTK Warta",
@@ -242,7 +273,9 @@
   {
    "datum": "2026-10-18",
    "tid": "09:00",
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 3",
    "hemma": "Kungälv Cobras",
    "borta": "Warta Wallabies",
@@ -257,7 +290,9 @@
   {
    "datum": "2026-10-18",
    "tid": "09:00",
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 3",
    "hemma": "Warta Wasps",
    "borta": "BTK Linné Lila",
@@ -272,7 +307,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "BTK Warta B",
    "borta": "BTK Warta C",
@@ -290,7 +327,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "BTK Warta B",
    "borta": "BTK Warta C",
@@ -308,7 +347,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "Kungälvs BTK F",
    "borta": "BTK Warta E",
@@ -325,7 +366,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:45",
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 4",
    "hemma": "Lindome Rockets",
    "borta": "Warta Wallabies",
@@ -340,7 +383,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:45",
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 4",
    "hemma": "Pingpongpolarna Mölndal",
    "borta": "Warta Wasps",
@@ -355,7 +400,9 @@
   {
    "datum": "2026-10-18",
    "tid": "12:30",
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 3",
    "hemma": "Lekstorp Titans",
    "borta": "Warta Weasels",
@@ -370,7 +417,9 @@
   {
    "datum": "2026-10-18",
    "tid": "12:30",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "Rudalens IF A",
    "borta": "BTK Warta D",
@@ -388,7 +437,9 @@
   {
    "datum": "2026-10-18",
    "tid": "14:15",
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 4",
    "hemma": "Lindome Galaxy",
    "borta": "Warta Weasels",
@@ -403,7 +454,9 @@
   {
    "datum": "2026-10-18",
    "tid": "16:00",
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 1",
    "hemma": "Warta Wolves",
    "borta": "Lindome Tigers",
@@ -418,7 +471,9 @@
   {
    "datum": "2026-10-18",
    "tid": "17:45",
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 2",
    "hemma": "Warta Wolves",
    "borta": "Lekstorp Smash Brothers",
@@ -433,7 +488,9 @@
   {
    "datum": "2026-11-09",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 2",
    "hemma": "BTK Warta D",
    "borta": "Lindome BTK B",
@@ -451,7 +508,9 @@
   {
    "datum": "2026-11-11",
    "tid": "19:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 2",
    "hemma": "IF IFO B1",
    "borta": "BTK Warta B",
@@ -469,7 +528,9 @@
   {
    "datum": "2026-11-12",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 2",
    "hemma": "Torslanda BTK B",
    "borta": "BTK Warta E",
@@ -486,7 +547,9 @@
   {
    "datum": "2026-11-15",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 2",
    "hemma": "BTK Warta C",
    "borta": "BTK Linné E",
@@ -504,7 +567,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Kungälvs BTK: A1",
    "borta": "BTK Warta",
@@ -521,7 +586,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lekstorps IF: B",
    "borta": "BTK Warta",
@@ -538,7 +605,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "IF IFO B1",
    "borta": "BTK Warta C",
@@ -556,7 +625,9 @@
   {
    "datum": "2026-11-22",
    "tid": "09:00",
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 3",
    "hemma": "Torslanda Brothers",
    "borta": "Warta Wolves",
@@ -571,7 +642,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "BTK Warta B",
    "borta": "TopSpeed BTK B",
@@ -589,7 +662,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:45",
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 4",
    "hemma": "Warta Wolves",
    "borta": "Torslanda IK Grön Äldre",
@@ -604,7 +679,9 @@
   {
    "datum": "2026-11-22",
    "tid": "12:30",
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 3",
    "hemma": "Rudalen Blå Äldre",
    "borta": "Warta Wolverines",
@@ -619,7 +696,9 @@
   {
    "datum": "2026-11-22",
    "tid": "14:15",
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 4",
    "hemma": "Warta Wolverines",
    "borta": "Rudalen Svart Äldre",
@@ -634,7 +713,9 @@
   {
    "datum": "2026-11-22",
    "tid": "16:00",
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 5",
    "hemma": "Warta Wallabies",
    "borta": "Lindome Titans",
@@ -649,7 +730,9 @@
   {
    "datum": "2026-11-22",
    "tid": "16:00",
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 5",
    "hemma": "Warta Wasps",
    "borta": "Torslanda BTK Hundar",
@@ -664,7 +747,9 @@
   {
    "datum": "2026-11-22",
    "tid": "17:30",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "Torslanda IK B",
    "borta": "BTK Warta D",
@@ -682,7 +767,9 @@
   {
    "datum": "2026-11-22",
    "tid": "18:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "Lekstorp IF H",
    "borta": "BTK Warta E",
@@ -699,7 +786,9 @@
   {
    "datum": "2026-11-23",
    "tid": "19:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "IF IFO B2",
    "borta": "BTK Warta B",
@@ -717,7 +806,9 @@
   {
    "datum": "2026-11-23",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "BTK Warta E",
    "borta": "Askims BTK F",
@@ -734,7 +825,9 @@
   {
    "datum": "2026-11-25",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "IF IFO D",
    "borta": "BTK Warta D",
@@ -752,7 +845,9 @@
   {
    "datum": "2026-11-29",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "BTK Warta C",
    "borta": "Kungälvs BTK D",
@@ -770,7 +865,9 @@
   {
    "datum": "2026-12-06",
    "tid": "09:00",
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 5",
    "hemma": "Warta Weasels",
    "borta": "Lindome Stars",
@@ -785,7 +882,9 @@
   {
    "datum": "2026-12-06",
    "tid": "11:00",
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 5",
    "hemma": "BTK Linné Grön",
    "borta": "Warta Wolverines",
@@ -800,7 +899,9 @@
   {
    "datum": "2026-12-06",
    "tid": "13:00",
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
    "omgang": "Round 5",
    "hemma": "Mölndal Wombats",
    "borta": "Warta Wolves",
@@ -815,7 +916,9 @@
   {
    "datum": "2026-12-07",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "BTK Warta D",
    "borta": "Backa BTK B",
@@ -833,7 +936,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "TopSpeed BTK B",
    "borta": "BTK Warta C",
@@ -851,7 +956,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "BTK Warta B",
    "borta": "BTK Linné D",
@@ -869,7 +976,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Håcksviks IF",
    "borta": "BTK Warta",
@@ -886,7 +995,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "BTK Linné: B",
    "borta": "BTK Warta",
@@ -903,7 +1014,9 @@
   {
    "datum": "2026-12-13",
    "tid": "17:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "BTK Linné K",
    "borta": "BTK Warta E",
@@ -920,7 +1033,9 @@
   {
    "datum": "2026-12-14",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 6",
    "hemma": "Lekstorps IF E",
    "borta": "BTK Warta D",
@@ -938,7 +1053,9 @@
   {
    "datum": "2026-12-19",
    "tid": "15:30",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 6",
    "hemma": "Torslanda IK D",
    "borta": "BTK Warta E",
@@ -955,7 +1072,9 @@
   {
    "datum": "2026-12-20",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 6",
    "hemma": "BTK Warta B",
    "borta": "Kungälvs BTK D",
@@ -973,7 +1092,9 @@
   {
    "datum": "2026-12-20",
    "tid": "15:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 6",
    "hemma": "BTK Linné D",
    "borta": "BTK Warta C",
@@ -991,7 +1112,9 @@
   {
    "datum": "2027-01-11",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 7",
    "hemma": "BTK Warta D",
    "borta": "IF IFO C",
@@ -1009,7 +1132,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 7",
    "hemma": "BTK Warta C",
    "borta": "IF IFO B2",
@@ -1027,7 +1152,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "BTK Warta",
    "borta": "Kungsbacka BTK",
@@ -1044,7 +1171,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "BTK Warta",
    "borta": "Alingsås PK",
@@ -1061,7 +1190,9 @@
   {
    "datum": "2027-01-17",
    "tid": "17:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 7",
    "hemma": "BTK Linné E",
    "borta": "BTK Warta B",
@@ -1079,7 +1210,9 @@
   {
    "datum": "2027-01-18",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 7",
    "hemma": "BTK Warta E",
    "borta": "Lekstorps IF G",
@@ -1096,7 +1229,9 @@
   {
    "datum": "2027-01-25",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "BTK Warta E",
    "borta": "Kungälvs BTK F",
@@ -1113,7 +1248,9 @@
   {
    "datum": "2027-01-25",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "BTK Warta D",
    "borta": "Rudalens IF A",
@@ -1131,7 +1268,9 @@
   {
    "datum": "2027-01-31",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "BTK Warta C",
    "borta": "BTK Warta B",
@@ -1149,7 +1288,9 @@
   {
    "datum": "2027-01-31",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "BTK Warta C",
    "borta": "BTK Warta B",
@@ -1167,7 +1308,9 @@
   {
    "datum": "2027-02-01",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "BTK Warta E",
    "borta": "Torslanda BTK B",
@@ -1184,7 +1327,9 @@
   {
    "datum": "2027-02-06",
    "tid": "12:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "Lindome BTK B",
    "borta": "BTK Warta D",
@@ -1202,7 +1347,9 @@
   {
    "datum": "2027-02-07",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "BTK Warta B",
    "borta": "IF IFO B1",
@@ -1220,7 +1367,9 @@
   {
    "datum": "2027-02-07",
    "tid": "17:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "BTK Linné E",
    "borta": "BTK Warta C",
@@ -1238,7 +1387,9 @@
   {
    "datum": "2027-02-08",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "BTK Warta E",
    "borta": "Lekstorp IF H",
@@ -1255,7 +1406,9 @@
   {
    "datum": "2027-02-08",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "BTK Warta D",
    "borta": "Torslanda IK B",
@@ -1273,7 +1426,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "TopSpeed BTK B",
    "borta": "BTK Warta B",
@@ -1291,7 +1446,9 @@
   {
    "datum": "2027-02-14",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "BTK Warta C",
    "borta": "IF IFO B1",
@@ -1309,7 +1466,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Warta",
    "borta": "Borgstena IF",
@@ -1326,7 +1485,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Warta",
    "borta": "Kungälvs BTK: A1",
@@ -1343,7 +1504,9 @@
   {
    "datum": "2027-02-22",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 11",
    "hemma": "BTK Warta D",
    "borta": "IF IFO D",
@@ -1361,7 +1524,9 @@
   {
    "datum": "2027-02-28",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 11",
    "hemma": "BTK Warta B",
    "borta": "IF IFO B2",
@@ -1379,7 +1544,9 @@
   {
    "datum": "2027-02-28",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 11",
    "hemma": "Kungälvs BTK D",
    "borta": "BTK Warta C",
@@ -1397,7 +1564,9 @@
   {
    "datum": "2027-02-28",
    "tid": "17:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 11",
    "hemma": "Askims BTK F",
    "borta": "BTK Warta E",
@@ -1414,7 +1583,9 @@
   {
    "datum": "2027-03-08",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "BTK Warta E",
    "borta": "BTK Linné K",
@@ -1431,7 +1602,9 @@
   {
    "datum": "2027-03-14",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "BTK Warta C",
    "borta": "TopSpeed BTK B",
@@ -1449,7 +1622,9 @@
   {
    "datum": "2027-03-14",
    "tid": "10:30",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "Backa BTK B",
    "borta": "BTK Warta D",
@@ -1467,7 +1642,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "BTK Warta",
    "borta": "Lekstorps IF: B",
@@ -1484,7 +1661,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "BTK Warta",
    "borta": "Håcksviks IF",
@@ -1501,7 +1680,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "BTK Linné D",
    "borta": "BTK Warta B",
@@ -1519,7 +1700,9 @@
   {
    "datum": "2027-03-29",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "BTK Warta D",
    "borta": "Lekstorps IF E",
@@ -1537,7 +1720,9 @@
   {
    "datum": "2027-04-05",
    "tid": "19:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "BTK Warta E",
    "borta": "Torslanda IK D",
@@ -1554,7 +1739,9 @@
   {
    "datum": "2027-04-11",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "Kungälvs BTK D",
    "borta": "BTK Warta B",
@@ -1572,7 +1759,9 @@
   {
    "datum": "2027-04-11",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "BTK Warta C",
    "borta": "BTK Linné D",
@@ -1590,7 +1779,9 @@
   {
    "datum": "2027-04-12",
    "tid": "19:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "IF IFO B2",
    "borta": "BTK Warta C",
@@ -1608,7 +1799,9 @@
   {
    "datum": "2027-04-15",
    "tid": "19:00",
+   "serie_id": "371-7238-0",
    "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "IF IFO C",
    "borta": "BTK Warta D",
@@ -1626,7 +1819,9 @@
   {
    "datum": "2027-04-18",
    "tid": "10:00",
-   "serie": "Division 4",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "BTK Warta B",
    "borta": "BTK Linné E",
@@ -1644,7 +1839,9 @@
   {
    "datum": "2027-04-18",
    "tid": "18:00",
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "Lekstorps IF G",
    "borta": "BTK Warta E",
@@ -1663,7 +1860,9 @@
   {
    "datum": "2026-09-20",
    "tid": "10:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "BTK Warta",
    "borta": "BTK Linné: B",
@@ -1682,7 +1881,9 @@
   {
    "datum": "2026-09-20",
    "tid": "14:00",
+   "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Kungsbacka BTK",
    "borta": "BTK Warta",
@@ -1706,14 +1907,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-18",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 1",
      "hemma": "BTK Warta B",
      "borta": "BTK Warta C",
@@ -1743,7 +1946,9 @@
     {
      "datum": "2026-11-09",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 2",
      "hemma": "BTK Warta D",
      "borta": "Lindome BTK B",
@@ -1766,14 +1971,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-15",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 2",
      "hemma": "BTK Warta C",
      "borta": "BTK Linné E",
@@ -1796,14 +2003,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-22",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 3",
      "hemma": "BTK Warta B",
      "borta": "TopSpeed BTK B",
@@ -1826,14 +2035,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-29",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 4",
      "hemma": "BTK Warta C",
      "borta": "Kungälvs BTK D",
@@ -1863,7 +2074,9 @@
     {
      "datum": "2026-12-07",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 5",
      "hemma": "BTK Warta D",
      "borta": "Backa BTK B",
@@ -1888,14 +2101,16 @@
    ],
    "serier": [
     "Div 2 VSS",
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 9,
    "matcher": [
     {
      "datum": "2026-12-13",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 5",
      "hemma": "BTK Warta B",
      "borta": "BTK Linné D",
@@ -1913,7 +2128,9 @@
     {
      "datum": "2026-12-13",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Borgstena IF",
      "borta": "Kungälvs BTK: A1",
@@ -1930,7 +2147,9 @@
     {
      "datum": "2026-12-13",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Alingsås PK",
      "borta": "Lekstorps IF: B",
@@ -1947,7 +2166,9 @@
     {
      "datum": "2026-12-13",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "BTK Linné: B",
      "borta": "Kungsbacka BTK",
@@ -1964,7 +2185,9 @@
     {
      "datum": "2026-12-13",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Håcksviks IF",
      "borta": "BTK Warta",
@@ -1981,7 +2204,9 @@
     {
      "datum": "2026-12-13",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Alingsås PK",
      "borta": "Borgstena IF",
@@ -1998,7 +2223,9 @@
     {
      "datum": "2026-12-13",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Kungälvs BTK: A1",
      "borta": "Lekstorps IF: B",
@@ -2015,7 +2242,9 @@
     {
      "datum": "2026-12-13",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Håcksviks IF",
      "borta": "Kungsbacka BTK",
@@ -2032,7 +2261,9 @@
     {
      "datum": "2026-12-13",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "BTK Linné: B",
      "borta": "BTK Warta",
@@ -2054,14 +2285,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-12-20",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 6",
      "hemma": "BTK Warta B",
      "borta": "Kungälvs BTK D",
@@ -2091,7 +2324,9 @@
     {
      "datum": "2027-01-11",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 7",
      "hemma": "BTK Warta D",
      "borta": "IF IFO C",
@@ -2114,14 +2349,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-17",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 7",
      "hemma": "BTK Warta C",
      "borta": "IF IFO B2",
@@ -2151,7 +2388,9 @@
     {
      "datum": "2027-01-25",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 8",
      "hemma": "BTK Warta D",
      "borta": "Rudalens IF A",
@@ -2174,14 +2413,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-31",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 8",
      "hemma": "BTK Warta C",
      "borta": "BTK Warta B",
@@ -2204,14 +2445,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-07",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 9",
      "hemma": "BTK Warta B",
      "borta": "IF IFO B1",
@@ -2241,7 +2484,9 @@
     {
      "datum": "2027-02-08",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 10",
      "hemma": "BTK Warta D",
      "borta": "Torslanda IK B",
@@ -2264,14 +2509,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-14",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 10",
      "hemma": "BTK Warta C",
      "borta": "IF IFO B1",
@@ -2301,7 +2548,9 @@
     {
      "datum": "2027-02-22",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 11",
      "hemma": "BTK Warta D",
      "borta": "IF IFO D",
@@ -2324,14 +2573,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-28",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 11",
      "hemma": "BTK Warta B",
      "borta": "IF IFO B2",
@@ -2356,14 +2607,16 @@
    ],
    "serier": [
     "Div 2 VSS",
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 9,
    "matcher": [
     {
      "datum": "2027-03-14",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 12",
      "hemma": "BTK Warta C",
      "borta": "TopSpeed BTK B",
@@ -2381,7 +2634,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Kungsbacka BTK",
      "borta": "Borgstena IF",
@@ -2398,7 +2653,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "BTK Linné: B",
      "borta": "Kungälvs BTK: A1",
@@ -2415,7 +2672,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Håcksviks IF",
      "borta": "Alingsås PK",
@@ -2432,7 +2691,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "BTK Warta",
      "borta": "Lekstorps IF: B",
@@ -2449,7 +2710,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Kungälvs BTK: A1",
      "borta": "Borgstena IF",
@@ -2466,7 +2729,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Lekstorps IF: B",
      "borta": "Alingsås PK",
@@ -2483,7 +2748,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Kungsbacka BTK",
      "borta": "BTK Linné: B",
@@ -2500,7 +2767,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5758-0",
      "serie": "Div 2 VSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "BTK Warta",
      "borta": "Håcksviks IF",
@@ -2529,7 +2798,9 @@
     {
      "datum": "2027-03-29",
      "tid": "19:00",
+     "serie_id": "371-7238-0",
      "serie": "Division 6",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 13",
      "hemma": "BTK Warta D",
      "borta": "Lekstorps IF E",
@@ -2552,14 +2823,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-04-11",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 13",
      "hemma": "BTK Warta C",
      "borta": "BTK Linné D",
@@ -2582,14 +2855,16 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4"
+    "Division 4 (1)"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-04-18",
      "tid": "10:00",
-     "serie": "Division 4",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (1)",
+     "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 14",
      "hemma": "BTK Warta B",
      "borta": "BTK Linné E",
@@ -2609,135 +2884,39 @@
  ],
  "tabeller": [
   {
-   "serie": "Div 2 VSS",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Kungsbacka BTK",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Borgstena IF",
-     "klubb": "Borgstena IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Warta",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kungälvs BTK: A1",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Lekstorps IF: B",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Håcksviks IF",
-     "klubb": "Håcksviks Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Alingsås PK",
-     "klubb": "Alingsås Pingis Klubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "BTK Linné: B",
+     "lag": "BTK Linné D",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 2,
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IF IFO B1",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
+     "lag": "Kungälvs BTK D",
+     "klubb": "Kungälvs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2747,30 +2926,30 @@
     },
     {
      "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "BTK Warta C",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
+     "lag": "BTK Warta B",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
+     "lag": "TopSpeed BTK B",
+     "klubb": "TopSpeed Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2780,115 +2959,182 @@
     },
     {
      "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 1,
+     "lag": "IF IFO B2",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
      "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IF Norcopensarna: E2",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
+     "lag": "BTK Linné E",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
+   "serie_id": "371-6453-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1266/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Warta B",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Mölndal B",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Rudalen C",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lindome D",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "371-7238-0",
+   "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Warta D",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IF IFO C",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lindome BTK B",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF IFO D",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Rudalens IF A",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Torslanda IK B",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Backa BTK B",
+     "klubb": "Backa Bordtennis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Lekstorps IF E",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "371-7375-0",
    "serie": "Division 9",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
@@ -2986,7 +3232,8 @@
    ]
   },
   {
-   "serie": "Äldre 1",
+   "serie_id": "493-7505-0",
+   "serie": "Höst Ungd Äldre 1",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1495/2/7/7",
    "exakt_lank": false,
@@ -3061,7 +3308,8 @@
    ]
   },
   {
-   "serie": "Äldre 10",
+   "serie_id": "493-7494-0",
+   "serie": "Höst Ungd Äldre 10",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1504/2/7/7",
    "exakt_lank": false,
@@ -3136,7 +3384,8 @@
    ]
   },
   {
-   "serie": "Äldre 11",
+   "serie_id": "493-7495-0",
+   "serie": "Höst Ungd Äldre 11",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1505/2/7/7",
    "exakt_lank": false,
@@ -3211,7 +3460,8 @@
    ]
   },
   {
-   "serie": "Äldre 5",
+   "serie_id": "493-7489-0",
+   "serie": "Höst Ungd Äldre 5",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1499/2/7/7",
    "exakt_lank": false,
@@ -3286,7 +3536,8 @@
    ]
   },
   {
-   "serie": "Äldre 9",
+   "serie_id": "493-7493-0",
+   "serie": "Höst Ungd Äldre 9",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
    "exakt_lank": false,
@@ -3356,6 +3607,104 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5758-0",
+   "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kungsbacka BTK",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Borgstena IF",
+     "klubb": "Borgstena IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Warta",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kungälvs BTK: A1",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Lekstorps IF: B",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Håcksviks IF",
+     "klubb": "Håcksviks Idrottsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Alingsås PK",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "BTK Linné: B",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

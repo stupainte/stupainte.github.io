@@ -4,13 +4,14 @@
   "namn": "Sunne Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-27T09:45:23Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Sunne",
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -19,7 +20,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 1",
    "hemma": "Sunne",
    "borta": "Hööken",
@@ -38,7 +41,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 2",
    "hemma": "Hööken Rocky",
    "borta": "Sunne",
@@ -58,16 +63,17 @@
  "arrangerar": [],
  "tabeller": [
   {
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
    "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
+     "lag": "Hööken",
+     "klubb": "Höökens Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -77,19 +83,30 @@
     },
     {
      "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
+     "lag": "Kristinehamn 3",
+     "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 2,
-     "vunna": 1,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
+     "lag": "Molkom",
+     "klubb": "Molkoms Racketklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Storfors",
+     "klubb": "Storfors Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -98,42 +115,64 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
+     "lag": "Carlstad 1",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Arvika 1",
+     "klubb": "Arvika Bordtennisklubb",
      "spelade": 2,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
+     "lag": "Arvika 2",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Sunne",
+     "klubb": "Sunne Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Hööken Rocky",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -142,9 +181,42 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "IF Norcopensarna: E2",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "placering": 11,
+     "lag": "Carlstad 2",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 12,
+     "lag": "Kristinehamn 1",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 13,
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 14,
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,

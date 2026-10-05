@@ -4,20 +4,22 @@
   "namn": "Skagersviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-03T09:36:03Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Skagersviks BTK",
    "serie": {
-    "namn": "Div 2 VSN"
+    "namn": "Div 4 Nordöstra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Skagersviks BTK",
    "serie": {
-    "namn": "Nordöstra"
+    "namn": "Div 2 VSN"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Div 5 Nordöstra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -32,7 +35,9 @@
   {
    "datum": "2026-10-07",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Skagersviks BTK",
    "borta": "Hova BTK",
@@ -49,7 +54,9 @@
   {
    "datum": "2026-10-07",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Skagersviks BTK C",
    "borta": "Skövde PK C",
@@ -66,7 +73,9 @@
   {
    "datum": "2026-10-13",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Karlsborgs BTK B1",
    "borta": "Skagersviks BTK C",
@@ -83,7 +92,9 @@
   {
    "datum": "2026-10-15",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vedums AIS B",
    "borta": "Skagersviks BTK",
@@ -100,7 +111,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Vedums AIS",
    "borta": "Skagersviks BTK",
@@ -117,7 +130,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Kungälvs BTK: A2",
    "borta": "Skagersviks BTK",
@@ -134,7 +149,9 @@
   {
    "datum": "2026-11-04",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Skagersviks BTK",
    "borta": "Lidan BTK",
@@ -151,7 +168,9 @@
   {
    "datum": "2026-11-04",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Skagersviks BTK C",
    "borta": "Götene Tor BTK C",
@@ -168,7 +187,9 @@
   {
    "datum": "2026-11-09",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "IFK Lidköping B1",
    "borta": "Skagersviks BTK C",
@@ -185,7 +206,9 @@
   {
    "datum": "2026-11-10",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "IFK Falköping BTK B",
    "borta": "Skagersviks BTK",
@@ -202,7 +225,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Carlstads BTK",
    "borta": "Skagersviks BTK",
@@ -219,7 +244,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Kils BTK",
    "borta": "Skagersviks BTK",
@@ -236,7 +263,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Skagersviks BTK",
    "borta": "Blikstorps AIK B",
@@ -253,7 +282,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Skagersviks BTK C",
    "borta": "Karlsborgs BTK B2",
@@ -270,7 +301,9 @@
   {
    "datum": "2026-11-24",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Mariestads BTK B",
    "borta": "Skagersviks BTK C",
@@ -287,7 +320,9 @@
   {
    "datum": "2026-11-25",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Töreboda BTK",
    "borta": "Skagersviks BTK",
@@ -304,7 +339,9 @@
   {
    "datum": "2026-12-03",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Istrums SK",
    "borta": "Skagersviks BTK C",
@@ -321,7 +358,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Skövde PK",
    "borta": "Skagersviks BTK",
@@ -338,7 +377,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Munkedals BTK: B",
    "borta": "Skagersviks BTK",
@@ -355,7 +396,9 @@
   {
    "datum": "2027-01-07",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Hova BTK",
    "borta": "Skagersviks BTK",
@@ -372,7 +415,9 @@
   {
    "datum": "2027-01-08",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Skövde PK C",
    "borta": "Skagersviks BTK C",
@@ -389,7 +434,9 @@
   {
    "datum": "2027-01-13",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Skagersviks BTK",
    "borta": "Vedums AIS B",
@@ -406,7 +453,9 @@
   {
    "datum": "2027-01-13",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Skagersviks BTK C",
    "borta": "Karlsborgs BTK B1",
@@ -423,7 +472,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "IFK Falköping BTK",
    "borta": "Skagersviks BTK",
@@ -440,7 +491,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Skagersviks BTK",
    "borta": "Vedums AIS",
@@ -457,7 +510,9 @@
   {
    "datum": "2027-01-26",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Götene Tor BTK C",
    "borta": "Skagersviks BTK C",
@@ -474,7 +529,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Lidan BTK",
    "borta": "Skagersviks BTK",
@@ -491,7 +548,9 @@
   {
    "datum": "2027-02-03",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Skagersviks BTK",
    "borta": "IFK Falköping BTK B",
@@ -508,7 +567,9 @@
   {
    "datum": "2027-02-03",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Skagersviks BTK C",
    "borta": "IFK Lidköping B1",
@@ -525,7 +586,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Skagersviks BTK",
    "borta": "Kils BTK",
@@ -542,7 +605,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Skagersviks BTK",
    "borta": "Carlstads BTK",
@@ -559,7 +624,9 @@
   {
    "datum": "2027-02-23",
    "tid": "18:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Karlsborgs BTK B2",
    "borta": "Skagersviks BTK C",
@@ -576,7 +643,9 @@
   {
    "datum": "2027-02-25",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Blikstorps AIK B",
    "borta": "Skagersviks BTK",
@@ -593,7 +662,9 @@
   {
    "datum": "2027-03-03",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Skagersviks BTK",
    "borta": "Töreboda BTK",
@@ -610,7 +681,9 @@
   {
    "datum": "2027-03-03",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Skagersviks BTK C",
    "borta": "Mariestads BTK B",
@@ -627,7 +700,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Skagersviks BTK",
    "borta": "Kungälvs BTK: A2",
@@ -644,7 +719,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Skagersviks BTK",
    "borta": "Skövde PK",
@@ -663,7 +740,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Skagersviks BTK",
    "borta": "Munkedals BTK: B",
@@ -682,7 +761,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Skagersviks BTK",
    "borta": "IFK Falköping BTK",
@@ -701,7 +782,9 @@
   {
    "datum": "2026-09-30",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Skagersviks BTK",
    "borta": "Götene Tor BTK",
@@ -720,7 +803,9 @@
   {
    "datum": "2026-09-30",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Skagersviks BTK C",
    "borta": "Istrums SK",
@@ -739,7 +824,9 @@
   {
    "datum": "2026-12-03",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Götene Tor BTK",
    "borta": "Skagersviks BTK",
@@ -763,32 +850,17 @@
     "-"
    ],
    "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2026-10-07",
      "tid": "19:00",
-     "serie": "Div 5 Nordöstra",
-     "omgang": "Round 2",
-     "hemma": "Skagersviks BTK C",
-     "borta": "Skövde PK C",
-     "hemma_klubb": "Skagersviks Bordtennisklubb",
-     "borta_klubb": "Skövde Pingisklubb",
-     "plats": "-",
-     "arrangor": "Skagersviks Bordtennisklubb",
-     "arrangorer": [
-      "Skagersviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2026-10-07",
-     "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Skagersviks BTK",
      "borta": "Hova BTK",
@@ -801,6 +873,25 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
      "exakt_lank": false
+    },
+    {
+     "datum": "2026-10-07",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 2",
+     "hemma": "Skagersviks BTK C",
+     "borta": "Skövde PK C",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "-",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -810,32 +901,17 @@
     "-"
    ],
    "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2026-11-04",
      "tid": "19:00",
-     "serie": "Div 5 Nordöstra",
-     "omgang": "Round 4",
-     "hemma": "Skagersviks BTK C",
-     "borta": "Götene Tor BTK C",
-     "hemma_klubb": "Skagersviks Bordtennisklubb",
-     "borta_klubb": "Götene/Tor Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Skagersviks Bordtennisklubb",
-     "arrangorer": [
-      "Skagersviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2026-11-04",
-     "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Skagersviks BTK",
      "borta": "Lidan BTK",
@@ -847,6 +923,25 @@
       "Skagersviks Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-11-04",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Skagersviks BTK C",
+     "borta": "Götene Tor BTK C",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Götene/Tor Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -864,7 +959,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Kils BTK",
      "borta": "Munkedals BTK: B",
@@ -881,7 +978,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Carlstads BTK",
      "borta": "Skagersviks BTK",
@@ -898,7 +997,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Kils BTK",
      "borta": "Skagersviks BTK",
@@ -915,7 +1016,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Carlstads BTK",
      "borta": "Munkedals BTK: B",
@@ -937,32 +1040,17 @@
     "-"
    ],
    "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2026-11-18",
      "tid": "19:00",
-     "serie": "Div 5 Nordöstra",
-     "omgang": "Round 6",
-     "hemma": "Skagersviks BTK C",
-     "borta": "Karlsborgs BTK B2",
-     "hemma_klubb": "Skagersviks Bordtennisklubb",
-     "borta_klubb": "Karlsborgs Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Skagersviks Bordtennisklubb",
-     "arrangorer": [
-      "Skagersviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2026-11-18",
-     "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Skagersviks BTK",
      "borta": "Blikstorps AIK B",
@@ -975,27 +1063,16 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
      "exakt_lank": false
-    }
-   ]
-  },
-  {
-   "datum": "2027-01-13",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
-   ],
-   "antal": 2,
-   "matcher": [
+    },
     {
-     "datum": "2027-01-13",
+     "datum": "2026-11-18",
      "tid": "19:00",
+     "serie_id": "367-6442-0",
      "serie": "Div 5 Nordöstra",
-     "omgang": "Round 10",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 6",
      "hemma": "Skagersviks BTK C",
-     "borta": "Karlsborgs BTK B1",
+     "borta": "Karlsborgs BTK B2",
      "hemma_klubb": "Skagersviks Bordtennisklubb",
      "borta_klubb": "Karlsborgs Bordtennisklubb",
      "plats": "-",
@@ -1005,11 +1082,26 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
      "exakt_lank": false
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-13",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
+   ],
+   "antal": 2,
+   "matcher": [
     {
      "datum": "2027-01-13",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Skagersviks BTK",
      "borta": "Vedums AIS B",
@@ -1022,6 +1114,25 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
      "exakt_lank": false
+    },
+    {
+     "datum": "2027-01-13",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 10",
+     "hemma": "Skagersviks BTK C",
+     "borta": "Karlsborgs BTK B1",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Karlsborgs Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+     "exakt_lank": false
     }
    ]
   },
@@ -1031,32 +1142,17 @@
     "-"
    ],
    "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-02-03",
      "tid": "19:00",
-     "serie": "Div 5 Nordöstra",
-     "omgang": "Round 12",
-     "hemma": "Skagersviks BTK C",
-     "borta": "IFK Lidköping B1",
-     "hemma_klubb": "Skagersviks Bordtennisklubb",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Skagersviks Bordtennisklubb",
-     "arrangorer": [
-      "Skagersviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2027-02-03",
-     "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Skagersviks BTK",
      "borta": "IFK Falköping BTK B",
@@ -1068,6 +1164,25 @@
       "Skagersviks Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2027-02-03",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 12",
+     "hemma": "Skagersviks BTK C",
+     "borta": "IFK Lidköping B1",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "-",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
      "exakt_lank": false
     }
    ]
@@ -1085,7 +1200,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Skagersviks BTK",
      "borta": "Kils BTK",
@@ -1102,7 +1219,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Munkedals BTK: B",
      "borta": "Carlstads BTK",
@@ -1119,7 +1238,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Munkedals BTK: B",
      "borta": "Kils BTK",
@@ -1136,7 +1257,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-5757-0",
      "serie": "Div 2 VSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Skagersviks BTK",
      "borta": "Carlstads BTK",
@@ -1158,32 +1281,17 @@
     "-"
    ],
    "serier": [
-    "Div 5 Nordöstra",
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 5 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-03-03",
      "tid": "19:00",
-     "serie": "Div 5 Nordöstra",
-     "omgang": "Round 14",
-     "hemma": "Skagersviks BTK C",
-     "borta": "Mariestads BTK B",
-     "hemma_klubb": "Skagersviks Bordtennisklubb",
-     "borta_klubb": "Mariestads Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Skagersviks Bordtennisklubb",
-     "arrangorer": [
-      "Skagersviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
-     "exakt_lank": false
-    },
-    {
-     "datum": "2027-03-03",
-     "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Skagersviks BTK",
      "borta": "Töreboda BTK",
@@ -1196,12 +1304,32 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
      "exakt_lank": false
+    },
+    {
+     "datum": "2027-03-03",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 14",
+     "hemma": "Skagersviks BTK C",
+     "borta": "Mariestads BTK B",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Mariestads Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+     "exakt_lank": false
     }
    ]
   }
  ],
  "tabeller": [
   {
+   "serie_id": "417-5757-0",
    "serie": "Div 2 VSN",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7",
@@ -1299,6 +1427,105 @@
    ]
   },
   {
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lidan BTK",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Vedums AIS B",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Blikstorps AIK B",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Skagersviks BTK",
+     "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Töreboda BTK",
+     "klubb": "Töreboda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Götene Tor BTK",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1848"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
@@ -1390,81 +1617,6 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Varnhems IF",
-     "klubb": "Varnhems Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Lidan BTK Gul",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Karlsborgs BTK",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Lidan BTK Röd",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Skövde PK",
-     "klubb": "Skövde Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

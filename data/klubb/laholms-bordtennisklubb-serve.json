@@ -4,20 +4,38 @@
   "namn": "Laholms Bordtennisklubb Serve"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "LBTK Serve C1",
    "serie": {
-    "namn": "Division 6 Södra"
+    "namn": "Division 6 Södra (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "LBTK Serve C1",
+   "serie": {
+    "namn": "Division 6 Södra (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "LBTK Serve C2",
    "serie": {
-    "namn": "Division 6 Södra"
+    "namn": "Division 6 Södra (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "LBTK Serve C2",
+   "serie": {
+    "namn": "Division 6 Södra (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +43,7 @@
    "serie": {
     "namn": "Div 1 V Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +51,7 @@
    "serie": {
     "namn": "Div 3 SSSV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +59,7 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -46,7 +67,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "LBTK Serve C1",
    "borta": "LBTK Serve C2",
@@ -61,7 +84,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "LBTK Serve C1",
    "borta": "LBTK Serve C2",
@@ -76,7 +101,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Laholms BTK Serve B",
    "borta": "Halmstad BTK E",
@@ -93,7 +120,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Laholms BTK Serve B",
    "borta": "BTK Ratic B",
@@ -110,7 +139,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Kågeröds BTK: A2",
    "borta": "Laholms BTK Serve",
@@ -127,7 +158,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Kullahalvöns BTK",
    "borta": "Laholms BTK Serve",
@@ -144,7 +177,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Kungsbacka BTK C",
    "borta": "Laholms BTK Serve B",
@@ -161,7 +196,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Laholms BTK Serve",
    "borta": "Kungälvs BTK",
@@ -178,7 +215,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Kågeröds BTK: B",
    "borta": "Laholms BTK Serve",
@@ -195,7 +234,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Halmstad BTK F2",
    "borta": "LBTK Serve C2",
@@ -210,7 +251,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Markaryds BTK B",
    "borta": "LBTK Serve C1",
@@ -225,7 +268,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "LBTK Serve C1",
    "borta": "Skedala BTK A",
@@ -240,7 +285,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "LBTK Serve C2",
    "borta": "Markaryds BTK B",
@@ -255,7 +302,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Skedala BTK A",
    "borta": "LBTK Serve C2",
@@ -270,7 +319,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "BTK-72 Trönninge A",
    "borta": "LBTK Serve C1",
@@ -285,7 +336,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Varbergs BTK C",
    "borta": "Laholms BTK Serve B",
@@ -302,7 +355,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "BTK Linné",
    "borta": "Laholms BTK Serve",
@@ -319,7 +374,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "BTK Rekord: B",
    "borta": "Laholms BTK Serve",
@@ -336,7 +393,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 5",
    "hemma": "Sibbarps GoIF A",
    "borta": "Laholms BTK Serve B",
@@ -353,7 +412,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IFK Lund Bordtennis: C2",
    "borta": "Laholms BTK Serve",
@@ -370,7 +431,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 6",
    "hemma": "Laholms BTK Serve B",
    "borta": "Åsa IF B",
@@ -387,7 +450,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Laholms BTK Serve",
    "borta": "Sandareds BTK",
@@ -404,7 +469,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Laholms BTK Serve",
    "borta": "Halmstad BTK: D",
@@ -421,7 +488,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 7",
    "hemma": "Laholms BTK Serve B",
    "borta": "Särö Kullavik IF B",
@@ -438,7 +507,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Laholms BTK Serve",
    "borta": "Rudalens IF",
@@ -455,7 +526,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Laholms BTK Serve",
    "borta": "Varbergs BTK: B1",
@@ -472,7 +545,9 @@
   {
    "datum": "2027-01-10",
    "tid": "19:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 8",
    "hemma": "Halmstad BTK E",
    "borta": "Laholms BTK Serve B",
@@ -489,7 +564,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 9",
    "hemma": "BTK Ratic B",
    "borta": "Laholms BTK Serve B",
@@ -506,7 +583,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Kågeröds BTK: A1",
    "borta": "Laholms BTK Serve",
@@ -523,7 +602,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Laholms BTK Serve",
    "borta": "Kågeröds BTK: B",
@@ -540,7 +621,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 10",
    "hemma": "Laholms BTK Serve B",
    "borta": "Kungsbacka BTK C",
@@ -557,7 +640,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Laholms BTK Serve",
    "borta": "Kågeröds BTK: A2",
@@ -574,7 +659,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Laholms BTK Serve",
    "borta": "BTK Rekord: B",
@@ -591,7 +678,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 11",
    "hemma": "Laholms BTK Serve B",
    "borta": "Varbergs BTK C",
@@ -608,7 +697,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Kungälvs BTK",
    "borta": "Laholms BTK Serve",
@@ -625,7 +716,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Laholms BTK Serve",
    "borta": "Åstorps BTK: C",
@@ -642,7 +735,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 12",
    "hemma": "Laholms BTK Serve B",
    "borta": "Sibbarps GoIF A",
@@ -659,7 +754,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Laholms BTK Serve",
    "borta": "BTK Linné",
@@ -676,7 +773,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Laholms BTK Serve",
    "borta": "Kullahalvöns BTK",
@@ -693,7 +792,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 13",
    "hemma": "Åsa IF B",
    "borta": "Laholms BTK Serve B",
@@ -710,7 +811,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Laholms BTK Serve",
    "borta": "IFK Lund Bordtennis: C2",
@@ -727,7 +830,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 14",
    "hemma": "Särö Kullavik IF B",
    "borta": "Laholms BTK Serve B",
@@ -744,7 +849,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Sandareds BTK",
    "borta": "Laholms BTK Serve",
@@ -761,7 +868,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Halmstad BTK: D",
    "borta": "Laholms BTK Serve",
@@ -780,7 +889,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Rudalens IF",
    "borta": "Laholms BTK Serve",
@@ -799,7 +910,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Varbergs BTK: B1",
    "borta": "Laholms BTK Serve",
@@ -818,7 +931,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Laholms BTK Serve",
    "borta": "Kågeröds BTK: A1",
@@ -837,7 +952,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Åstorps BTK: C",
    "borta": "Laholms BTK Serve",
@@ -868,7 +985,9 @@
     {
      "datum": "2026-10-11",
      "tid": "19:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 1",
      "hemma": "Laholms BTK Serve B",
      "borta": "Halmstad BTK E",
@@ -897,7 +1016,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 2",
      "hemma": "Laholms BTK Serve B",
      "borta": "BTK Ratic B",
@@ -928,7 +1049,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 6",
      "hemma": "Laholms BTK Serve B",
      "borta": "Åsa IF B",
@@ -945,7 +1068,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Kungälvs BTK",
      "borta": "Kågeröds BTK: A1",
@@ -962,7 +1087,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "BTK Linné",
      "borta": "Rudalens IF",
@@ -979,7 +1106,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Laholms BTK Serve",
      "borta": "Sandareds BTK",
@@ -996,7 +1125,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 7",
      "hemma": "Laholms BTK Serve B",
      "borta": "Särö Kullavik IF B",
@@ -1013,7 +1144,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Laholms BTK Serve",
      "borta": "Rudalens IF",
@@ -1030,7 +1163,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "BTK Linné",
      "borta": "Kågeröds BTK: A1",
@@ -1047,7 +1182,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Kungälvs BTK",
      "borta": "Kågeröds BTK: A2",
@@ -1078,7 +1215,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Halmstad BTK: D",
      "borta": "BTK Rekord: B",
@@ -1095,7 +1234,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Laholms BTK Serve",
      "borta": "Kågeröds BTK: B",
@@ -1112,7 +1253,9 @@
     {
      "datum": "2027-01-16",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 10",
      "hemma": "Laholms BTK Serve B",
      "borta": "Kungsbacka BTK C",
@@ -1129,7 +1272,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Laholms BTK Serve",
      "borta": "BTK Rekord: B",
@@ -1146,7 +1291,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Halmstad BTK: D",
      "borta": "Kågeröds BTK: B",
@@ -1175,7 +1322,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 11",
      "hemma": "Laholms BTK Serve B",
      "borta": "Varbergs BTK C",
@@ -1192,7 +1341,9 @@
     {
      "datum": "2027-02-13",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 12",
      "hemma": "Laholms BTK Serve B",
      "borta": "Sibbarps GoIF A",
@@ -1211,6 +1362,257 @@
  ],
  "tabeller": [
   {
+   "serie_id": "411-6340-0",
+   "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Åsa IF B",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Laholms BTK Serve B",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Halmstad BTK E",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Sibbarps GoIF A",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Ratic B",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Varbergs BTK C",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kungsbacka BTK C",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Särö Kullavik IF B",
+     "klubb": "Särö Kullavik Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Skedala BTK A",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK-72 Trönninge A",
+     "klubb": "Bordtennisklubben-72 Trönninge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "LBTK Serve C1",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Markaryds BTK B",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Halmstad BTK F2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7599-0",
+   "serie": "Division 6 Södra (2)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK-72 Trönninge A",
+     "klubb": "Bordtennisklubben-72 Trönninge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Halmstad BTK F2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Markaryds BTK B",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "LBTK Serve C1",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Skedala BTK A",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
@@ -1297,6 +1699,7 @@
    ]
   },
   {
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
@@ -1388,167 +1791,6 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 6 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
-   "exakt_lank": true,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "BTK-72 Trönninge A",
-     "klubb": "Bordtennisklubben-72 Trönninge",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Halmstad BTK F2",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Markaryds BTK B",
-     "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "LBTK Serve C2",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "LBTK Serve C1",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Skedala BTK A",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

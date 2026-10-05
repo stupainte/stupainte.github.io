@@ -4,13 +4,14 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Skurups BTK",
    "serie": {
     "namn": "Div 3 SSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,13 +19,7 @@
    "serie": {
     "namn": "Division 5 Södra 1"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Skurups BTK C",
-   "serie": {
-    "namn": "Division 5 Södra 2"
-   },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +27,15 @@
    "serie": {
     "namn": "Division 6 Södra 2"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Skurups BTK C",
+   "serie": {
+    "namn": "Division 5 Södra 2"
+   },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -39,7 +43,9 @@
   {
    "datum": "2026-10-14",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Skurups BTK C",
    "borta": "Kvarnby AK C",
@@ -54,7 +60,9 @@
   {
    "datum": "2026-10-15",
    "tid": "19:15",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "IFK Lund E3",
    "borta": "Skurups BTK B",
@@ -69,7 +77,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Tomelilla AIS",
    "borta": "Skurups BTK C",
@@ -86,7 +96,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Skurups BTK",
    "borta": "Degeberga GOIF",
@@ -103,7 +115,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Skurups BTK",
    "borta": "KFUM Kristianstad BTF",
@@ -120,7 +134,9 @@
   {
    "datum": "2026-10-19",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Malmö IF G",
    "borta": "Skurups BTK C",
@@ -135,7 +151,9 @@
   {
    "datum": "2026-11-11",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Skurups BTK C",
    "borta": "Trelleborgs BTK E",
@@ -150,7 +168,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Skurups BTK",
    "borta": "BTK Scania",
@@ -167,7 +187,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Skurups BTK B",
    "borta": "Bjärreds BTK B",
@@ -182,7 +204,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Skurups BTK",
    "borta": "Malmö IF: B",
@@ -199,7 +223,9 @@
   {
    "datum": "2026-11-16",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Malmö IF F",
    "borta": "Skurups BTK C",
@@ -214,7 +240,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Kvarnby AK B",
    "borta": "Skurups BTK B",
@@ -229,7 +257,9 @@
   {
    "datum": "2026-11-29",
    "tid": "11:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Skurups BTK B",
    "borta": "Malmö IF E",
@@ -244,7 +274,9 @@
   {
    "datum": "2026-12-09",
    "tid": "19:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "Limhamns BTK B",
    "borta": "Skurups BTK B",
@@ -259,7 +291,9 @@
   {
    "datum": "2026-12-09",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "Skurups BTK C",
    "borta": "IF Ale C ",
@@ -274,7 +308,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Skurups BTK C",
    "borta": "IF Ale D",
@@ -291,7 +327,9 @@
   {
    "datum": "2026-12-12",
    "tid": "12:30",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "IFK Lund F3",
    "borta": "Skurups BTK C",
@@ -308,7 +346,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Skurups BTK",
    "borta": "Sölvesborgs BTK",
@@ -325,7 +365,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IFK Lund Bordtennis: C1",
    "borta": "Skurups BTK",
@@ -342,7 +384,9 @@
   {
    "datum": "2026-12-17",
    "tid": "19:15",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "IFK Lund E4",
    "borta": "Skurups BTK C",
@@ -357,7 +401,9 @@
   {
    "datum": "2026-12-20",
    "tid": "11:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "Skurups BTK B",
    "borta": "FIFH Malmö B",
@@ -372,7 +418,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Kvarnby AK C",
    "borta": "Skurups BTK C",
@@ -387,7 +435,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "Skurups BTK C",
    "borta": "Trelleborgs BTK F",
@@ -404,7 +454,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Skurups BTK B",
    "borta": "IFK Lund E3",
@@ -419,7 +471,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "IF Ale",
    "borta": "Skurups BTK",
@@ -436,7 +490,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:30",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Skurups BTK C",
    "borta": "Tomelilla AIS",
@@ -453,7 +509,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Degeberga GOIF",
    "borta": "Skurups BTK",
@@ -470,7 +528,9 @@
   {
    "datum": "2027-01-20",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "Skurups BTK C",
    "borta": "Malmö IF G",
@@ -485,7 +545,9 @@
   {
    "datum": "2027-01-26",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Trelleborgs BTK E",
    "borta": "Skurups BTK C",
@@ -500,7 +562,9 @@
   {
    "datum": "2027-01-27",
    "tid": "19:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Bjärreds BTK B",
    "borta": "Skurups BTK B",
@@ -515,7 +579,9 @@
   {
    "datum": "2027-02-07",
    "tid": "11:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "Skurups BTK B",
    "borta": "Kvarnby AK B",
@@ -530,7 +596,9 @@
   {
    "datum": "2027-02-10",
    "tid": "18:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "Malmö IF E",
    "borta": "Skurups BTK B",
@@ -545,7 +613,9 @@
   {
    "datum": "2027-02-10",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "Skurups BTK C",
    "borta": "Malmö IF F",
@@ -560,7 +630,9 @@
   {
    "datum": "2027-02-13",
    "tid": "12:30",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Limhamns BTK C2",
    "borta": "Skurups BTK C",
@@ -577,7 +649,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Malmö IF: B",
    "borta": "Skurups BTK",
@@ -594,7 +668,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Scania",
    "borta": "Skurups BTK",
@@ -611,7 +687,9 @@
   {
    "datum": "2027-03-06",
    "tid": "10:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "IF Ale C ",
    "borta": "Skurups BTK C",
@@ -626,7 +704,9 @@
   {
    "datum": "2027-03-07",
    "tid": "11:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "Skurups BTK B",
    "borta": "Limhamns BTK B",
@@ -641,7 +721,9 @@
   {
    "datum": "2027-03-10",
    "tid": "19:00",
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "Skurups BTK C",
    "borta": "IFK Lund E4",
@@ -656,7 +738,9 @@
   {
    "datum": "2027-03-12",
    "tid": "18:00",
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "FIFH Malmö B",
    "borta": "Skurups BTK B",
@@ -671,7 +755,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "Skurups BTK C",
    "borta": "IFK Lund F4",
@@ -688,7 +774,9 @@
   {
    "datum": "2027-03-13",
    "tid": "12:30",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "IF Ale D",
    "borta": "Skurups BTK C",
@@ -705,7 +793,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "KFUM Kristianstad BTF",
    "borta": "Skurups BTK",
@@ -722,7 +812,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Sölvesborgs BTK",
    "borta": "Skurups BTK",
@@ -739,7 +831,9 @@
   {
    "datum": "2027-04-17",
    "tid": "10:00",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "Skurups BTK C",
    "borta": "IFK Lund F3",
@@ -756,7 +850,9 @@
   {
    "datum": "2027-04-17",
    "tid": "12:30",
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "Trelleborgs BTK F",
    "borta": "Skurups BTK C",
@@ -775,7 +871,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Skurups BTK",
    "borta": "IFK Lund Bordtennis: C1",
@@ -794,7 +892,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Skurups BTK",
    "borta": "IF Ale",
@@ -825,7 +925,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 9",
      "hemma": "Tomelilla AIS",
      "borta": "Limhamns BTK C2",
@@ -842,7 +944,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 9",
      "hemma": "Trelleborgs BTK F",
      "borta": "IFK Lund F4",
@@ -859,7 +963,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 9",
      "hemma": "IFK Lund F3",
      "borta": "IF Ale D",
@@ -876,7 +982,9 @@
     {
      "datum": "2027-02-13",
      "tid": "12:30",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 10",
      "hemma": "IF Ale D",
      "borta": "Trelleborgs BTK F",
@@ -893,7 +1001,9 @@
     {
      "datum": "2027-02-13",
      "tid": "12:30",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 10",
      "hemma": "IFK Lund F4",
      "borta": "Tomelilla AIS",
@@ -910,7 +1020,9 @@
     {
      "datum": "2027-02-13",
      "tid": "12:30",
+     "serie_id": "513-7442-0",
      "serie": "Division 6 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 10",
      "hemma": "Limhamns BTK C2",
      "borta": "Skurups BTK C",
@@ -939,7 +1051,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "BTK Scania",
      "borta": "Sölvesborgs BTK",
@@ -956,7 +1070,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Malmö IF: B",
      "borta": "IF Ale",
@@ -973,7 +1089,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "Skurups BTK",
@@ -990,7 +1108,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Degeberga GOIF",
      "borta": "IFK Lund Bordtennis: C1",
@@ -1007,7 +1127,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Sölvesborgs BTK",
      "borta": "Skurups BTK",
@@ -1024,7 +1146,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "IF Ale",
      "borta": "IFK Lund Bordtennis: C1",
@@ -1041,7 +1165,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Malmö IF: B",
      "borta": "Degeberga GOIF",
@@ -1058,7 +1184,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "BTK Scania",
@@ -1077,6 +1205,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
@@ -1174,6 +1303,7 @@
    ]
   },
   {
+   "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
@@ -1260,6 +1390,7 @@
    ]
   },
   {
+   "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
@@ -1346,6 +1477,7 @@
    ]
   },
   {
+   "serie_id": "513-7442-0",
    "serie": "Division 6 Södra 2",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",

@@ -225,6 +225,35 @@ Veteran Bordtennisklubb" står kvar separat.
 Detta är alltså inte fri namnmatchning utan uppslagning mot en auktoritativ
 källa. Skillnaden är viktig — utvidga inte till suddig matchning.
 
+### Serienamn är inte unika — använd `serie_id`
+
+Upptäckt 2026-10-05 via Boo Racketklubb: deras tabellflik visade Götalands
+"Div 5 Södra" i stället för Stockholms, och Smålands "Div 6 Norra B". Hämtaren
+slog ihop tabeller på serienamn, och samma namn finns i flera distrikt. I
+datan vid upptäckten hade **203 av 1271 tabeller fel serie, hos 128 av 307
+klubbar**. Felet växte i takt med att fler distrikt publicerade.
+
+Tre separata orsaker, alla åtgärdade i `hamta.py`:
+
+1. **Namnkrock mellan distrikt.** Tabeller och klubbens serier slås nu upp på
+   `serie_id` (`{evenemang}-{stage}-{grupp}`), aldrig på namn. Matcher och
+   tabeller bär både `serie_id` och `evenemang`.
+2. **Namnkrock inom ett evenemang.** Nordvästra Götaland har "Nordvästra" under
+   både Div 4 och Div 6; Göteborg har "Division 4" tre gånger. Hanteras av
+   `entydiga_divisionsnamn()`: klassmärkning som prefix där samma beskrivning
+   finns under flera klasser ("Div 4 Nordvästra"), och löpnummer som sista
+   utväg ("Division 4 (1)"). Namnen är bara till för läsaren.
+3. **Veteranserier som heter "Div 1".** Stockholms Vet 35-serier heter
+   `Div 1`, `Div 2`, `Div 3 Norra`, `Div 4` — skiljer sig från seniorernas
+   bara på `category.abbr` ("Vet 35"), och finns inte i STUPA:s publika
+   divisionsmeny som egna divisioner. De visas nu som "Vet 35 Div 1" osv.
+   Regeln är `KLASSABBR` i `hamta.py` (Vet/Pensionär/Ungdom).
+
+**Skydd:** `test/data.test.mjs` kontrollerar att varje tabell en klubb ser
+innehåller minst ett av klubbens egna lag. Mot den gamla datan faller testet,
+mot den nya passerar det. Faller det efter en framtida ändring: gissa inte —
+kontrollera om ett nytt serienamn eller en ny `abbr` har dykt upp i STUPA.
+
 ### Lagnamn är inte unika
 
 "Spårvägens BTK" spelar både Pingisligan herr och dam. Lag måste identifieras
@@ -454,8 +483,8 @@ Fält som frontenden läser och som därför inte får byta namn:
 | `index.json` | `sasong`, `klubbar[].slug`, `.namn`, `.antal_lag` |
 | `turneringar.json` | `turneringar[].namn`, `.datum`, `.slutdatum`, `.ort`, `.arena`, `.land`, `.niva`, `.status`, `.kalla`, `.lank`, `.hink` |
 | klubbfil | `klubb.namn`, `sasong`, `uppdaterad`, `lag[].namn`, `lag[].serie.namn` |
-| match | `datum`, `tid`, `serie`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `exakt_lank`, `hemma_poang`, `borta_poang` |
-| tabell | `serie`, `startad`, `rader[].placering`, `.lag`, `.spelade`, `.vunna`, `.oavgjorda`, `.forlorade`, `.matchpoang`, `.setdiff` |
+| match | `datum`, `tid`, `serie_id`, `serie`, `evenemang`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `exakt_lank`, `hemma_poang`, `borta_poang` |
+| tabell | `serie_id`, `serie`, `evenemang`, `startad`, `rader[].placering`, `.lag`, `.spelade`, `.vunna`, `.oavgjorda`, `.forlorade`, `.matchpoang`, `.setdiff` |
 | arrangerar | `datum`, `antal`, `platser`, `serier`, `matcher[]` |
 | turnering | `namn`, `datum`, `ort`, `niva`, `status`, `stupa_url` |
 
@@ -468,7 +497,7 @@ sönder, och skulle krympa datan en del:
 | --- | ---- | --------- |
 | `index.json` | `arrangerar_dagar` | tillagt för framtida bruk, används inte |
 | match | `hemma_klubb`, `borta_klubb` | behövs under bearbetningen men inte i utdatan |
-| tabell | `evenemang`, `stupa_url`, `exakt_lank` | skrivs för framtida bruk — tabellvyn har ingen klickbar länk än |
+| tabell | `stupa_url`, `exakt_lank` | skrivs för framtida bruk — tabellvyn har ingen klickbar länk än |
 | tabellrad | `klubb` | |
 | turnering | `slutdatum` | |
 

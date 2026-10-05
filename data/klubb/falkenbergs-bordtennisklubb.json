@@ -4,27 +4,38 @@
   "namn": "Falkenbergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Falkenbergs BTK",
-   "serie": {
-    "namn": "Superettan (herr)"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Falkenbergs BTK",
    "serie": {
     "namn": "Veteraner 35"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Falkenbergs BTK",
+   "serie": {
+    "namn": "Superettan (herr)"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Falkenbergs BTK C",
    "serie": {
-    "namn": "Division 5 Mellersta"
+    "namn": "Division 5 Mellersta (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Falkenbergs BTK C",
+   "serie": {
+    "namn": "Division 5 Mellersta (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +43,7 @@
    "serie": {
     "namn": "Division 6 Norra"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +51,7 @@
    "serie": {
     "namn": "Division 7 Södra"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +59,7 @@
    "serie": {
     "namn": "Div 1 S Herr"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -53,7 +67,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "BTK Ratic C2",
    "borta": "Falkenbergs BTK C",
@@ -68,7 +84,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Halmstad BTK G2",
    "borta": "Falkenbergs BTK E",
@@ -83,7 +101,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Falkenbergs BTK D",
    "borta": "Åsa IF D",
@@ -98,7 +118,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Falkenbergs BTK",
    "borta": "Nerikes Kils SK",
@@ -115,7 +137,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:30",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Varbergs BTK E2",
    "borta": "Falkenbergs BTK D",
@@ -130,7 +154,9 @@
   {
    "datum": "2026-10-18",
    "tid": "09:30",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Falkenbergs BTK",
    "borta": "Varbergs BTK 2",
@@ -145,7 +171,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Trelleborgs BTK",
    "borta": "Falkenbergs BTK: B",
@@ -162,7 +190,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Munkedals BTK",
    "borta": "Falkenbergs BTK",
@@ -179,7 +209,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Varbergs BTK 3",
    "borta": "Falkenbergs BTK",
@@ -194,7 +226,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Falkenbergs BTK: B",
    "borta": "BTK Frej",
@@ -211,7 +245,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Rydöbruks IF A",
    "borta": "Falkenbergs BTK C",
@@ -226,7 +262,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Halmstad BTK G1",
    "borta": "Falkenbergs BTK E",
@@ -241,7 +279,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Falkenbergs BTK C",
    "borta": "Halmstad BTK E2",
@@ -256,7 +296,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Skedala BTK B",
    "borta": "Falkenbergs BTK E",
@@ -271,7 +313,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Sibbarps GoIF B",
    "borta": "Falkenbergs BTK C",
@@ -286,7 +330,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Falkenbergs BTK E",
    "borta": "HBTKG3/Oskarström",
@@ -301,7 +347,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK",
    "borta": "Falkenbergs BTK",
@@ -318,7 +366,9 @@
   {
    "datum": "2026-11-14",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Falkenbergs BTK",
    "borta": "BTK Kävlinge",
@@ -335,7 +385,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Halmstad BTK: B",
    "borta": "Falkenbergs BTK: B",
@@ -352,7 +404,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Bjärreds BTK",
    "borta": "Falkenbergs BTK: B",
@@ -369,7 +423,9 @@
   {
    "datum": "2026-11-22",
    "tid": "09:30",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Falkenbergs BTK",
    "borta": "Sibbarps GoIF",
@@ -384,7 +440,9 @@
   {
    "datum": "2026-11-22",
    "tid": "11:00",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Särö Kullavik IF 1",
    "borta": "Falkenbergs BTK",
@@ -399,7 +457,9 @@
   {
    "datum": "2026-12-12",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Västers BTK",
    "borta": "Falkenbergs BTK",
@@ -416,7 +476,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Falkenbergs BTK D",
    "borta": "Varbergs BTK E1",
@@ -431,7 +493,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Falkenbergs BTK: B",
    "borta": "Vetlanda BTK",
@@ -448,7 +512,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Falkenbergs BTK",
    "borta": "Ängby SK",
@@ -465,7 +531,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:30",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Falkenbergs BTK D",
    "borta": "Kungsbacka BTK E1",
@@ -480,7 +548,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Falkenbergs BTK: B",
    "borta": "IFK Lund Bordtennis",
@@ -497,7 +567,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 5",
    "hemma": "Kungsbacka BTK E2",
    "borta": "Falkenbergs BTK D",
@@ -512,7 +584,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Norrtulls SK",
    "borta": "Falkenbergs BTK",
@@ -529,7 +603,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:30",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 6",
    "hemma": "Åsa IF D",
    "borta": "Falkenbergs BTK D",
@@ -544,7 +620,9 @@
   {
    "datum": "2027-01-16",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Falkenbergs BTK",
    "borta": "Söderhamns UIF: B",
@@ -561,7 +639,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Åstorps BTK",
    "borta": "Falkenbergs BTK: B",
@@ -578,7 +658,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Falkenbergs BTK: B",
    "borta": "Trelleborgs BTK",
@@ -595,7 +677,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 7",
    "hemma": "Falkenbergs BTK D",
    "borta": "Varbergs BTK E2",
@@ -610,7 +694,9 @@
   {
    "datum": "2027-01-30",
    "tid": "13:30",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 8",
    "hemma": "Varbergs BTK E1",
    "borta": "Falkenbergs BTK D",
@@ -625,7 +711,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Nerikes Kils SK",
    "borta": "Falkenbergs BTK",
@@ -643,7 +731,9 @@
   {
    "datum": "2027-02-13",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Falkenbergs BTK",
    "borta": "Munkedals BTK",
@@ -661,7 +751,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Frej",
    "borta": "Falkenbergs BTK: B",
@@ -678,7 +770,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Falkenbergs BTK: B",
    "borta": "Halmstad BTK: B",
@@ -695,7 +789,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 9",
    "hemma": "Kungsbacka BTK E1",
    "borta": "Falkenbergs BTK D",
@@ -710,7 +806,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:30",
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 10",
    "hemma": "Falkenbergs BTK D",
    "borta": "Kungsbacka BTK E2",
@@ -725,7 +823,9 @@
   {
    "datum": "2027-03-13",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 15",
    "hemma": "Falkenbergs BTK",
    "borta": "Lyckeby BTK",
@@ -742,7 +842,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Falkenbergs BTK: B",
    "borta": "Bjärreds BTK",
@@ -759,7 +861,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 16",
    "hemma": "BTK Kävlinge",
    "borta": "Falkenbergs BTK",
@@ -776,7 +880,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Vetlanda BTK",
    "borta": "Falkenbergs BTK: B",
@@ -793,7 +899,9 @@
   {
    "datum": "2027-04-10",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 17",
    "hemma": "Ängby SK",
    "borta": "Falkenbergs BTK",
@@ -810,7 +918,9 @@
   {
    "datum": "2027-04-11",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 18",
    "hemma": "Falkenbergs BTK",
    "borta": "Västers BTK",
@@ -829,7 +939,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF: B",
    "borta": "Falkenbergs BTK",
@@ -848,7 +960,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "IFK Lund Bordtennis",
    "borta": "Falkenbergs BTK: B",
@@ -867,7 +981,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Falkenbergs BTK",
    "borta": "Norrtulls SK",
@@ -886,7 +1002,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5747-0",
    "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Falkenbergs BTK: B",
    "borta": "Åstorps BTK",
@@ -917,7 +1035,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Falkenbergs BTK",
      "borta": "Nerikes Kils SK",
@@ -934,7 +1054,9 @@
     {
      "datum": "2026-10-17",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Nerikes Kils SK",
      "borta": "Munkedals BTK",
@@ -963,7 +1085,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Munkedals BTK",
      "borta": "Falkenbergs BTK",
@@ -992,7 +1116,9 @@
     {
      "datum": "2027-04-10",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 17",
      "hemma": "Ängby SK",
      "borta": "Falkenbergs BTK",
@@ -1009,7 +1135,9 @@
     {
      "datum": "2027-04-10",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 17",
      "hemma": "Västers BTK",
      "borta": "Ängby SK",
@@ -1038,7 +1166,9 @@
     {
      "datum": "2027-04-11",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 18",
      "hemma": "Falkenbergs BTK",
      "borta": "Västers BTK",
@@ -1057,113 +1187,17 @@
  ],
  "tabeller": [
   {
-   "serie": "Div 1 S Herr",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IFK Lund Bordtennis",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Trelleborgs BTK",
-     "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Åstorps BTK",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Vetlanda BTK",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Halmstad BTK: B",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "BTK Frej",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Bjärreds BTK",
-     "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Falkenbergs BTK: B",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 5 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1250/2/7/7",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
    "exakt_lank": true,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Borlänge BTK 3",
-     "klubb": "Borlänge Bordtennisklubb",
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1173,8 +1207,8 @@
     },
     {
      "placering": 2,
-     "lag": "Dala-Järna IK 4",
-     "klubb": "Dala-Järna Idrottsklubb",
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1184,8 +1218,8 @@
     },
     {
      "placering": 3,
-     "lag": "IK Juno",
-     "klubb": "Idrottsklubben Juno",
+     "lag": "BTK Ratic C2",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1195,8 +1229,8 @@
     },
     {
      "placering": 4,
-     "lag": "Jägarnäs Ludvika BTK 2",
-     "klubb": "Jägarnäs/Ludvika BTK",
+     "lag": "Falkenbergs BTK C",
+     "klubb": "Falkenbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1206,8 +1240,8 @@
     },
     {
      "placering": 5,
-     "lag": "Borlänge BTK 2",
-     "klubb": "Borlänge Bordtennisklubb",
+     "lag": "Halmstad BTK E2",
+     "klubb": "Halmstad Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1217,30 +1251,8 @@
     },
     {
      "placering": 6,
-     "lag": "Långshyttans BTK 1",
-     "klubb": "Långshyttans Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Bärke BTK 1",
-     "klubb": "Bärke BTK ",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Dala-Järna IK 3",
-     "klubb": "Dala-Järna Idrottsklubb",
+     "lag": "Rydöbruks IF A",
+     "klubb": "Rydöbruks Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1251,6 +1263,83 @@
    ]
   },
   {
+   "serie_id": "411-7589-0",
+   "serie": "Division 5 Mellersta (2)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Rydöbruks IF A",
+     "klubb": "Rydöbruks Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Falkenbergs BTK C",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Halmstad BTK E2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Ratic C2",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7592-0",
    "serie": "Division 6 Norra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1256/2/7/7",
@@ -1326,6 +1415,7 @@
    ]
   },
   {
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
@@ -1423,114 +1513,7 @@
    ]
   },
   {
-   "serie": "Superettan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Falkenbergs BTK",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Lyckeby BTK",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Kävlinge",
-     "klubb": "Bordtennisklubben Kävlinge",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Munkedals BTK",
-     "klubb": "Munkedals Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Söderhamns UIF: B",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Nerikes Kils SK",
-     "klubb": "Nerikes Kils Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Ängby SK",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Västers BTK",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Norrtulls SK",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
@@ -1644,6 +1627,213 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5747-0",
+   "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Lund Bordtennis",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Trelleborgs BTK",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Åstorps BTK",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Vetlanda BTK",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Halmstad BTK: B",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Frej",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Bjärreds BTK",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Falkenbergs BTK: B",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5759-0",
+   "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Falkenbergs BTK",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Kävlinge",
+     "klubb": "Bordtennisklubben Kävlinge",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Munkedals BTK",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Söderhamns UIF: B",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Nerikes Kils SK",
+     "klubb": "Nerikes Kils Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Västers BTK",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Norrtulls SK",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

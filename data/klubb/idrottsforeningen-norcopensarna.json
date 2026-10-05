@@ -4,20 +4,14 @@
   "namn": "Idrottsföreningen Norcopensarna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "IF Norcopensarna",
-   "serie": {
-    "namn": "Div 2 ÖSS"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "IF Norcopensarna",
    "serie": {
     "namn": "Kval Superettan damer"
    },
+   "evenemang": "Nationellt kvalspel 2026",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +19,15 @@
    "serie": {
     "namn": "Superettan (dam)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "IF Norcopensarna",
+   "serie": {
+    "namn": "Div 2 ÖSS"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Div 3 ÖSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +67,7 @@
    "serie": {
     "namn": "Division 5"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,6 +75,7 @@
    "serie": {
     "namn": "Division 5"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -81,6 +91,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -88,6 +99,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -95,6 +107,7 @@
    "serie": {
     "namn": "Öst"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -102,6 +115,7 @@
    "serie": {
     "namn": "Öst"
    },
+   "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -109,7 +123,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Västerås BTK",
    "borta": "IF Norcopensarna",
@@ -126,7 +142,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Linköpings PK: C2",
    "borta": "IF Norcopensarna: B",
@@ -143,7 +161,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna",
    "borta": "BTK Safir",
@@ -160,7 +180,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna: B",
    "borta": "Västers BTK: D",
@@ -177,7 +199,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: C1",
    "borta": "Linköpings PK: D2",
@@ -194,7 +218,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: C2",
    "borta": "IF Norcopensarna: C3",
@@ -211,7 +237,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: C2",
    "borta": "IF Norcopensarna: C3",
@@ -228,7 +256,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: E3",
    "borta": "IF Norcopensarna: E2",
@@ -245,7 +275,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: E3",
    "borta": "IF Norcopensarna: E2",
@@ -262,7 +294,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "Linköpings PK: F",
    "borta": "IF Norcopensarna: E1",
@@ -279,7 +313,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "Ljungsbro BTK: D",
    "borta": "IF Norcopensarna: E2",
@@ -296,7 +332,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna: E3",
    "borta": "Västers BTK: E",
@@ -313,7 +351,9 @@
   {
    "datum": "2026-10-24",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "IK Sjöge",
    "borta": "IF Norcopensarna: E1",
@@ -330,7 +370,9 @@
   {
    "datum": "2026-10-24",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna: C3",
    "borta": "IF Norcopensarna: C1",
@@ -347,7 +389,9 @@
   {
    "datum": "2026-10-24",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna: C3",
    "borta": "IF Norcopensarna: C1",
@@ -364,7 +408,9 @@
   {
    "datum": "2026-10-24",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna: C2",
    "borta": "Haga FF",
@@ -381,7 +427,9 @@
   {
    "datum": "2026-10-25",
    "tid": "09:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "Linköpings PK: E2",
    "borta": "IF Norcopensarna: D1",
@@ -398,7 +446,9 @@
   {
    "datum": "2026-10-25",
    "tid": "09:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Linköpings PK: E1",
@@ -415,7 +465,9 @@
   {
    "datum": "2026-10-25",
    "tid": "10:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "Haga FF: B",
    "borta": "IF Norcopensarna: F1",
@@ -432,7 +484,9 @@
   {
    "datum": "2026-10-25",
    "tid": "10:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna: F2",
    "borta": "Åtvidabergs TK",
@@ -449,7 +503,9 @@
   {
    "datum": "2026-10-25",
    "tid": "12:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "Linköpings PK: E1",
    "borta": "IF Norcopensarna: D1",
@@ -466,7 +522,9 @@
   {
    "datum": "2026-10-25",
    "tid": "12:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "Linköpings PK: E5",
    "borta": "IF Norcopensarna: D2",
@@ -483,7 +541,9 @@
   {
    "datum": "2026-10-25",
    "tid": "13:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "Valdemarsviks IF",
    "borta": "IF Norcopensarna: F1",
@@ -500,7 +560,9 @@
   {
    "datum": "2026-10-25",
    "tid": "13:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 4",
    "hemma": "Haga FF: B",
    "borta": "IF Norcopensarna: F2",
@@ -517,7 +579,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Eskilstuna BTK",
    "borta": "IF Norcopensarna",
@@ -534,7 +598,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna",
    "borta": "IK Sirius/SUIF",
@@ -551,7 +617,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna",
    "borta": "Linköpings PK: B",
@@ -568,7 +636,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Ängby SK: B",
    "borta": "IF Norcopensarna",
@@ -585,7 +655,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Linköpings PK: C1",
    "borta": "IF Norcopensarna: B",
@@ -602,7 +674,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: B",
    "borta": "Södertälje BTK",
@@ -619,7 +693,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: C3",
    "borta": "Ljungsbro BTK: C",
@@ -636,7 +712,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: C1",
    "borta": "Linköpings PK: D1",
@@ -653,7 +731,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: C2",
    "borta": "Västers BTK: D",
@@ -670,7 +750,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: E1",
    "borta": "IF Norcopensarna: E2",
@@ -687,7 +769,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: E1",
    "borta": "IF Norcopensarna: E2",
@@ -704,7 +788,9 @@
   {
    "datum": "2026-11-21",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IK Sjöge",
    "borta": "IF Norcopensarna: E3",
@@ -721,7 +807,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: E1",
    "borta": "Ljungsbro BTK: D",
@@ -738,7 +826,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: E2",
    "borta": "Linköpings PK: F",
@@ -755,7 +845,9 @@
   {
    "datum": "2026-11-21",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "Vadstena BTK",
    "borta": "IF Norcopensarna: E3",
@@ -772,7 +864,9 @@
   {
    "datum": "2026-11-21",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: C1",
    "borta": "Ljungsbro BTK: C",
@@ -789,7 +883,9 @@
   {
    "datum": "2026-11-21",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "Linköpings PK: D2",
    "borta": "IF Norcopensarna: C2",
@@ -806,7 +902,9 @@
   {
    "datum": "2026-11-21",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: C3",
    "borta": "Linköpings PK: D1",
@@ -823,7 +921,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Kuddby IF",
@@ -840,7 +940,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 5",
    "hemma": "Linköpings PK: E3",
    "borta": "IF Norcopensarna: D2",
@@ -857,7 +959,9 @@
   {
    "datum": "2026-11-22",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Linköpings PK: E3",
@@ -874,7 +978,9 @@
   {
    "datum": "2026-11-22",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 6",
    "hemma": "Kuddby IF",
    "borta": "IF Norcopensarna: D2",
@@ -891,7 +997,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Kristinehamns BTF",
    "borta": "IF Norcopensarna",
@@ -908,7 +1016,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IF Norcopensarna",
    "borta": "Ljungsbro BTK",
@@ -925,7 +1035,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Katrineholms BTK: B1",
    "borta": "IF Norcopensarna: B",
@@ -942,7 +1054,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Spårvägens BTK: D1",
    "borta": "IF Norcopensarna: B",
@@ -959,7 +1073,9 @@
   {
    "datum": "2026-12-19",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "IF Norcopensarna: C3",
    "borta": "Västers BTK: D",
@@ -976,7 +1092,9 @@
   {
    "datum": "2026-12-19",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "IF Norcopensarna: C2",
    "borta": "Linköpings PK: D1",
@@ -993,7 +1111,9 @@
   {
    "datum": "2026-12-19",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "IF Norcopensarna: C1",
    "borta": "Haga FF",
@@ -1010,7 +1130,9 @@
   {
    "datum": "2026-12-19",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "Linköpings PK: D2",
    "borta": "IF Norcopensarna: C1",
@@ -1027,7 +1149,9 @@
   {
    "datum": "2026-12-19",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: C3",
    "borta": "IF Norcopensarna: C2",
@@ -1044,7 +1168,9 @@
   {
    "datum": "2026-12-19",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: C3",
    "borta": "IF Norcopensarna: C2",
@@ -1061,7 +1187,9 @@
   {
    "datum": "2026-12-20",
    "tid": "09:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "IF Norcopensarna: E3",
    "borta": "Ljungsbro BTK: D",
@@ -1078,7 +1206,9 @@
   {
    "datum": "2026-12-20",
    "tid": "09:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "Västers BTK: E",
    "borta": "IF Norcopensarna: E1",
@@ -1095,7 +1225,9 @@
   {
    "datum": "2026-12-20",
    "tid": "09:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "Vadstena BTK",
    "borta": "IF Norcopensarna: E2",
@@ -1112,7 +1244,9 @@
   {
    "datum": "2026-12-20",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "Linköpings PK: E5",
    "borta": "IF Norcopensarna: D1",
@@ -1129,7 +1263,9 @@
   {
    "datum": "2026-12-20",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 8",
    "hemma": "Linköpings PK: E4",
    "borta": "IF Norcopensarna: D2",
@@ -1146,7 +1282,9 @@
   {
    "datum": "2026-12-20",
    "tid": "12:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: E2",
    "borta": "IF Norcopensarna: E1",
@@ -1163,7 +1301,9 @@
   {
    "datum": "2026-12-20",
    "tid": "12:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: E2",
    "borta": "IF Norcopensarna: E1",
@@ -1180,7 +1320,9 @@
   {
    "datum": "2026-12-20",
    "tid": "12:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: E3",
    "borta": "IK Sjöge",
@@ -1197,7 +1339,9 @@
   {
    "datum": "2026-12-20",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Linköpings PK: E4",
@@ -1214,7 +1358,9 @@
   {
    "datum": "2026-12-20",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 9",
    "hemma": "Linköpings PK: E2",
    "borta": "IF Norcopensarna: D2",
@@ -1231,7 +1377,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Västers BTK: C",
    "borta": "IF Norcopensarna",
@@ -1248,7 +1396,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Spårvägens BTK: B",
    "borta": "IF Norcopensarna",
@@ -1265,7 +1415,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Ljungsbro BTK: B",
    "borta": "IF Norcopensarna: B",
@@ -1282,7 +1434,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna",
    "borta": "Västerås BTK",
@@ -1299,7 +1453,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IK Sirius/SUIF",
    "borta": "IF Norcopensarna",
@@ -1316,7 +1472,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: B",
    "borta": "Linköpings PK: C2",
@@ -1333,7 +1491,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: C2",
    "borta": "Ljungsbro BTK: C",
@@ -1350,7 +1510,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: C1",
    "borta": "IF Norcopensarna: C3",
@@ -1367,7 +1529,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: C1",
    "borta": "IF Norcopensarna: C3",
@@ -1384,7 +1548,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: E1",
    "borta": "Vadstena BTK",
@@ -1401,7 +1567,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: E2",
    "borta": "IF Norcopensarna: E3",
@@ -1418,7 +1586,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna: E2",
    "borta": "IF Norcopensarna: E3",
@@ -1435,7 +1605,9 @@
   {
    "datum": "2027-01-30",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "IF Norcopensarna: E2",
    "borta": "Västers BTK: E",
@@ -1452,7 +1624,9 @@
   {
    "datum": "2027-01-30",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "IF Norcopensarna: E1",
    "borta": "IK Sjöge",
@@ -1469,7 +1643,9 @@
   {
    "datum": "2027-01-30",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "Linköpings PK: F",
    "borta": "IF Norcopensarna: E3",
@@ -1486,7 +1662,9 @@
   {
    "datum": "2027-01-30",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "Ljungsbro BTK: C",
    "borta": "IF Norcopensarna: C1",
@@ -1503,7 +1681,9 @@
   {
    "datum": "2027-01-30",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "Haga FF",
    "borta": "IF Norcopensarna: C2",
@@ -1520,7 +1700,9 @@
   {
    "datum": "2027-01-30",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "Linköpings PK: D1",
    "borta": "IF Norcopensarna: C3",
@@ -1537,7 +1719,9 @@
   {
    "datum": "2027-01-31",
    "tid": "09:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "Linköpings PK: E3",
    "borta": "IF Norcopensarna: D1",
@@ -1554,7 +1738,9 @@
   {
    "datum": "2027-01-31",
    "tid": "09:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 10",
    "hemma": "Linköpings PK: E1",
    "borta": "IF Norcopensarna: D2",
@@ -1571,7 +1757,9 @@
   {
    "datum": "2027-01-31",
    "tid": "12:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Linköpings PK: E2",
@@ -1588,7 +1776,9 @@
   {
    "datum": "2027-01-31",
    "tid": "12:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 11",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Linköpings PK: E5",
@@ -1605,7 +1795,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Safir",
    "borta": "IF Norcopensarna",
@@ -1622,7 +1814,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "IF Norcopensarna",
    "borta": "Ängby SK: B",
@@ -1639,7 +1833,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Västers BTK: D",
    "borta": "IF Norcopensarna: B",
@@ -1656,7 +1852,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna",
    "borta": "Eskilstuna BTK",
@@ -1673,7 +1871,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "IF Norcopensarna",
    "borta": "Spårvägens BTK: B",
@@ -1690,7 +1890,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna: B",
    "borta": "Linköpings PK: C1",
@@ -1707,7 +1909,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Linköpings PK: B",
    "borta": "IF Norcopensarna",
@@ -1724,7 +1928,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK",
    "borta": "IF Norcopensarna",
@@ -1741,7 +1947,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Södertälje BTK",
    "borta": "IF Norcopensarna: B",
@@ -1758,7 +1966,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "IF Norcopensarna",
    "borta": "Kristinehamns BTF",
@@ -1775,7 +1985,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna",
    "borta": "Kungsbacka BTK",
@@ -1792,7 +2004,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "IF Norcopensarna: B",
    "borta": "Katrineholms BTK: B1",
@@ -1809,7 +2023,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna",
    "borta": "Lessebo BTK",
@@ -1826,7 +2042,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Jämjö BTK",
    "borta": "IF Norcopensarna",
@@ -1843,7 +2061,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "Linköpings PK: D1",
    "borta": "IF Norcopensarna: C1",
@@ -1860,7 +2080,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "Västers BTK: D",
    "borta": "IF Norcopensarna: C2",
@@ -1877,7 +2099,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "Linköpings PK: D2",
    "borta": "IF Norcopensarna: C3",
@@ -1894,7 +2118,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna: E2",
    "borta": "Ljungsbro BTK: D",
@@ -1911,7 +2137,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "Västers BTK: E",
    "borta": "IF Norcopensarna: E3",
@@ -1928,7 +2156,9 @@
   {
    "datum": "2027-04-10",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna: E1",
    "borta": "Linköpings PK: F",
@@ -1945,7 +2175,9 @@
   {
    "datum": "2027-04-10",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "Ljungsbro BTK: D",
    "borta": "IF Norcopensarna: E1",
@@ -1962,7 +2194,9 @@
   {
    "datum": "2027-04-10",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "Linköpings PK: F",
    "borta": "IF Norcopensarna: E2",
@@ -1979,7 +2213,9 @@
   {
    "datum": "2027-04-10",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna: E3",
    "borta": "Vadstena BTK",
@@ -1996,7 +2232,9 @@
   {
    "datum": "2027-04-10",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "Ljungsbro BTK: C",
    "borta": "IF Norcopensarna: C3",
@@ -2013,7 +2251,9 @@
   {
    "datum": "2027-04-10",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna: C2",
    "borta": "Linköpings PK: D2",
@@ -2030,7 +2270,9 @@
   {
    "datum": "2027-04-10",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna: C1",
    "borta": "Västers BTK: D",
@@ -2047,7 +2289,9 @@
   {
    "datum": "2027-04-11",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "Kuddby IF",
    "borta": "IF Norcopensarna: D1",
@@ -2064,7 +2308,9 @@
   {
    "datum": "2027-04-11",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 12",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Linköpings PK: E3",
@@ -2081,7 +2327,9 @@
   {
    "datum": "2027-04-11",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Linköpings PK: E1",
@@ -2098,7 +2346,9 @@
   {
    "datum": "2027-04-11",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 13",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Kuddby IF",
@@ -2117,7 +2367,9 @@
   {
    "datum": "2026-04-11",
    "tid": "11:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna",
    "borta": "Djurgårdens iF BTF: A2",
@@ -2136,7 +2388,9 @@
   {
    "datum": "2026-04-11",
    "tid": "15:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK",
    "borta": "IF Norcopensarna",
@@ -2155,7 +2409,9 @@
   {
    "datum": "2026-04-12",
    "tid": "10:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 3",
    "hemma": "IF Norcopensarna",
    "borta": "IK Sirius/SUIF: A2",
@@ -2174,7 +2430,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Ljungsbro BTK",
    "borta": "IF Norcopensarna",
@@ -2193,7 +2451,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna",
    "borta": "Jämjö BTK",
@@ -2212,7 +2472,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: B",
    "borta": "Spårvägens BTK: D1",
@@ -2231,7 +2493,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna",
    "borta": "Västers BTK: C",
@@ -2250,7 +2514,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Lessebo BTK",
    "borta": "IF Norcopensarna",
@@ -2269,7 +2535,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna: B",
    "borta": "Ljungsbro BTK: B",
@@ -2288,7 +2556,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Kungsbacka BTK",
    "borta": "IF Norcopensarna",
@@ -2307,7 +2577,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna",
    "borta": "Lyckeby BTK",
@@ -2326,7 +2598,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "Västers BTK: D",
    "borta": "IF Norcopensarna: C3",
@@ -2345,7 +2619,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "Linköpings PK: D1",
    "borta": "IF Norcopensarna: C2",
@@ -2364,7 +2640,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "Haga FF",
    "borta": "IF Norcopensarna: C1",
@@ -2383,7 +2661,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "Ljungsbro BTK: D",
    "borta": "IF Norcopensarna: E3",
@@ -2402,7 +2682,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: E1",
    "borta": "Västers BTK: E",
@@ -2421,7 +2703,9 @@
   {
    "datum": "2026-09-26",
    "tid": "10:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: E2",
    "borta": "Vadstena BTK",
@@ -2440,7 +2724,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Vadstena BTK",
    "borta": "IF Norcopensarna: E1",
@@ -2459,7 +2745,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Västers BTK: E",
    "borta": "IF Norcopensarna: E2",
@@ -2478,7 +2766,9 @@
   {
    "datum": "2026-09-26",
    "tid": "13:00",
+   "serie_id": "467-6947-0",
    "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna: E3",
    "borta": "Linköpings PK: F",
@@ -2497,7 +2787,9 @@
   {
    "datum": "2026-09-26",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Ljungsbro BTK: C",
    "borta": "IF Norcopensarna: C2",
@@ -2516,7 +2808,9 @@
   {
    "datum": "2026-09-26",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Västers BTK: D",
    "borta": "IF Norcopensarna: C1",
@@ -2535,7 +2829,9 @@
   {
    "datum": "2026-09-26",
    "tid": "14:00",
+   "serie_id": "467-6786-0",
    "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna: C3",
    "borta": "Linköpings PK: D2",
@@ -2554,7 +2850,9 @@
   {
    "datum": "2026-09-27",
    "tid": "09:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "Valdemarsviks IF",
    "borta": "IF Norcopensarna: F2",
@@ -2573,7 +2871,9 @@
   {
    "datum": "2026-09-27",
    "tid": "09:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: F1",
    "borta": "Dagsbergs IF",
@@ -2592,7 +2892,9 @@
   {
    "datum": "2026-09-27",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: D1",
    "borta": "Linköpings PK: E5",
@@ -2611,7 +2913,9 @@
   {
    "datum": "2026-09-27",
    "tid": "10:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 1",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Linköpings PK: E4",
@@ -2630,7 +2934,9 @@
   {
    "datum": "2026-09-27",
    "tid": "12:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna: F2",
    "borta": "Dagsbergs IF",
@@ -2649,7 +2955,9 @@
   {
    "datum": "2026-09-27",
    "tid": "12:00",
+   "serie_id": "467-6951-0",
    "serie": "Öst",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Åtvidabergs TK",
    "borta": "IF Norcopensarna: F1",
@@ -2668,7 +2976,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "Linköpings PK: E4",
    "borta": "IF Norcopensarna: D1",
@@ -2687,7 +2997,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "467-6946-0",
    "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 2",
    "hemma": "IF Norcopensarna: D2",
    "borta": "Linköpings PK: E2",
@@ -2718,7 +3030,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Västerås BTK",
      "borta": "IF Norcopensarna",
@@ -2735,7 +3049,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Eskilstuna BTK",
      "borta": "Ljungsbro BTK",
@@ -2752,7 +3068,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kristinehamns BTF",
      "borta": "Linköpings PK: B",
@@ -2769,7 +3087,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Västers BTK: C",
      "borta": "BTK Safir",
@@ -2786,7 +3106,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "IF Norcopensarna",
      "borta": "BTK Safir",
@@ -2803,7 +3125,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: B",
      "borta": "Västers BTK: C",
@@ -2820,7 +3144,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Ljungsbro BTK",
      "borta": "Kristinehamns BTF",
@@ -2837,7 +3163,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Västerås BTK",
      "borta": "Eskilstuna BTK",
@@ -2866,7 +3194,9 @@
     {
      "datum": "2026-10-24",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "Ljungsbro BTK: C",
      "borta": "Haga FF",
@@ -2883,7 +3213,9 @@
     {
      "datum": "2026-10-24",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "IF Norcopensarna: C1",
      "borta": "Linköpings PK: D2",
@@ -2900,7 +3232,9 @@
     {
      "datum": "2026-10-24",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "IF Norcopensarna: C2",
      "borta": "IF Norcopensarna: C3",
@@ -2917,7 +3251,9 @@
     {
      "datum": "2026-10-24",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "Västers BTK: D",
      "borta": "Linköpings PK: D1",
@@ -2934,7 +3270,9 @@
     {
      "datum": "2026-10-24",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: D1",
      "borta": "Ljungsbro BTK: C",
@@ -2951,7 +3289,9 @@
     {
      "datum": "2026-10-24",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "IF Norcopensarna: C3",
      "borta": "IF Norcopensarna: C1",
@@ -2968,7 +3308,9 @@
     {
      "datum": "2026-10-24",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "IF Norcopensarna: C2",
      "borta": "Haga FF",
@@ -2985,7 +3327,9 @@
     {
      "datum": "2026-10-24",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: D2",
      "borta": "Västers BTK: D",
@@ -3014,7 +3358,9 @@
     {
      "datum": "2026-10-25",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "Linköpings PK: E2",
      "borta": "IF Norcopensarna: D1",
@@ -3031,7 +3377,9 @@
     {
      "datum": "2026-10-25",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "Linköpings PK: E5",
      "borta": "Kuddby IF",
@@ -3048,7 +3396,9 @@
     {
      "datum": "2026-10-25",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "Linköpings PK: E3",
      "borta": "Linköpings PK: E4",
@@ -3065,7 +3415,9 @@
     {
      "datum": "2026-10-25",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 3",
      "hemma": "IF Norcopensarna: D2",
      "borta": "Linköpings PK: E1",
@@ -3082,7 +3434,9 @@
     {
      "datum": "2026-10-25",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: E1",
      "borta": "IF Norcopensarna: D1",
@@ -3099,7 +3453,9 @@
     {
      "datum": "2026-10-25",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: E3",
      "borta": "Kuddby IF",
@@ -3116,7 +3472,9 @@
     {
      "datum": "2026-10-25",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: E4",
      "borta": "Linköpings PK: E2",
@@ -3133,7 +3491,9 @@
     {
      "datum": "2026-10-25",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 4",
      "hemma": "Linköpings PK: E5",
      "borta": "IF Norcopensarna: D2",
@@ -3162,7 +3522,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "IF Norcopensarna",
      "borta": "IK Sirius/SUIF",
@@ -3179,7 +3541,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Spårvägens BTK: B",
      "borta": "Ängby SK: B",
@@ -3196,7 +3560,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Ängby SK: B",
      "borta": "IF Norcopensarna",
@@ -3213,7 +3579,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "IK Sirius/SUIF",
      "borta": "Spårvägens BTK: B",
@@ -3242,7 +3610,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 5",
      "hemma": "Vadstena BTK",
      "borta": "Ljungsbro BTK: D",
@@ -3259,7 +3629,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 5",
      "hemma": "Västers BTK: E",
      "borta": "Linköpings PK: F",
@@ -3276,7 +3648,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 5",
      "hemma": "IF Norcopensarna: E1",
      "borta": "IF Norcopensarna: E2",
@@ -3293,7 +3667,9 @@
     {
      "datum": "2026-11-21",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 5",
      "hemma": "IK Sjöge",
      "borta": "IF Norcopensarna: E3",
@@ -3310,7 +3686,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 6",
      "hemma": "IF Norcopensarna: E1",
      "borta": "Ljungsbro BTK: D",
@@ -3327,7 +3705,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 6",
      "hemma": "IF Norcopensarna: E2",
      "borta": "Linköpings PK: F",
@@ -3344,7 +3724,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 6",
      "hemma": "Vadstena BTK",
      "borta": "IF Norcopensarna: E3",
@@ -3361,7 +3743,9 @@
     {
      "datum": "2026-11-21",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 6",
      "hemma": "Västers BTK: E",
      "borta": "IK Sjöge",
@@ -3390,7 +3774,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Kristinehamns BTF",
      "borta": "IF Norcopensarna",
@@ -3407,7 +3793,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Västers BTK: C",
      "borta": "Eskilstuna BTK",
@@ -3424,7 +3812,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "BTK Safir",
      "borta": "Västerås BTK",
@@ -3441,7 +3831,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Linköpings PK: B",
      "borta": "Ljungsbro BTK",
@@ -3458,7 +3850,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "IF Norcopensarna",
      "borta": "Ljungsbro BTK",
@@ -3475,7 +3869,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Linköpings PK: B",
      "borta": "Västerås BTK",
@@ -3492,7 +3888,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "BTK Safir",
      "borta": "Eskilstuna BTK",
@@ -3509,7 +3907,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5756-0",
      "serie": "Div 2 ÖSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Västers BTK: C",
      "borta": "Kristinehamns BTF",
@@ -3538,7 +3938,9 @@
     {
      "datum": "2026-12-20",
      "tid": "09:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 8",
      "hemma": "IF Norcopensarna: E3",
      "borta": "Ljungsbro BTK: D",
@@ -3555,7 +3957,9 @@
     {
      "datum": "2026-12-20",
      "tid": "09:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 8",
      "hemma": "IK Sjöge",
      "borta": "Linköpings PK: F",
@@ -3572,7 +3976,9 @@
     {
      "datum": "2026-12-20",
      "tid": "09:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 8",
      "hemma": "Västers BTK: E",
      "borta": "IF Norcopensarna: E1",
@@ -3589,7 +3995,9 @@
     {
      "datum": "2026-12-20",
      "tid": "09:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 8",
      "hemma": "Vadstena BTK",
      "borta": "IF Norcopensarna: E2",
@@ -3606,7 +4014,9 @@
     {
      "datum": "2026-12-20",
      "tid": "12:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 9",
      "hemma": "Västers BTK: E",
      "borta": "Ljungsbro BTK: D",
@@ -3623,7 +4033,9 @@
     {
      "datum": "2026-12-20",
      "tid": "12:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 9",
      "hemma": "Vadstena BTK",
      "borta": "Linköpings PK: F",
@@ -3640,7 +4052,9 @@
     {
      "datum": "2026-12-20",
      "tid": "12:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 9",
      "hemma": "IF Norcopensarna: E2",
      "borta": "IF Norcopensarna: E1",
@@ -3657,7 +4071,9 @@
     {
      "datum": "2026-12-20",
      "tid": "12:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 9",
      "hemma": "IF Norcopensarna: E3",
      "borta": "IK Sjöge",
@@ -3686,7 +4102,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Ljungsbro BTK: D",
      "borta": "IK Sjöge",
@@ -3703,7 +4121,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "IF Norcopensarna: E1",
      "borta": "Vadstena BTK",
@@ -3720,7 +4140,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "IF Norcopensarna: E2",
      "borta": "IF Norcopensarna: E3",
@@ -3737,7 +4159,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Linköpings PK: F",
      "borta": "Västers BTK: E",
@@ -3754,7 +4178,9 @@
     {
      "datum": "2027-01-30",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "Ljungsbro BTK: D",
      "borta": "Vadstena BTK",
@@ -3771,7 +4197,9 @@
     {
      "datum": "2027-01-30",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "IF Norcopensarna: E2",
      "borta": "Västers BTK: E",
@@ -3788,7 +4216,9 @@
     {
      "datum": "2027-01-30",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "IF Norcopensarna: E1",
      "borta": "IK Sjöge",
@@ -3805,7 +4235,9 @@
     {
      "datum": "2027-01-30",
      "tid": "13:00",
+     "serie_id": "467-6947-0",
      "serie": "Division 6",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "Linköpings PK: F",
      "borta": "IF Norcopensarna: E3",
@@ -3834,7 +4266,9 @@
     {
      "datum": "2027-01-31",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Linköpings PK: E3",
      "borta": "IF Norcopensarna: D1",
@@ -3851,7 +4285,9 @@
     {
      "datum": "2027-01-31",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Linköpings PK: E2",
      "borta": "Linköpings PK: E4",
@@ -3868,7 +4304,9 @@
     {
      "datum": "2027-01-31",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Kuddby IF",
      "borta": "Linköpings PK: E5",
@@ -3885,7 +4323,9 @@
     {
      "datum": "2027-01-31",
      "tid": "09:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 10",
      "hemma": "Linköpings PK: E1",
      "borta": "IF Norcopensarna: D2",
@@ -3902,7 +4342,9 @@
     {
      "datum": "2027-01-31",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "IF Norcopensarna: D1",
      "borta": "Linköpings PK: E2",
@@ -3919,7 +4361,9 @@
     {
      "datum": "2027-01-31",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "Kuddby IF",
      "borta": "Linköpings PK: E3",
@@ -3936,7 +4380,9 @@
     {
      "datum": "2027-01-31",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "Linköpings PK: E1",
      "borta": "Linköpings PK: E4",
@@ -3953,7 +4399,9 @@
     {
      "datum": "2027-01-31",
      "tid": "12:00",
+     "serie_id": "467-6946-0",
      "serie": "Division 5",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 11",
      "hemma": "IF Norcopensarna: D2",
      "borta": "Linköpings PK: E5",
@@ -3982,7 +4430,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Katrineholms BTK: B1",
      "borta": "Spårvägens BTK: D1",
@@ -3999,7 +4449,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Södertälje BTK",
      "borta": "IF Norcopensarna: B",
@@ -4016,7 +4468,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Linköpings PK: C1",
      "borta": "Ljungsbro BTK: B",
@@ -4033,7 +4487,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Västers BTK: D",
      "borta": "Linköpings PK: C2",
@@ -4050,7 +4506,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Spårvägens BTK: D1",
      "borta": "Västers BTK: D",
@@ -4067,7 +4525,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Linköpings PK: C2",
      "borta": "Linköpings PK: C1",
@@ -4084,7 +4544,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Ljungsbro BTK: B",
      "borta": "Södertälje BTK",
@@ -4101,7 +4563,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5767-0",
      "serie": "Div 3 ÖSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "IF Norcopensarna: B",
      "borta": "Katrineholms BTK: B1",
@@ -4130,7 +4594,9 @@
     {
      "datum": "2027-04-10",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 12",
      "hemma": "Haga FF",
      "borta": "Ljungsbro BTK: C",
@@ -4147,7 +4613,9 @@
     {
      "datum": "2027-04-10",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 12",
      "hemma": "Linköpings PK: D1",
      "borta": "IF Norcopensarna: C1",
@@ -4164,7 +4632,9 @@
     {
      "datum": "2027-04-10",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 12",
      "hemma": "Västers BTK: D",
      "borta": "IF Norcopensarna: C2",
@@ -4181,7 +4651,9 @@
     {
      "datum": "2027-04-10",
      "tid": "10:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 12",
      "hemma": "Linköpings PK: D2",
      "borta": "IF Norcopensarna: C3",
@@ -4198,7 +4670,9 @@
     {
      "datum": "2027-04-10",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 13",
      "hemma": "Ljungsbro BTK: C",
      "borta": "IF Norcopensarna: C3",
@@ -4215,7 +4689,9 @@
     {
      "datum": "2027-04-10",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 13",
      "hemma": "IF Norcopensarna: C2",
      "borta": "Linköpings PK: D2",
@@ -4232,7 +4708,9 @@
     {
      "datum": "2027-04-10",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 13",
      "hemma": "IF Norcopensarna: C1",
      "borta": "Västers BTK: D",
@@ -4249,7 +4727,9 @@
     {
      "datum": "2027-04-10",
      "tid": "14:00",
+     "serie_id": "467-6786-0",
      "serie": "Division 4",
+     "evenemang": "Östergötlands BTF 2026/2027",
      "omgang": "Round 13",
      "hemma": "Haga FF",
      "borta": "Linköpings PK: D1",
@@ -4268,6 +4748,61 @@
  ],
  "tabeller": [
   {
+   "serie_id": "259-3389-0",
+   "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IK Sirius/SUIF: A2",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IF Norcopensarna",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Djurgårdens iF BTF: A2",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5756-0",
    "serie": "Div 2 ÖSS",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
@@ -4365,6 +4900,7 @@
    ]
   },
   {
+   "serie_id": "417-5767-0",
    "serie": "Div 3 ÖSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7",
@@ -4462,383 +4998,7 @@
    ]
   },
   {
-   "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 5",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
-   "exakt_lank": true,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Hallstahammar",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås 5",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Arboga",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Västerås 8",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås 4",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Västerås 7",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Västerås 2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Köping",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Västerås 6",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 10,
-     "lag": "Västerås 3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 11,
-     "lag": "Kungsör",
-     "klubb": "Bordtennisklubben Kungsör",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 12,
-     "lag": "Västerås 1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "IF Norcopensarna: E2",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Kval Superettan damer",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IK Sirius/SUIF: A2",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IF Norcopensarna",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lyckeby BTK",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Djurgårdens iF BTF: A2",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7",
@@ -4936,6 +5096,301 @@
    ]
   },
   {
+   "serie_id": "467-6786-0",
+   "serie": "Division 4",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1059/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IF Norcopensarna: C1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK: D1",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Norcopensarna: C2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Västers BTK: D",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ljungsbro BTK: C",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "IF Norcopensarna: C3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Linköpings PK: D2",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Haga FF",
+     "klubb": "Haga Fotbollsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "467-6946-0",
+   "serie": "Division 5",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1060/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IF Norcopensarna: D1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kuddby IF",
+     "klubb": "Kuddby Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Linköpings PK: E3",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Linköpings PK: E4",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IF Norcopensarna: D2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Linköpings PK: E5",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Linköpings PK: E1",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Linköpings PK: E2",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "467-6947-0",
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "IF Norcopensarna: E1",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "467-6951-0",
    "serie": "Öst",
    "evenemang": "Östergötlands BTF 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1361/2/7/7",

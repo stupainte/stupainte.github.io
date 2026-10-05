@@ -4,20 +4,14 @@
   "namn": "Lyckeby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T11:02:20Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Lyckeby BTK",
-   "serie": {
-    "namn": "Div 1 S Dam"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Lyckeby BTK",
    "serie": {
     "namn": "Kval Superettan damer"
    },
+   "evenemang": "Nationellt kvalspel 2026",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +19,7 @@
    "serie": {
     "namn": "Kval Superettan herrar"
    },
+   "evenemang": "Nationellt kvalspel 2026",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +27,15 @@
    "serie": {
     "namn": "Superettan (dam)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lyckeby BTK",
+   "serie": {
+    "namn": "Div 1 S Dam"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Superettan (herr)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "DIV 4 SÖDRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "DIV 5 SÖDRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +67,7 @@
    "serie": {
     "namn": "Div 6 Syd/ÖSTRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,6 +75,7 @@
    "serie": {
     "namn": "Div 6 Syd/MELLERSTA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "Div 6 Syd/VÄSTRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -81,6 +91,7 @@
    "serie": {
     "namn": "Div 6 Syd/ÖSTRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -88,6 +99,7 @@
    "serie": {
     "namn": "Div 6 Syd/ÖSTRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -95,6 +107,7 @@
    "serie": {
     "namn": "Div 6 Syd/VÄSTRA"
    },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -102,6 +115,7 @@
    "serie": {
     "namn": "Div 2 SSN"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -109,6 +123,7 @@
    "serie": {
     "namn": "Div 3 SSNV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -116,7 +131,9 @@
   {
    "datum": "2026-10-11",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK K",
    "borta": "Carlshamns BTK D",
@@ -133,7 +150,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK: C",
    "borta": "Vetlanda BTK: B",
@@ -150,7 +169,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK: C",
    "borta": "Högsby BTK",
@@ -167,7 +188,9 @@
   {
    "datum": "2026-10-17",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK",
    "borta": "Ängby SK",
@@ -184,7 +207,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF: B",
    "borta": "Lyckeby BTK",
@@ -201,7 +226,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Listerby IK D",
    "borta": "Lyckeby BTK G",
@@ -218,7 +245,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK H",
    "borta": "Damsnäs IF C",
@@ -235,7 +264,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK K",
    "borta": "Sölvesborgs BTK B",
@@ -252,7 +283,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK D",
    "borta": "Carlshamns BTK B",
@@ -269,7 +302,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Jämjö BTK C",
    "borta": "Lyckeby BTK E",
@@ -286,7 +321,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Nävragöls BK B",
    "borta": "Lyckeby BTK J",
@@ -303,7 +340,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK F",
    "borta": "Kättilsmåla BTK A",
@@ -320,7 +359,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK",
    "borta": "Jämjö BTK",
@@ -337,7 +378,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK",
    "borta": "Falkenbergs BTK",
@@ -354,7 +397,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "BTK Frej: B",
    "borta": "Lyckeby BTK: C",
@@ -371,7 +416,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lessebo BTK",
    "borta": "Lyckeby BTK",
@@ -388,7 +435,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK: C",
    "borta": "Långemåla BTK",
@@ -405,7 +454,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Jämjö BTK",
    "borta": "Lyckeby BTK: B",
@@ -422,7 +473,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Malmö IF: A2",
    "borta": "Lyckeby BTK",
@@ -439,7 +492,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "BTK Kävlinge",
    "borta": "Lyckeby BTK",
@@ -456,7 +511,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK G",
    "borta": "Jämjö BTK D",
@@ -473,7 +530,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK H",
    "borta": "Dänningelanda BTK F",
@@ -490,7 +549,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK K",
    "borta": "Kyrkhults BTK C",
@@ -507,7 +568,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Listerby IK B",
    "borta": "Lyckeby BTK D",
@@ -524,7 +587,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK J",
    "borta": "Lyckeby BTK F",
@@ -541,7 +606,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK J",
    "borta": "Lyckeby BTK F",
@@ -558,7 +625,9 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Kosta SK D",
    "borta": "Lyckeby BTK I",
@@ -575,7 +644,9 @@
   {
    "datum": "2026-11-15",
    "tid": "14:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Lyckeby BTK E",
    "borta": "BTK Frej D",
@@ -592,7 +663,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Carlshamns BTK",
    "borta": "Lyckeby BTK: B",
@@ -609,7 +682,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK",
    "borta": "Malmö IF: A1",
@@ -626,7 +701,9 @@
   {
    "datum": "2026-11-21",
    "tid": "14:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK H",
    "borta": "Lyckeby BTK K",
@@ -643,7 +720,9 @@
   {
    "datum": "2026-11-21",
    "tid": "14:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK H",
    "borta": "Lyckeby BTK K",
@@ -660,7 +739,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Kullåkra BTK B",
    "borta": "Lyckeby BTK G",
@@ -677,7 +758,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Nävragöls BK ",
    "borta": "Lyckeby BTK D",
@@ -694,7 +777,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Kättilsmåla BTK B",
    "borta": "Lyckeby BTK E",
@@ -711,7 +796,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Kättilsmåla BTK A",
    "borta": "Lyckeby BTK J",
@@ -728,7 +815,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK: B",
    "borta": "Huskvarna Södra IS",
@@ -745,7 +834,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IFK Lund Bordtennis",
    "borta": "Lyckeby BTK",
@@ -762,7 +853,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK",
    "borta": "Norrtulls SK",
@@ -779,7 +872,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK: C",
    "borta": "Dänningelanda BTK",
@@ -796,7 +891,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK: B",
    "borta": "SK Frigg",
@@ -813,7 +910,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK",
    "borta": "Kättilsmåla BTK",
@@ -830,7 +929,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK: C",
    "borta": "BTK Frej: B",
@@ -847,7 +948,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Nerikes Kils SK",
    "borta": "Lyckeby BTK",
@@ -864,7 +967,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK G",
    "borta": "Ihre BTK B",
@@ -881,7 +986,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Damsnäs IF C",
    "borta": "Lyckeby BTK K",
@@ -898,7 +1005,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Carlshamns BTK D",
    "borta": "Lyckeby BTK H",
@@ -915,7 +1024,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK D",
    "borta": "SK Frigg B",
@@ -932,7 +1043,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Kosta SK D",
    "borta": "Lyckeby BTK F",
@@ -949,7 +1062,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK I",
    "borta": "Nävragöls BK B",
@@ -966,7 +1081,9 @@
   {
    "datum": "2026-12-13",
    "tid": "14:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK E",
    "borta": "Listerby IK C",
@@ -983,7 +1100,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK: B",
    "borta": "Lessebo BTK",
@@ -1000,7 +1119,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Kungsbacka BTK",
    "borta": "Lyckeby BTK",
@@ -1017,7 +1138,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK",
    "borta": "Västers BTK",
@@ -1034,7 +1157,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Långemåla BTK",
    "borta": "Lyckeby BTK: C",
@@ -1051,7 +1176,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK: B",
    "borta": "Kosta SK: B",
@@ -1068,7 +1195,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Jämjö BTK",
    "borta": "Lyckeby BTK",
@@ -1085,7 +1214,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Vetlanda BTK: B",
    "borta": "Lyckeby BTK: C",
@@ -1102,7 +1233,9 @@
   {
    "datum": "2027-01-16",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Munkedals BTK",
    "borta": "Lyckeby BTK",
@@ -1119,7 +1252,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK G",
    "borta": "Sölvesborgs BTK C",
@@ -1136,7 +1271,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK K",
    "borta": "Dänningelanda BTK F",
@@ -1153,7 +1290,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK H",
    "borta": "Sölvesborgs BTK B",
@@ -1170,7 +1309,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK D",
    "borta": "Dänningelanda BTK C",
@@ -1187,7 +1328,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK I",
    "borta": "Lyckeby BTK F",
@@ -1204,7 +1347,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK I",
    "borta": "Lyckeby BTK F",
@@ -1221,7 +1366,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK E",
    "borta": "Kullåkra BTK A",
@@ -1238,7 +1385,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK G",
    "borta": "Carlshamns BTK C",
@@ -1255,7 +1404,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK K",
    "borta": "Damnäs IF B",
@@ -1272,7 +1423,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK H",
    "borta": "Kyrkhults BTK C",
@@ -1289,7 +1442,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK E",
    "borta": "Ihre BTK A",
@@ -1306,7 +1461,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK J",
    "borta": "Kosta SK D",
@@ -1323,7 +1480,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Kättilsmåla BTK A",
    "borta": "Lyckeby BTK I",
@@ -1340,7 +1499,9 @@
   {
    "datum": "2027-01-31",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK F",
    "borta": "Nävragöls BK B",
@@ -1357,7 +1518,9 @@
   {
    "datum": "2027-01-31",
    "tid": "17:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Kyrkhults BTK A",
    "borta": "Lyckeby BTK D",
@@ -1374,7 +1537,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK: B",
    "borta": "KFUM Jönköping IA",
@@ -1391,7 +1556,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Lyckeby BTK",
    "borta": "Lessebo BTK",
@@ -1408,7 +1575,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK",
    "borta": "Söderhamns UIF: B",
@@ -1425,7 +1594,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Högsby BTK",
    "borta": "Lyckeby BTK: C",
@@ -1440,7 +1611,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK: B",
    "borta": "Jämjö BTK",
@@ -1457,7 +1630,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK",
    "borta": "Kungsbacka BTK",
@@ -1474,7 +1649,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Dänningelanda BTK",
    "borta": "Lyckeby BTK: C",
@@ -1491,7 +1668,9 @@
   {
    "datum": "2027-02-13",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Ängby SK",
    "borta": "Lyckeby BTK",
@@ -1508,7 +1687,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Carlshamns BTK",
    "borta": "Lyckeby BTK",
@@ -1525,7 +1706,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Senorens IF A",
    "borta": "Lyckeby BTK G",
@@ -1542,7 +1725,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK H",
    "borta": "Damnäs IF B",
@@ -1559,7 +1744,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Carlshamns BTK D",
    "borta": "Lyckeby BTK K",
@@ -1576,7 +1763,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK D",
    "borta": "Bergkvara BTK",
@@ -1593,7 +1782,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK I",
    "borta": "Lyckeby BTK J",
@@ -1610,7 +1801,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK I",
    "borta": "Lyckeby BTK J",
@@ -1627,7 +1820,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Lyckeby BTK",
    "borta": "Malmö IF: A2",
@@ -1644,7 +1839,9 @@
   {
    "datum": "2027-02-14",
    "tid": "17:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Kyrkhults BTK B",
    "borta": "Lyckeby BTK E",
@@ -1661,7 +1858,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK G",
    "borta": "Listerby IK D",
@@ -1678,7 +1877,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Damsnäs IF C",
    "borta": "Lyckeby BTK H",
@@ -1695,7 +1896,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Sölvesborgs BTK B",
    "borta": "Lyckeby BTK K",
@@ -1712,7 +1915,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Carlshamns BTK B",
    "borta": "Lyckeby BTK D",
@@ -1729,7 +1934,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK E",
    "borta": "Jämjö BTK C",
@@ -1746,7 +1953,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK J",
    "borta": "Nävragöls BK B",
@@ -1763,7 +1972,9 @@
   {
    "datum": "2027-02-28",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Kättilsmåla BTK A",
    "borta": "Lyckeby BTK F",
@@ -1780,7 +1991,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK: B",
    "borta": "Carlshamns BTK",
@@ -1797,7 +2010,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Lyckeby BTK",
    "borta": "IF Norcopensarna",
@@ -1814,7 +2029,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Lyckeby BTK",
    "borta": "BTK Kävlinge",
@@ -1831,7 +2048,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Jämjö BTK: B",
    "borta": "Lyckeby BTK: C",
@@ -1848,7 +2067,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Jämjö BTK D",
    "borta": "Lyckeby BTK G",
@@ -1865,7 +2086,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Huskvarna Södra IS",
    "borta": "Lyckeby BTK: B",
@@ -1882,7 +2105,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Spårvägens BTK: B",
    "borta": "Lyckeby BTK",
@@ -1899,7 +2124,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Listerby IK",
    "borta": "Lyckeby BTK: C",
@@ -1916,7 +2143,9 @@
   {
    "datum": "2027-03-13",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 15",
    "hemma": "Falkenbergs BTK",
    "borta": "Lyckeby BTK",
@@ -1933,7 +2162,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK",
    "borta": "Ängby SK: B",
@@ -1950,7 +2181,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Malmö IF: A1",
    "borta": "Lyckeby BTK",
@@ -1967,7 +2200,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Dänningelanda BTK F",
    "borta": "Lyckeby BTK H",
@@ -1984,7 +2219,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Kyrkhults BTK C",
    "borta": "Lyckeby BTK K",
@@ -2001,7 +2238,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK D",
    "borta": "Listerby IK B",
@@ -2018,7 +2257,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "BTK Frej D",
    "borta": "Lyckeby BTK E",
@@ -2035,7 +2276,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK F",
    "borta": "Lyckeby BTK J",
@@ -2052,7 +2295,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK F",
    "borta": "Lyckeby BTK J",
@@ -2069,7 +2314,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK I",
    "borta": "Kosta SK D",
@@ -2086,7 +2333,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "IK Sirius/SUIF",
    "borta": "Lyckeby BTK",
@@ -2103,7 +2352,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Lyckeby BTK",
    "borta": "IFK Lund Bordtennis",
@@ -2120,7 +2371,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK G",
    "borta": "Kullåkra BTK B",
@@ -2137,7 +2390,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK K",
    "borta": "Lyckeby BTK H",
@@ -2154,7 +2409,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK K",
    "borta": "Lyckeby BTK H",
@@ -2171,7 +2428,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK D",
    "borta": "Nävragöls BK ",
@@ -2188,7 +2447,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK E",
    "borta": "Kättilsmåla BTK B",
@@ -2205,7 +2466,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK J",
    "borta": "Kättilsmåla BTK A",
@@ -2222,7 +2485,9 @@
   {
    "datum": "2027-04-10",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 17",
    "hemma": "Lyckeby BTK",
    "borta": "Nerikes Kils SK",
@@ -2239,7 +2504,9 @@
   {
    "datum": "2027-04-11",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 18",
    "hemma": "Norrtulls SK",
    "borta": "Lyckeby BTK",
@@ -2256,7 +2523,9 @@
   {
    "datum": "2027-04-12",
    "tid": "19:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "SK Frigg B",
    "borta": "Lyckeby BTK D",
@@ -2273,7 +2542,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Ihre BTK B",
    "borta": "Lyckeby BTK G",
@@ -2290,7 +2561,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Lyckeby BTK K",
    "borta": "Damsnäs IF C",
@@ -2307,7 +2580,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Lyckeby BTK H",
    "borta": "Carlshamns BTK D",
@@ -2324,7 +2599,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Listerby IK C",
    "borta": "Lyckeby BTK E",
@@ -2341,7 +2618,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Lyckeby BTK F",
    "borta": "Kosta SK D",
@@ -2358,7 +2637,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Nävragöls BK B",
    "borta": "Lyckeby BTK I",
@@ -2377,7 +2658,9 @@
   {
    "datum": "2026-04-11",
    "tid": "10:00",
+   "serie_id": "259-3845-0",
    "serie": "Kval Superettan herrar",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "IK Sirius BTK",
    "borta": "Lyckeby BTK",
@@ -2396,7 +2679,9 @@
   {
    "datum": "2026-04-11",
    "tid": "11:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "IK Sirius/SUIF: A2",
    "borta": "Lyckeby BTK",
@@ -2415,7 +2700,9 @@
   {
    "datum": "2026-04-11",
    "tid": "13:00",
+   "serie_id": "259-3845-0",
    "serie": "Kval Superettan herrar",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK",
    "borta": "Nerikes Kils SK",
@@ -2434,7 +2721,9 @@
   {
    "datum": "2026-04-11",
    "tid": "15:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK",
    "borta": "IF Norcopensarna",
@@ -2453,7 +2742,9 @@
   {
    "datum": "2026-04-11",
    "tid": "15:30",
+   "serie_id": "259-3845-0",
    "serie": "Kval Superettan herrar",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK",
    "borta": "Mariedals IK",
@@ -2472,7 +2763,9 @@
   {
    "datum": "2026-04-12",
    "tid": "10:00",
+   "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK",
    "borta": "Djurgårdens iF BTF: A2",
@@ -2491,7 +2784,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "SK Frigg",
    "borta": "Lyckeby BTK: B",
@@ -2510,7 +2805,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Lyckeby BTK",
    "borta": "IK Sirius/SUIF",
@@ -2529,7 +2826,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Lyckeby BTK: C",
    "borta": "Listerby IK",
@@ -2548,7 +2847,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Lessebo BTK",
    "borta": "Lyckeby BTK: B",
@@ -2567,7 +2868,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Ängby SK: B",
    "borta": "Lyckeby BTK",
@@ -2586,7 +2889,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK: C",
    "borta": "Jämjö BTK: B",
@@ -2605,7 +2910,9 @@
   {
    "datum": "2026-09-19",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Västers BTK",
    "borta": "Lyckeby BTK",
@@ -2624,7 +2931,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Kosta SK: B",
    "borta": "Lyckeby BTK: B",
@@ -2643,7 +2952,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK",
    "borta": "Spårvägens BTK: B",
@@ -2662,7 +2973,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Kättilsmåla BTK",
    "borta": "Lyckeby BTK",
@@ -2681,7 +2994,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK",
    "borta": "Munkedals BTK",
@@ -2700,7 +3015,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Dänningelanda BTK F",
    "borta": "Lyckeby BTK K",
@@ -2719,7 +3036,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Dänningelanda BTK C",
    "borta": "Lyckeby BTK D",
@@ -2738,7 +3057,9 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sölvesborgs BTK C",
    "borta": "Lyckeby BTK G",
@@ -2757,7 +3078,9 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sölvesborgs BTK B",
    "borta": "Lyckeby BTK H",
@@ -2776,7 +3099,9 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Lyckeby BTK F",
    "borta": "Lyckeby BTK I",
@@ -2795,7 +3120,9 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Lyckeby BTK F",
    "borta": "Lyckeby BTK I",
@@ -2814,7 +3141,9 @@
   {
    "datum": "2026-09-20",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Lyckeby BTK J",
    "borta": "SK Frigg C",
@@ -2833,7 +3162,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "KFUM Jönköping IA",
    "borta": "Lyckeby BTK: B",
@@ -2852,7 +3183,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IF Norcopensarna",
    "borta": "Lyckeby BTK",
@@ -2871,7 +3204,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK",
    "borta": "Carlshamns BTK",
@@ -2890,7 +3225,9 @@
   {
    "datum": "2026-09-21",
    "tid": "19:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Kullåkra BTK A",
    "borta": "Lyckeby BTK E",
@@ -2909,7 +3246,30 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Carlshamns BTK C",
+   "borta": "Lyckeby BTK G",
+   "hemma_klubb": "Carlshamns Bordtennisklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "Väggahallen",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Damnäs IF B",
    "borta": "Lyckeby BTK K",
@@ -2928,7 +3288,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Ihre BTK A",
    "borta": "Lyckeby BTK E",
@@ -2947,7 +3309,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Kosta SK D",
    "borta": "Lyckeby BTK J",
@@ -2966,7 +3330,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK I",
    "borta": "Kättilsmåla BTK A",
@@ -2985,7 +3351,9 @@
   {
    "datum": "2026-09-27",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Nävragöls BK B",
    "borta": "Lyckeby BTK F",
@@ -3004,7 +3372,9 @@
   {
    "datum": "2026-10-03",
    "tid": "11:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Lyckeby BTK D",
    "borta": "Kyrkhults BTK A",
@@ -3023,7 +3393,9 @@
   {
    "datum": "2026-10-03",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK J",
    "borta": "Lyckeby BTK I",
@@ -3042,7 +3414,9 @@
   {
    "datum": "2026-10-03",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK J",
    "borta": "Lyckeby BTK I",
@@ -3061,7 +3435,9 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK G",
    "borta": "Senorens IF A",
@@ -3080,7 +3456,9 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Damnäs IF B",
    "borta": "Lyckeby BTK H",
@@ -3099,7 +3477,9 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Bergkvara BTK",
    "borta": "Lyckeby BTK D",
@@ -3118,7 +3498,9 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK E",
    "borta": "Kyrkhults BTK B",
@@ -3137,7 +3519,9 @@
   {
    "datum": "2026-10-04",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK F",
    "borta": "Gullabo SK A",
@@ -3156,7 +3540,9 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Lyckeby BTK I",
    "borta": "SK Frigg C",
@@ -3175,7 +3561,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Gullabo SK A",
    "borta": "Lyckeby BTK I",
@@ -3194,7 +3582,9 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Lyckeby BTK F",
    "borta": "SK Frigg C",
@@ -3213,7 +3603,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Lyckeby BTK J",
    "borta": "Gullabo SK A",
@@ -3232,7 +3624,9 @@
   {
    "datum": "2027-01-13",
    "tid": "19:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 8",
    "hemma": "SK Frigg C",
    "borta": "Lyckeby BTK J",
@@ -3251,7 +3645,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Gullabo SK A",
    "borta": "Lyckeby BTK F",
@@ -3270,7 +3666,9 @@
   {
    "datum": "2027-02-24",
    "tid": "19:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 11",
    "hemma": "SK Frigg C",
    "borta": "Lyckeby BTK I",
@@ -3289,7 +3687,9 @@
   {
    "datum": "2027-03-31",
    "tid": "19:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "SK Frigg C",
    "borta": "Lyckeby BTK F",
@@ -3308,7 +3708,9 @@
   {
    "datum": "2027-04-04",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Lyckeby BTK I",
    "borta": "Gullabo SK A",
@@ -3327,7 +3729,9 @@
   {
    "datum": "2027-04-18",
    "tid": "13:00",
+   "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Gullabo SK A",
    "borta": "Lyckeby BTK J",
@@ -3358,7 +3762,9 @@
     {
      "datum": "2026-10-11",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Lyckeby BTK K",
      "borta": "Carlshamns BTK D",
@@ -3389,7 +3795,9 @@
     {
      "datum": "2026-10-18",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK D",
      "borta": "Carlshamns BTK B",
@@ -3406,7 +3814,9 @@
     {
      "datum": "2026-10-18",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK H",
      "borta": "Damsnäs IF C",
@@ -3423,7 +3833,9 @@
     {
      "datum": "2026-10-18",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK K",
      "borta": "Sölvesborgs BTK B",
@@ -3440,7 +3852,9 @@
     {
      "datum": "2026-10-18",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK I",
      "borta": "SK Frigg C",
@@ -3459,7 +3873,9 @@
     {
      "datum": "2026-10-18",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK F",
      "borta": "Kättilsmåla BTK A",
@@ -3488,7 +3904,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Lyckeby BTK",
      "borta": "Falkenbergs BTK",
@@ -3505,7 +3923,9 @@
     {
      "datum": "2026-11-14",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Falkenbergs BTK",
      "borta": "BTK Kävlinge",
@@ -3539,7 +3959,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "BTK Kävlinge",
      "borta": "Lyckeby BTK",
@@ -3556,7 +3978,9 @@
     {
      "datum": "2026-11-15",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Lyckeby BTK G",
      "borta": "Jämjö BTK D",
@@ -3573,7 +3997,9 @@
     {
      "datum": "2026-11-15",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Lyckeby BTK H",
      "borta": "Dänningelanda BTK F",
@@ -3590,7 +4016,9 @@
     {
      "datum": "2026-11-15",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Lyckeby BTK K",
      "borta": "Kyrkhults BTK C",
@@ -3607,7 +4035,9 @@
     {
      "datum": "2026-11-15",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Lyckeby BTK J",
      "borta": "Lyckeby BTK F",
@@ -3624,7 +4054,9 @@
     {
      "datum": "2026-11-15",
      "tid": "14:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Lyckeby BTK E",
      "borta": "BTK Frej D",
@@ -3653,7 +4085,9 @@
     {
      "datum": "2026-11-21",
      "tid": "14:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Lyckeby BTK H",
      "borta": "Lyckeby BTK K",
@@ -3682,7 +4116,9 @@
     {
      "datum": "2026-11-29",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Lyckeby BTK F",
      "borta": "SK Frigg C",
@@ -3713,7 +4149,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK",
      "borta": "Norrtulls SK",
@@ -3730,7 +4168,9 @@
     {
      "datum": "2026-12-12",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Norrtulls SK",
      "borta": "Nerikes Kils SK",
@@ -3764,7 +4204,9 @@
     {
      "datum": "2026-12-13",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Nerikes Kils SK",
      "borta": "Lyckeby BTK",
@@ -3781,7 +4223,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Lyckeby BTK D",
      "borta": "SK Frigg B",
@@ -3798,7 +4242,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Lyckeby BTK G",
      "borta": "Ihre BTK B",
@@ -3815,7 +4261,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Lyckeby BTK J",
      "borta": "Gullabo SK A",
@@ -3834,7 +4282,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Lyckeby BTK I",
      "borta": "Nävragöls BK B",
@@ -3851,7 +4301,9 @@
     {
      "datum": "2026-12-13",
      "tid": "14:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Lyckeby BTK E",
      "borta": "Listerby IK C",
@@ -3880,7 +4332,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Lessebo BTK",
      "borta": "Jämjö BTK",
@@ -3897,7 +4351,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Kungsbacka BTK",
      "borta": "Lyckeby BTK",
@@ -3914,7 +4370,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Lessebo BTK",
      "borta": "Kungsbacka BTK",
@@ -3931,7 +4389,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5729-0",
      "serie": "Superettan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Jämjö BTK",
      "borta": "Lyckeby BTK",
@@ -3965,7 +4425,9 @@
     {
      "datum": "2027-01-17",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK D",
      "borta": "Dänningelanda BTK C",
@@ -3982,7 +4444,9 @@
     {
      "datum": "2027-01-17",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK G",
      "borta": "Sölvesborgs BTK C",
@@ -3999,7 +4463,9 @@
     {
      "datum": "2027-01-17",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK K",
      "borta": "Dänningelanda BTK F",
@@ -4016,7 +4482,9 @@
     {
      "datum": "2027-01-17",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK H",
      "borta": "Sölvesborgs BTK B",
@@ -4033,7 +4501,9 @@
     {
      "datum": "2027-01-17",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK I",
      "borta": "Lyckeby BTK F",
@@ -4050,7 +4520,9 @@
     {
      "datum": "2027-01-17",
      "tid": "14:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Lyckeby BTK E",
      "borta": "Kullåkra BTK A",
@@ -4082,7 +4554,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK E",
      "borta": "Ihre BTK A",
@@ -4099,7 +4573,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK G",
      "borta": "Carlshamns BTK C",
@@ -4116,7 +4592,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK K",
      "borta": "Damnäs IF B",
@@ -4133,7 +4611,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK H",
      "borta": "Kyrkhults BTK C",
@@ -4150,7 +4630,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK J",
      "borta": "Kosta SK D",
@@ -4167,7 +4649,9 @@
     {
      "datum": "2027-01-31",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Lyckeby BTK F",
      "borta": "Nävragöls BK B",
@@ -4196,7 +4680,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-5760-0",
      "serie": "Div 2 SSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Huskvarna Södra IS",
      "borta": "Jämjö BTK",
@@ -4213,7 +4699,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-5760-0",
      "serie": "Div 2 SSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Lyckeby BTK: B",
      "borta": "KFUM Jönköping IA",
@@ -4230,7 +4718,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-5760-0",
      "serie": "Div 2 SSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Lyckeby BTK: B",
      "borta": "Jämjö BTK",
@@ -4247,7 +4737,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-5760-0",
      "serie": "Div 2 SSN",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Huskvarna Södra IS",
      "borta": "KFUM Jönköping IA",
@@ -4278,7 +4770,9 @@
     {
      "datum": "2027-02-14",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Lyckeby BTK D",
      "borta": "Bergkvara BTK",
@@ -4295,7 +4789,9 @@
     {
      "datum": "2027-02-14",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Lyckeby BTK H",
      "borta": "Damnäs IF B",
@@ -4312,7 +4808,9 @@
     {
      "datum": "2027-02-14",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Lyckeby BTK I",
      "borta": "Lyckeby BTK J",
@@ -4343,7 +4841,9 @@
     {
      "datum": "2027-02-28",
      "tid": "13:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Lyckeby BTK E",
      "borta": "Jämjö BTK C",
@@ -4360,7 +4860,9 @@
     {
      "datum": "2027-02-28",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Lyckeby BTK G",
      "borta": "Listerby IK D",
@@ -4377,7 +4879,9 @@
     {
      "datum": "2027-02-28",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Lyckeby BTK J",
      "borta": "Nävragöls BK B",
@@ -4406,7 +4910,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5778-0",
      "serie": "Div 3 SSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Listerby IK",
      "borta": "BTK Frej: B",
@@ -4423,7 +4929,9 @@
     {
      "datum": "2027-03-13",
      "tid": "11:00",
+     "serie_id": "417-5778-0",
      "serie": "Div 3 SSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Jämjö BTK: B",
      "borta": "Lyckeby BTK: C",
@@ -4440,7 +4948,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5778-0",
      "serie": "Div 3 SSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Jämjö BTK: B",
      "borta": "BTK Frej: B",
@@ -4457,7 +4967,9 @@
     {
      "datum": "2027-03-13",
      "tid": "15:00",
+     "serie_id": "417-5778-0",
      "serie": "Div 3 SSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Listerby IK",
      "borta": "Lyckeby BTK: C",
@@ -4490,7 +5002,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Malmö IF: A1",
      "borta": "Lyckeby BTK",
@@ -4507,7 +5021,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Carlshamns BTK",
      "borta": "Kättilsmåla BTK",
@@ -4524,7 +5040,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "IFK Lund Bordtennis",
      "borta": "Malmö IF: A2",
@@ -4541,7 +5059,9 @@
     {
      "datum": "2027-03-14",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Lyckeby BTK D",
      "borta": "Listerby IK B",
@@ -4558,7 +5078,9 @@
     {
      "datum": "2027-03-14",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Lyckeby BTK F",
      "borta": "Lyckeby BTK J",
@@ -4575,7 +5097,9 @@
     {
      "datum": "2027-03-14",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Lyckeby BTK I",
      "borta": "Kosta SK D",
@@ -4592,7 +5116,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Lyckeby BTK",
      "borta": "IFK Lund Bordtennis",
@@ -4609,7 +5135,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Malmö IF: A2",
      "borta": "Carlshamns BTK",
@@ -4626,7 +5154,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5741-0",
      "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Kättilsmåla BTK",
      "borta": "Malmö IF: A1",
@@ -4659,7 +5189,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK D",
      "borta": "Nävragöls BK ",
@@ -4676,7 +5208,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6740-0",
      "serie": "DIV 5 SÖDRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK E",
      "borta": "Kättilsmåla BTK B",
@@ -4693,7 +5227,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6758-0",
      "serie": "Div 6 Syd/MELLERSTA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK G",
      "borta": "Kullåkra BTK B",
@@ -4710,7 +5246,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK K",
      "borta": "Lyckeby BTK H",
@@ -4727,7 +5265,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK I",
      "borta": "Gullabo SK A",
@@ -4746,7 +5286,9 @@
     {
      "datum": "2027-04-04",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Lyckeby BTK J",
      "borta": "Kättilsmåla BTK A",
@@ -4775,7 +5317,9 @@
     {
      "datum": "2027-04-10",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 17",
      "hemma": "Lyckeby BTK",
      "borta": "Nerikes Kils SK",
@@ -4792,7 +5336,9 @@
     {
      "datum": "2027-04-10",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 17",
      "hemma": "Nerikes Kils SK",
      "borta": "Norrtulls SK",
@@ -4821,7 +5367,9 @@
     {
      "datum": "2027-04-11",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 18",
      "hemma": "Norrtulls SK",
      "borta": "Lyckeby BTK",
@@ -4851,7 +5399,9 @@
     {
      "datum": "2027-04-18",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Lyckeby BTK K",
      "borta": "Damsnäs IF C",
@@ -4868,7 +5418,9 @@
     {
      "datum": "2027-04-18",
      "tid": "13:00",
+     "serie_id": "372-6759-0",
      "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Lyckeby BTK H",
      "borta": "Carlshamns BTK D",
@@ -4885,7 +5437,9 @@
     {
      "datum": "2027-04-18",
      "tid": "13:00",
+     "serie_id": "372-6735-0",
      "serie": "Div 6 Syd/ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Lyckeby BTK F",
      "borta": "Kosta SK D",
@@ -4904,27 +5458,28 @@
  ],
  "tabeller": [
   {
-   "serie": "DIV 4 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
-   "exakt_lank": false,
+   "serie_id": "259-3389-0",
+   "serie": "Kval Superettan damer",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
+   "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Lyckeby BTK D",
-     "klubb": "Lyckeby Bordtennisklubb",
+     "lag": "IK Sirius/SUIF: A2",
+     "klubb": "IK Sirius Bordtennisklubb",
      "spelade": 3,
-     "vunna": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Nävragöls BK ",
-     "klubb": "Nävragöls Bollklubb",
+     "lag": "IF Norcopensarna",
+     "klubb": "Idrottsföreningen Norcopensarna",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -4934,63 +5489,19 @@
     },
     {
      "placering": 3,
-     "lag": "Dänningelanda BTK C",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kyrkhults BTK A",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Bergkvara BTK",
-     "klubb": "Bergkvara Bordtennisklubb",
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Carlshamns BTK B",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "SK Frigg B",
-     "klubb": "Sportklubben Frigg",
+     "placering": 4,
+     "lag": "Djurgårdens iF BTF: A2",
+     "klubb": "Djurgårdens IF BTF",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -5001,93 +5512,50 @@
    ]
   },
   {
-   "serie": "DIV 5 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
-   "exakt_lank": false,
+   "serie_id": "259-3845-0",
+   "serie": "Kval Superettan herrar",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
+   "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Kullåkra BTK A",
-     "klubb": "Kullåkra Bordtennisklubb",
+     "lag": "Nerikes Kils SK",
+     "klubb": "Nerikes Kils Sportklubb",
      "spelade": 3,
      "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "BTK Frej D",
-     "klubb": "Bordtennisklubben Frej",
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 3,
-     "vunna": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Jämjö BTK C",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
+     "lag": "IK Sirius BTK",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kyrkhults BTK B",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Ihre BTK A",
-     "klubb": "Ihre Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Listerby IK C",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Lyckeby BTK E",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Kättilsmåla BTK B",
-     "klubb": "Kättilsmåla Bordtennisklubb",
+     "lag": "Mariedals IK",
+     "klubb": "Mariedals Idrottsklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -5098,6 +5566,7 @@
    ]
   },
   {
+   "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7",
@@ -5173,6 +5642,7 @@
    ]
   },
   {
+   "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7",
@@ -5270,6 +5740,7 @@
    ]
   },
   {
+   "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7",
@@ -5367,403 +5838,7 @@
    ]
   },
   {
-   "serie": "Div 6 Syd/MELLERSTA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Lyckeby BTK G",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Listerby IK D",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Jämjö BTK D",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Carlshamns BTK C",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Ihre BTK B",
-     "klubb": "Ihre Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Sölvesborgs BTK C",
-     "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Div 6 Syd/VÄSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Dänningelanda BTK F",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Lyckeby BTK H",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Carlshamns BTK D",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Lyckeby BTK K",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Damnäs IF B",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Damsnäs IF C",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Sölvesborgs BTK B",
-     "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Kyrkhults BTK C",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Div 6 Syd/ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Lyckeby BTK F",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Kättilsmåla BTK A",
-     "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lyckeby BTK J",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kosta SK D",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Nävragöls BK B",
-     "klubb": "Nävragöls Bollklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Lyckeby BTK I",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 4,
-     "setdiff": "528–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Gullabo SK A",
-     "klubb": "Gullabo Sportklubb",
-     "spelade": 7,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 7,
-     "matchpoang": 0,
-     "setdiff": "0–1584"
-    },
-    {
-     "placering": 8,
-     "lag": "SK Frigg C",
-     "klubb": "Sportklubben Frigg",
-     "spelade": 7,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 7,
-     "matchpoang": 0,
-     "setdiff": "0–1584"
-    }
-   ]
-  },
-  {
-   "serie": "Kval Superettan damer",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "IK Sirius/SUIF: A2",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IF Norcopensarna",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lyckeby BTK",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Djurgårdens iF BTF: A2",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Kval Superettan herrar",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Nerikes Kils SK",
-     "klubb": "Nerikes Kils Sportklubb",
-     "spelade": 3,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 9,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Lyckeby BTK",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IK Sirius BTK",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Mariedals IK",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "417-5729-0",
    "serie": "Superettan (dam)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7",
@@ -5861,6 +5936,7 @@
    ]
   },
   {
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
@@ -5965,6 +6041,496 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-6762-0",
+   "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lyckeby BTK D",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Nävragöls BK ",
+     "klubb": "Nävragöls Bollklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Dänningelanda BTK C",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kyrkhults BTK A",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Bergkvara BTK",
+     "klubb": "Bergkvara Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Carlshamns BTK B",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "SK Frigg B",
+     "klubb": "Sportklubben Frigg",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-6740-0",
+   "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kullåkra BTK A",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Frej D",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Jämjö BTK C",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kyrkhults BTK B",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Listerby IK C",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Ihre BTK A",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Lyckeby BTK E",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kättilsmåla BTK B",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lyckeby BTK G",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Listerby IK D",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Jämjö BTK D",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Ihre BTK B",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Carlshamns BTK C",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Sölvesborgs BTK C",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Dänningelanda BTK F",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Lyckeby BTK H",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Carlshamns BTK D",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lyckeby BTK K",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Damnäs IF B",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Damsnäs IF C",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sölvesborgs BTK B",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kyrkhults BTK C",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-6735-0",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lyckeby BTK F",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kättilsmåla BTK A",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lyckeby BTK J",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kosta SK D",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Nävragöls BK B",
+     "klubb": "Nävragöls Bollklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lyckeby BTK I",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 4,
+     "setdiff": "528–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Gullabo SK A",
+     "klubb": "Gullabo Sportklubb",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1584"
+    },
+    {
+     "placering": 8,
+     "lag": "SK Frigg C",
+     "klubb": "Sportklubben Frigg",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1584"
     }
    ]
   }

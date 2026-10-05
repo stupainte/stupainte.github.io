@@ -4,27 +4,30 @@
   "namn": "Blikstorps Allmänna IK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-03T09:36:03Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Blikstorps AIK",
    "serie": {
     "namn": "Div 3 VSNÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Blikstorps AIK B",
    "serie": {
-    "namn": "Nordöstra"
+    "namn": "Div 4 Nordöstra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Blikstorps AIK C",
    "serie": {
-    "namn": "Nordöstra"
+    "namn": "Div 6 Nordöstra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -32,7 +35,9 @@
   {
    "datum": "2026-10-08",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Blikstorps AIK B",
    "borta": "Lidan BTK",
@@ -49,7 +54,9 @@
   {
    "datum": "2026-10-08",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Blikstorps AIK C",
    "borta": "Skövde PK D",
@@ -66,7 +73,9 @@
   {
    "datum": "2026-10-13",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "IFK Falköping BTK B",
    "borta": "Blikstorps AIK B",
@@ -83,7 +92,9 @@
   {
    "datum": "2026-10-15",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Blikstorps AIK C",
    "borta": "Karlsborgs BTK C1",
@@ -100,7 +111,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Blikstorps AIK",
    "borta": "Skövde PK: B",
@@ -117,7 +130,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Blikstorps AIK",
    "borta": "Mariestads BTK",
@@ -134,7 +149,9 @@
   {
    "datum": "2026-10-20",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Hangelösa IF",
    "borta": "Blikstorps AIK C",
@@ -151,7 +168,9 @@
   {
    "datum": "2026-11-05",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Blikstorps AIK C",
    "borta": "IFK Falköping BTK C1",
@@ -168,7 +187,9 @@
   {
    "datum": "2026-11-09",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Hova BTK B",
    "borta": "Blikstorps AIK C",
@@ -185,7 +206,9 @@
   {
    "datum": "2026-11-12",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Blikstorps AIK B",
    "borta": "Töreboda BTK",
@@ -202,7 +225,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Blikstorps AIK",
    "borta": "IFK Lidköping: A2",
@@ -219,7 +244,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Blikstorps AIK",
    "borta": "Ulricehamns IF",
@@ -236,7 +263,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Skagersviks BTK",
    "borta": "Blikstorps AIK B",
@@ -253,7 +282,9 @@
   {
    "datum": "2026-11-19",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Blikstorps AIK C",
    "borta": "Varnhems IF",
@@ -270,7 +301,9 @@
   {
    "datum": "2026-11-26",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Blikstorps AIK B",
    "borta": "Hova BTK",
@@ -287,7 +320,9 @@
   {
    "datum": "2026-11-26",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Karlsborgs BTK C2",
    "borta": "Blikstorps AIK C",
@@ -304,7 +339,9 @@
   {
    "datum": "2026-12-02",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Skövde PK D",
    "borta": "Blikstorps AIK C",
@@ -321,7 +358,9 @@
   {
    "datum": "2026-12-03",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Blikstorps AIK B",
    "borta": "Vedums AIS B",
@@ -338,7 +377,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Götene/Tor BTK",
    "borta": "Blikstorps AIK",
@@ -355,7 +396,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Blikstorps AIK",
    "borta": "Larvs FK",
@@ -372,7 +415,9 @@
   {
    "datum": "2027-01-06",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Lidan BTK",
    "borta": "Blikstorps AIK B",
@@ -389,7 +434,9 @@
   {
    "datum": "2027-01-07",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Karlsborgs BTK C1",
    "borta": "Blikstorps AIK C",
@@ -406,7 +453,9 @@
   {
    "datum": "2027-01-14",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Blikstorps AIK B",
    "borta": "IFK Falköping BTK B",
@@ -423,7 +472,9 @@
   {
    "datum": "2027-01-14",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Blikstorps AIK C",
    "borta": "Hangelösa IF",
@@ -440,7 +491,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Blikstorps AIK",
    "borta": "Karlsborgs BTK",
@@ -457,7 +510,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Skövde PK: B",
    "borta": "Blikstorps AIK",
@@ -474,7 +529,9 @@
   {
    "datum": "2027-01-26",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "IFK Falköping BTK C1",
    "borta": "Blikstorps AIK C",
@@ -491,7 +548,9 @@
   {
    "datum": "2027-02-03",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Töreboda BTK",
    "borta": "Blikstorps AIK B",
@@ -508,7 +567,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Blikstorps AIK C",
    "borta": "Hova BTK B",
@@ -525,7 +586,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF",
    "borta": "Blikstorps AIK",
@@ -542,7 +605,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "IFK Lidköping: A2",
    "borta": "Blikstorps AIK",
@@ -559,7 +624,9 @@
   {
    "datum": "2027-02-22",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Varnhems IF",
    "borta": "Blikstorps AIK C",
@@ -576,7 +643,9 @@
   {
    "datum": "2027-02-25",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Blikstorps AIK B",
    "borta": "Skagersviks BTK",
@@ -593,7 +662,9 @@
   {
    "datum": "2027-03-04",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Hova BTK",
    "borta": "Blikstorps AIK B",
@@ -610,7 +681,9 @@
   {
    "datum": "2027-03-04",
    "tid": "19:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Blikstorps AIK C",
    "borta": "Karlsborgs BTK C2",
@@ -627,7 +700,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Mariestads BTK",
    "borta": "Blikstorps AIK",
@@ -644,7 +719,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Blikstorps AIK",
    "borta": "Götene/Tor BTK",
@@ -663,7 +740,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Larvs FK",
    "borta": "Blikstorps AIK",
@@ -682,7 +761,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Karlsborgs BTK",
    "borta": "Blikstorps AIK",
@@ -701,7 +782,9 @@
   {
    "datum": "2026-10-01",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vedums AIS B",
    "borta": "Blikstorps AIK B",
@@ -720,7 +803,9 @@
   {
    "datum": "2026-11-05",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Götene Tor BTK",
    "borta": "Blikstorps AIK B",
@@ -739,7 +824,9 @@
   {
    "datum": "2027-01-28",
    "tid": "18:00",
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Blikstorps AIK B",
    "borta": "Götene Tor BTK",
@@ -763,14 +850,17 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 6 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2026-10-08",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Blikstorps AIK B",
      "borta": "Lidan BTK",
@@ -787,7 +877,9 @@
     {
      "datum": "2026-10-08",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 1",
      "hemma": "Blikstorps AIK C",
      "borta": "Skövde PK D",
@@ -809,14 +901,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 6 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-15",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Blikstorps AIK C",
      "borta": "Karlsborgs BTK C1",
@@ -838,14 +932,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 6 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-05",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Blikstorps AIK C",
      "borta": "IFK Falköping BTK C1",
@@ -867,14 +963,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-12",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Blikstorps AIK B",
      "borta": "Töreboda BTK",
@@ -896,14 +994,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 6 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-19",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Blikstorps AIK C",
      "borta": "Varnhems IF",
@@ -925,14 +1025,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-26",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Blikstorps AIK B",
      "borta": "Hova BTK",
@@ -954,14 +1056,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-12-03",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Blikstorps AIK B",
      "borta": "Vedums AIS B",
@@ -983,14 +1087,17 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra",
+    "Div 6 Nordöstra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-14",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Blikstorps AIK B",
      "borta": "IFK Falköping BTK B",
@@ -1007,7 +1114,9 @@
     {
      "datum": "2027-01-14",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Blikstorps AIK C",
      "borta": "Hangelösa IF",
@@ -1029,14 +1138,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-28",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Blikstorps AIK B",
      "borta": "Götene Tor BTK",
@@ -1060,14 +1171,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 6 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-04",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Blikstorps AIK C",
      "borta": "Hova BTK B",
@@ -1089,14 +1202,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 4 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-25",
      "tid": "18:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-6440-0",
+     "serie": "Div 4 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Blikstorps AIK B",
      "borta": "Skagersviks BTK",
@@ -1118,14 +1233,16 @@
     "-"
    ],
    "serier": [
-    "Nordöstra"
+    "Div 6 Nordöstra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-03-04",
      "tid": "19:00",
-     "serie": "Nordöstra",
+     "serie_id": "367-7428-0",
+     "serie": "Div 6 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Blikstorps AIK C",
      "borta": "Karlsborgs BTK C2",
@@ -1144,6 +1261,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
@@ -1241,14 +1359,168 @@
    ]
   },
   {
-   "serie": "Nordöstra",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Lidan BTK",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Vedums AIS B",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Blikstorps AIK B",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Skagersviks BTK",
+     "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Töreboda BTK",
+     "klubb": "Töreboda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Götene Tor BTK",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1848"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-7428-0",
+   "serie": "Div 6 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
+     "lag": "Blikstorps AIK C",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Karlsborgs BTK C1",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Hangelösa IF",
+     "klubb": "Hangelösa Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFK Falköping BTK C1",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hova BTK B",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Varnhems IF",
      "klubb": "Varnhems Idrottsförening",
      "spelade": 0,
@@ -1259,30 +1531,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Lidan BTK Gul",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Karlsborgs BTK",
+     "placering": 7,
+     "lag": "Karlsborgs BTK C2",
      "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
@@ -1292,19 +1542,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Lidan BTK Röd",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Skövde PK",
+     "placering": 8,
+     "lag": "Skövde PK D",
      "klubb": "Skövde Pingisklubb",
      "spelade": 0,
      "vunna": 0,

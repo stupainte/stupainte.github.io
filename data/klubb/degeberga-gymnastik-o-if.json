@@ -4,20 +4,30 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-26T09:03:14Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
    "serie": {
     "namn": "Div 3 SSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Degeberga GoIF B",
    "serie": {
-    "namn": "Division 4 Nordöstra"
+    "namn": "Division 4 Nordöstra (1)"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Degeberga GoIF B",
+   "serie": {
+    "namn": "Division 4 Nordöstra (2)"
+   },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -25,7 +35,9 @@
   {
    "datum": "2026-10-15",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Degeberga GoIF B",
    "borta": "Winnö IF A",
@@ -40,7 +52,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Skurups BTK",
    "borta": "Degeberga GOIF",
@@ -57,7 +71,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IFK Lund Bordtennis: C1",
    "borta": "Degeberga GOIF",
@@ -74,7 +90,9 @@
   {
    "datum": "2026-10-22",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Degeberga GoIF B",
    "borta": "KFUM Kristianstad BTF B",
@@ -89,7 +107,9 @@
   {
    "datum": "2026-11-09",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Arkelstorps BTK A",
    "borta": "Degeberga GoIF B",
@@ -104,7 +124,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IF Ale",
    "borta": "Degeberga GOIF",
@@ -121,7 +143,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Sölvesborgs BTK",
    "borta": "Degeberga GOIF",
@@ -138,7 +162,9 @@
   {
    "datum": "2026-11-19",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Degeberga GoIF B",
    "borta": "Hässleholms BTK A",
@@ -153,7 +179,9 @@
   {
    "datum": "2026-11-27",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "KFUM Kristianstad BTF C",
    "borta": "Degeberga GoIF B",
@@ -168,7 +196,9 @@
   {
    "datum": "2026-12-08",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "Winnö IF A",
    "borta": "Degeberga GoIF B",
@@ -183,7 +213,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Degeberga GOIF",
    "borta": "Malmö IF: B",
@@ -200,7 +232,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Degeberga GOIF",
    "borta": "KFUM Kristianstad BTF",
@@ -217,7 +251,9 @@
   {
    "datum": "2026-12-18",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "KFUM Kristianstad BTF B",
    "borta": "Degeberga GoIF B",
@@ -232,7 +268,9 @@
   {
    "datum": "2027-01-14",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Degeberga GoIF B",
    "borta": "Arkelstorps BTK A",
@@ -247,7 +285,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Degeberga GOIF",
    "borta": "BTK Scania",
@@ -264,7 +304,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Degeberga GOIF",
    "borta": "Skurups BTK",
@@ -281,7 +323,9 @@
   {
    "datum": "2027-01-20",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "Hässleholms BTK A",
    "borta": "Degeberga GoIF B",
@@ -296,7 +340,9 @@
   {
    "datum": "2027-01-28",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Degeberga GoIF B",
    "borta": "KFUM Kristianstad BTF C",
@@ -311,7 +357,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Degeberga GoIF B",
    "borta": "Winnö IF A",
@@ -326,7 +374,9 @@
   {
    "datum": "2027-02-12",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "KFUM Kristianstad BTF C",
    "borta": "Degeberga GoIF B",
@@ -341,7 +391,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Degeberga GOIF",
    "borta": "Sölvesborgs BTK",
@@ -358,7 +410,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Degeberga GOIF",
    "borta": "IF Ale",
@@ -375,7 +429,9 @@
   {
    "datum": "2027-03-04",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Degeberga GoIF B",
    "borta": "KFUM Kristianstad BTF B",
@@ -390,7 +446,9 @@
   {
    "datum": "2027-03-11",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Degeberga GoIF B",
    "borta": "Hässleholms BTK A",
@@ -405,7 +463,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Degeberga GOIF",
    "borta": "IFK Lund Bordtennis: C1",
@@ -422,7 +482,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Malmö IF: B",
    "borta": "Degeberga GOIF",
@@ -439,7 +501,9 @@
   {
    "datum": "2027-03-15",
    "tid": "19:00",
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Arkelstorps BTK A",
    "borta": "Degeberga GoIF B",
@@ -456,7 +520,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "KFUM Kristianstad BTF",
    "borta": "Degeberga GOIF",
@@ -475,7 +541,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "BTK Scania",
    "borta": "Degeberga GOIF",
@@ -506,7 +574,9 @@
     {
      "datum": "2027-02-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Degeberga GOIF",
      "borta": "Sölvesborgs BTK",
@@ -523,7 +593,9 @@
     {
      "datum": "2027-02-14",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "IF Ale",
@@ -540,7 +612,9 @@
     {
      "datum": "2027-02-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Degeberga GOIF",
      "borta": "IF Ale",
@@ -557,7 +631,9 @@
     {
      "datum": "2027-02-14",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "Sölvesborgs BTK",
@@ -576,6 +652,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
@@ -673,7 +750,84 @@
    ]
   },
   {
-   "serie": "Division 4 Nordöstra",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Degeberga GoIF B",
+     "klubb": "Degeberga Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Arkelstorps BTK A",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Hässleholms BTK A",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "KFUM Kristianstad BTF C",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Winnö IF A",
+     "klubb": "Winnö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "513-7565-0",
+   "serie": "Division 4 Nordöstra (2)",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
    "exakt_lank": false,

@@ -4,13 +4,14 @@
   "namn": "Bordtennisklubben Rekord"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "BTK Rekord",
    "serie": {
-    "namn": "Div 2 SSÖ Dam"
+    "namn": "Pingisligan herrar Knockout"
    },
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,13 +19,15 @@
    "serie": {
     "namn": "Pingisligan (herr)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "BTK Rekord",
    "serie": {
-    "namn": "Pingisligan herrar Knockout"
+    "namn": "Div 2 SSÖ Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 4 Västra"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 4 Västra"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Div 3 SSSV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -53,7 +59,9 @@
   {
    "datum": "2026-10-13",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Kosta SK",
    "borta": "BTK Rekord",
@@ -70,7 +78,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "BTK Rekord: B",
    "borta": "Åstorps BTK: C",
@@ -87,7 +97,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "BTK Rekord: B",
    "borta": "Halmstad BTK: D",
@@ -104,7 +116,9 @@
   {
    "datum": "2026-10-21",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "BTK Rekord C",
    "borta": "Kågeröds BTK C",
@@ -121,7 +135,9 @@
   {
    "datum": "2026-10-21",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "BTK Rekord D",
    "borta": "IFK Lund D1",
@@ -138,7 +154,9 @@
   {
    "datum": "2026-11-09",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund D1",
    "borta": "BTK Rekord C",
@@ -155,7 +173,9 @@
   {
    "datum": "2026-11-12",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Eskilstuna by STIGA",
    "borta": "BTK Rekord",
@@ -172,7 +192,9 @@
   {
    "datum": "2026-11-12",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Klippans BTK A",
    "borta": "BTK Rekord D",
@@ -189,7 +211,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Kosta SK: B",
    "borta": "BTK Rekord",
@@ -206,7 +230,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "BTK Rekord: B",
    "borta": "Laholms BTK Serve",
@@ -223,7 +249,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "BTK Rekord",
    "borta": "Bergkvara BTK",
@@ -240,7 +268,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "BTK Rekord: B",
    "borta": "Varbergs BTK: B1",
@@ -257,7 +287,9 @@
   {
    "datum": "2026-11-17",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Eslövs AI BTK",
    "borta": "BTK Rekord",
@@ -274,7 +306,9 @@
   {
    "datum": "2026-11-18",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "BTK Rekord C",
    "borta": "Åstorps BTK D",
@@ -291,7 +325,9 @@
   {
    "datum": "2026-11-18",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "BTK Rekord D",
    "borta": "BTK Scania B",
@@ -308,7 +344,9 @@
   {
    "datum": "2026-11-25",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Kågeröds BTK C",
    "borta": "BTK Rekord D",
@@ -325,7 +363,9 @@
   {
    "datum": "2026-11-26",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Klippans BTK A",
    "borta": "BTK Rekord C",
@@ -342,7 +382,9 @@
   {
    "datum": "2026-12-08",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "BTK Rekord",
    "borta": "Söderhamns UIF",
@@ -359,7 +401,9 @@
   {
    "datum": "2026-12-09",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "BTK Rekord C",
    "borta": "IFK Lund D2",
@@ -376,7 +420,9 @@
   {
    "datum": "2026-12-09",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "BTK Rekord D",
    "borta": "Åstorps BTK D",
@@ -393,7 +439,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Kalmar BTK",
    "borta": "BTK Rekord",
@@ -410,7 +458,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Kågeröds BTK: B",
    "borta": "BTK Rekord: B",
@@ -427,7 +477,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "BTK Rekord",
    "borta": "Kosta SK: B",
@@ -444,7 +496,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IFK Lund Bordtennis: C2",
    "borta": "BTK Rekord: B",
@@ -461,7 +515,9 @@
   {
    "datum": "2026-12-15",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "BTK Rekord",
    "borta": "Halmstad BTK",
@@ -478,7 +534,9 @@
   {
    "datum": "2026-12-16",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "IFK Lund D2",
    "borta": "BTK Rekord D",
@@ -495,7 +553,9 @@
   {
    "datum": "2026-12-17",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "BTK Scania B",
    "borta": "BTK Rekord C",
@@ -512,7 +572,9 @@
   {
    "datum": "2027-01-12",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Spårvägens BTK",
    "borta": "BTK Rekord",
@@ -529,7 +591,9 @@
   {
    "datum": "2027-01-13",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "BTK Rekord C",
    "borta": "BTK Rekord D",
@@ -546,7 +610,9 @@
   {
    "datum": "2027-01-13",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "BTK Rekord C",
    "borta": "BTK Rekord D",
@@ -563,7 +629,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Bergkvara BTK",
    "borta": "BTK Rekord",
@@ -580,7 +648,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Halmstad BTK: D",
    "borta": "BTK Rekord: B",
@@ -597,7 +667,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "BTK Rekord",
    "borta": "Kalmar BTK",
@@ -614,7 +686,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Laholms BTK Serve",
    "borta": "BTK Rekord: B",
@@ -631,7 +705,9 @@
   {
    "datum": "2027-01-18",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "IFK Lund D1",
    "borta": "BTK Rekord D",
@@ -648,7 +724,9 @@
   {
    "datum": "2027-01-19",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "BTK Rekord",
    "borta": "Kosta SK",
@@ -665,7 +743,9 @@
   {
    "datum": "2027-01-20",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "Kågeröds BTK C",
    "borta": "BTK Rekord C",
@@ -682,7 +762,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "BTK Rekord C",
    "borta": "IFK Lund D1",
@@ -699,7 +781,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "BTK Rekord D",
    "borta": "Klippans BTK A",
@@ -716,7 +800,9 @@
   {
    "datum": "2027-02-02",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "Åstorps BTK D",
    "borta": "BTK Rekord C",
@@ -733,7 +819,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "BTK Scania B",
    "borta": "BTK Rekord D",
@@ -750,7 +838,9 @@
   {
    "datum": "2027-02-10",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "BTK Rekord C",
    "borta": "Klippans BTK A",
@@ -767,7 +857,9 @@
   {
    "datum": "2027-02-10",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "BTK Rekord D",
    "borta": "Kågeröds BTK C",
@@ -784,7 +876,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Rekord: B",
    "borta": "Kullahalvöns BTK",
@@ -801,7 +895,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Åstorps BTK: C",
    "borta": "BTK Rekord: B",
@@ -818,7 +914,9 @@
   {
    "datum": "2027-02-18",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Rekord",
    "borta": "Eskilstuna by STIGA",
@@ -835,7 +933,9 @@
   {
    "datum": "2027-03-02",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Rekord",
    "borta": "Eslövs AI BTK",
@@ -852,7 +952,9 @@
   {
    "datum": "2027-03-02",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "Åstorps BTK D",
    "borta": "BTK Rekord D",
@@ -869,7 +971,9 @@
   {
    "datum": "2027-03-03",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "IFK Lund D2",
    "borta": "BTK Rekord C",
@@ -886,7 +990,9 @@
   {
    "datum": "2027-03-10",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "BTK Rekord C",
    "borta": "BTK Scania B",
@@ -903,7 +1009,9 @@
   {
    "datum": "2027-03-10",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "BTK Rekord D",
    "borta": "IFK Lund D2",
@@ -920,7 +1028,9 @@
   {
    "datum": "2027-03-11",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Söderhamns UIF",
    "borta": "BTK Rekord",
@@ -937,7 +1047,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Sjöbo BTK",
    "borta": "BTK Rekord",
@@ -954,7 +1066,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Varbergs BTK: B1",
    "borta": "BTK Rekord: B",
@@ -971,7 +1085,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Rekord",
    "borta": "IFK Lund Bordtennis: B",
@@ -988,7 +1104,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "BTK Rekord: B",
    "borta": "Kågeröds BTK: B",
@@ -1005,7 +1123,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Trelleborgs BTK",
    "borta": "BTK Rekord",
@@ -1022,7 +1142,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "BTK Rekord",
    "borta": "Malmö IF: B",
@@ -1039,7 +1161,9 @@
   {
    "datum": "2027-03-16",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Halmstad BTK",
    "borta": "BTK Rekord",
@@ -1058,7 +1182,9 @@
   {
    "datum": "2026-04-13",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "BTK Rekord",
    "borta": "Söderhamns UIF",
@@ -1078,7 +1204,9 @@
   {
    "datum": "2026-04-15",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Söderhamns UIF",
    "borta": "BTK Rekord",
@@ -1098,7 +1226,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Malmö IF: B",
    "borta": "BTK Rekord",
@@ -1117,7 +1247,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "BTK Rekord: B",
    "borta": "IFK Lund Bordtennis: C2",
@@ -1136,7 +1268,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "BTK Rekord",
    "borta": "Trelleborgs BTK",
@@ -1155,7 +1289,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Kullahalvöns BTK",
    "borta": "BTK Rekord: B",
@@ -1174,7 +1310,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "IFK Lund Bordtennis: B",
    "borta": "BTK Rekord",
@@ -1193,7 +1331,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "BTK Rekord",
    "borta": "Sjöbo BTK",
@@ -1212,7 +1352,9 @@
   {
    "datum": "2026-09-22",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "BTK Rekord",
    "borta": "Spårvägens BTK",
@@ -1243,7 +1385,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "IFK Lund Bordtennis: C2",
      "borta": "Halmstad BTK: D",
@@ -1260,7 +1404,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "BTK Rekord: B",
      "borta": "Åstorps BTK: C",
@@ -1277,7 +1423,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kullahalvöns BTK",
      "borta": "Laholms BTK Serve",
@@ -1294,7 +1442,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kågeröds BTK: B",
      "borta": "Varbergs BTK: B1",
@@ -1311,7 +1461,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "IFK Lund Bordtennis: C2",
      "borta": "Åstorps BTK: C",
@@ -1328,7 +1480,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "BTK Rekord: B",
      "borta": "Halmstad BTK: D",
@@ -1345,7 +1499,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Kullahalvöns BTK",
      "borta": "Varbergs BTK: B1",
@@ -1362,7 +1518,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Kågeröds BTK: B",
      "borta": "Laholms BTK Serve",
@@ -1391,7 +1549,9 @@
     {
      "datum": "2026-10-21",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "BTK Rekord C",
      "borta": "Kågeröds BTK C",
@@ -1408,7 +1568,9 @@
     {
      "datum": "2026-10-21",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "BTK Rekord D",
      "borta": "IFK Lund D1",
@@ -1437,7 +1599,9 @@
     {
      "datum": "2026-11-18",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "BTK Rekord C",
      "borta": "Åstorps BTK D",
@@ -1454,7 +1618,9 @@
     {
      "datum": "2026-11-18",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "BTK Rekord D",
      "borta": "BTK Scania B",
@@ -1483,7 +1649,9 @@
     {
      "datum": "2026-12-08",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "BTK Rekord",
      "borta": "Söderhamns UIF",
@@ -1512,7 +1680,9 @@
     {
      "datum": "2026-12-09",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 6",
      "hemma": "BTK Rekord C",
      "borta": "IFK Lund D2",
@@ -1529,7 +1699,9 @@
     {
      "datum": "2026-12-09",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 6",
      "hemma": "BTK Rekord D",
      "borta": "Åstorps BTK D",
@@ -1558,7 +1730,9 @@
     {
      "datum": "2026-12-15",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "BTK Rekord",
      "borta": "Halmstad BTK",
@@ -1587,7 +1761,9 @@
     {
      "datum": "2027-01-13",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 8",
      "hemma": "BTK Rekord C",
      "borta": "BTK Rekord D",
@@ -1616,7 +1792,9 @@
     {
      "datum": "2027-01-19",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "BTK Rekord",
      "borta": "Kosta SK",
@@ -1645,7 +1823,9 @@
     {
      "datum": "2027-01-27",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 10",
      "hemma": "BTK Rekord C",
      "borta": "IFK Lund D1",
@@ -1662,7 +1842,9 @@
     {
      "datum": "2027-01-27",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 10",
      "hemma": "BTK Rekord D",
      "borta": "Klippans BTK A",
@@ -1691,7 +1873,9 @@
     {
      "datum": "2027-02-10",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 12",
      "hemma": "BTK Rekord C",
      "borta": "Klippans BTK A",
@@ -1708,7 +1892,9 @@
     {
      "datum": "2027-02-10",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 12",
      "hemma": "BTK Rekord D",
      "borta": "Kågeröds BTK C",
@@ -1737,7 +1923,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "BTK Rekord: B",
      "borta": "Kullahalvöns BTK",
@@ -1754,7 +1942,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "IFK Lund Bordtennis: C2",
      "borta": "Kågeröds BTK: B",
@@ -1771,7 +1961,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Varbergs BTK: B1",
      "borta": "Halmstad BTK: D",
@@ -1788,7 +1980,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Laholms BTK Serve",
      "borta": "Åstorps BTK: C",
@@ -1805,7 +1999,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Halmstad BTK: D",
      "borta": "IFK Lund Bordtennis: C2",
@@ -1822,7 +2018,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Åstorps BTK: C",
      "borta": "BTK Rekord: B",
@@ -1839,7 +2037,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Laholms BTK Serve",
      "borta": "Kullahalvöns BTK",
@@ -1856,7 +2056,9 @@
     {
      "datum": "2027-02-13",
      "tid": "15:00",
+     "serie_id": "417-6294-0",
      "serie": "Div 3 SSSV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Varbergs BTK: B1",
      "borta": "Kågeröds BTK: B",
@@ -1885,7 +2087,9 @@
     {
      "datum": "2027-02-18",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "BTK Rekord",
      "borta": "Eskilstuna by STIGA",
@@ -1914,7 +2118,9 @@
     {
      "datum": "2027-03-02",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "BTK Rekord",
      "borta": "Eslövs AI BTK",
@@ -1943,7 +2149,9 @@
     {
      "datum": "2027-03-10",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 14",
      "hemma": "BTK Rekord C",
      "borta": "BTK Scania B",
@@ -1960,7 +2168,9 @@
     {
      "datum": "2027-03-10",
      "tid": "18:30",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 14",
      "hemma": "BTK Rekord D",
      "borta": "IFK Lund D2",
@@ -1979,6 +2189,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
@@ -2076,6 +2287,7 @@
    ]
   },
   {
+   "serie_id": "417-6294-0",
    "serie": "Div 3 SSSV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
@@ -2173,6 +2385,148 @@
    ]
   },
   {
+   "serie_id": "417-5727-0",
+   "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Eslövs AI BTK",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Eskilstuna by STIGA",
+     "klubb": "Linden Bordtennisklubb Eskilstuna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "302-3873-0",
+   "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Eslövs AI BTK",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
@@ -2265,145 +2619,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Pingisligan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Eslövs AI BTK",
-     "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Rekord",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Eskilstuna by STIGA",
-     "klubb": "Linden Bordtennisklubb Eskilstuna",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Pingisligan herrar Knockout",
-   "evenemang": "Pingisligan by STIGA Slutspel",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Eslövs AI BTK",
-     "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Rekord",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

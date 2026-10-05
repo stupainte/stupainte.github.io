@@ -284,6 +284,73 @@ def hamta_evenemang(api: Stupa) -> tuple[list[dict], list[dict]]:
     return serier, turneringar
 
 
+# Klassmärkningar (category.abbr) för serier som INTE är ordinarie seniorserier.
+# STUPA döper ibland veteranernas divisioner till bara "Div 1", "Div 4" osv,
+# så de förväxlas med seniorernas. Upptäckt via Boo Racketklubb 2026-10-05:
+# Stockholms "Div 1" och "Div 4" är Vet 35-serier, inte seniorserier.
+KLASSABBR = re.compile(r"^(vet|pension|ungd|höst ungd)", re.IGNORECASE)
+
+
+def entydiga_divisionsnamn(stages: list[dict], ev_namn: str) -> dict[int, str]:
+    """
+    Ger varje stage ett visningsnamn som är unikt inom evenemanget.
+
+    Råmaterialet, category_description, räcker inte. Verifierat mot alla 18
+    seriespel 2026-10-05:
+
+    - Samma beskrivning förekommer under flera klasser i ett evenemang
+      (Nordvästra Götaland: "Nordvästra" finns under både Div 4 och Div 6).
+    - Veteran- och pensionärsserier heter ibland bara "Div 1" (Stockholm).
+    - Ibland finns till och med identiska beskrivning + klass flera gånger
+      (Göteborg: "Division 4" tre gånger).
+
+    Regler, i ordning:
+      1. Klassmärkning (Vet/Pensionär/Ungdom) läggs som prefix om beskrivningen
+         inte redan nämner den: "Div 1" + "Vet 35" → "Vet 35 Div 1".
+      2. Återstående dubbletter får klassen som prefix om beskrivningen inte
+         redan börjar med den: "Nordvästra" + "Div 4" → "Div 4 Nordvästra".
+      3. Allt som fortfarande krockar numreras: "Division 4 (1)", "(2)".
+
+    Namnet är bara till för läsaren. Identiteten är serie_id.
+    """
+    rader = []
+    for st in stages:
+        kat = (st.get("event_category") or {}).get("category") or {}
+        beskr = kat.get("category_description") or kat.get("abbr") or ev_namn
+        abbr = (kat.get("abbr") or "").strip()
+        namn = beskr
+        if abbr and KLASSABBR.match(abbr):
+            rot = re.split(r"\s", abbr)[0].lower()[:3]          # "vet", "pen"…
+            if rot not in beskr.lower():
+                namn = f"{abbr} {beskr}"
+        rader.append((st["id"], beskr, abbr, namn))
+
+    # Klassen skiljer bara serier åt när samma beskrivning finns under
+    # FLERA klasser. Upprepas även klassen är det en ren dubblett i STUPA
+    # och prefixet vore bara brus ("Div 3 Dam Division 3 Damer") — då räcker
+    # numreringen i steg 3.
+    klasser_per_beskr: dict[str, set] = defaultdict(set)
+    for _, beskr, abbr, _ in rader:
+        klasser_per_beskr[beskr].add(abbr)
+    steg2 = {}
+    for sid, beskr, abbr, namn in rader:
+        if (namn == beskr and len(klasser_per_beskr[beskr]) > 1 and abbr
+                and not beskr.lower().startswith(abbr.lower())):
+            namn = f"{abbr} {beskr}"
+        steg2[sid] = namn
+
+    antal_namn = Counter(steg2.values())
+    lopnr: Counter = Counter()
+    ut = {}
+    for sid, _, _, _ in rader:
+        namn = steg2[sid]
+        if antal_namn[namn] > 1:
+            lopnr[namn] += 1
+            namn = f"{namn} ({lopnr[namn]})"
+        ut[sid] = namn
+    return ut
+
+
 def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
     """
     Hämtar alla matcher och tabeller för ett seriespel (ett distrikt
@@ -329,6 +396,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
     # duger därför inte för namnet — undergrupperna A/B/C saknas där. Den
     # används ändå ovan, för att avgöra länkens tillförlitlighet.
     stages = api.data("get_stages", event_id=ev_id, per_page=200)
+    divisionsnamn = entydiga_divisionsnamn(stages, ev_namn)
 
     matcher: list[dict] = []
     tabeller: list[dict] = []
@@ -336,11 +404,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
     for st in stages:
         ec = st.get("event_category") or {}
         kat = ec.get("category") or {}
-        division = (
-            kat.get("category_description")     # "Division 4A"
-            or kat.get("abbr")                  # "Div 4"
-            or ev_namn
-        )
+        division = divisionsnamn[st["id"]]
         # Den nakna adressen /events/435 ger "No Records Found", så den
         # fullständiga formen behålls även när länken inte är exakt — se
         # `exakt_lank`-resonemanget ovan för varför den ibland ändå landar
@@ -362,10 +426,14 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
             show_organiser_details=True,
         )
 
-        for gr in grupper:
+        for gi, gr in enumerate(grupper):
             serienamn = division
             if (gr.get("name") or "").strip() not in ("", "Group 1"):
                 serienamn = f"{division} {gr['name']}"
+            # Serienamn är INTE unika — varken mellan distrikt ("Div 5 Södra"
+            # finns i både Stockholm och Götaland) eller inom ett. Allt som
+            # ska slå upp en serie måste därför använda detta id.
+            serie_id = f"{ev_id}-{st['id']}-{gr.get('id', gi)}"
 
             # ---- tabell ----
             rader = []
@@ -388,6 +456,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                 # ställning. Frontenden använder flaggan för att visa
                 # deltagarlista i stället för tabell.
                 tabeller.append({
+                    "serie_id": serie_id,
                     "serie": serienamn,
                     "evenemang": ev_namn,
                     "stupa_url": djuplank,
@@ -415,7 +484,9 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                 post = {
                     "datum": datum,
                     "tid": tid,
+                    "serie_id": serie_id,
                     "serie": serienamn,
+                    "evenemang": ev_namn,
                     "omgang": (m.get("round") or {}).get("name") or "",
                     "hemma": hemma.get("participant_name"),
                     "borta": borta.get("participant_name"),
@@ -562,11 +633,12 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
             if not klubb:
                 continue
             k = per_klubb[klubb]
-            # Nyckeln måste innehålla serien. Samma lagnamn förekommer i
-            # olika serier — "Spårvägens BTK" spelar både Pingisligan herr
-            # och Pingisligan dam — och skulle annars skriva över varandra.
-            k["lag"].add((m[sida], m["serie"]))
-            k["serier"].add(m["serie"])
+            # Nyckeln måste identifiera serien, inte bara namnge den. Samma
+            # lagnamn förekommer i olika serier — "Spårvägens BTK" spelar både
+            # Pingisligan herr och dam — och samma SERIENAMN förekommer i olika
+            # distrikt. Båda krockar annars och ger fel tabell åt fel klubb.
+            k["lag"].add((m[sida], m["serie_id"], m["serie"], m["evenemang"]))
+            k["serier"].add(m["serie_id"])
             (k["resultat"] if "hemma_poang" in m else k["kommande"]).append(m)
 
         # En arrangör är värd för hela seriehelgen, även matcher där inget
@@ -575,7 +647,7 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
         for klubb in m.get("arrangorer") or []:
             per_klubb[klubb]["arrangerar"].append(m)
 
-    tabell_per_serie: dict[str, dict] = {t["serie"]: t for t in tabeller}
+    tabell_per_serie: dict[str, dict] = {t["serie_id"]: t for t in tabeller}
     dagens = idag()
     filer: dict[str, dict] = {}
     index_klubbar = []
@@ -612,14 +684,16 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
             "sasong": sasong,
             "uppdaterad": nu(),
             "lag": [
-                {"namn": namn, "serie": {"namn": serie}, "stupa_url": WEBB}
-                for namn, serie in sorted(d["lag"])
+                {"namn": namn, "serie": {"namn": serie}, "evenemang": ev,
+                 "stupa_url": WEBB}
+                for namn, _sid, serie, ev in sorted(d["lag"])
             ],
             "kommande": kommande,
             "resultat": resultat,
             "arrangerar": arrangerar,
-            "tabeller": [tabell_per_serie[s] for s in sorted(d["serier"])
-                         if s in tabell_per_serie],
+            "tabeller": sorted(
+                (tabell_per_serie[s] for s in d["serier"] if s in tabell_per_serie),
+                key=lambda t: (t["evenemang"], t["serie"])),
             # Turneringarna ligger inte här. De är rikstäckande och identiska
             # för alla klubbar — att duplicera 1300 tävlingar in i 177
             # klubbfiler hade gett tiotals megabyte. De ligger i stället i

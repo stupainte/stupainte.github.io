@@ -4,13 +4,14 @@
   "namn": "Norrtälje Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Norrtälje BTK",
    "serie": {
     "namn": "Div 1 N Herr"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Division 4B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Division 5B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 6B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 6C"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,13 +51,7 @@
    "serie": {
     "namn": "Division 7C"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Norrtälje BTK: B",
-   "serie": {
-    "namn": "Div 2 NSS"
-   },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -60,6 +59,15 @@
    "serie": {
     "namn": "ÖSN"
    },
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Norrtälje BTK: B",
+   "serie": {
+    "namn": "Div 2 NSS"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -67,7 +75,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Norrtälje BTK C",
    "borta": "Börje SK A",
@@ -84,7 +94,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Norrtälje BTK D",
    "borta": "Öregrunds IK B",
@@ -101,7 +113,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Uppsala Life IF C1",
    "borta": "Norrtälje BTK E1",
@@ -118,7 +132,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Uppsala Life IF C2",
    "borta": "Norrtälje BTK E2",
@@ -135,7 +151,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Spårvägens BTK: C2",
    "borta": "Norrtälje BTK: B",
@@ -152,7 +170,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Gefle PK E1",
    "borta": "Norrtälje BTK E1",
@@ -169,7 +189,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Bålsta BTK B",
    "borta": "Norrtälje BTK E2",
@@ -186,7 +208,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Norrtälje BTK C",
    "borta": "Sunnersta AIF B",
@@ -203,7 +227,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Norrtälje BTK D",
    "borta": "Sunnersta AIF C2",
@@ -220,7 +246,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Norrtulls SK: B",
    "borta": "Norrtälje BTK: B",
@@ -237,7 +265,9 @@
   {
    "datum": "2026-10-18",
    "tid": "09:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Norrtälje BTK F",
    "borta": "Upplands-Ekeby IF C",
@@ -254,7 +284,9 @@
   {
    "datum": "2026-10-18",
    "tid": "12:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Norrtälje BTK F",
    "borta": "Rimbo IF B",
@@ -271,7 +303,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Norrtälje BTK C",
    "borta": "Tärnsjö BTK A",
@@ -288,7 +322,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Norrtälje BTK D",
    "borta": "Skuttunge SK",
@@ -305,7 +341,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Sigtuna IF BTK A",
    "borta": "Norrtälje BTK E1",
@@ -322,7 +360,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Norrtälje BTK F",
    "borta": "IK Sirius BTK G3",
@@ -339,7 +379,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Norrtälje BTK E2",
    "borta": "Sandvikens BTK C",
@@ -356,7 +398,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Bro IK",
    "borta": "Norrtälje BTK: B",
@@ -373,7 +417,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "IK Sirius BTK F3",
    "borta": "Norrtälje BTK E1",
@@ -390,7 +436,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK E2",
    "borta": "Vassunda IF C3",
@@ -407,7 +455,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK C",
    "borta": "Uppsala Life IF A",
@@ -424,7 +474,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK D",
    "borta": "Rimbo IF A",
@@ -441,7 +493,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "KFUM Stocksund",
    "borta": "Norrtälje BTK: B",
@@ -458,7 +512,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK D",
    "borta": "Gefle PK D2",
@@ -475,7 +531,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK E1",
    "borta": "Vassunda IF C2",
@@ -492,7 +550,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK F",
    "borta": "Sigtuna IF BTK B3",
@@ -509,7 +569,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK: B",
    "borta": "IFK Österåkers BTK: B2",
@@ -526,7 +588,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Sunnersta AIF D",
    "borta": "Norrtälje BTK E1",
@@ -543,7 +607,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK F",
    "borta": "Skyttorps IF C2",
@@ -560,7 +626,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK D",
    "borta": "Sandvikens BTK B",
@@ -577,7 +645,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK: B",
    "borta": "Spårvägens BTK: C2",
@@ -594,7 +664,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK C",
    "borta": "Stratos Enköping BTK C",
@@ -611,7 +683,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK E2",
    "borta": "Gefle PK E2",
@@ -628,7 +702,9 @@
   {
    "datum": "2026-12-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK C",
    "borta": "Vassunda IF B",
@@ -645,7 +721,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IK Sirius BTK F2",
    "borta": "Norrtälje BTK E1",
@@ -662,7 +740,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Stratos Enköping BTK F2",
    "borta": "Norrtälje BTK F",
@@ -679,7 +759,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Norrtälje BTK: B",
    "borta": "IK Juno: A2",
@@ -696,7 +778,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Norrtälje BTK E1",
    "borta": "Uppsala Life IF C1",
@@ -713,7 +797,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Upplands-Ekeby IF C",
    "borta": "Norrtälje BTK F",
@@ -730,7 +816,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Norrtälje BTK: B",
    "borta": "Falu BTK",
@@ -747,7 +835,9 @@
   {
    "datum": "2027-01-17",
    "tid": "09:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Norrtälje BTK E2",
    "borta": "IK Sirius BTK F5",
@@ -764,7 +854,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IK Sirius BTK D2",
    "borta": "Norrtälje BTK C",
@@ -781,7 +873,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IK Sirius BTK E2",
    "borta": "Norrtälje BTK D",
@@ -798,7 +892,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Norrtälje BTK E2",
    "borta": "Uppsala Life IF C2",
@@ -815,7 +911,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Börje SK A",
    "borta": "Norrtälje BTK C",
@@ -832,7 +930,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Öregrunds IK B",
    "borta": "Norrtälje BTK D",
@@ -849,7 +949,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Sunnersta AIF B",
    "borta": "Norrtälje BTK C",
@@ -866,7 +968,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Norrtälje BTK E1",
    "borta": "Gefle PK E1",
@@ -883,7 +987,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Rimbo IF B",
    "borta": "Norrtälje BTK F",
@@ -900,7 +1006,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Norrtälje BTK: B",
    "borta": "Norrtulls SK: B",
@@ -917,7 +1025,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Norrtälje BTK E1",
    "borta": "Sigtuna IF BTK A",
@@ -934,7 +1044,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "IK Sirius BTK G3",
    "borta": "Norrtälje BTK F",
@@ -951,7 +1063,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Tärnsjö BTK A",
    "borta": "Norrtälje BTK C",
@@ -968,7 +1082,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Norrtälje BTK: B",
    "borta": "Bro IK",
@@ -985,7 +1101,9 @@
   {
    "datum": "2027-02-14",
    "tid": "09:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Norrtälje BTK E2",
    "borta": "Bålsta BTK B",
@@ -1002,7 +1120,9 @@
   {
    "datum": "2027-02-14",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Sunnersta AIF C2",
    "borta": "Norrtälje BTK D",
@@ -1019,7 +1139,9 @@
   {
    "datum": "2027-02-14",
    "tid": "12:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sandvikens BTK C",
    "borta": "Norrtälje BTK E2",
@@ -1036,7 +1158,9 @@
   {
    "datum": "2027-02-14",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Skuttunge SK",
    "borta": "Norrtälje BTK D",
@@ -1053,7 +1177,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Uppsala Life IF A",
    "borta": "Norrtälje BTK C",
@@ -1070,7 +1196,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Rimbo IF A",
    "borta": "Norrtälje BTK D",
@@ -1087,7 +1215,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Norrtälje BTK E1",
    "borta": "IK Sirius BTK F3",
@@ -1104,7 +1234,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vassunda IF C3",
    "borta": "Norrtälje BTK E2",
@@ -1121,7 +1253,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Norrtälje BTK: B",
    "borta": "KFUM Stocksund",
@@ -1138,7 +1272,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Vassunda IF C2",
    "borta": "Norrtälje BTK E1",
@@ -1155,7 +1291,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Stratos Enköping BTK C",
    "borta": "Norrtälje BTK C",
@@ -1172,7 +1310,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Gefle PK D2",
    "borta": "Norrtälje BTK D",
@@ -1189,7 +1329,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "IFK Österåkers BTK: B2",
    "borta": "Norrtälje BTK: B",
@@ -1206,7 +1348,9 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Sigtuna IF BTK B3",
    "borta": "Norrtälje BTK F",
@@ -1225,7 +1369,9 @@
   {
    "datum": "2026-04-11",
    "tid": "13:00",
+   "serie_id": "259-3867-0",
    "serie": "ÖSN",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "Spårvägens BTK: C2",
    "borta": "Norrtälje BTK: B",
@@ -1244,7 +1390,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sandvikens BTK B",
    "borta": "Norrtälje BTK D",
@@ -1263,7 +1411,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Norrtälje BTK E1",
    "borta": "Sunnersta AIF D",
@@ -1282,7 +1432,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Skyttorps IF C2",
    "borta": "Norrtälje BTK F",
@@ -1301,7 +1453,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Gefle PK E2",
    "borta": "Norrtälje BTK E2",
@@ -1320,7 +1474,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Norrtälje BTK",
    "borta": "Skellefteå AIK BTF",
@@ -1339,7 +1495,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Falu BTK",
    "borta": "Norrtälje BTK: B",
@@ -1358,7 +1516,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Norrtälje BTK E1",
    "borta": "IK Sirius BTK F2",
@@ -1377,7 +1537,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Norrtälje BTK F",
    "borta": "Stratos Enköping BTK F2",
@@ -1396,7 +1558,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "IK Sirius BTK F5",
    "borta": "Norrtälje BTK E2",
@@ -1415,7 +1579,9 @@
   {
    "datum": "2026-09-19",
    "tid": "14:00",
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Norrtälje BTK D",
    "borta": "IK Sirius BTK E2",
@@ -1434,7 +1600,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Haparanda SKT",
    "borta": "Norrtälje BTK",
@@ -1453,7 +1621,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IK Juno: A2",
    "borta": "Norrtälje BTK: B",
@@ -1472,7 +1642,9 @@
   {
    "datum": "2026-09-20",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vassunda IF B",
    "borta": "Norrtälje BTK C",
@@ -1491,7 +1663,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "IK Sirius BTK",
    "borta": "Norrtälje BTK",
@@ -1510,7 +1684,9 @@
   {
    "datum": "2026-09-20",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Norrtälje BTK C",
    "borta": "IK Sirius BTK D2",
@@ -1529,7 +1705,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Norrtälje BTK",
    "borta": "Söderhamns UIF: C",
@@ -1548,7 +1726,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Norrtälje BTK",
    "borta": "Ängby SK: B2",
@@ -1567,7 +1747,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK F",
    "borta": "Knutby IF",
@@ -1586,7 +1768,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK",
    "borta": "IFK Österåkers BTK",
@@ -1605,7 +1789,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Tibble-Kungsängen BTK",
    "borta": "Norrtälje BTK",
@@ -1624,7 +1810,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK E2",
    "borta": "IK Sirius BTK F4",
@@ -1643,7 +1831,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Ängby SK: B2",
    "borta": "Norrtälje BTK",
@@ -1662,7 +1852,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "IFK Österåkers BTK",
    "borta": "Norrtälje BTK",
@@ -1681,7 +1873,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Norrtälje BTK",
    "borta": "Tibble-Kungsängen BTK",
@@ -1700,7 +1894,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Skellefteå AIK BTF",
    "borta": "Norrtälje BTK",
@@ -1719,7 +1915,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "IK Sirius BTK F4",
    "borta": "Norrtälje BTK E2",
@@ -1738,7 +1936,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Norrtälje BTK",
    "borta": "Haparanda SKT",
@@ -1757,7 +1957,9 @@
   {
    "datum": "2027-03-14",
    "tid": "10:00",
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Knutby IF",
    "borta": "Norrtälje BTK F",
@@ -1776,7 +1978,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Norrtälje BTK",
    "borta": "IK Sirius BTK",
@@ -1795,7 +1999,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Söderhamns UIF: C",
    "borta": "Norrtälje BTK",
@@ -1826,7 +2032,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Sandvikens BTK B",
      "borta": "Sunnersta AIF C2",
@@ -1843,7 +2051,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Norrtälje BTK D",
      "borta": "Öregrunds IK B",
@@ -1860,7 +2070,9 @@
     {
      "datum": "2026-10-17",
      "tid": "14:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Sandvikens BTK B",
      "borta": "Öregrunds IK B",
@@ -1877,7 +2089,9 @@
     {
      "datum": "2026-10-17",
      "tid": "14:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Norrtälje BTK D",
      "borta": "Sunnersta AIF C2",
@@ -1906,7 +2120,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "IK Sirius BTK F3",
      "borta": "IK Sirius BTK F2",
@@ -1923,7 +2139,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Sigtuna IF BTK A",
      "borta": "Norrtälje BTK E1",
@@ -1940,7 +2158,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Sunnersta AIF D",
      "borta": "Uppsala Life IF C1",
@@ -1957,7 +2177,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Gefle PK E1",
      "borta": "Vassunda IF C2",
@@ -1974,7 +2196,9 @@
     {
      "datum": "2026-11-14",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "IK Sirius BTK F3",
      "borta": "Norrtälje BTK E1",
@@ -1991,7 +2215,9 @@
     {
      "datum": "2026-11-14",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "IK Sirius BTK F2",
      "borta": "Uppsala Life IF C1",
@@ -2008,7 +2234,9 @@
     {
      "datum": "2026-11-14",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Sigtuna IF BTK A",
      "borta": "Vassunda IF C2",
@@ -2025,7 +2253,9 @@
     {
      "datum": "2026-11-14",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Sunnersta AIF D",
      "borta": "Gefle PK E1",
@@ -2054,7 +2284,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Skyttorps IF C2",
      "borta": "Stratos Enköping BTK F2",
@@ -2071,7 +2303,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Norrtälje BTK F",
      "borta": "Sigtuna IF BTK B3",
@@ -2088,7 +2322,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Rimbo IF B",
      "borta": "IK Sirius BTK G3",
@@ -2105,7 +2341,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Knutby IF",
      "borta": "Upplands-Ekeby IF C",
@@ -2124,7 +2362,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Norrtälje BTK F",
      "borta": "Skyttorps IF C2",
@@ -2141,7 +2381,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Stratos Enköping BTK F2",
      "borta": "Sigtuna IF BTK B3",
@@ -2158,7 +2400,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Knutby IF",
      "borta": "IK Sirius BTK G3",
@@ -2177,7 +2421,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6123-0",
      "serie": "Division 7C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Rimbo IF B",
      "borta": "Upplands-Ekeby IF C",
@@ -2206,7 +2452,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Vassunda IF B",
      "borta": "IK Sirius BTK D2",
@@ -2223,7 +2471,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Norrtälje BTK C",
      "borta": "Stratos Enköping BTK C",
@@ -2240,7 +2490,9 @@
     {
      "datum": "2026-12-13",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Norrtälje BTK C",
      "borta": "Vassunda IF B",
@@ -2257,7 +2509,9 @@
     {
      "datum": "2026-12-13",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "IK Sirius BTK D2",
      "borta": "Stratos Enköping BTK C",
@@ -2286,7 +2540,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Falu BTK",
      "borta": "IFK Österåkers BTK: B2",
@@ -2303,7 +2559,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Norrtälje BTK: B",
      "borta": "IK Juno: A2",
@@ -2320,7 +2578,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "IK Juno: A2",
      "borta": "IFK Österåkers BTK: B2",
@@ -2337,7 +2597,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5754-0",
      "serie": "Div 2 NSS",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Norrtälje BTK: B",
      "borta": "Falu BTK",
@@ -2366,7 +2628,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "IK Sirius BTK E2",
      "borta": "Norrtälje BTK D",
@@ -2383,7 +2647,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Öregrunds IK B",
      "borta": "Skuttunge SK",
@@ -2400,7 +2666,9 @@
     {
      "datum": "2027-01-17",
      "tid": "14:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Skuttunge SK",
      "borta": "IK Sirius BTK E2",
@@ -2417,7 +2685,9 @@
     {
      "datum": "2027-01-17",
      "tid": "14:00",
+     "serie_id": "435-6115-0",
      "serie": "Division 5B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Öregrunds IK B",
      "borta": "Norrtälje BTK D",
@@ -2446,7 +2716,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Sandvikens BTK C",
      "borta": "Bålsta BTK B",
@@ -2463,7 +2735,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "IK Sirius BTK F5",
      "borta": "Gefle PK E2",
@@ -2480,7 +2754,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Vassunda IF C3",
      "borta": "Norrtälje BTK E2",
@@ -2497,7 +2773,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Uppsala Life IF C2",
      "borta": "IK Sirius BTK F4",
@@ -2516,7 +2794,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "IK Sirius BTK F5",
      "borta": "Bålsta BTK B",
@@ -2533,7 +2813,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Vassunda IF C3",
      "borta": "Sandvikens BTK C",
@@ -2550,7 +2832,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Uppsala Life IF C2",
      "borta": "Gefle PK E2",
@@ -2567,7 +2851,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "IK Sirius BTK F4",
      "borta": "Norrtälje BTK E2",
@@ -2588,6 +2874,39 @@
  ],
  "tabeller": [
   {
+   "serie_id": "259-3867-0",
+   "serie": "ÖSN",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/940/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Spårvägens BTK: C2",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Norrtälje BTK: B",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
@@ -2685,6 +3004,7 @@
    ]
   },
   {
+   "serie_id": "417-5754-0",
    "serie": "Div 2 NSS",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7",
@@ -2782,6 +3102,7 @@
    ]
   },
   {
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7",
@@ -2879,6 +3200,7 @@
    ]
   },
   {
+   "serie_id": "435-6115-0",
    "serie": "Division 5B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
@@ -2976,6 +3298,7 @@
    ]
   },
   {
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7",
@@ -3073,6 +3396,7 @@
    ]
   },
   {
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
@@ -3170,6 +3494,7 @@
    ]
   },
   {
+   "serie_id": "435-6123-0",
    "serie": "Division 7C",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
@@ -3263,37 +3588,6 @@
      "forlorade": 7,
      "matchpoang": 0,
      "setdiff": "0–1386"
-    }
-   ]
-  },
-  {
-   "serie": "ÖSN",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/940/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Spårvägens BTK: C2",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Norrtälje BTK: B",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
     }
    ]
   }

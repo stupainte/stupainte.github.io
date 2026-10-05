@@ -3,6 +3,12 @@ import fs from 'fs';
 const html = fs.readFileSync('index.html','utf8');
 const load = p => JSON.parse(fs.readFileSync('data/'+p,'utf8'));
 const index = load('index.json');
+// Förväntade antal räknas ur datafilerna i stället för att hårdkodas — säsongen
+// förändrar dem varje vecka och testet ska fånga renderingsfel, inte datadrift.
+const H = load('klubb/hammarby-if-bordtennisforening.json');
+const ejStartade = H.tabeller.filter(t => t.startad === false).length;
+const arrDagar = H.arrangerar.length;
+const arrMatcher = H.arrangerar.reduce((a, x) => a + x.antal, 0);
 
 // exakt_lank (länken öppnar rätt division direkt) finns bara på matcher i
 // serier utan lettrade undergrupper — sällsynt i stickprovsdatan. Tvinga
@@ -23,7 +29,7 @@ const w=dom.window, d=w.document, vänta=ms=>new Promise(r=>setTimeout(r,ms));
 await vänta(400);
 const fel=[], ok=(v,t)=>(v?console.log('  ✓ '+t):fel.push(t));
 
-ok(d.getElementById('picker-status').textContent.includes('253 klubbar'),'253 klubbar laddade');
+ok(d.getElementById('picker-status').textContent.includes(index.klubbar.length+' klubbar'),`${index.klubbar.length} klubbar laddade`);
 
 const s=d.getElementById('search');
 s.value='hammarby'; s.dispatchEvent(new w.Event('input'));
@@ -32,10 +38,10 @@ d.querySelector('.result[data-slug]').dispatchEvent(new w.MouseEvent('click',{bu
 await vänta(300);
 
 ok(d.getElementById('club-name').textContent.includes('Hammarby'),'klubbvyn öppnas');
-ok(d.getElementById('club-meta').textContent.includes('9 lag'),'9 lag');
+ok(d.getElementById('club-meta').textContent.includes(H.lag.length+' lag'),`${H.lag.length} lag`);
 
 const m=d.querySelectorAll('#panel .match');
-ok(m.length===70,`70 kommande matcher (fick ${m.length})`);
+ok(m.length===H.kommande.length,`${H.kommande.length} kommande matcher (fick ${m.length})`);
 ok(d.querySelectorAll('#panel .day').length>1,'grupperade per datum');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade');
 // STUPA kan bara ibland djuplänka till rätt division (se exakt_lank i
@@ -49,21 +55,22 @@ const flik=n=>[...d.querySelectorAll('nav.tabs button')].find(b=>b.dataset.tab==
   .dispatchEvent(new w.MouseEvent('click',{bubbles:true}));
 
 flik('tabeller');
-ok(d.querySelectorAll('#panel .table-block').length===9,'9 tabeller');
+ok(d.querySelectorAll('#panel .table-block').length===H.tabeller.length,`${H.tabeller.length} tabeller`);
 // Säsongen har kommit igång sedan sist — alla Hammarbys serier har nu
 // spelat minst en omgång, så ingen visas längre som ren deltagarlista.
-ok(d.querySelectorAll('#panel .not-started').length===0,'alla serier har startat');
-ok(d.querySelectorAll('#panel thead').length===9,'alla 9 startade serier har tabellhuvud');
+ok(d.querySelectorAll('#panel .not-started').length===ejStartade,`${ejStartade} ej startade serier visas som deltagarlista`);
+ok(d.querySelectorAll('#panel thead').length===H.tabeller.length-ejStartade,'bara startade serier har tabellhuvud');
 ok(d.querySelectorAll('#panel tr.mine-row').length>0,'egna lag markerade i tabellerna');
+ok(d.querySelectorAll('#panel .table-block h3 .evenemang').length===H.tabeller.length,'varje tabell visar vilket evenemang den tillhör');
 
 flik('resultat');
-ok(d.querySelectorAll('#panel .match').length===20,'20 spelade matcher');
+ok(d.querySelectorAll('#panel .match').length===H.resultat.length,`${H.resultat.length} spelade matcher`);
 ok(/\d+–\d+/.test(d.getElementById('panel').innerHTML),'resultatsiffror visas');
 
 flik('arrangerar');
-ok(d.querySelectorAll('#panel .dag-block').length===3,'3 speldagar att arrangera');
-ok(d.querySelector('#panel .sammanfattning')?.textContent.includes('22 matcher'),'sammanfattning räknar 22 matcher');
-ok(d.querySelectorAll('#panel .arr-tabell tr').length===22,'22 matchrader');
+ok(d.querySelectorAll('#panel .dag-block').length===arrDagar,`${arrDagar} speldagar att arrangera`);
+ok(d.querySelector('#panel .sammanfattning')?.textContent.includes(arrMatcher+' matcher'),`sammanfattning räknar ${arrMatcher} matcher`);
+ok(d.querySelectorAll('#panel .arr-tabell tr').length===arrMatcher,`${arrMatcher} matchrader`);
 ok(d.querySelector('#panel .dag-topp').textContent.includes('A-hallen'),'spelplats i dagsrubriken');
 ok(d.getElementById('panel').innerHTML.includes('class="mine"'),'egna lag markerade även här');
 

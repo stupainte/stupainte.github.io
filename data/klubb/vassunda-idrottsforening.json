@@ -4,13 +4,14 @@
   "namn": "Vassunda Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-23T09:00:20Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Vassunda IF",
    "serie": {
     "namn": "Div 2 ÖSV Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Div 3 NSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Division 4B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 6A"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 6B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Division 6C"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "Division 7B"
    },
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -60,7 +67,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vassunda IF B",
    "borta": "Sunnersta AIF B",
@@ -77,7 +86,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vassunda IF C2",
    "borta": "IK Sirius BTK F2",
@@ -94,7 +105,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Börje SK B",
    "borta": "Vassunda IF C1",
@@ -111,7 +124,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vassunda IF C3",
    "borta": "Gefle PK E2",
@@ -128,7 +143,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vassunda IF D",
    "borta": "IK Sirius BTK G2",
@@ -145,7 +162,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Järfälla BTF",
    "borta": "Vassunda IF",
@@ -162,7 +181,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Vassunda IF C2",
    "borta": "Uppsala Life IF C1",
@@ -179,7 +200,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Tärnsjö BTK B",
    "borta": "Vassunda IF C1",
@@ -196,7 +219,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Vassunda IF C3",
    "borta": "IK Sirius BTK F5",
@@ -213,7 +238,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Vassunda IF D",
    "borta": "Stratos Enköping BTK F1",
@@ -230,7 +257,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Vassunda IF B",
    "borta": "Börje SK A",
@@ -247,7 +276,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Boo Racketklubb: B2",
    "borta": "Vassunda IF",
@@ -264,7 +295,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Vassunda IF",
    "borta": "Stratos Enköping BTK: B",
@@ -281,7 +314,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IFA Eskilstuna",
    "borta": "Vassunda IF",
@@ -298,7 +333,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Vassunda IF B",
    "borta": "Uppsala Life IF A",
@@ -315,7 +352,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Gefle PK E1",
    "borta": "Vassunda IF C2",
@@ -332,7 +371,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Uppsala Life IF C2",
    "borta": "Vassunda IF C3",
@@ -349,7 +390,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Vassunda IF D",
    "borta": "Sunnersta AIF E2",
@@ -366,7 +409,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IK Sirius BTK: C",
    "borta": "Vassunda IF",
@@ -383,7 +428,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Sigtuna IF BTK A",
    "borta": "Vassunda IF C2",
@@ -400,7 +447,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Norrtälje BTK E2",
    "borta": "Vassunda IF C3",
@@ -417,7 +466,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Vassunda IF D",
    "borta": "Sigtuna IF BTK B2",
@@ -434,7 +485,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Vassunda IF B",
    "borta": "Tärnsjö BTK A",
@@ -451,7 +504,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Upplands-Ekeby IF: A1",
    "borta": "Vassunda IF",
@@ -468,7 +523,9 @@
   {
    "datum": "2026-11-15",
    "tid": "09:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Skyttorps IF B",
    "borta": "Vassunda IF C1",
@@ -485,7 +542,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Vassunda IF",
    "borta": "Djurgårdens IF BTF: B",
@@ -502,7 +561,9 @@
   {
    "datum": "2026-11-15",
    "tid": "12:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Stratos Enköping BTK E",
    "borta": "Vassunda IF C1",
@@ -519,7 +580,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IFK Österåkers BTK: B2",
    "borta": "Vassunda IF",
@@ -536,7 +599,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Norrtälje BTK E1",
    "borta": "Vassunda IF C2",
@@ -553,7 +618,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Heby AIF C2",
    "borta": "Vassunda IF C1",
@@ -570,7 +637,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Vassunda IF D",
    "borta": "Uppsala Life IF D",
@@ -587,7 +656,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Vassunda IF",
    "borta": "Bro IK: B",
@@ -604,7 +675,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Vassunda IF",
    "borta": "Hammarby IF BTF: A1",
@@ -621,7 +694,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Vassunda IF C2",
    "borta": "IK Sirius BTK F3",
@@ -638,7 +713,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Heby AIF C1",
    "borta": "Vassunda IF C1",
@@ -655,7 +732,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Bälinge IF",
    "borta": "Vassunda IF D",
@@ -672,7 +751,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Vassunda IF",
    "borta": "Sunnersta AIF: A2",
@@ -689,7 +770,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "IFK Täby BTK: B",
    "borta": "Vassunda IF",
@@ -706,7 +789,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Vassunda IF B",
    "borta": "IK Sirius BTK D2",
@@ -723,7 +808,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sandvikens BTK C",
    "borta": "Vassunda IF C3",
@@ -740,7 +827,9 @@
   {
    "datum": "2026-12-13",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Vassunda IF C3",
    "borta": "Bålsta BTK B",
@@ -757,7 +846,9 @@
   {
    "datum": "2026-12-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Norrtälje BTK C",
    "borta": "Vassunda IF B",
@@ -774,7 +865,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Sunnersta AIF D",
    "borta": "Vassunda IF C2",
@@ -791,7 +884,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Enköpings Pingisveteraner B",
    "borta": "Vassunda IF D",
@@ -808,7 +903,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Vassunda IF",
    "borta": "Ängby SK: D1",
@@ -825,7 +922,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "IK Sirius BTK F2",
    "borta": "Vassunda IF C2",
@@ -842,7 +941,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "IK Sirius BTK G2",
    "borta": "Vassunda IF D",
@@ -859,7 +960,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Stratos Enköping BTK: B",
    "borta": "Vassunda IF",
@@ -876,7 +979,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Stratos Enköping BTK C",
    "borta": "Vassunda IF B",
@@ -893,7 +998,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IK Sirius BTK F1",
    "borta": "Vassunda IF C1",
@@ -910,7 +1017,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Vassunda IF",
    "borta": "IK Sirius BTK: C",
@@ -927,7 +1036,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Gefle PK E2",
    "borta": "Vassunda IF C3",
@@ -944,7 +1055,9 @@
   {
    "datum": "2027-01-17",
    "tid": "13:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Vassunda IF C1",
    "borta": "Börje SK B",
@@ -961,7 +1074,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Sunnersta AIF B",
    "borta": "Vassunda IF B",
@@ -978,7 +1093,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Vassunda IF",
    "borta": "Upplands-Ekeby IF: A1",
@@ -995,7 +1112,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Börje SK A",
    "borta": "Vassunda IF B",
@@ -1012,7 +1131,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Uppsala Life IF C1",
    "borta": "Vassunda IF C2",
@@ -1029,7 +1150,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Vassunda IF C1",
    "borta": "Tärnsjö BTK B",
@@ -1046,7 +1169,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Vassunda IF",
    "borta": "Boo Racketklubb: B2",
@@ -1063,7 +1188,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Vassunda IF C2",
    "borta": "Gefle PK E1",
@@ -1080,7 +1207,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Vassunda IF C1",
    "borta": "Skyttorps IF B",
@@ -1097,7 +1226,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Uppsala Life IF A",
    "borta": "Vassunda IF B",
@@ -1114,7 +1245,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "KFUM Stocksund: B",
    "borta": "Vassunda IF",
@@ -1131,7 +1264,9 @@
   {
    "datum": "2027-02-14",
    "tid": "09:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "IK Sirius BTK F5",
    "borta": "Vassunda IF C3",
@@ -1148,7 +1283,9 @@
   {
    "datum": "2027-02-14",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Stratos Enköping BTK F1",
    "borta": "Vassunda IF D",
@@ -1165,7 +1302,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Vassunda IF",
    "borta": "IFA Eskilstuna",
@@ -1182,7 +1321,9 @@
   {
    "datum": "2027-02-14",
    "tid": "12:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Vassunda IF C3",
    "borta": "Uppsala Life IF C2",
@@ -1199,7 +1340,9 @@
   {
    "datum": "2027-02-14",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sunnersta AIF E2",
    "borta": "Vassunda IF D",
@@ -1216,7 +1359,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Djurgårdens IF BTF: B",
    "borta": "Vassunda IF",
@@ -1233,7 +1378,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Tärnsjö BTK A",
    "borta": "Vassunda IF B",
@@ -1250,7 +1397,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vassunda IF C2",
    "borta": "Sigtuna IF BTK A",
@@ -1267,7 +1416,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vassunda IF C3",
    "borta": "Norrtälje BTK E2",
@@ -1284,7 +1435,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Sigtuna IF BTK B2",
    "borta": "Vassunda IF D",
@@ -1301,7 +1454,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Vassunda IF",
    "borta": "Järfälla BTF",
@@ -1318,7 +1473,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Vassunda IF C2",
    "borta": "Norrtälje BTK E1",
@@ -1335,7 +1492,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Vassunda IF C3",
    "borta": "Sandvikens BTK C",
@@ -1352,7 +1511,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Uppsala Life IF D",
    "borta": "Vassunda IF D",
@@ -1369,7 +1530,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "IK Sirius BTK D2",
    "borta": "Vassunda IF B",
@@ -1386,7 +1549,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Bro IK: B",
    "borta": "Vassunda IF",
@@ -1403,7 +1568,9 @@
   {
    "datum": "2027-03-14",
    "tid": "09:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vassunda IF C1",
    "borta": "Stratos Enköping BTK E",
@@ -1420,7 +1587,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Vassunda IF",
    "borta": "IFK Österåkers BTK: B2",
@@ -1437,7 +1606,9 @@
   {
    "datum": "2027-03-14",
    "tid": "12:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Vassunda IF C1",
    "borta": "Heby AIF C2",
@@ -1454,7 +1625,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Hammarby IF BTF: A1",
    "borta": "Vassunda IF",
@@ -1473,7 +1646,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "IK Sirius BTK F3",
    "borta": "Vassunda IF C2",
@@ -1492,7 +1667,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vassunda IF C1",
    "borta": "Heby AIF C1",
@@ -1511,7 +1688,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Bålsta BTK B",
    "borta": "Vassunda IF C3",
@@ -1530,7 +1709,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vassunda IF D",
    "borta": "Bälinge IF",
@@ -1549,7 +1730,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Sunnersta AIF: A2",
    "borta": "Vassunda IF",
@@ -1568,7 +1751,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vassunda IF C2",
    "borta": "Sunnersta AIF D",
@@ -1587,7 +1772,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vassunda IF C1",
    "borta": "IK Sirius BTK F1",
@@ -1606,7 +1793,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vassunda IF C3",
    "borta": "IK Sirius BTK F4",
@@ -1625,7 +1814,9 @@
   {
    "datum": "2026-09-19",
    "tid": "13:00",
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vassunda IF D",
    "borta": "Enköpings Pingisveteraner B",
@@ -1644,7 +1835,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Vassunda IF",
    "borta": "KFUM Stocksund: B",
@@ -1663,7 +1856,9 @@
   {
    "datum": "2026-09-20",
    "tid": "10:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vassunda IF B",
    "borta": "Norrtälje BTK C",
@@ -1682,7 +1877,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Vassunda IF",
    "borta": "IFK Täby BTK: B",
@@ -1701,7 +1898,9 @@
   {
    "datum": "2026-09-20",
    "tid": "14:00",
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vassunda IF B",
    "borta": "Stratos Enköping BTK C",
@@ -1720,7 +1919,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Ängby SK: D1",
    "borta": "Vassunda IF",
@@ -1739,7 +1940,9 @@
   {
    "datum": "2027-01-17",
    "tid": "09:00",
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IK Sirius BTK F4",
    "borta": "Vassunda IF C3",
@@ -1770,7 +1973,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Bålsta BTK B",
      "borta": "IK Sirius BTK F4",
@@ -1789,7 +1994,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Uppsala Life IF C2",
      "borta": "Norrtälje BTK E2",
@@ -1806,7 +2013,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Vassunda IF C3",
      "borta": "Gefle PK E2",
@@ -1823,7 +2032,9 @@
     {
      "datum": "2026-10-17",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "IK Sirius BTK F5",
      "borta": "Sandvikens BTK C",
@@ -1840,7 +2051,9 @@
     {
      "datum": "2026-10-17",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Bålsta BTK B",
      "borta": "Norrtälje BTK E2",
@@ -1857,7 +2070,9 @@
     {
      "datum": "2026-10-17",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "IK Sirius BTK F4",
      "borta": "Gefle PK E2",
@@ -1876,7 +2091,9 @@
     {
      "datum": "2026-10-17",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Uppsala Life IF C2",
      "borta": "Sandvikens BTK C",
@@ -1893,7 +2110,9 @@
     {
      "datum": "2026-10-17",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Vassunda IF C3",
      "borta": "IK Sirius BTK F5",
@@ -1922,7 +2141,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Djurgårdens IF BTF: B",
      "borta": "Hammarby IF BTF: A1",
@@ -1939,7 +2160,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "IFK Österåkers BTK: B2",
      "borta": "IFA Eskilstuna",
@@ -1956,7 +2179,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Vassunda IF",
      "borta": "Stratos Enköping BTK: B",
@@ -1973,7 +2198,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "IFK Täby BTK: B",
      "borta": "Ängby SK: D1",
@@ -1990,7 +2217,9 @@
     {
      "datum": "2026-10-18",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Hammarby IF BTF: A1",
      "borta": "Ängby SK: D1",
@@ -2007,7 +2236,9 @@
     {
      "datum": "2026-10-18",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Stratos Enköping BTK: B",
      "borta": "IFK Täby BTK: B",
@@ -2024,7 +2255,9 @@
     {
      "datum": "2026-10-18",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "IFA Eskilstuna",
      "borta": "Vassunda IF",
@@ -2041,7 +2274,9 @@
     {
      "datum": "2026-10-18",
      "tid": "15:00",
+     "serie_id": "417-5752-0",
      "serie": "Div 2 ÖSV Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Djurgårdens IF BTF: B",
      "borta": "IFK Österåkers BTK: B2",
@@ -2070,7 +2305,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Vassunda IF B",
      "borta": "Uppsala Life IF A",
@@ -2087,7 +2324,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Stratos Enköping BTK C",
      "borta": "Sunnersta AIF B",
@@ -2104,7 +2343,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Norrtälje BTK C",
      "borta": "Tärnsjö BTK A",
@@ -2121,7 +2362,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "IK Sirius BTK D2",
      "borta": "Börje SK A",
@@ -2138,7 +2381,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Vassunda IF B",
      "borta": "Tärnsjö BTK A",
@@ -2155,7 +2400,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "IK Sirius BTK D2",
      "borta": "Sunnersta AIF B",
@@ -2172,7 +2419,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Norrtälje BTK C",
      "borta": "Uppsala Life IF A",
@@ -2189,7 +2438,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "435-6090-0",
      "serie": "Division 4B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Stratos Enköping BTK C",
      "borta": "Börje SK A",
@@ -2218,7 +2469,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Vassunda IF D",
      "borta": "Uppsala Life IF D",
@@ -2235,7 +2488,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Sigtuna IF BTK B2",
      "borta": "Bälinge IF",
@@ -2252,7 +2507,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Sunnersta AIF E2",
      "borta": "Enköpings Pingisveteraner B",
@@ -2269,7 +2526,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Stratos Enköping BTK F1",
      "borta": "IK Sirius BTK G2",
@@ -2286,7 +2545,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Bälinge IF",
      "borta": "Vassunda IF D",
@@ -2303,7 +2564,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Enköpings Pingisveteraner B",
      "borta": "Uppsala Life IF D",
@@ -2320,7 +2583,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "IK Sirius BTK G2",
      "borta": "Sigtuna IF BTK B2",
@@ -2337,7 +2602,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:00",
+     "serie_id": "435-6121-0",
      "serie": "Division 7B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Stratos Enköping BTK F1",
      "borta": "Sunnersta AIF E2",
@@ -2366,7 +2633,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Bålsta BTK B",
      "borta": "IK Sirius BTK F5",
@@ -2383,7 +2652,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Sandvikens BTK C",
      "borta": "Vassunda IF C3",
@@ -2400,7 +2671,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Gefle PK E2",
      "borta": "Uppsala Life IF C2",
@@ -2417,7 +2690,9 @@
     {
      "datum": "2026-12-13",
      "tid": "10:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Norrtälje BTK E2",
      "borta": "IK Sirius BTK F4",
@@ -2436,7 +2711,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Vassunda IF C3",
      "borta": "Bålsta BTK B",
@@ -2453,7 +2730,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Uppsala Life IF C2",
      "borta": "IK Sirius BTK F5",
@@ -2470,7 +2749,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "IK Sirius BTK F4",
      "borta": "Sandvikens BTK C",
@@ -2489,7 +2770,9 @@
     {
      "datum": "2026-12-13",
      "tid": "13:00",
+     "serie_id": "435-6117-0",
      "serie": "Division 6C",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Norrtälje BTK E2",
      "borta": "Gefle PK E2",
@@ -2518,7 +2801,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Vassunda IF",
      "borta": "IK Sirius BTK: C",
@@ -2535,7 +2820,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Sunnersta AIF: A2",
      "borta": "Upplands-Ekeby IF: A1",
@@ -2552,7 +2839,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Sunnersta AIF: A2",
      "borta": "IK Sirius BTK: C",
@@ -2569,7 +2858,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5763-0",
      "serie": "Div 3 NSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Vassunda IF",
      "borta": "Upplands-Ekeby IF: A1",
@@ -2598,7 +2889,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Heby AIF C1",
      "borta": "Börje SK B",
@@ -2615,7 +2908,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Vassunda IF C1",
      "borta": "Tärnsjö BTK B",
@@ -2632,7 +2927,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "IK Sirius BTK F1",
      "borta": "Stratos Enköping BTK E",
@@ -2649,7 +2946,9 @@
     {
      "datum": "2027-02-13",
      "tid": "10:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Heby AIF C2",
      "borta": "Skyttorps IF B",
@@ -2666,7 +2965,9 @@
     {
      "datum": "2027-02-13",
      "tid": "13:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Heby AIF C1",
      "borta": "Stratos Enköping BTK E",
@@ -2683,7 +2984,9 @@
     {
      "datum": "2027-02-13",
      "tid": "13:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Heby AIF C2",
      "borta": "Tärnsjö BTK B",
@@ -2700,7 +3003,9 @@
     {
      "datum": "2027-02-13",
      "tid": "13:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Vassunda IF C1",
      "borta": "Skyttorps IF B",
@@ -2717,7 +3022,9 @@
     {
      "datum": "2027-02-13",
      "tid": "13:00",
+     "serie_id": "435-6120-0",
      "serie": "Division 6A",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "IK Sirius BTK F1",
      "borta": "Börje SK B",
@@ -2746,7 +3053,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Norrtälje BTK E1",
      "borta": "IK Sirius BTK F3",
@@ -2763,7 +3072,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Uppsala Life IF C1",
      "borta": "IK Sirius BTK F2",
@@ -2780,7 +3091,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Vassunda IF C2",
      "borta": "Sigtuna IF BTK A",
@@ -2797,7 +3110,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Gefle PK E1",
      "borta": "Sunnersta AIF D",
@@ -2814,7 +3129,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Uppsala Life IF C1",
      "borta": "IK Sirius BTK F3",
@@ -2831,7 +3148,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Vassunda IF C2",
      "borta": "Norrtälje BTK E1",
@@ -2848,7 +3167,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Gefle PK E1",
      "borta": "IK Sirius BTK F2",
@@ -2865,7 +3186,9 @@
     {
      "datum": "2027-03-13",
      "tid": "13:00",
+     "serie_id": "435-6118-0",
      "serie": "Division 6B",
+     "evenemang": "Nordöstra Svealands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Sunnersta AIF D",
      "borta": "Sigtuna IF BTK A",
@@ -2884,6 +3207,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7",
@@ -2981,6 +3305,7 @@
    ]
   },
   {
+   "serie_id": "417-5763-0",
    "serie": "Div 3 NSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7",
@@ -3078,6 +3403,7 @@
    ]
   },
   {
+   "serie_id": "435-6090-0",
    "serie": "Division 4B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7",
@@ -3175,6 +3501,7 @@
    ]
   },
   {
+   "serie_id": "435-6120-0",
    "serie": "Division 6A",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7",
@@ -3272,6 +3599,7 @@
    ]
   },
   {
+   "serie_id": "435-6118-0",
    "serie": "Division 6B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7",
@@ -3369,6 +3697,7 @@
    ]
   },
   {
+   "serie_id": "435-6117-0",
    "serie": "Division 6C",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
@@ -3466,6 +3795,7 @@
    ]
   },
   {
+   "serie_id": "435-6121-0",
    "serie": "Division 7B",
    "evenemang": "Nordöstra Svealands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7",

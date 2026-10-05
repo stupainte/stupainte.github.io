@@ -4,13 +4,22 @@
   "namn": "Bordtennisklubben-72 Trönninge"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "BTK-72 Trönninge A",
    "serie": {
-    "namn": "Division 6 Södra"
+    "namn": "Division 6 Södra (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK-72 Trönninge A",
+   "serie": {
+    "namn": "Division 6 Södra (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -18,7 +27,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "BTK-72 Trönninge A",
    "borta": "Markaryds BTK B",
@@ -33,7 +44,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Skedala BTK A",
    "borta": "BTK-72 Trönninge A",
@@ -48,7 +61,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "BTK-72 Trönninge A",
    "borta": "Halmstad BTK F2",
@@ -63,7 +78,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "BTK-72 Trönninge A",
    "borta": "LBTK Serve C1",
@@ -80,7 +97,84 @@
  "arrangerar": [],
  "tabeller": [
   {
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Skedala BTK A",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK-72 Trönninge A",
+     "klubb": "Bordtennisklubben-72 Trönninge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "LBTK Serve C1",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Markaryds BTK B",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Halmstad BTK F2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7599-0",
+   "serie": "Division 6 Södra (2)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
    "exakt_lank": true,

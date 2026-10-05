@@ -4,20 +4,30 @@
   "namn": "Sjöbo Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Sjöbo BTK",
    "serie": {
     "namn": "Div 2 SSÖ Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Sjöbo BTK Dam B",
    "serie": {
-    "namn": "Division 3 Damer"
+    "namn": "Division 3 Damer (1)"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Sjöbo BTK Dam B",
+   "serie": {
+    "namn": "Division 3 Damer (2)"
+   },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -25,7 +35,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Åstorps BTK Dam",
    "borta": "Sjöbo BTK Dam B",
@@ -42,7 +54,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "IFK Lund Dam D",
@@ -59,7 +73,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund Dam C",
    "borta": "Sjöbo BTK Dam B",
@@ -76,7 +92,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Malmö IF: B",
    "borta": "Sjöbo BTK",
@@ -93,7 +111,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Sjöbo BTK",
    "borta": "Trelleborgs BTK",
@@ -110,7 +130,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "R&S United",
@@ -127,7 +149,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "IFK Lund Bordtennis: B",
    "borta": "Sjöbo BTK",
@@ -144,7 +168,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "Åstorps BTK Dam",
@@ -161,7 +187,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Sjöbo BTK",
    "borta": "Malmö IF: B",
@@ -178,7 +206,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Trelleborgs BTK",
    "borta": "Sjöbo BTK",
@@ -195,7 +225,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Sjöbo BTK",
    "borta": "IFK Lund Bordtennis: B",
@@ -212,7 +244,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "IFK Lund Dam D",
    "borta": "Sjöbo BTK Dam B",
@@ -229,7 +263,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "IFK Lund Dam C",
@@ -246,7 +282,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "R&S United",
    "borta": "Sjöbo BTK Dam B",
@@ -263,7 +301,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Sjöbo BTK",
    "borta": "BTK Rekord",
@@ -280,7 +320,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "IFK Lund Dam C",
@@ -297,7 +339,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "Åstorps BTK Dam",
    "borta": "Sjöbo BTK Dam B",
@@ -314,7 +358,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Kalmar BTK",
    "borta": "Sjöbo BTK",
@@ -331,7 +377,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Bergkvara BTK",
    "borta": "Sjöbo BTK",
@@ -348,7 +396,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Sjöbo BTK",
    "borta": "Kosta SK: B",
@@ -365,7 +415,9 @@
   {
    "datum": "2027-04-17",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "R&S United",
@@ -382,7 +434,9 @@
   {
    "datum": "2027-04-17",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "IFK Lund Dam D",
    "borta": "Sjöbo BTK Dam B",
@@ -401,7 +455,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Kosta SK: B",
    "borta": "Sjöbo BTK",
@@ -420,7 +476,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Sjöbo BTK",
    "borta": "Bergkvara BTK",
@@ -439,7 +497,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Sjöbo BTK",
    "borta": "Kalmar BTK",
@@ -458,7 +518,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "BTK Rekord",
    "borta": "Sjöbo BTK",
@@ -484,14 +546,16 @@
    ],
    "serier": [
     "Div 2 SSÖ Dam",
-    "Division 3 Damer"
+    "Division 3 Damer (1)"
    ],
    "antal": 8,
    "matcher": [
     {
      "datum": "2026-12-12",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "IFK Lund Dam C",
      "borta": "Åstorps BTK Dam",
@@ -508,7 +572,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "Sjöbo BTK Dam B",
      "borta": "R&S United",
@@ -525,7 +591,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5749-0",
      "serie": "Div 2 SSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "IFK Lund Bordtennis: B",
      "borta": "Sjöbo BTK",
@@ -542,7 +610,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:00",
+     "serie_id": "417-5749-0",
      "serie": "Div 2 SSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Trelleborgs BTK",
      "borta": "Malmö IF: B",
@@ -559,7 +629,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 6",
      "hemma": "Sjöbo BTK Dam B",
      "borta": "Åstorps BTK Dam",
@@ -576,7 +648,9 @@
     {
      "datum": "2026-12-12",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 6",
      "hemma": "IFK Lund Dam C",
      "borta": "IFK Lund Dam D",
@@ -593,7 +667,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5749-0",
      "serie": "Div 2 SSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Sjöbo BTK",
      "borta": "Malmö IF: B",
@@ -610,7 +686,9 @@
     {
      "datum": "2026-12-12",
      "tid": "15:00",
+     "serie_id": "417-5749-0",
      "serie": "Div 2 SSÖ Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "IFK Lund Bordtennis: B",
      "borta": "Trelleborgs BTK",
@@ -632,14 +710,16 @@
     "Sjöbo"
    ],
    "serier": [
-    "Division 3 Damer"
+    "Division 3 Damer (2)"
    ],
    "antal": 4,
    "matcher": [
     {
      "datum": "2027-04-17",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7583-0",
+     "serie": "Division 3 Damer (2)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "Sjöbo BTK Dam B",
      "borta": "R&S United",
@@ -656,7 +736,9 @@
     {
      "datum": "2027-04-17",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7583-0",
+     "serie": "Division 3 Damer (2)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "IFK Lund Dam C",
      "borta": "Åstorps BTK Dam",
@@ -673,7 +755,9 @@
     {
      "datum": "2027-04-17",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7583-0",
+     "serie": "Division 3 Damer (2)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "R&S United",
      "borta": "IFK Lund Dam C",
@@ -690,7 +774,9 @@
     {
      "datum": "2027-04-17",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7583-0",
+     "serie": "Division 3 Damer (2)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "IFK Lund Dam D",
      "borta": "Sjöbo BTK Dam B",
@@ -709,6 +795,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7",
@@ -806,16 +893,17 @@
    ]
   },
   {
-   "serie": "Division 3 Damer",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1073/2/7/7",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
    "exakt_lank": true,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Karlsborgs BTK Blå",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "R&S United",
+     "klubb": "Bordtennisklubben Scania",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -825,8 +913,8 @@
     },
     {
      "placering": 2,
-     "lag": "Karlsborgs BTK Grön",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "Åstorps BTK Dam",
+     "klubb": "Åstorps Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -836,8 +924,8 @@
     },
     {
      "placering": 3,
-     "lag": "Karlsborgs BTK Röd",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "IFK Lund Dam D",
+     "klubb": "IFK Lund Bordtennis",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -847,8 +935,84 @@
     },
     {
      "placering": 4,
-     "lag": "Karlsborgs BTK Gul",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "IFK Lund Dam C",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Sjöbo BTK Dam B",
+     "klubb": "Sjöbo Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Sjöbo BTK Dam B",
+     "klubb": "Sjöbo Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund Dam C",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Åstorps BTK Dam",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "R&S United",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Lund Dam D",
+     "klubb": "IFK Lund Bordtennis",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

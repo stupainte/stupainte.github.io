@@ -4,20 +4,22 @@
   "namn": "Vänersborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-25T09:14:56Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Vänersborgs BTK",
-   "serie": {
-    "namn": "Div 3 VSNV"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Vänersborgs BTK",
    "serie": {
     "namn": "Västra"
    },
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Vänersborgs BTK",
+   "serie": {
+    "namn": "Div 3 VSNV"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Div 5 Nordvästra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Div 5 Nordvästra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -39,7 +43,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Stenungsunds BTF B1",
@@ -56,7 +62,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Stenungsunds BTF B2",
    "borta": "Vänersborgs BTK B2",
@@ -73,7 +81,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Grästorps BTK",
    "borta": "Vänersborgs BTK",
@@ -90,7 +100,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Stenungsunds BTF B2",
@@ -107,7 +119,9 @@
   {
    "datum": "2026-10-17",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Stenungsunds BTF B1",
    "borta": "Vänersborgs BTK B2",
@@ -124,7 +138,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "IFK Lidköping: A1",
    "borta": "Vänersborgs BTK",
@@ -141,7 +157,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Munkedals BTK C",
@@ -158,7 +176,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF B",
    "borta": "Vänersborgs BTK B2",
@@ -175,7 +195,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Svanesunds GIF: B",
    "borta": "Vänersborgs BTK",
@@ -192,7 +214,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Vänersborgs BTK B1",
    "borta": "BTK Dalen B",
@@ -209,7 +233,9 @@
   {
    "datum": "2026-11-14",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Svanesunds GIF C",
@@ -226,7 +252,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Kungälvs BTK: B",
    "borta": "Vänersborgs BTK",
@@ -243,7 +271,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Svanesunds GIF C",
@@ -260,7 +290,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "BTK Dalen B",
    "borta": "Vänersborgs BTK B2",
@@ -277,7 +309,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Vänersborgs BTK",
    "borta": "Mariedals IK: B",
@@ -294,7 +328,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Vänersborgs BTK B1",
@@ -311,7 +347,9 @@
   {
    "datum": "2026-12-12",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Vänersborgs BTK B1",
@@ -328,7 +366,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Vänersborgs BTK",
    "borta": "Hålta IK",
@@ -345,7 +385,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Bullarens GoIF B",
    "borta": "Vänersborgs BTK B1",
@@ -362,7 +404,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Munkedals BTK C",
@@ -379,7 +423,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Vänersborgs BTK",
    "borta": "Stenungsunds BTK",
@@ -396,7 +442,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Vänersborgs BTK",
    "borta": "Grästorps BTK",
@@ -413,7 +461,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "BTK Dalen B",
    "borta": "Vänersborgs BTK B1",
@@ -430,7 +480,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Svanesunds GIF C",
    "borta": "Vänersborgs BTK B2",
@@ -447,7 +499,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Stenungsunds BTF B1",
    "borta": "Vänersborgs BTK B1",
@@ -464,7 +518,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Stenungsunds BTF B2",
@@ -481,7 +537,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Vänersborgs BTK",
    "borta": "IFK Lidköping: A1",
@@ -498,7 +556,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Stenungsunds BTF B2",
    "borta": "Vänersborgs BTK B1",
@@ -515,7 +575,9 @@
   {
    "datum": "2027-02-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Stenungsunds BTF B1",
@@ -532,7 +594,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Vänersborgs BTK",
    "borta": "Svanesunds GIF: B",
@@ -549,7 +613,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Munkedals BTK C",
    "borta": "Vänersborgs BTK B1",
@@ -566,7 +632,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Vänersborgs BTK B2",
    "borta": "Bullarens GoIF B",
@@ -583,7 +651,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Vänersborgs BTK",
    "borta": "Kungälvs BTK: B",
@@ -600,7 +670,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Svanesunds GIF C",
    "borta": "Vänersborgs BTK B1",
@@ -617,7 +689,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Vänersborgs BTK B2",
    "borta": "BTK Dalen B",
@@ -634,7 +708,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Mariedals IK: B",
    "borta": "Vänersborgs BTK",
@@ -653,7 +729,9 @@
   {
    "datum": "2026-06-07",
    "tid": "18:00",
+   "serie_id": "337-4900-0",
    "serie": "Västra",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 1",
    "hemma": "Vänersborgs BTK",
    "borta": "Munkedals BTK",
@@ -672,7 +750,9 @@
   {
    "datum": "2026-06-07",
    "tid": "18:00",
+   "serie_id": "337-4900-0",
    "serie": "Västra",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 2",
    "hemma": "Stenungsunds BTF",
    "borta": "Vänersborgs BTK",
@@ -691,7 +771,9 @@
   {
    "datum": "2026-06-07",
    "tid": "18:00",
+   "serie_id": "337-4900-0",
    "serie": "Västra",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 3",
    "hemma": "Vänersborgs BTK",
    "borta": "Uddevalla BTK",
@@ -710,7 +792,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Vänersborgs BTK B2",
@@ -729,7 +813,9 @@
   {
    "datum": "2026-09-19",
    "tid": "10:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Vänersborgs BTK B2",
@@ -748,7 +834,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Hålta IK",
    "borta": "Vänersborgs BTK",
@@ -767,7 +855,9 @@
   {
    "datum": "2026-09-19",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Vänersborgs BTK B1",
    "borta": "Bullarens GoIF B",
@@ -786,7 +876,9 @@
   {
    "datum": "2026-09-19",
    "tid": "14:00",
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Munkedals BTK C",
    "borta": "Vänersborgs BTK B2",
@@ -805,7 +897,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Stenungsunds BTK",
    "borta": "Vänersborgs BTK",
@@ -824,7 +918,9 @@
   {
    "datum": "2026-09-20",
    "tid": "18:00",
+   "serie_id": "337-4900-0",
    "serie": "Västra",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 4",
    "hemma": "Trollhättans BTK",
    "borta": "Vänersborgs BTK",
@@ -855,7 +951,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Vänersborgs BTK B1",
      "borta": "Munkedals BTK C",
@@ -872,7 +970,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "BTK Dalen B",
      "borta": "Stenungsunds BTF B1",
@@ -889,7 +989,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Vänersborgs BTK B1",
      "borta": "BTK Dalen B",
@@ -906,7 +1008,9 @@
     {
      "datum": "2026-11-14",
      "tid": "14:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Munkedals BTK C",
      "borta": "Stenungsunds BTF B1",
@@ -935,7 +1039,9 @@
     {
      "datum": "2027-01-16",
      "tid": "10:00",
+     "serie_id": "367-6427-0",
      "serie": "Div 5 Nordvästra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Vänersborgs BTK B2",
      "borta": "Munkedals BTK C",
@@ -954,6 +1060,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5773-0",
    "serie": "Div 3 VSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7",
@@ -1051,6 +1158,72 @@
    ]
   },
   {
+   "serie_id": "337-4900-0",
+   "serie": "Västra",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Uddevalla BTK",
+     "klubb": "Uddevalla Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Munkedals BTK",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Trollhättans BTK",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Vänersborgs BTK",
+     "klubb": "Vänersborgs Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Stenungsunds BTF",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6427-0",
    "serie": "Div 5 Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1242/2/7/7",
@@ -1142,37 +1315,6 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Västra",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/936/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Askims BTK",
-     "klubb": "Askims Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Svanesunds GIF",
-     "klubb": "Svanesunds Gymnastik o Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

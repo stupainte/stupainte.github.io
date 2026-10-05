@@ -4,13 +4,14 @@
   "namn": "Sibbarps Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Sibbarps GoIF",
    "serie": {
     "namn": "Veteraner 35"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,13 +19,23 @@
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Sibbarps GoIF B",
    "serie": {
-    "namn": "Division 5 Mellersta"
+    "namn": "Division 5 Mellersta (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Sibbarps GoIF B",
+   "serie": {
+    "namn": "Division 5 Mellersta (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +43,7 @@
    "serie": {
     "namn": "Division 7 Södra"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -39,7 +51,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Sibbarps GoIF B",
    "borta": "Rydöbruks IF A",
@@ -54,7 +68,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "BTK Ratic D",
    "borta": "Sibbarps GoIF C",
@@ -69,7 +85,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Sibbarps GoIF A",
    "borta": "BTK Ratic B",
@@ -86,7 +104,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Kungsbacka BTK C",
    "borta": "Sibbarps GoIF A",
@@ -103,7 +123,9 @@
   {
    "datum": "2026-10-17",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Varbergs BTK C",
    "borta": "Sibbarps GoIF A",
@@ -120,7 +142,9 @@
   {
    "datum": "2026-10-18",
    "tid": "09:30",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Sibbarps GoIF",
    "borta": "Varbergs BTK 1",
@@ -135,7 +159,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Sibbarps GoIF",
    "borta": "Särö Kullavik IF 1",
@@ -150,7 +176,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Sibbarps GoIF B",
    "borta": "BTK Ratic C1",
@@ -165,7 +193,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Markaryds BTK C",
    "borta": "Sibbarps GoIF C",
@@ -180,7 +210,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "BTK Ratic C2",
    "borta": "Sibbarps GoIF B",
@@ -195,7 +227,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "HBTKG3/Oskarström",
    "borta": "Sibbarps GoIF C",
@@ -210,7 +244,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 5 Mellersta",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Sibbarps GoIF B",
    "borta": "Falkenbergs BTK C",
@@ -225,7 +261,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Sibbarps GoIF C",
    "borta": "Halmstad BTK G2",
@@ -240,7 +278,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Sibbarps GoIF A",
    "borta": "Åsa IF B",
@@ -257,7 +297,9 @@
   {
    "datum": "2026-11-14",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 5",
    "hemma": "Sibbarps GoIF A",
    "borta": "Laholms BTK Serve B",
@@ -274,7 +316,9 @@
   {
    "datum": "2026-11-22",
    "tid": "09:30",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Falkenbergs BTK",
    "borta": "Sibbarps GoIF",
@@ -289,7 +333,9 @@
   {
    "datum": "2026-11-22",
    "tid": "11:00",
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Sibbarps GoIF",
    "borta": "BTK Ratic",
@@ -304,7 +350,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 6",
    "hemma": "Sibbarps GoIF A",
    "borta": "Särö Kullavik IF B",
@@ -321,7 +369,9 @@
   {
    "datum": "2026-12-12",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 7",
    "hemma": "Sibbarps GoIF A",
    "borta": "Halmstad BTK E",
@@ -338,7 +388,9 @@
   {
    "datum": "2027-01-10",
    "tid": "19:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 8",
    "hemma": "BTK Ratic B",
    "borta": "Sibbarps GoIF A",
@@ -355,7 +407,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 9",
    "hemma": "Sibbarps GoIF A",
    "borta": "Kungsbacka BTK C",
@@ -372,7 +426,9 @@
   {
    "datum": "2027-01-16",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 10",
    "hemma": "Sibbarps GoIF A",
    "borta": "Varbergs BTK C",
@@ -389,7 +445,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 11",
    "hemma": "Åsa IF B",
    "borta": "Sibbarps GoIF A",
@@ -406,7 +464,9 @@
   {
    "datum": "2027-02-13",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 12",
    "hemma": "Laholms BTK Serve B",
    "borta": "Sibbarps GoIF A",
@@ -423,7 +483,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 13",
    "hemma": "Särö Kullavik IF B",
    "borta": "Sibbarps GoIF A",
@@ -440,7 +502,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:30",
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 14",
    "hemma": "Halmstad BTK E",
    "borta": "Sibbarps GoIF A",
@@ -470,7 +534,9 @@
     {
      "datum": "2026-10-11",
      "tid": "19:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 1",
      "hemma": "Sibbarps GoIF A",
      "borta": "BTK Ratic B",
@@ -499,7 +565,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 4",
      "hemma": "Sibbarps GoIF A",
      "borta": "Åsa IF B",
@@ -516,7 +584,9 @@
     {
      "datum": "2026-11-14",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 5",
      "hemma": "Sibbarps GoIF A",
      "borta": "Laholms BTK Serve B",
@@ -545,7 +615,9 @@
     {
      "datum": "2026-12-12",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 6",
      "hemma": "Sibbarps GoIF A",
      "borta": "Särö Kullavik IF B",
@@ -562,7 +634,9 @@
     {
      "datum": "2026-12-12",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 7",
      "hemma": "Sibbarps GoIF A",
      "borta": "Halmstad BTK E",
@@ -591,7 +665,9 @@
     {
      "datum": "2027-01-16",
      "tid": "10:00",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 9",
      "hemma": "Sibbarps GoIF A",
      "borta": "Kungsbacka BTK C",
@@ -608,7 +684,9 @@
     {
      "datum": "2027-01-16",
      "tid": "13:30",
+     "serie_id": "411-6340-0",
      "serie": "Division 4",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
      "omgang": "Round 10",
      "hemma": "Sibbarps GoIF A",
      "borta": "Varbergs BTK C",
@@ -627,102 +705,17 @@
  ],
  "tabeller": [
   {
+   "serie_id": "411-6340-0",
    "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Division 5 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1250/2/7/7",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
    "exakt_lank": true,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Borlänge BTK 3",
-     "klubb": "Borlänge Bordtennisklubb",
+     "lag": "Åsa IF B",
+     "klubb": "Åsa Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -732,8 +725,8 @@
     },
     {
      "placering": 2,
-     "lag": "Dala-Järna IK 4",
-     "klubb": "Dala-Järna Idrottsklubb",
+     "lag": "Laholms BTK Serve B",
+     "klubb": "Laholms Bordtennisklubb Serve",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -743,8 +736,8 @@
     },
     {
      "placering": 3,
-     "lag": "IK Juno",
-     "klubb": "Idrottsklubben Juno",
+     "lag": "Halmstad BTK E",
+     "klubb": "Halmstad Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -754,8 +747,8 @@
     },
     {
      "placering": 4,
-     "lag": "Jägarnäs Ludvika BTK 2",
-     "klubb": "Jägarnäs/Ludvika BTK",
+     "lag": "Sibbarps GoIF A",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -765,8 +758,8 @@
     },
     {
      "placering": 5,
-     "lag": "Borlänge BTK 2",
-     "klubb": "Borlänge Bordtennisklubb",
+     "lag": "BTK Ratic B",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -776,8 +769,8 @@
     },
     {
      "placering": 6,
-     "lag": "Långshyttans BTK 1",
-     "klubb": "Långshyttans Bordtennisklubb",
+     "lag": "Varbergs BTK C",
+     "klubb": "Varbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -787,8 +780,8 @@
     },
     {
      "placering": 7,
-     "lag": "Bärke BTK 1",
-     "klubb": "Bärke BTK ",
+     "lag": "Kungsbacka BTK C",
+     "klubb": "Kungsbacka Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -798,8 +791,8 @@
     },
     {
      "placering": 8,
-     "lag": "Dala-Järna IK 3",
-     "klubb": "Dala-Järna Idrottsklubb",
+     "lag": "Särö Kullavik IF B",
+     "klubb": "Särö Kullavik Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -810,6 +803,159 @@
    ]
   },
   {
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Ratic C2",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Falkenbergs BTK C",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Halmstad BTK E2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rydöbruks IF A",
+     "klubb": "Rydöbruks Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7589-0",
+   "serie": "Division 5 Mellersta (2)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Rydöbruks IF A",
+     "klubb": "Rydöbruks Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Falkenbergs BTK C",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Halmstad BTK E2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Ratic C2",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
@@ -907,6 +1053,7 @@
    ]
   },
   {
+   "serie_id": "411-7600-0",
    "serie": "Veteraner 35",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",

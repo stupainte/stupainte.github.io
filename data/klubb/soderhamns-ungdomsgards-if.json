@@ -4,20 +4,22 @@
   "namn": "Söderhamns Ungdomsgårds IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T11:02:20Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Söderhamns UIF",
-   "serie": {
-    "namn": "Pingisligan (herr)"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Söderhamns UIF",
    "serie": {
     "namn": "Pingisligan herrar Knockout"
    },
+   "evenemang": "Pingisligan by STIGA Slutspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Söderhamns UIF",
+   "serie": {
+    "namn": "Pingisligan (herr)"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Div 5 Södra B"
    },
+   "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Div 5 Södra B"
    },
+   "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Ungdomsserier"
    },
+   "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Ungdomsserier"
    },
+   "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,13 +59,7 @@
    "serie": {
     "namn": "Superettan (herr)"
    },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "Söderhamns UIF: C",
-   "serie": {
-    "namn": "Div 1 N Herr"
-   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -67,6 +67,15 @@
    "serie": {
     "namn": "Norra"
    },
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Söderhamns UIF: C",
+   "serie": {
+    "namn": "Div 1 N Herr"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -74,6 +83,7 @@
    "serie": {
     "namn": "Div 3 NSNV"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -81,7 +91,9 @@
   {
    "datum": "2026-10-08",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Halmstad BTK",
    "borta": "Söderhamns UIF",
@@ -98,7 +110,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Ängby SK",
    "borta": "Söderhamns UIF: B",
@@ -115,7 +129,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF: B",
    "borta": "Lyckeby BTK",
@@ -132,7 +148,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Dala-Järna IK",
@@ -149,7 +167,9 @@
   {
    "datum": "2026-10-18",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Gefle PK: B",
    "borta": "Söderhamns UIF: D1",
@@ -166,7 +186,9 @@
   {
    "datum": "2026-10-20",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Söderhamns UIF",
    "borta": "Eskilstuna by STIGA",
@@ -183,7 +205,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 2",
    "hemma": "Söderhamns UIF G",
    "borta": "Alfta BTK F",
@@ -200,7 +224,9 @@
   {
    "datum": "2026-10-24",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 2",
    "hemma": "Ortvikens PK I",
    "borta": "Söderhamns UIF H",
@@ -217,7 +243,9 @@
   {
    "datum": "2026-10-24",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 3",
    "hemma": "Söderhamns UIF H",
    "borta": "Ortvikens PK F",
@@ -234,7 +262,9 @@
   {
    "datum": "2026-10-24",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 3",
    "hemma": "Hudiksvalls IF BTK C",
    "borta": "Söderhamns UIF G",
@@ -251,7 +281,9 @@
   {
    "datum": "2026-10-24",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 4",
    "hemma": "Ortvikens PK G",
    "borta": "Söderhamns UIF G",
@@ -268,7 +300,9 @@
   {
    "datum": "2026-10-24",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 4",
    "hemma": "Ortvikens PK H",
    "borta": "Söderhamns UIF H",
@@ -285,7 +319,9 @@
   {
    "datum": "2026-10-24",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF H",
    "borta": "Ortvikens PK G",
@@ -302,7 +338,9 @@
   {
    "datum": "2026-10-24",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF G",
    "borta": "Ortvikens PK I",
@@ -319,7 +357,9 @@
   {
    "datum": "2026-11-10",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Spårvägens BTK",
    "borta": "Söderhamns UIF",
@@ -336,7 +376,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "IK Sirius BTK",
    "borta": "Söderhamns UIF: C",
@@ -353,7 +395,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Västers BTK",
    "borta": "Söderhamns UIF: B",
@@ -370,7 +414,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Haparanda SKT",
    "borta": "Söderhamns UIF: C",
@@ -387,7 +433,9 @@
   {
    "datum": "2026-11-14",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Söderhamns UIF: B",
    "borta": "Nerikes Kils SK",
@@ -404,7 +452,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF: C",
    "borta": "Skellefteå AIK BTF",
@@ -421,7 +471,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Heby AIF",
@@ -438,7 +490,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Falu BTK: B",
    "borta": "Söderhamns UIF: D1",
@@ -455,7 +509,9 @@
   {
    "datum": "2026-12-08",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "BTK Rekord",
    "borta": "Söderhamns UIF",
@@ -472,7 +528,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Söderhamns UIF: C",
    "borta": "IK Sirius BTK",
@@ -489,7 +547,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF: C",
    "borta": "Haparanda SKT",
@@ -506,7 +566,9 @@
   {
    "datum": "2026-12-12",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Munkedals BTK",
    "borta": "Söderhamns UIF: B",
@@ -523,7 +585,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 2",
    "hemma": "Söderhamns UIF E",
    "borta": "Färila BTK C",
@@ -540,7 +604,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 2",
    "hemma": "Alfta BTK C",
    "borta": "Söderhamns UIF F",
@@ -557,7 +623,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Skellefteå AIK BTF",
    "borta": "Söderhamns UIF: C",
@@ -574,7 +642,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF: B",
    "borta": "BTK Kävlinge",
@@ -591,7 +661,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Jägarnäs-Ludvika BTK",
@@ -608,7 +680,9 @@
   {
    "datum": "2026-12-13",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 3",
    "hemma": "Söderhamns UIF F",
    "borta": "Alfta BTK D",
@@ -625,7 +699,9 @@
   {
    "datum": "2026-12-13",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 3",
    "hemma": "Alfta BTK E",
    "borta": "Söderhamns UIF E",
@@ -642,7 +718,9 @@
   {
    "datum": "2026-12-13",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 4",
    "hemma": "Alfta BTK D",
    "borta": "Söderhamns UIF E",
@@ -659,7 +737,9 @@
   {
    "datum": "2026-12-13",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 4",
    "hemma": "Söderhamns UIF F",
    "borta": "Färila BTK C",
@@ -676,7 +756,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Söderhamns UIF: D1",
    "borta": "KFUM Gävle BT",
@@ -693,7 +775,9 @@
   {
    "datum": "2026-12-14",
    "tid": "18:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 8",
    "hemma": "Söderhamns UIF G",
    "borta": "Söderhamns UIF H",
@@ -710,7 +794,9 @@
   {
    "datum": "2026-12-14",
    "tid": "18:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 8",
    "hemma": "Söderhamns UIF G",
    "borta": "Söderhamns UIF H",
@@ -727,7 +813,9 @@
   {
    "datum": "2026-12-15",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF",
    "borta": "Eslövs AI BTK",
@@ -744,7 +832,9 @@
   {
    "datum": "2026-12-19",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 6",
    "hemma": "Ortvikens PK F",
    "borta": "Söderhamns UIF G",
@@ -761,7 +851,9 @@
   {
    "datum": "2026-12-19",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 6",
    "hemma": "Söderhamns UIF H",
    "borta": "Alfta BTK F",
@@ -778,7 +870,9 @@
   {
    "datum": "2026-12-19",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 7",
    "hemma": "Hudiksvalls IF BTK C",
    "borta": "Söderhamns UIF H",
@@ -795,7 +889,9 @@
   {
    "datum": "2026-12-19",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF G",
    "borta": "Ortvikens PK H",
@@ -812,7 +908,9 @@
   {
    "datum": "2026-12-19",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 9",
    "hemma": "Alfta BTK F",
    "borta": "Söderhamns UIF G",
@@ -829,7 +927,9 @@
   {
    "datum": "2026-12-19",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF H",
    "borta": "Ortvikens PK I",
@@ -846,7 +946,9 @@
   {
    "datum": "2026-12-19",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 10",
    "hemma": "Ortvikens PK F",
    "borta": "Söderhamns UIF H",
@@ -863,7 +965,9 @@
   {
    "datum": "2026-12-19",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 10",
    "hemma": "Söderhamns UIF G",
    "borta": "Hudiksvalls IF BTK C",
@@ -880,7 +984,9 @@
   {
    "datum": "2026-12-19",
    "tid": "18:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF H",
    "borta": "Söderhamns UIF G",
@@ -897,7 +1003,9 @@
   {
    "datum": "2026-12-19",
    "tid": "18:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF H",
    "borta": "Söderhamns UIF G",
@@ -914,7 +1022,9 @@
   {
    "datum": "2027-01-12",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Kosta SK",
    "borta": "Söderhamns UIF",
@@ -931,7 +1041,9 @@
   {
    "datum": "2027-01-16",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Falkenbergs BTK",
    "borta": "Söderhamns UIF: B",
@@ -948,7 +1060,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 5",
    "hemma": "Alfta BTK E",
    "borta": "Söderhamns UIF F",
@@ -965,7 +1079,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 5",
    "hemma": "Söderhamns UIF E",
    "borta": "Alfta BTK C",
@@ -982,7 +1098,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Söderhamns UIF: B",
    "borta": "Norrtulls SK",
@@ -999,7 +1117,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Upplands-Ekeby IF: A2",
@@ -1016,7 +1136,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 6",
    "hemma": "Söderhamns UIF E",
    "borta": "Söderhamns UIF F",
@@ -1033,7 +1155,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 6",
    "hemma": "Söderhamns UIF E",
    "borta": "Söderhamns UIF F",
@@ -1050,7 +1174,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 7",
    "hemma": "Färila BTK C",
    "borta": "Söderhamns UIF E",
@@ -1067,7 +1193,9 @@
   {
    "datum": "2027-01-17",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF F",
    "borta": "Alfta BTK C",
@@ -1084,7 +1212,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Dala-Järna IK",
    "borta": "Söderhamns UIF: D1",
@@ -1101,7 +1231,9 @@
   {
    "datum": "2027-01-19",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF",
    "borta": "Halmstad BTK",
@@ -1118,7 +1250,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 11",
    "hemma": "Söderhamns UIF G",
    "borta": "Ortvikens PK G",
@@ -1135,7 +1269,9 @@
   {
    "datum": "2027-01-30",
    "tid": "10:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 11",
    "hemma": "Söderhamns UIF H",
    "borta": "Ortvikens PK H",
@@ -1152,7 +1288,9 @@
   {
    "datum": "2027-01-30",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 12",
    "hemma": "Ortvikens PK G",
    "borta": "Söderhamns UIF H",
@@ -1169,7 +1307,9 @@
   {
    "datum": "2027-01-30",
    "tid": "12:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 12",
    "hemma": "Ortvikens PK I",
    "borta": "Söderhamns UIF G",
@@ -1186,7 +1326,9 @@
   {
    "datum": "2027-01-30",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 13",
    "hemma": "Söderhamns UIF G",
    "borta": "Ortvikens PK F",
@@ -1203,7 +1345,9 @@
   {
    "datum": "2027-01-30",
    "tid": "14:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 13",
    "hemma": "Alfta BTK F",
    "borta": "Söderhamns UIF H",
@@ -1220,7 +1364,9 @@
   {
    "datum": "2027-01-30",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 14",
    "hemma": "Söderhamns UIF H",
    "borta": "Hudiksvalls IF BTK C",
@@ -1237,7 +1383,9 @@
   {
    "datum": "2027-01-30",
    "tid": "16:00",
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 14",
    "hemma": "Ortvikens PK H",
    "borta": "Söderhamns UIF G",
@@ -1254,7 +1402,9 @@
   {
    "datum": "2027-02-02",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Eskilstuna by STIGA",
    "borta": "Söderhamns UIF",
@@ -1271,7 +1421,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Lyckeby BTK",
    "borta": "Söderhamns UIF: B",
@@ -1288,7 +1440,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Söderhamns UIF: B",
    "borta": "Ängby SK",
@@ -1305,7 +1459,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Gefle PK: B",
@@ -1322,7 +1478,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Heby AIF",
    "borta": "Söderhamns UIF: D1",
@@ -1339,7 +1497,9 @@
   {
    "datum": "2027-02-16",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Söderhamns UIF",
    "borta": "Spårvägens BTK",
@@ -1356,7 +1516,9 @@
   {
    "datum": "2027-03-11",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Söderhamns UIF",
    "borta": "BTK Rekord",
@@ -1373,7 +1535,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 8",
    "hemma": "Alfta BTK D",
    "borta": "Söderhamns UIF F",
@@ -1390,7 +1554,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 8",
    "hemma": "Söderhamns UIF E",
    "borta": "Alfta BTK E",
@@ -1407,7 +1573,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Tibble-Kungsängen BTK",
    "borta": "Söderhamns UIF: C",
@@ -1424,7 +1592,9 @@
   {
    "datum": "2027-03-13",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 9",
    "hemma": "Söderhamns UIF E",
    "borta": "Alfta BTK D",
@@ -1441,7 +1611,9 @@
   {
    "datum": "2027-03-13",
    "tid": "12:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 9",
    "hemma": "Färila BTK C",
    "borta": "Söderhamns UIF F",
@@ -1458,7 +1630,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 10",
    "hemma": "Söderhamns UIF F",
    "borta": "Alfta BTK E",
@@ -1475,7 +1649,9 @@
   {
    "datum": "2027-03-13",
    "tid": "14:00",
+   "serie_id": "376-7267-0",
    "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
    "omgang": "Round 10",
    "hemma": "Alfta BTK C",
    "borta": "Söderhamns UIF E",
@@ -1492,7 +1668,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Söderhamns UIF: C",
    "borta": "IFK Österåkers BTK",
@@ -1509,7 +1687,9 @@
   {
    "datum": "2027-03-13",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 15",
    "hemma": "Söderhamns UIF: B",
    "borta": "Västers BTK",
@@ -1527,7 +1707,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Ängby SK: B2",
    "borta": "Söderhamns UIF: C",
@@ -1544,7 +1726,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 16",
    "hemma": "Nerikes Kils SK",
    "borta": "Söderhamns UIF: B",
@@ -1562,7 +1746,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Söderhamns UIF: D1",
    "borta": "Falu BTK: B",
@@ -1579,7 +1765,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Jägarnäs-Ludvika BTK",
    "borta": "Söderhamns UIF: D1",
@@ -1596,7 +1784,9 @@
   {
    "datum": "2027-03-16",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -1613,7 +1803,9 @@
   {
    "datum": "2027-04-10",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 17",
    "hemma": "BTK Kävlinge",
    "borta": "Söderhamns UIF: B",
@@ -1630,7 +1822,9 @@
   {
    "datum": "2027-04-11",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 18",
    "hemma": "Söderhamns UIF: B",
    "borta": "Munkedals BTK",
@@ -1649,7 +1843,9 @@
   {
    "datum": "2026-04-11",
    "tid": "11:00",
+   "serie_id": "259-3860-0",
    "serie": "Norra",
+   "evenemang": "Nationellt kvalspel 2026",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF: C",
    "borta": "Västerås BTK",
@@ -1668,7 +1864,9 @@
   {
    "datum": "2026-04-13",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "BTK Rekord",
    "borta": "Söderhamns UIF",
@@ -1688,7 +1886,9 @@
   {
    "datum": "2026-04-15",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Söderhamns UIF",
    "borta": "BTK Rekord",
@@ -1708,7 +1908,9 @@
   {
    "datum": "2026-04-21",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Söderhamns UIF",
    "borta": "Eslövs AI BTK",
@@ -1727,7 +1929,9 @@
   {
    "datum": "2026-04-23",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -1746,7 +1950,9 @@
   {
    "datum": "2026-04-24",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -1765,7 +1971,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF: C",
    "borta": "Tibble-Kungsängen BTK",
@@ -1784,7 +1992,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF: B",
    "borta": "Falkenbergs BTK",
@@ -1803,7 +2013,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "IFK Österåkers BTK",
    "borta": "Söderhamns UIF: C",
@@ -1822,7 +2034,9 @@
   {
    "datum": "2026-09-19",
    "tid": "16:00",
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Norrtulls SK",
    "borta": "Söderhamns UIF: B",
@@ -1841,7 +2055,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Söderhamns UIF: C",
    "borta": "Ängby SK: B2",
@@ -1860,7 +2076,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "KFUM Gävle BT",
    "borta": "Söderhamns UIF: D1",
@@ -1879,7 +2097,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Norrtälje BTK",
    "borta": "Söderhamns UIF: C",
@@ -1898,7 +2118,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Upplands-Ekeby IF: A2",
    "borta": "Söderhamns UIF: D1",
@@ -1917,7 +2139,9 @@
   {
    "datum": "2026-09-22",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Söderhamns UIF",
    "borta": "Kosta SK",
@@ -1936,7 +2160,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Söderhamns UIF: C",
    "borta": "Norrtälje BTK",
@@ -1967,7 +2193,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Ängby SK",
      "borta": "Söderhamns UIF: B",
@@ -1984,7 +2212,9 @@
     {
      "datum": "2026-10-17",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Lyckeby BTK",
      "borta": "Ängby SK",
@@ -2013,7 +2243,9 @@
     {
      "datum": "2026-10-18",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Söderhamns UIF: B",
      "borta": "Lyckeby BTK",
@@ -2042,7 +2274,9 @@
     {
      "datum": "2026-10-20",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Söderhamns UIF",
      "borta": "Eskilstuna by STIGA",
@@ -2071,7 +2305,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Jägarnäs-Ludvika BTK",
      "borta": "Upplands-Ekeby IF: A2",
@@ -2088,7 +2324,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "KFUM Gävle BT",
      "borta": "Falu BTK: B",
@@ -2105,7 +2343,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Söderhamns UIF: D1",
      "borta": "Heby AIF",
@@ -2122,7 +2362,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Dala-Järna IK",
      "borta": "Gefle PK: B",
@@ -2139,7 +2381,9 @@
     {
      "datum": "2026-11-15",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Upplands-Ekeby IF: A2",
      "borta": "Gefle PK: B",
@@ -2156,7 +2400,9 @@
     {
      "datum": "2026-11-15",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Heby AIF",
      "borta": "Dala-Järna IK",
@@ -2173,7 +2419,9 @@
     {
      "datum": "2026-11-15",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Falu BTK: B",
      "borta": "Söderhamns UIF: D1",
@@ -2190,7 +2438,9 @@
     {
      "datum": "2026-11-15",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Jägarnäs-Ludvika BTK",
      "borta": "KFUM Gävle BT",
@@ -2219,7 +2469,9 @@
     {
      "datum": "2026-12-14",
      "tid": "18:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 8",
      "hemma": "Söderhamns UIF G",
      "borta": "Söderhamns UIF H",
@@ -2248,7 +2500,9 @@
     {
      "datum": "2026-12-15",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Söderhamns UIF",
      "borta": "Eslövs AI BTK",
@@ -2277,7 +2531,9 @@
     {
      "datum": "2026-12-19",
      "tid": "18:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 1",
      "hemma": "Söderhamns UIF H",
      "borta": "Söderhamns UIF G",
@@ -2306,7 +2562,9 @@
     {
      "datum": "2027-01-19",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Söderhamns UIF",
      "borta": "Halmstad BTK",
@@ -2335,7 +2593,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 11",
      "hemma": "Söderhamns UIF G",
      "borta": "Ortvikens PK G",
@@ -2352,7 +2612,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 11",
      "hemma": "Hudiksvalls IF BTK C",
      "borta": "Ortvikens PK I",
@@ -2369,7 +2631,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 11",
      "hemma": "Alfta BTK F",
      "borta": "Ortvikens PK F",
@@ -2386,7 +2650,9 @@
     {
      "datum": "2027-01-30",
      "tid": "10:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 11",
      "hemma": "Söderhamns UIF H",
      "borta": "Ortvikens PK H",
@@ -2403,7 +2669,9 @@
     {
      "datum": "2027-01-30",
      "tid": "12:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 12",
      "hemma": "Ortvikens PK G",
      "borta": "Söderhamns UIF H",
@@ -2420,7 +2688,9 @@
     {
      "datum": "2027-01-30",
      "tid": "12:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 12",
      "hemma": "Ortvikens PK H",
      "borta": "Alfta BTK F",
@@ -2437,7 +2707,9 @@
     {
      "datum": "2027-01-30",
      "tid": "12:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 12",
      "hemma": "Ortvikens PK F",
      "borta": "Hudiksvalls IF BTK C",
@@ -2454,7 +2726,9 @@
     {
      "datum": "2027-01-30",
      "tid": "12:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 12",
      "hemma": "Ortvikens PK I",
      "borta": "Söderhamns UIF G",
@@ -2471,7 +2745,9 @@
     {
      "datum": "2027-01-30",
      "tid": "14:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 13",
      "hemma": "Ortvikens PK I",
      "borta": "Ortvikens PK G",
@@ -2488,7 +2764,9 @@
     {
      "datum": "2027-01-30",
      "tid": "14:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 13",
      "hemma": "Söderhamns UIF G",
      "borta": "Ortvikens PK F",
@@ -2505,7 +2783,9 @@
     {
      "datum": "2027-01-30",
      "tid": "14:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 13",
      "hemma": "Hudiksvalls IF BTK C",
      "borta": "Ortvikens PK H",
@@ -2522,7 +2802,9 @@
     {
      "datum": "2027-01-30",
      "tid": "14:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 13",
      "hemma": "Alfta BTK F",
      "borta": "Söderhamns UIF H",
@@ -2539,7 +2821,9 @@
     {
      "datum": "2027-01-30",
      "tid": "16:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 14",
      "hemma": "Ortvikens PK G",
      "borta": "Alfta BTK F",
@@ -2556,7 +2840,9 @@
     {
      "datum": "2027-01-30",
      "tid": "16:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 14",
      "hemma": "Söderhamns UIF H",
      "borta": "Hudiksvalls IF BTK C",
@@ -2573,7 +2859,9 @@
     {
      "datum": "2027-01-30",
      "tid": "16:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 14",
      "hemma": "Ortvikens PK H",
      "borta": "Söderhamns UIF G",
@@ -2590,7 +2878,9 @@
     {
      "datum": "2027-01-30",
      "tid": "16:00",
+     "serie_id": "376-7265-0",
      "serie": "Ungdomsserier",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 14",
      "hemma": "Ortvikens PK F",
      "borta": "Ortvikens PK I",
@@ -2619,7 +2909,9 @@
     {
      "datum": "2027-02-13",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Lyckeby BTK",
      "borta": "Söderhamns UIF: B",
@@ -2636,7 +2928,9 @@
     {
      "datum": "2027-02-13",
      "tid": "16:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 12",
      "hemma": "Ängby SK",
      "borta": "Lyckeby BTK",
@@ -2665,7 +2959,9 @@
     {
      "datum": "2027-02-14",
      "tid": "11:00",
+     "serie_id": "417-5759-0",
      "serie": "Superettan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Söderhamns UIF: B",
      "borta": "Ängby SK",
@@ -2694,7 +2990,9 @@
     {
      "datum": "2027-02-16",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Söderhamns UIF",
      "borta": "Spårvägens BTK",
@@ -2723,7 +3021,9 @@
     {
      "datum": "2027-03-11",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Söderhamns UIF",
      "borta": "BTK Rekord",
@@ -2753,7 +3053,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 8",
      "hemma": "Alfta BTK D",
      "borta": "Söderhamns UIF F",
@@ -2770,7 +3072,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 8",
      "hemma": "Alfta BTK C",
      "borta": "Färila BTK C",
@@ -2787,7 +3091,9 @@
     {
      "datum": "2027-03-13",
      "tid": "10:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 8",
      "hemma": "Söderhamns UIF E",
      "borta": "Alfta BTK E",
@@ -2804,7 +3110,9 @@
     {
      "datum": "2027-03-13",
      "tid": "12:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 9",
      "hemma": "Söderhamns UIF E",
      "borta": "Alfta BTK D",
@@ -2821,7 +3129,9 @@
     {
      "datum": "2027-03-13",
      "tid": "12:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 9",
      "hemma": "Alfta BTK E",
      "borta": "Alfta BTK C",
@@ -2838,7 +3148,9 @@
     {
      "datum": "2027-03-13",
      "tid": "12:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 9",
      "hemma": "Färila BTK C",
      "borta": "Söderhamns UIF F",
@@ -2855,7 +3167,9 @@
     {
      "datum": "2027-03-13",
      "tid": "14:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 10",
      "hemma": "Alfta BTK D",
      "borta": "Färila BTK C",
@@ -2872,7 +3186,9 @@
     {
      "datum": "2027-03-13",
      "tid": "14:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 10",
      "hemma": "Söderhamns UIF F",
      "borta": "Alfta BTK E",
@@ -2889,7 +3205,9 @@
     {
      "datum": "2027-03-13",
      "tid": "14:00",
+     "serie_id": "376-7267-0",
      "serie": "Div 5 Södra B",
+     "evenemang": "Norrlands BTF",
      "omgang": "Round 10",
      "hemma": "Alfta BTK C",
      "borta": "Söderhamns UIF E",
@@ -2918,7 +3236,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Gefle PK: B",
      "borta": "Upplands-Ekeby IF: A2",
@@ -2935,7 +3255,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Dala-Järna IK",
      "borta": "Heby AIF",
@@ -2952,7 +3274,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Söderhamns UIF: D1",
      "borta": "Falu BTK: B",
@@ -2969,7 +3293,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "KFUM Gävle BT",
      "borta": "Jägarnäs-Ludvika BTK",
@@ -2986,7 +3312,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Upplands-Ekeby IF: A2",
      "borta": "KFUM Gävle BT",
@@ -3003,7 +3331,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Jägarnäs-Ludvika BTK",
      "borta": "Söderhamns UIF: D1",
@@ -3020,7 +3350,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Falu BTK: B",
      "borta": "Dala-Järna IK",
@@ -3037,7 +3369,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5764-0",
      "serie": "Div 3 NSNV",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Heby AIF",
      "borta": "Gefle PK: B",
@@ -3056,6 +3390,39 @@
  ],
  "tabeller": [
   {
+   "serie_id": "259-3860-0",
+   "serie": "Norra",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/934/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Söderhamns UIF: C",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Västerås BTK",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7",
@@ -3153,6 +3520,7 @@
    ]
   },
   {
+   "serie_id": "417-5764-0",
    "serie": "Div 3 NSNV",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7",
@@ -3250,112 +3618,7 @@
    ]
   },
   {
-   "serie": "Div 5 Södra B",
-   "evenemang": "Norrlands BTF",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1359/2/7/7",
-   "exakt_lank": false,
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Alfta BTK C",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Söderhamns UIF F",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Färila BTK C",
-     "klubb": "Färila Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Alfta BTK E",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Söderhamns UIF E",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Alfta BTK D",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Norra",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/934/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Söderhamns UIF: C",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Västerås BTK",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
@@ -3442,59 +3705,7 @@
    ]
   },
   {
-   "serie": "Pingisligan herrar Knockout",
-   "evenemang": "Pingisligan by STIGA Slutspel",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
-   "exakt_lank": true,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Eslövs AI BTK",
-     "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "BTK Rekord",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
+   "serie_id": "417-5759-0",
    "serie": "Superettan (herr)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
@@ -3603,6 +3814,83 @@
    ]
   },
   {
+   "serie_id": "376-7267-0",
+   "serie": "Div 5 Södra B",
+   "evenemang": "Norrlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1359/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Alfta BTK C",
+     "klubb": "Alfta Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Söderhamns UIF F",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Färila BTK C",
+     "klubb": "Färila Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Alfta BTK E",
+     "klubb": "Alfta Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Söderhamns UIF E",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Alfta BTK D",
+     "klubb": "Alfta Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7",
@@ -3695,6 +3983,60 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "302-3873-0",
+   "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
+   "exakt_lank": true,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Eslövs AI BTK",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

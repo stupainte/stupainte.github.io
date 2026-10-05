@@ -4,20 +4,22 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Ulricehamns IF",
-   "serie": {
-    "namn": "Div 3 VSNÖ"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Ulricehamns IF",
    "serie": {
     "namn": "Pensionärsserier"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ulricehamns IF",
+   "serie": {
+    "namn": "Div 3 VSNÖ"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,41 +27,47 @@
    "serie": {
     "namn": "Div 5 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Ulricehamns IF Blå",
    "serie": {
-    "namn": "Södra"
+    "namn": "Höst Ungd Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Ulricehamns IF C",
    "serie": {
-    "namn": "Södra"
+    "namn": "Div 6 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Ulricehamns IF D",
    "serie": {
-    "namn": "Mellersta"
+    "namn": "Div 7 Mellersta"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Ulricehamns IF Röd",
    "serie": {
-    "namn": "Södra"
+    "namn": "Höst Ungd Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Ulricehamns IF Svart",
    "serie": {
-    "namn": "Södra"
+    "namn": "Höst Ungd Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -67,7 +75,9 @@
   {
    "datum": "2026-10-06",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Borgstena IF B",
    "borta": "Ulricehamns IF C",
@@ -84,7 +94,9 @@
   {
    "datum": "2026-10-07",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "IFK Falköping BTK",
    "borta": "Ulricehamns IF",
@@ -101,7 +113,9 @@
   {
    "datum": "2026-10-07",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF D",
    "borta": "Essunga S:a BTK B",
@@ -118,7 +132,9 @@
   {
    "datum": "2026-10-11",
    "tid": "14:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Mariedals IK D2",
    "borta": "Ulricehamns IF B",
@@ -135,7 +151,9 @@
   {
    "datum": "2026-10-12",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Kinna BTK B1",
    "borta": "Ulricehamns IF C",
@@ -152,7 +170,9 @@
   {
    "datum": "2026-10-14",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ulricehamns IF B",
    "borta": "Byttorps IF B1",
@@ -169,7 +189,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Götene/Tor BTK",
    "borta": "Ulricehamns IF",
@@ -186,7 +208,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Karlsborgs BTK",
    "borta": "Ulricehamns IF",
@@ -203,7 +227,9 @@
   {
    "datum": "2026-10-21",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ulricehamns IF",
    "borta": "Kinna BTK",
@@ -220,7 +246,9 @@
   {
    "datum": "2026-10-21",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ulricehamns IF C",
    "borta": "Byttorps IF C1",
@@ -237,7 +265,9 @@
   {
    "datum": "2026-10-21",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Ulricehamns IF D",
    "borta": "IFK Falköping BTK D1",
@@ -254,52 +284,66 @@
   {
    "datum": "2026-11-01",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF Svart",
    "borta": "Ulricehamns IF Blå",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-01",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF Svart",
    "borta": "Ulricehamns IF Blå",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-01",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF Röd",
    "borta": "Sjömarkens BTK",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Sjömarkens Bordtennisklubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-03",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Kinna BTK",
    "borta": "Ulricehamns IF B",
@@ -316,7 +360,9 @@
   {
    "datum": "2026-11-04",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Byttorps IF 2",
    "borta": "Ulricehamns IF",
@@ -332,8 +378,10 @@
   },
   {
    "datum": "2026-11-05",
-   "tid": "19:00",
-   "serie": "Mellersta",
+   "tid": "20:00",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Alingsås PK E",
    "borta": "Ulricehamns IF D",
@@ -350,7 +398,9 @@
   {
    "datum": "2026-11-08",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK C",
    "borta": "Ulricehamns IF C",
@@ -367,7 +417,9 @@
   {
    "datum": "2026-11-11",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Ulricehamns IF",
    "borta": "Ödenäs IF",
@@ -384,7 +436,9 @@
   {
    "datum": "2026-11-11",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Ulricehamns IF B",
    "borta": "Byttorps IF B2",
@@ -401,7 +455,9 @@
   {
    "datum": "2026-11-11",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Ulricehamns IF C",
    "borta": "Kinna BTK B2",
@@ -418,52 +474,66 @@
   {
    "datum": "2026-11-15",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Ulricehamns IF Blå",
    "borta": "Ulricehamns IF Röd",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Ulricehamns IF Blå",
    "borta": "Ulricehamns IF Röd",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Alingsås PK Lila",
    "borta": "Ulricehamns IF Svart",
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Larvs FK",
    "borta": "Ulricehamns IF",
@@ -480,37 +550,47 @@
   {
    "datum": "2026-11-15",
    "tid": "12:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Ulricehamns IF Röd",
    "borta": "Alingsås PK Lila",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "12:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Alingsås PK Grön",
    "borta": "Ulricehamns IF Blå",
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Blikstorps AIK",
    "borta": "Ulricehamns IF",
@@ -527,52 +607,66 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ulricehamns IF Blå",
    "borta": "Herrljunga BTK",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Herrljunga Bordtennisklubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ulricehamns IF Svart",
    "borta": "Ulricehamns IF Röd",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-15",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ulricehamns IF Svart",
    "borta": "Ulricehamns IF Röd",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-11-18",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Byttorps IF 1",
    "borta": "Ulricehamns IF",
@@ -589,7 +683,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Ulricehamns IF D",
    "borta": "Vedums AIS E2",
@@ -606,7 +702,9 @@
   {
    "datum": "2026-11-22",
    "tid": "10:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Mariedals IK D1",
    "borta": "Ulricehamns IF B",
@@ -623,7 +721,9 @@
   {
    "datum": "2026-11-22",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Sjömarkens BTK C",
    "borta": "Ulricehamns IF C",
@@ -640,7 +740,9 @@
   {
    "datum": "2026-11-24",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sandareds BTK B",
    "borta": "Ulricehamns IF B",
@@ -657,7 +759,9 @@
   {
    "datum": "2026-11-25",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Ulricehamns IF C",
    "borta": "Byttorps IF C2",
@@ -674,7 +778,9 @@
   {
    "datum": "2026-12-01",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "IFK Falköping BTK D2",
    "borta": "Ulricehamns IF D",
@@ -691,7 +797,9 @@
   {
    "datum": "2026-12-02",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Ulricehamns IF",
    "borta": "Mariedals IK",
@@ -708,7 +816,9 @@
   {
    "datum": "2026-12-02",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Ulricehamns IF C",
    "borta": "Borgstena IF B",
@@ -725,7 +835,9 @@
   {
    "datum": "2026-12-06",
    "tid": "14:30",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "ÖSTK",
    "borta": "Ulricehamns IF B",
@@ -742,7 +854,9 @@
   {
    "datum": "2026-12-09",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Ulricehamns IF",
    "borta": "Sjömarkens BTK",
@@ -759,7 +873,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Ulricehamns IF",
    "borta": "Skövde PK: B",
@@ -776,7 +892,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Ulricehamns IF",
    "borta": "IFK Lidköping: A2",
@@ -793,112 +911,142 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Alingsås PK Grön",
    "borta": "Ulricehamns IF Svart",
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Sjömarkens BTK",
    "borta": "Ulricehamns IF Blå",
    "hemma_klubb": "Sjömarkens Bordtennisklubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "12:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Ulricehamns IF Svart",
    "borta": "Herrljunga BTK",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Herrljunga Bordtennisklubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "12:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Ulricehamns IF Röd",
    "borta": "Alingsås PK Grön",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Herrljunga BTK",
    "borta": "Ulricehamns IF Röd",
    "hemma_klubb": "Herrljunga Bordtennisklubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sjömarkens BTK",
    "borta": "Ulricehamns IF Svart",
    "hemma_klubb": "Sjömarkens Bordtennisklubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2026-12-13",
    "tid": "15:00",
-   "serie": "Södra",
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Ulricehamns IF Blå",
    "borta": "Alingsås PK Lila",
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "-",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "exakt_lank": false
   },
   {
    "datum": "2027-01-06",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Ulricehamns IF B",
    "borta": "Mariedals IK D2",
@@ -915,7 +1063,9 @@
   {
    "datum": "2027-01-06",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Ulricehamns IF C",
    "borta": "Kinna BTK B1",
@@ -932,7 +1082,9 @@
   {
    "datum": "2027-01-06",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Essunga S:a BTK B",
    "borta": "Ulricehamns IF D",
@@ -949,7 +1101,9 @@
   {
    "datum": "2027-01-12",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Byttorps IF B1",
    "borta": "Ulricehamns IF B",
@@ -966,7 +1120,9 @@
   {
    "datum": "2027-01-13",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Ulricehamns IF",
    "borta": "IFK Falköping BTK",
@@ -983,7 +1139,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Ulricehamns IF",
    "borta": "Mariestads BTK",
@@ -1000,7 +1158,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Byttorps IF C1",
    "borta": "Ulricehamns IF C",
@@ -1017,7 +1177,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Ulricehamns IF",
    "borta": "Götene/Tor BTK",
@@ -1034,7 +1196,9 @@
   {
    "datum": "2027-01-19",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "IFK Falköping BTK D1",
    "borta": "Ulricehamns IF D",
@@ -1051,7 +1215,9 @@
   {
    "datum": "2027-01-27",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Kinna BTK",
    "borta": "Ulricehamns IF",
@@ -1068,7 +1234,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF B",
    "borta": "Kinna BTK",
@@ -1085,7 +1253,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF C",
    "borta": "Sandareds BTK C",
@@ -1102,7 +1272,9 @@
   {
    "datum": "2027-02-03",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Ulricehamns IF D",
    "borta": "Alingsås PK E",
@@ -1119,7 +1291,9 @@
   {
    "datum": "2027-02-04",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Byttorps IF B2",
    "borta": "Ulricehamns IF B",
@@ -1136,7 +1310,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Kinna BTK B2",
    "borta": "Ulricehamns IF C",
@@ -1153,7 +1329,9 @@
   {
    "datum": "2027-02-10",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF",
    "borta": "Byttorps IF 2",
@@ -1170,7 +1348,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF",
    "borta": "Blikstorps AIK",
@@ -1187,7 +1367,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Ulricehamns IF",
    "borta": "Larvs FK",
@@ -1204,7 +1386,9 @@
   {
    "datum": "2027-02-18",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Vedums AIS E2",
    "borta": "Ulricehamns IF D",
@@ -1221,7 +1405,9 @@
   {
    "datum": "2027-02-24",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Ödenäs IF",
    "borta": "Ulricehamns IF",
@@ -1238,7 +1424,9 @@
   {
    "datum": "2027-02-24",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Ulricehamns IF B",
    "borta": "Mariedals IK D1",
@@ -1255,7 +1443,9 @@
   {
    "datum": "2027-02-24",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Ulricehamns IF C",
    "borta": "Sjömarkens BTK C",
@@ -1272,7 +1462,9 @@
   {
    "datum": "2027-03-03",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Ulricehamns IF B",
    "borta": "Sandareds BTK B",
@@ -1289,7 +1481,9 @@
   {
    "datum": "2027-03-03",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Ulricehamns IF D",
    "borta": "IFK Falköping BTK D2",
@@ -1306,7 +1500,9 @@
   {
    "datum": "2027-03-07",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Byttorps IF C2",
    "borta": "Ulricehamns IF C",
@@ -1323,7 +1519,9 @@
   {
    "datum": "2027-03-10",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Ulricehamns IF",
    "borta": "Byttorps IF 1",
@@ -1340,7 +1538,9 @@
   {
    "datum": "2027-03-10",
    "tid": "14:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Mariedals IK",
    "borta": "Ulricehamns IF",
@@ -1357,7 +1557,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Ulricehamns IF",
    "borta": "Karlsborgs BTK",
@@ -1374,7 +1576,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Skövde PK: B",
    "borta": "Ulricehamns IF",
@@ -1393,7 +1597,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "IFK Lidköping: A2",
    "borta": "Ulricehamns IF",
@@ -1412,7 +1618,9 @@
   {
    "datum": "2026-09-20",
    "tid": "15:00",
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Mariestads BTK",
    "borta": "Ulricehamns IF",
@@ -1431,7 +1639,9 @@
   {
    "datum": "2026-09-30",
    "tid": "10:00",
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sjömarkens BTK",
    "borta": "Ulricehamns IF",
@@ -1450,7 +1660,9 @@
   {
    "datum": "2026-09-30",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF B",
    "borta": "ÖSTK",
@@ -1474,14 +1686,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-07",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 1",
      "hemma": "Ulricehamns IF D",
      "borta": "Essunga S:a BTK B",
@@ -1510,7 +1724,9 @@
     {
      "datum": "2026-10-14",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Ulricehamns IF B",
      "borta": "Byttorps IF B1",
@@ -1532,16 +1748,18 @@
     "-"
    ],
    "serier": [
-    "Mellersta",
-    "Pensionärsserier",
-    "Södra"
+    "Div 6 Södra",
+    "Div 7 Mellersta",
+    "Pensionärsserier"
    ],
    "antal": 3,
    "matcher": [
     {
      "datum": "2026-10-21",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Ulricehamns IF",
      "borta": "Kinna BTK",
@@ -1558,7 +1776,9 @@
     {
      "datum": "2026-10-21",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Ulricehamns IF C",
      "borta": "Byttorps IF C1",
@@ -1575,7 +1795,9 @@
     {
      "datum": "2026-10-21",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Ulricehamns IF D",
      "borta": "IFK Falköping BTK D1",
@@ -1592,21 +1814,73 @@
    ]
   },
   {
+   "datum": "2026-11-01",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Höst Ungd Södra"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-11-01",
+     "tid": "10:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Ulricehamns IF Svart",
+     "borta": "Ulricehamns IF Blå",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-11-01",
+     "tid": "10:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Ulricehamns IF Röd",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2026-11-11",
    "platser": [
     "-"
    ],
    "serier": [
     "Div 5 Södra",
-    "Pensionärsserier",
-    "Södra"
+    "Div 6 Södra",
+    "Pensionärsserier"
    ],
    "antal": 3,
    "matcher": [
     {
      "datum": "2026-11-11",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Ulricehamns IF",
      "borta": "Ödenäs IF",
@@ -1623,7 +1897,9 @@
     {
      "datum": "2026-11-11",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Ulricehamns IF B",
      "borta": "Byttorps IF B2",
@@ -1640,7 +1916,9 @@
     {
      "datum": "2026-11-11",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Ulricehamns IF C",
      "borta": "Kinna BTK B2",
@@ -1662,14 +1940,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-18",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Ulricehamns IF D",
      "borta": "Vedums AIS E2",
@@ -1691,14 +1971,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-25",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Ulricehamns IF C",
      "borta": "Byttorps IF C2",
@@ -1720,15 +2002,17 @@
     "-"
    ],
    "serier": [
-    "Pensionärsserier",
-    "Södra"
+    "Div 6 Södra",
+    "Pensionärsserier"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2026-12-02",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Ulricehamns IF",
      "borta": "Mariedals IK",
@@ -1745,7 +2029,9 @@
     {
      "datum": "2026-12-02",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Ulricehamns IF C",
      "borta": "Borgstena IF B",
@@ -1774,7 +2060,9 @@
     {
      "datum": "2026-12-09",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Ulricehamns IF",
      "borta": "Sjömarkens BTK",
@@ -1791,20 +2079,205 @@
    ]
   },
   {
+   "datum": "2026-12-13",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Höst Ungd Södra"
+   ],
+   "antal": 9,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Alingsås PK Grön",
+     "borta": "Ulricehamns IF Svart",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Herrljunga BTK",
+     "borta": "Alingsås PK Lila",
+     "hemma_klubb": "Herrljunga Bordtennisklubb",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 5",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Ulricehamns IF Blå",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 6",
+     "hemma": "Alingsås PK Lila",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 6",
+     "hemma": "Ulricehamns IF Svart",
+     "borta": "Herrljunga BTK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Herrljunga Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 6",
+     "hemma": "Ulricehamns IF Röd",
+     "borta": "Alingsås PK Grön",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 7",
+     "hemma": "Herrljunga BTK",
+     "borta": "Ulricehamns IF Röd",
+     "hemma_klubb": "Herrljunga Bordtennisklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 7",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Ulricehamns IF Svart",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie_id": "367-7709-0",
+     "serie": "Höst Ungd Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 7",
+     "hemma": "Ulricehamns IF Blå",
+     "borta": "Alingsås PK Lila",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
+  {
    "datum": "2027-01-06",
    "platser": [
     "-"
    ],
    "serier": [
     "Div 5 Södra",
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-06",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Ulricehamns IF B",
      "borta": "Mariedals IK D2",
@@ -1821,7 +2294,9 @@
     {
      "datum": "2027-01-06",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Ulricehamns IF C",
      "borta": "Kinna BTK B1",
@@ -1850,7 +2325,9 @@
     {
      "datum": "2027-01-13",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Ulricehamns IF",
      "borta": "IFK Falköping BTK",
@@ -1879,7 +2356,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Larvs FK",
      "borta": "Götene/Tor BTK",
@@ -1896,7 +2375,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Blikstorps AIK",
      "borta": "Karlsborgs BTK",
@@ -1913,7 +2394,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "IFK Lidköping: A2",
      "borta": "Skövde PK: B",
@@ -1930,7 +2413,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Ulricehamns IF",
      "borta": "Mariestads BTK",
@@ -1947,7 +2432,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Skövde PK: B",
      "borta": "Blikstorps AIK",
@@ -1964,7 +2451,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Mariestads BTK",
      "borta": "Larvs FK",
@@ -1981,7 +2470,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Ulricehamns IF",
      "borta": "Götene/Tor BTK",
@@ -1998,7 +2489,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "IFK Lidköping: A2",
      "borta": "Karlsborgs BTK",
@@ -2021,14 +2514,16 @@
    ],
    "serier": [
     "Div 5 Södra",
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-01-27",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Ulricehamns IF B",
      "borta": "Kinna BTK",
@@ -2045,7 +2540,9 @@
     {
      "datum": "2027-01-27",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Ulricehamns IF C",
      "borta": "Sandareds BTK C",
@@ -2067,14 +2564,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-03",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Ulricehamns IF D",
      "borta": "Alingsås PK E",
@@ -2103,7 +2602,9 @@
     {
      "datum": "2027-02-10",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Ulricehamns IF",
      "borta": "Byttorps IF 2",
@@ -2126,14 +2627,16 @@
    ],
    "serier": [
     "Div 5 Södra",
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-02-24",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Ulricehamns IF B",
      "borta": "Mariedals IK D1",
@@ -2150,7 +2653,9 @@
     {
      "datum": "2027-02-24",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Ulricehamns IF C",
      "borta": "Sjömarkens BTK C",
@@ -2173,14 +2678,16 @@
    ],
    "serier": [
     "Div 5 Södra",
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 2,
    "matcher": [
     {
      "datum": "2027-03-03",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Ulricehamns IF B",
      "borta": "Sandareds BTK B",
@@ -2197,7 +2704,9 @@
     {
      "datum": "2027-03-03",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Ulricehamns IF D",
      "borta": "IFK Falköping BTK D2",
@@ -2226,7 +2735,9 @@
     {
      "datum": "2027-03-04",
      "tid": "14:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Byttorps IF 1",
      "borta": "Kinna BTK",
@@ -2255,7 +2766,9 @@
     {
      "datum": "2027-03-10",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Byttorps IF 2",
      "borta": "IFK Falköping BTK",
@@ -2272,7 +2785,9 @@
     {
      "datum": "2027-03-10",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Kinna BTK",
      "borta": "Ödenäs IF",
@@ -2289,7 +2804,9 @@
     {
      "datum": "2027-03-10",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Ulricehamns IF",
      "borta": "Byttorps IF 1",
@@ -2306,7 +2823,9 @@
     {
      "datum": "2027-03-10",
      "tid": "10:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Sjömarkens BTK",
      "borta": "Mariedals IK",
@@ -2323,7 +2842,9 @@
     {
      "datum": "2027-03-10",
      "tid": "14:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "IFK Falköping BTK",
      "borta": "Sjömarkens BTK",
@@ -2340,7 +2861,9 @@
     {
      "datum": "2027-03-10",
      "tid": "14:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Mariedals IK",
      "borta": "Ulricehamns IF",
@@ -2357,7 +2880,9 @@
     {
      "datum": "2027-03-10",
      "tid": "14:00",
+     "serie_id": "367-6956-0",
      "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Ödenäs IF",
      "borta": "Byttorps IF 2",
@@ -2386,7 +2911,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Mariestads BTK",
      "borta": "Blikstorps AIK",
@@ -2403,7 +2930,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Skövde PK: B",
      "borta": "Larvs FK",
@@ -2420,7 +2949,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "IFK Lidköping: A2",
      "borta": "Götene/Tor BTK",
@@ -2437,7 +2968,9 @@
     {
      "datum": "2027-03-14",
      "tid": "11:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Ulricehamns IF",
      "borta": "Karlsborgs BTK",
@@ -2454,7 +2987,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Blikstorps AIK",
      "borta": "Götene/Tor BTK",
@@ -2471,7 +3006,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Larvs FK",
      "borta": "Karlsborgs BTK",
@@ -2488,7 +3025,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Skövde PK: B",
      "borta": "Ulricehamns IF",
@@ -2505,7 +3044,9 @@
     {
      "datum": "2027-03-14",
      "tid": "15:00",
+     "serie_id": "417-5821-0",
      "serie": "Div 3 VSNÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "IFK Lidköping: A2",
      "borta": "Mariestads BTK",
@@ -2524,6 +3065,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5821-0",
    "serie": "Div 3 VSNÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
@@ -2621,6 +3163,7 @@
    ]
   },
   {
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
@@ -2718,16 +3261,17 @@
    ]
   },
   {
-   "serie": "Mellersta",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "exakt_lank": false,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Trollhättans BTK Röd",
-     "klubb": "Trollhättans Bordtennisklubb",
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2737,8 +3281,8 @@
     },
     {
      "placering": 2,
-     "lag": "Alingsås PK svart",
-     "klubb": "Ådalslidens Sportklubb",
+     "lag": "Sjömarkens BTK C",
+     "klubb": "Sjömarkens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2748,8 +3292,8 @@
     },
     {
      "placering": 3,
-     "lag": "Lidan BTK Grön",
-     "klubb": "Lidan Bordtennisklubb",
+     "lag": "Byttorps IF C2",
+     "klubb": "Byttorps Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2759,8 +3303,8 @@
     },
     {
      "placering": 4,
-     "lag": "Lidan BTK Svart",
-     "klubb": "Lidan Bordtennisklubb",
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2770,8 +3314,8 @@
     },
     {
      "placering": 5,
-     "lag": "Alingsås PK Ultra",
-     "klubb": "Alingsås Pingis Klubb",
+     "lag": "Ulricehamns IF C",
+     "klubb": "Ulricehamns Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2781,8 +3325,30 @@
     },
     {
      "placering": 6,
-     "lag": "Trollhättans BTK Blå",
-     "klubb": "Trollhättans Bordtennisklubb",
+     "lag": "Byttorps IF C1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sandareds BTK C",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kinna BTK B1",
+     "klubb": "Kinna Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2793,6 +3359,170 @@
    ]
   },
   {
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ulricehamns IF D",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Falköping BTK D1",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Alingsås PK E",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Vedums AIS E2",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Falköping BTK D2",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Essunga S:a BTK B",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-7709-0",
+   "serie": "Höst Ungd Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
+   "exakt_lank": false,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Alingsås PK Lila",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Ulricehamns IF Svart",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ulricehamns IF Röd",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Alingsås PK Grön",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Herrljunga BTK",
+     "klubb": "Herrljunga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Sjömarkens BTK",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Ulricehamns IF Blå",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
@@ -2884,48 +3614,6 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Södra",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Halmstad BTK: B",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IFK Lund Bordtennis: B1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Varbergs BTK",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

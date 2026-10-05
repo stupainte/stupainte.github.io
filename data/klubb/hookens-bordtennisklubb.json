@@ -4,13 +4,14 @@
   "namn": "Höökens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Hööken",
    "serie": {
     "namn": "Division 4"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Division 5"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Ungdomsserie grupp 1"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Division 6"
    },
+   "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -47,7 +52,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 1",
    "hemma": "Munkfors",
    "borta": "Hööken Rocky",
@@ -66,7 +73,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 1",
    "hemma": "Sunne",
    "borta": "Hööken",
@@ -85,7 +94,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 2",
    "hemma": "Hööken",
    "borta": "Munkfors",
@@ -104,7 +115,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 2",
    "hemma": "Hööken Rocky",
    "borta": "Sunne",
@@ -123,7 +136,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7231-0",
    "serie": "Division 5",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 2",
    "hemma": "Björkborn",
    "borta": "Hööken",
@@ -144,7 +159,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7039-0",
    "serie": "Division 4",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 1",
    "hemma": "Carlstad",
    "borta": "Hööken",
@@ -163,7 +180,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "501-7039-0",
    "serie": "Division 4",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 2",
    "hemma": "Björkborn",
    "borta": "Hööken",
@@ -182,7 +201,9 @@
   {
    "datum": "2026-09-19",
    "tid": "00:00",
+   "serie_id": "501-7231-0",
    "serie": "Division 5",
+   "evenemang": "Värmlands BTF",
    "omgang": "Round 1",
    "hemma": "Storfors",
    "borta": "Hööken",
@@ -202,16 +223,17 @@
  "arrangerar": [],
  "tabeller": [
   {
+   "serie_id": "501-7039-0",
    "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Västerås BTK C1",
-     "klubb": "Västerås Bordtennisklubb",
+     "lag": "Björkborn",
+     "klubb": "Björkborns Gymnastik O IF",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -221,30 +243,19 @@
     },
     {
      "placering": 2,
-     "lag": "Västerås BTK C2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Kristinehamn",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Hallstahammars BTK B",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Köpings BTK Valla",
-     "klubb": "Köpings Bordtennisklubb",
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -253,9 +264,31 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 4,
+     "lag": "Carlstad",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 5,
-     "lag": "Västerås BTK C3",
-     "klubb": "Västerås Bordtennisklubb",
+     "lag": "Hööken",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Molkom",
+     "klubb": "Molkoms Racketklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -264,20 +297,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Köpings BTK GL",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
+     "placering": 7,
+     "lag": "Arvika",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Arboga BTK",
-     "klubb": "Arboga Bordtennisklubb",
+     "placering": 8,
+     "lag": "Kil",
+     "klubb": "Kils Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -288,16 +321,17 @@
    ]
   },
   {
+   "serie_id": "501-7231-0",
    "serie": "Division 5",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1060/2/7/7",
    "exakt_lank": true,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Hallstahammar",
-     "klubb": "Hallstahammars Bordtennisklubb",
+     "lag": "Carlstad",
+     "klubb": "Carlstads Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -307,138 +341,95 @@
     },
     {
      "placering": 2,
-     "lag": "Västerås 5",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Skoghall",
+     "klubb": "Skoghalls Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Arboga",
-     "klubb": "Arboga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "BrevikArvika",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Västerås 8",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hööken",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Västerås 4",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Storfors",
+     "klubb": "Storfors Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Västerås 7",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Björkborn",
+     "klubb": "Björkborns Gymnastik O IF",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Västerås 2",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kil vit",
+     "klubb": "Kils Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Köping",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kil svart",
+     "klubb": "Kils Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Västerås 6",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 10,
-     "lag": "Västerås 3",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 11,
-     "lag": "Kungsör",
-     "klubb": "Bordtennisklubben Kungsör",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 12,
-     "lag": "Västerås 1",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
+   "serie_id": "501-7281-0",
    "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
    "exakt_lank": true,
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
+     "lag": "Hööken",
+     "klubb": "Höökens Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -448,19 +439,30 @@
     },
     {
      "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
+     "lag": "Kristinehamn 3",
+     "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 2,
-     "vunna": 1,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
+     "lag": "Molkom",
+     "klubb": "Molkoms Racketklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Storfors",
+     "klubb": "Storfors Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -469,42 +471,64 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
+     "lag": "Carlstad 1",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "lag": "Arvika 1",
+     "klubb": "Arvika Bordtennisklubb",
      "spelade": 2,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
+     "lag": "Arvika 2",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Sunne",
+     "klubb": "Sunne Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Hööken Rocky",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -513,9 +537,42 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "IF Norcopensarna: E2",
-     "klubb": "Idrottsföreningen Norcopensarna",
+     "placering": 11,
+     "lag": "Carlstad 2",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 12,
+     "lag": "Kristinehamn 1",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 13,
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 14,
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -526,6 +583,7 @@
    ]
   },
   {
+   "serie_id": "501-7746-0",
    "serie": "Ungdomsserie grupp 1",
    "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1534/2/7/7",

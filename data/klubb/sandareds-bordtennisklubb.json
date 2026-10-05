@@ -4,20 +4,22 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
    "serie": {
-    "namn": "Div 1 V Dam"
+    "namn": "Div 4 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Sandareds BTK",
    "serie": {
-    "namn": "Södra"
+    "namn": "Div 1 V Dam"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,20 +27,23 @@
    "serie": {
     "namn": "Div 5 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Sandareds BTK C",
    "serie": {
-    "namn": "Södra"
+    "namn": "Div 6 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Sandareds BTK D",
    "serie": {
-    "namn": "Södra"
+    "namn": "Div 7 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -46,6 +51,7 @@
    "serie": {
     "namn": "Södra 1"
    },
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -53,6 +59,7 @@
    "serie": {
     "namn": "Södra 2"
    },
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -60,7 +67,9 @@
   {
    "datum": "2026-10-06",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Sandareds BTK B",
    "borta": "ÖSTK",
@@ -77,7 +86,9 @@
   {
    "datum": "2026-10-10",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sandareds BTK D",
    "borta": "Hyssna BTK B",
@@ -94,7 +105,9 @@
   {
    "datum": "2026-10-11",
    "tid": "11:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Byttorps IF B2",
    "borta": "Sandareds BTK B",
@@ -111,7 +124,9 @@
   {
    "datum": "2026-10-11",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Sjömarkens BTK B1",
    "borta": "Sandareds BTK",
@@ -128,7 +143,9 @@
   {
    "datum": "2026-10-11",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sjömarkens BTK C",
    "borta": "Sandareds BTK C",
@@ -145,7 +162,9 @@
   {
    "datum": "2026-10-13",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Sandareds BTK",
    "borta": "Sjömarkens BTK B2",
@@ -162,7 +181,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Kågeröds BTK: A1",
    "borta": "Sandareds BTK",
@@ -179,7 +200,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK",
    "borta": "Kågeröds BTK: A2",
@@ -196,7 +219,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Mariedals IK E1",
    "borta": "Sandareds BTK D",
@@ -213,7 +238,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Sandareds BTK C",
    "borta": "Byttorps IF C2",
@@ -230,7 +257,9 @@
   {
    "datum": "2026-10-20",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Borgstena IF B",
    "borta": "Sandareds BTK C",
@@ -247,7 +276,9 @@
   {
    "datum": "2026-10-24",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Sandareds BTK D",
    "borta": "Mariedals IK E2",
@@ -264,7 +295,9 @@
   {
    "datum": "2026-11-03",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK",
    "borta": "Mariedals IK C",
@@ -281,7 +314,9 @@
   {
    "datum": "2026-11-07",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK D",
    "borta": "Sjömarkens BTK D1",
@@ -298,7 +333,9 @@
   {
    "datum": "2026-11-08",
    "tid": "10:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Mariedals IK D2",
    "borta": "Sandareds BTK B",
@@ -315,7 +352,9 @@
   {
    "datum": "2026-11-08",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK C",
    "borta": "Ulricehamns IF C",
@@ -332,7 +371,9 @@
   {
    "datum": "2026-11-10",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Sandareds BTK B",
    "borta": "Mariedals IK D1",
@@ -349,7 +390,9 @@
   {
    "datum": "2026-11-11",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Alingsås PK C",
    "borta": "Sandareds BTK",
@@ -366,7 +409,9 @@
   {
    "datum": "2026-11-12",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Kinna BTK C",
    "borta": "Sandareds BTK D",
@@ -383,7 +428,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Kungälvs BTK",
    "borta": "Sandareds BTK",
@@ -400,7 +447,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Sandareds BTK",
    "borta": "BTK Linné",
@@ -417,7 +466,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Byttorps IF C1",
    "borta": "Sandareds BTK C",
@@ -434,7 +485,9 @@
   {
    "datum": "2026-11-16",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Kinna BTK B1",
    "borta": "Sandareds BTK C",
@@ -451,7 +504,9 @@
   {
    "datum": "2026-11-17",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Byttorps IF B1",
    "borta": "Sandareds BTK B",
@@ -468,7 +523,9 @@
   {
    "datum": "2026-11-17",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Sandareds BTK",
    "borta": "Essunga S BTK",
@@ -485,7 +542,9 @@
   {
    "datum": "2026-11-21",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Sandareds BTK D",
    "borta": "Borgstena IF C",
@@ -502,7 +561,9 @@
   {
    "datum": "2026-11-24",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sandareds BTK B",
    "borta": "Ulricehamns IF B",
@@ -519,7 +580,9 @@
   {
    "datum": "2026-11-29",
    "tid": "10:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Byttorps IF",
    "borta": "Sandareds BTK",
@@ -536,7 +599,9 @@
   {
    "datum": "2026-11-29",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sjömarkens BTK D2",
    "borta": "Sandareds BTK D",
@@ -553,7 +618,9 @@
   {
    "datum": "2026-11-29",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Sandareds BTK C",
    "borta": "Kinna BTK B2",
@@ -570,7 +637,9 @@
   {
    "datum": "2026-12-01",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Sandareds BTK B",
    "borta": "Kinna BTK",
@@ -587,7 +656,9 @@
   {
    "datum": "2026-12-03",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Hyssna BTK",
    "borta": "Sandareds BTK",
@@ -604,7 +675,9 @@
   {
    "datum": "2026-12-03",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Hyssna BTK B",
    "borta": "Sandareds BTK D",
@@ -621,7 +694,9 @@
   {
    "datum": "2026-12-06",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Sandareds BTK C",
    "borta": "Sjömarkens BTK C",
@@ -638,7 +713,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Laholms BTK Serve",
    "borta": "Sandareds BTK",
@@ -655,7 +732,9 @@
   {
    "datum": "2027-01-05",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Sandareds BTK",
    "borta": "Sjömarkens BTK B1",
@@ -672,7 +751,9 @@
   {
    "datum": "2027-01-09",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Sandareds BTK D",
    "borta": "Mariedals IK E1",
@@ -689,7 +770,9 @@
   {
    "datum": "2027-01-10",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Byttorps IF C2",
    "borta": "Sandareds BTK C",
@@ -706,7 +789,9 @@
   {
    "datum": "2027-01-10",
    "tid": "14:30",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "ÖSTK",
    "borta": "Sandareds BTK B",
@@ -723,7 +808,9 @@
   {
    "datum": "2027-01-12",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Sandareds BTK B",
    "borta": "Byttorps IF B2",
@@ -740,7 +827,9 @@
   {
    "datum": "2027-01-14",
    "tid": "19:45",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Sjömarkens BTK B2",
    "borta": "Sandareds BTK",
@@ -757,7 +846,9 @@
   {
    "datum": "2027-01-16",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Rudalens IF",
    "borta": "Sandareds BTK",
@@ -774,7 +865,9 @@
   {
    "datum": "2027-01-16",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Sandareds BTK",
    "borta": "Kågeröds BTK: A1",
@@ -791,7 +884,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Mariedals IK E2",
    "borta": "Sandareds BTK D",
@@ -808,7 +903,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Sandareds BTK C",
    "borta": "Borgstena IF B",
@@ -825,7 +922,9 @@
   {
    "datum": "2027-01-26",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Sandareds BTK B",
    "borta": "Mariedals IK D2",
@@ -842,7 +941,9 @@
   {
    "datum": "2027-01-27",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Ulricehamns IF C",
    "borta": "Sandareds BTK C",
@@ -859,7 +960,9 @@
   {
    "datum": "2027-01-31",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Mariedals IK C",
    "borta": "Sandareds BTK",
@@ -876,7 +979,9 @@
   {
    "datum": "2027-01-31",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Sjömarkens BTK D1",
    "borta": "Sandareds BTK D",
@@ -893,7 +998,9 @@
   {
    "datum": "2027-02-02",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sandareds BTK",
    "borta": "Alingsås PK C",
@@ -910,7 +1017,9 @@
   {
    "datum": "2027-02-06",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sandareds BTK D",
    "borta": "Kinna BTK C",
@@ -927,7 +1036,9 @@
   {
    "datum": "2027-02-07",
    "tid": "10:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Mariedals IK D1",
    "borta": "Sandareds BTK B",
@@ -944,7 +1055,9 @@
   {
    "datum": "2027-02-07",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sandareds BTK C",
    "borta": "Byttorps IF C1",
@@ -961,7 +1074,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Kågeröds BTK: A2",
    "borta": "Sandareds BTK",
@@ -978,7 +1093,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "Sandareds BTK",
    "borta": "Kungälvs BTK",
@@ -995,7 +1112,9 @@
   {
    "datum": "2027-02-23",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Sandareds BTK B",
    "borta": "Byttorps IF B1",
@@ -1012,7 +1131,9 @@
   {
    "datum": "2027-02-23",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Borgstena IF C",
    "borta": "Sandareds BTK D",
@@ -1029,7 +1150,9 @@
   {
    "datum": "2027-02-25",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Essunga S BTK",
    "borta": "Sandareds BTK",
@@ -1046,7 +1169,9 @@
   {
    "datum": "2027-02-28",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Sandareds BTK C",
    "borta": "Kinna BTK B1",
@@ -1063,7 +1188,9 @@
   {
    "datum": "2027-03-02",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Sandareds BTK",
    "borta": "Byttorps IF",
@@ -1080,7 +1207,9 @@
   {
    "datum": "2027-03-03",
    "tid": "18:00",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Ulricehamns IF B",
    "borta": "Sandareds BTK B",
@@ -1097,7 +1226,9 @@
   {
    "datum": "2027-03-04",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Kinna BTK B2",
    "borta": "Sandareds BTK C",
@@ -1114,7 +1245,9 @@
   {
    "datum": "2027-03-06",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Sandareds BTK D",
    "borta": "Sjömarkens BTK D2",
@@ -1131,7 +1264,9 @@
   {
    "datum": "2027-03-13",
    "tid": "11:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "BTK Linné",
    "borta": "Sandareds BTK",
@@ -1148,7 +1283,9 @@
   {
    "datum": "2027-03-13",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Sandareds BTK",
    "borta": "Laholms BTK Serve",
@@ -1167,7 +1304,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "337-4901-0",
    "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 4",
    "hemma": "Byttorps IF Veteraner",
    "borta": "Sandareds BTK Peter",
@@ -1186,7 +1325,9 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Kinna BTK",
    "borta": "Sandareds BTK B",
@@ -1205,7 +1346,9 @@
   {
    "datum": "2026-05-19",
    "tid": "18:00",
+   "serie_id": "337-4901-0",
    "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 1",
    "hemma": "Kinna BTK Per",
    "borta": "Sandareds BTK Peter",
@@ -1224,7 +1367,9 @@
   {
    "datum": "2026-06-07",
    "tid": "18:00",
+   "serie_id": "337-4865-0",
    "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 1",
    "hemma": "Hyssna BTK",
    "borta": "Sandareds BTK Patrick",
@@ -1243,7 +1388,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Sandareds BTK",
    "borta": "Rudalens IF",
@@ -1262,7 +1409,9 @@
   {
    "datum": "2026-09-20",
    "tid": "18:00",
+   "serie_id": "337-4865-0",
    "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 3",
    "hemma": "Byttorps A1",
    "borta": "Sandareds BTK Patrick",
@@ -1281,7 +1430,9 @@
   {
    "datum": "2026-09-20",
    "tid": "18:00",
+   "serie_id": "337-4865-0",
    "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 4",
    "hemma": "Sandareds BTK Patrick",
    "borta": "Mariedals IK Tim",
@@ -1300,7 +1451,9 @@
   {
    "datum": "2026-09-20",
    "tid": "18:00",
+   "serie_id": "337-4901-0",
    "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 3",
    "hemma": "Sandareds BTK Peter",
    "borta": "Horreds BTK V",
@@ -1319,7 +1472,9 @@
   {
    "datum": "2026-09-20",
    "tid": "18:00",
+   "serie_id": "337-4901-0",
    "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
    "omgang": "Round 5",
    "hemma": "Sandareds BTK Peter",
    "borta": "Horreds BTK Y",
@@ -1338,7 +1493,9 @@
   {
    "datum": "2026-09-29",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Sandareds BTK",
    "borta": "Hyssna BTK",
@@ -1369,7 +1526,9 @@
     {
      "datum": "2026-10-06",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Sandareds BTK B",
      "borta": "ÖSTK",
@@ -1391,14 +1550,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-10",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 1",
      "hemma": "Sandareds BTK D",
      "borta": "Hyssna BTK B",
@@ -1420,14 +1581,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-13",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Sandareds BTK",
      "borta": "Sjömarkens BTK B2",
@@ -1456,7 +1619,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kågeröds BTK: A1",
      "borta": "Sandareds BTK",
@@ -1473,7 +1638,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kågeröds BTK: A2",
      "borta": "Laholms BTK Serve",
@@ -1490,7 +1657,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Kungälvs BTK",
      "borta": "BTK Linné",
@@ -1507,7 +1676,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Laholms BTK Serve",
      "borta": "Kungälvs BTK",
@@ -1524,7 +1695,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Sandareds BTK",
      "borta": "Kågeröds BTK: A2",
@@ -1541,7 +1714,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Rudalens IF",
      "borta": "Kågeröds BTK: A1",
@@ -1563,14 +1738,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-18",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Sandareds BTK C",
      "borta": "Byttorps IF C2",
@@ -1592,14 +1769,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-24",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Sandareds BTK D",
      "borta": "Mariedals IK E2",
@@ -1621,14 +1800,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-03",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Sandareds BTK",
      "borta": "Mariedals IK C",
@@ -1650,14 +1831,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-07",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Sandareds BTK D",
      "borta": "Sjömarkens BTK D1",
@@ -1679,14 +1862,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-08",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Sandareds BTK C",
      "borta": "Ulricehamns IF C",
@@ -1715,7 +1900,9 @@
     {
      "datum": "2026-11-10",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Sandareds BTK B",
      "borta": "Mariedals IK D1",
@@ -1737,14 +1924,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-17",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Sandareds BTK",
      "borta": "Essunga S BTK",
@@ -1766,14 +1955,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-21",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Sandareds BTK D",
      "borta": "Borgstena IF C",
@@ -1802,7 +1993,9 @@
     {
      "datum": "2026-11-24",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Sandareds BTK B",
      "borta": "Ulricehamns IF B",
@@ -1824,14 +2017,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-29",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Sandareds BTK C",
      "borta": "Kinna BTK B2",
@@ -1860,7 +2055,9 @@
     {
      "datum": "2026-12-01",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Sandareds BTK B",
      "borta": "Kinna BTK",
@@ -1882,14 +2079,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-12-06",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Sandareds BTK C",
      "borta": "Sjömarkens BTK C",
@@ -1911,14 +2110,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-05",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Sandareds BTK",
      "borta": "Sjömarkens BTK B1",
@@ -1940,14 +2141,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-09",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Sandareds BTK D",
      "borta": "Mariedals IK E1",
@@ -1976,7 +2179,9 @@
     {
      "datum": "2027-01-12",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Sandareds BTK B",
      "borta": "Byttorps IF B2",
@@ -2005,7 +2210,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Kågeröds BTK: A2",
      "borta": "BTK Linné",
@@ -2022,7 +2229,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Kågeröds BTK: A1",
      "borta": "Laholms BTK Serve",
@@ -2039,7 +2248,9 @@
     {
      "datum": "2027-01-16",
      "tid": "11:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Rudalens IF",
      "borta": "Sandareds BTK",
@@ -2056,7 +2267,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Sandareds BTK",
      "borta": "Kågeröds BTK: A1",
@@ -2073,7 +2286,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Laholms BTK Serve",
      "borta": "Kågeröds BTK: A2",
@@ -2090,7 +2305,9 @@
     {
      "datum": "2027-01-16",
      "tid": "15:00",
+     "serie_id": "417-5740-0",
      "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "BTK Linné",
      "borta": "Kungälvs BTK",
@@ -2112,14 +2329,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-17",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Sandareds BTK C",
      "borta": "Borgstena IF B",
@@ -2148,7 +2367,9 @@
     {
      "datum": "2027-01-26",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Sandareds BTK B",
      "borta": "Mariedals IK D2",
@@ -2170,14 +2391,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-02",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Sandareds BTK",
      "borta": "Alingsås PK C",
@@ -2199,14 +2422,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-06",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Sandareds BTK D",
      "borta": "Kinna BTK C",
@@ -2228,14 +2453,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-07",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Sandareds BTK C",
      "borta": "Byttorps IF C1",
@@ -2264,7 +2491,9 @@
     {
      "datum": "2027-02-23",
      "tid": "18:00",
+     "serie_id": "367-6454-0",
      "serie": "Div 5 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Sandareds BTK B",
      "borta": "Byttorps IF B1",
@@ -2286,14 +2515,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 6 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-28",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7457-0",
+     "serie": "Div 6 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Sandareds BTK C",
      "borta": "Kinna BTK B1",
@@ -2315,14 +2546,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-03-02",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Sandareds BTK",
      "borta": "Byttorps IF",
@@ -2344,14 +2577,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 7 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-03-06",
      "tid": "11:00",
-     "serie": "Södra",
+     "serie_id": "367-7473-0",
+     "serie": "Div 7 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Sandareds BTK D",
      "borta": "Sjömarkens BTK D2",
@@ -2370,6 +2605,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5740-0",
    "serie": "Div 1 V Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
@@ -2456,6 +2692,235 @@
    ]
   },
   {
+   "serie_id": "337-4865-0",
+   "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Byttorps A1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Mariedals IK Tim",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Sandareds BTK Patrick",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Mariedals IK Robert",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "337-4901-0",
+   "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Horreds BTK Y",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Byttorps IF Veteraner",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Horreds BTK V",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kinna BTK Per",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Sandareds BTK Peter",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
+   "exakt_lank": false,
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Alingsås PK C",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Sjömarkens BTK B1",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mariedals IK C",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Byttorps IF",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sjömarkens BTK B2",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Essunga S BTK",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "367-6454-0",
    "serie": "Div 5 Södra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
@@ -2553,102 +3018,94 @@
    ]
   },
   {
-   "serie": "Södra",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "exakt_lank": false,
-   "startad": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Halmstad BTK: B",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IFK Lund Bordtennis: B1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Varbergs BTK",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
      "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie": "Södra 1",
-   "evenemang": "Nordvästra Götalands BTF 25/26",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
-   "exakt_lank": false,
-   "startad": true,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Byttorps A1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Mariedals IK Tim",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Sjömarkens BTK C",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Hyssna BTK",
-     "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Byttorps IF C2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sandareds BTK Patrick",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Mariedals IK Robert",
-     "klubb": "Mariedals Idrottsklubb",
+     "lag": "Ulricehamns IF C",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Byttorps IF C1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sandareds BTK C",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kinna BTK B1",
+     "klubb": "Kinna Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2659,64 +3116,98 @@
    ]
   },
   {
-   "serie": "Södra 2",
-   "evenemang": "Nordvästra Götalands BTF 25/26",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
    "exakt_lank": false,
-   "startad": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Horreds BTK Y",
-     "klubb": "Horreds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Mariedals IK E1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Byttorps IF Veteraner",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Sandareds BTK D",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Horreds BTK V",
-     "klubb": "Horreds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Sjömarkens BTK D1",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kinna BTK Per",
+     "lag": "Kinna BTK C",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Sandareds BTK Peter",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Borgstena IF C",
+     "klubb": "Borgstena IF",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Sjömarkens BTK D2",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Hyssna BTK B",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Mariedals IK E2",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

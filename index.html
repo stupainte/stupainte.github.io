@@ -250,7 +250,9 @@
   footer { color: var(--muted); font-size: 13px; padding-top: 28px; border-top: 1px solid var(--border); margin-top: 40px; }
   footer a { color: var(--accent); }
   .hidden { display: none !important; }
-</style>
+
+    .table-block h3 .evenemang { display:block; font-size:.78rem; font-weight:400; color:var(--muted, #666); margin-top:2px; }
+  </style>
 </head>
 <body>
 
@@ -420,7 +422,7 @@
       if (t.startad === false) {
         return `
       <div class="table-block">
-        <h3>${esc(t.serie)}</h3>
+        <h3>${esc(t.serie)}${t.evenemang ? `<span class="evenemang">${esc(t.evenemang)}</span>` : ""}</h3>
         <p class="not-started">Serien har inte startat — lagen i serien:</p>
         <table>
           <tbody>${(t.rader || []).map((r) => `
@@ -433,7 +435,7 @@
       }
       return `
       <div class="table-block">
-        <h3>${esc(t.serie)}</h3>
+        <h3>${esc(t.serie)}${t.evenemang ? `<span class="evenemang">${esc(t.evenemang)}</span>` : ""}</h3>
         <table>
           <thead><tr>
             <th>#</th><th>Lag</th>

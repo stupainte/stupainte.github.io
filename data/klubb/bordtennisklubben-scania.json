@@ -4,13 +4,14 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "BTK Scania",
    "serie": {
     "namn": "Div 3 SSSÖ"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -18,6 +19,7 @@
    "serie": {
     "namn": "Division 4 Västra"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +27,7 @@
    "serie": {
     "namn": "Division 5 Västra"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +35,7 @@
    "serie": {
     "namn": "Division 6 Västra"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,13 +43,23 @@
    "serie": {
     "namn": "Division 7"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "R&S United",
    "serie": {
-    "namn": "Division 3 Damer"
+    "namn": "Division 3 Damer (1)"
    },
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "R&S United",
+   "serie": {
+    "namn": "Division 3 Damer (2)"
+   },
+   "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -53,7 +67,9 @@
   {
    "datum": "2026-10-15",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "BTK Scania C",
    "borta": "Klippans BTK B",
@@ -70,7 +86,9 @@
   {
    "datum": "2026-10-15",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "BTK Scania B",
    "borta": "Kågeröds BTK C",
@@ -87,7 +105,9 @@
   {
    "datum": "2026-10-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "IF Ale",
    "borta": "BTK Scania",
@@ -104,7 +124,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Sölvesborgs BTK",
    "borta": "BTK Scania",
@@ -121,7 +143,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "BTK Scania E",
    "borta": "Malmö IF I",
@@ -138,7 +162,9 @@
   {
    "datum": "2026-10-18",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Kågeröds BTK F",
    "borta": "BTK Scania D",
@@ -155,7 +181,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "R&S United",
    "borta": "Åstorps BTK Dam",
@@ -172,7 +200,9 @@
   {
    "datum": "2026-10-18",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Bjärnums BTK B",
    "borta": "BTK Scania E",
@@ -189,7 +219,9 @@
   {
    "datum": "2026-10-18",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Hässleholms BTK C1",
    "borta": "BTK Scania D",
@@ -206,7 +238,9 @@
   {
    "datum": "2026-10-20",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Åstorps BTK D",
    "borta": "BTK Scania B",
@@ -223,7 +257,9 @@
   {
    "datum": "2026-10-22",
    "tid": "19:15",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "IFK Lund E2",
    "borta": "BTK Scania C",
@@ -240,7 +276,9 @@
   {
    "datum": "2026-11-10",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "BTK Scania C",
    "borta": "Kågeröds BTK D",
@@ -257,7 +295,9 @@
   {
    "datum": "2026-11-10",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "BTK Scania B",
    "borta": "IFK Lund D2",
@@ -274,7 +314,9 @@
   {
    "datum": "2026-11-14",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund Dam D",
    "borta": "R&S United",
@@ -291,7 +333,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "R&S United",
    "borta": "IFK Lund Dam C",
@@ -308,7 +352,9 @@
   {
    "datum": "2026-11-15",
    "tid": "10:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "BTK Scania E",
    "borta": "Kullahalvöns BTK Blå",
@@ -325,7 +371,9 @@
   {
    "datum": "2026-11-15",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "BTK Scania D",
    "borta": "Strövelstorps BTK",
@@ -342,7 +390,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Skurups BTK",
    "borta": "BTK Scania",
@@ -359,7 +409,9 @@
   {
    "datum": "2026-11-15",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Kågeröds BTK Youth",
    "borta": "BTK Scania E",
@@ -376,7 +428,9 @@
   {
    "datum": "2026-11-15",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Kullahalvöns BTK Röd",
    "borta": "BTK Scania D",
@@ -393,7 +447,9 @@
   {
    "datum": "2026-11-15",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "IFK Lund Bordtennis: C1",
    "borta": "BTK Scania",
@@ -410,7 +466,9 @@
   {
    "datum": "2026-11-17",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Åstorps BTK E",
    "borta": "BTK Scania C",
@@ -427,7 +485,9 @@
   {
    "datum": "2026-11-18",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "BTK Rekord D",
    "borta": "BTK Scania B",
@@ -444,7 +504,9 @@
   {
    "datum": "2026-11-24",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "BTK Scania C",
    "borta": "Kågeröds BTK E",
@@ -461,7 +523,9 @@
   {
    "datum": "2026-11-24",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "BTK Scania B",
    "borta": "IFK Lund D1",
@@ -478,7 +542,9 @@
   {
    "datum": "2026-12-07",
    "tid": "19:15",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "IFK Lund E1",
    "borta": "BTK Scania C",
@@ -495,7 +561,9 @@
   {
    "datum": "2026-12-10",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "Klippans BTK A",
    "borta": "BTK Scania B",
@@ -512,7 +580,9 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "R&S United",
@@ -529,7 +599,9 @@
   {
    "datum": "2026-12-12",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "BTK Scania E",
    "borta": "Bjärreds BTK D",
@@ -546,7 +618,9 @@
   {
    "datum": "2026-12-13",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "BTK Scania D",
    "borta": "Hässleholms BTK C2",
@@ -563,7 +637,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "BTK Scania",
    "borta": "KFUM Kristianstad BTF",
@@ -580,7 +656,9 @@
   {
    "datum": "2026-12-13",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "IFK Lund F1",
    "borta": "BTK Scania D",
@@ -597,7 +675,9 @@
   {
    "datum": "2026-12-13",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "BTK Scania",
    "borta": "Malmö IF: B",
@@ -614,7 +694,9 @@
   {
    "datum": "2026-12-17",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "BTK Scania B",
    "borta": "BTK Rekord C",
@@ -631,7 +713,9 @@
   {
    "datum": "2027-01-13",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Kågeröds BTK C",
    "borta": "BTK Scania B",
@@ -648,7 +732,9 @@
   {
    "datum": "2027-01-14",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Klippans BTK B",
    "borta": "BTK Scania C",
@@ -665,7 +751,9 @@
   {
    "datum": "2027-01-16",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "BTK Scania D",
    "borta": "Klippans BTK C",
@@ -682,7 +770,9 @@
   {
    "datum": "2027-01-16",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "BTK Scania D",
    "borta": "Kågeröds BTK F",
@@ -699,7 +789,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "Kvarnby AK E",
    "borta": "BTK Scania E",
@@ -716,7 +808,9 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "Åstorps BTK Dam",
    "borta": "R&S United",
@@ -733,7 +827,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Degeberga GOIF",
    "borta": "BTK Scania",
@@ -750,7 +846,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "R&S United",
    "borta": "IFK Lund Dam D",
@@ -767,7 +865,9 @@
   {
    "datum": "2027-01-17",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Malmö IF I",
    "borta": "BTK Scania E",
@@ -782,7 +882,9 @@
   {
    "datum": "2027-01-17",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "BTK Scania",
    "borta": "IF Ale",
@@ -799,7 +901,9 @@
   {
    "datum": "2027-01-19",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "BTK Scania C",
    "borta": "IFK Lund E2",
@@ -816,7 +920,9 @@
   {
    "datum": "2027-01-19",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "BTK Scania B",
    "borta": "Åstorps BTK D",
@@ -833,7 +939,9 @@
   {
    "datum": "2027-01-25",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "IFK Lund D2",
    "borta": "BTK Scania B",
@@ -850,7 +958,9 @@
   {
    "datum": "2027-01-27",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Kågeröds BTK D",
    "borta": "BTK Scania C",
@@ -867,7 +977,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "BTK Scania C",
    "borta": "Åstorps BTK E",
@@ -884,7 +996,9 @@
   {
    "datum": "2027-02-04",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "BTK Scania B",
    "borta": "BTK Rekord D",
@@ -901,7 +1015,9 @@
   {
    "datum": "2027-02-08",
    "tid": "19:15",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "IFK Lund D1",
    "borta": "BTK Scania B",
@@ -918,7 +1034,9 @@
   {
    "datum": "2027-02-10",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "Kågeröds BTK E",
    "borta": "BTK Scania C",
@@ -935,7 +1053,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "IFK Lund Dam C",
    "borta": "R&S United",
@@ -952,7 +1072,9 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "BTK Scania D",
    "borta": "Hässleholms BTK C1",
@@ -969,7 +1091,9 @@
   {
    "datum": "2027-02-13",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "R&S United",
    "borta": "Sjöbo BTK Dam B",
@@ -986,7 +1110,9 @@
   {
    "datum": "2027-02-13",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Kullahalvöns BTK Blå",
    "borta": "BTK Scania E",
@@ -1003,7 +1129,9 @@
   {
    "datum": "2027-02-13",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Strövelstorps BTK",
    "borta": "BTK Scania D",
@@ -1020,7 +1148,9 @@
   {
    "datum": "2027-02-13",
    "tid": "15:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "BTK Scania E",
    "borta": "Bjärnums BTK B",
@@ -1037,7 +1167,9 @@
   {
    "datum": "2027-02-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "BTK Scania",
    "borta": "IFK Lund Bordtennis: C1",
@@ -1054,7 +1186,9 @@
   {
    "datum": "2027-02-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Scania",
    "borta": "Skurups BTK",
@@ -1071,7 +1205,9 @@
   {
    "datum": "2027-03-02",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "BTK Scania C",
    "borta": "IFK Lund E1",
@@ -1088,7 +1224,9 @@
   {
    "datum": "2027-03-09",
    "tid": "19:00",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "BTK Scania B",
    "borta": "Klippans BTK A",
@@ -1105,7 +1243,9 @@
   {
    "datum": "2027-03-10",
    "tid": "18:30",
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "BTK Rekord C",
    "borta": "BTK Scania B",
@@ -1122,7 +1262,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "BTK Scania E",
    "borta": "Kågeröds BTK Youth",
@@ -1139,7 +1281,9 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "Åstorps BTK Dam",
    "borta": "R&S United",
@@ -1156,7 +1300,9 @@
   {
    "datum": "2027-03-13",
    "tid": "13:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "R&S United",
    "borta": "IFK Lund Dam D",
@@ -1173,7 +1319,9 @@
   {
    "datum": "2027-03-14",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 11",
    "hemma": "BTK Scania D",
    "borta": "Kullahalvöns BTK Röd",
@@ -1190,7 +1338,9 @@
   {
    "datum": "2027-03-14",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "BTK Scania",
    "borta": "Sölvesborgs BTK",
@@ -1207,7 +1357,9 @@
   {
    "datum": "2027-03-14",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 12",
    "hemma": "Hässleholms BTK C2",
    "borta": "BTK Scania D",
@@ -1224,7 +1376,9 @@
   {
    "datum": "2027-03-14",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "KFUM Kristianstad BTF",
    "borta": "BTK Scania",
@@ -1241,7 +1395,9 @@
   {
    "datum": "2027-04-17",
    "tid": "10:00",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "BTK Scania E",
    "borta": "Kvarnby AK E",
@@ -1258,7 +1414,9 @@
   {
    "datum": "2027-04-17",
    "tid": "10:00",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "BTK Scania D",
    "borta": "IFK Lund F1",
@@ -1275,7 +1433,9 @@
   {
    "datum": "2027-04-17",
    "tid": "10:00",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Sjöbo BTK Dam B",
    "borta": "R&S United",
@@ -1292,7 +1452,9 @@
   {
    "datum": "2027-04-17",
    "tid": "11:30",
-   "serie": "Division 3 Damer",
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "R&S United",
    "borta": "IFK Lund Dam C",
@@ -1309,7 +1471,9 @@
   {
    "datum": "2027-04-17",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 13",
    "hemma": "Bjärreds BTK D",
    "borta": "BTK Scania E",
@@ -1326,7 +1490,9 @@
   {
    "datum": "2027-04-17",
    "tid": "12:30",
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 14",
    "hemma": "Klippans BTK C",
    "borta": "BTK Scania D",
@@ -1345,7 +1511,9 @@
   {
    "datum": "2026-09-19",
    "tid": "11:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Malmö IF: B",
    "borta": "BTK Scania",
@@ -1364,7 +1532,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "BTK Scania",
    "borta": "Degeberga GOIF",
@@ -1396,7 +1566,9 @@
     {
      "datum": "2026-10-15",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "BTK Scania B",
      "borta": "Kågeröds BTK C",
@@ -1413,7 +1585,9 @@
     {
      "datum": "2026-10-15",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "BTK Scania C",
      "borta": "Klippans BTK B",
@@ -1442,7 +1616,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Sölvesborgs BTK",
      "borta": "Malmö IF: B",
@@ -1459,7 +1635,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "IF Ale",
      "borta": "BTK Scania",
@@ -1476,7 +1654,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Skurups BTK",
      "borta": "Degeberga GOIF",
@@ -1493,7 +1673,9 @@
     {
      "datum": "2026-10-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "IFK Lund Bordtennis: C1",
      "borta": "KFUM Kristianstad BTF",
@@ -1510,7 +1692,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Sölvesborgs BTK",
      "borta": "BTK Scania",
@@ -1527,7 +1711,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "IF Ale",
      "borta": "Malmö IF: B",
@@ -1544,7 +1730,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "Skurups BTK",
      "borta": "KFUM Kristianstad BTF",
@@ -1561,7 +1749,9 @@
     {
      "datum": "2026-10-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 4",
      "hemma": "IFK Lund Bordtennis: C1",
      "borta": "Degeberga GOIF",
@@ -1592,7 +1782,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "Hässleholms BTK C2",
      "borta": "Hässleholms BTK C1",
@@ -1609,7 +1801,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "IFK Lund F1",
      "borta": "Kullahalvöns BTK Röd",
@@ -1626,7 +1820,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "Klippans BTK C",
      "borta": "Strövelstorps BTK",
@@ -1643,7 +1839,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "Kågeröds BTK F",
      "borta": "BTK Scania D",
@@ -1660,7 +1858,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "Kågeröds BTK Youth",
      "borta": "Bjärnums BTK B",
@@ -1677,7 +1877,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "BTK Scania E",
      "borta": "Malmö IF I",
@@ -1694,7 +1896,9 @@
     {
      "datum": "2026-10-18",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 1",
      "hemma": "Bjärreds BTK D",
      "borta": "Kvarnby AK E",
@@ -1711,7 +1915,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Hässleholms BTK C1",
      "borta": "BTK Scania D",
@@ -1728,7 +1934,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Strövelstorps BTK",
      "borta": "Kågeröds BTK F",
@@ -1745,7 +1953,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Kullahalvöns BTK Röd",
      "borta": "Klippans BTK C",
@@ -1762,7 +1972,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7445-0",
      "serie": "Division 6 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Hässleholms BTK C2",
      "borta": "IFK Lund F1",
@@ -1779,7 +1991,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Malmö IF I",
      "borta": "Bjärreds BTK D",
@@ -1796,7 +2010,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Bjärnums BTK B",
      "borta": "BTK Scania E",
@@ -1813,7 +2029,9 @@
     {
      "datum": "2026-10-18",
      "tid": "12:30",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 2",
      "hemma": "Kullahalvöns BTK Blå",
      "borta": "Kågeröds BTK Youth",
@@ -1843,7 +2061,9 @@
     {
      "datum": "2026-11-10",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 3",
      "hemma": "BTK Scania B",
      "borta": "IFK Lund D2",
@@ -1860,7 +2080,9 @@
     {
      "datum": "2026-11-10",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 3",
      "hemma": "BTK Scania C",
      "borta": "Kågeröds BTK D",
@@ -1882,14 +2104,16 @@
     "Puls Arena, Varggatan 17, Landskrona"
    ],
    "serier": [
-    "Division 3 Damer"
+    "Division 3 Damer (1)"
    ],
    "antal": 4,
    "matcher": [
     {
      "datum": "2026-11-14",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 3",
      "hemma": "IFK Lund Dam D",
      "borta": "R&S United",
@@ -1906,7 +2130,9 @@
     {
      "datum": "2026-11-14",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 3",
      "hemma": "IFK Lund Dam C",
      "borta": "Sjöbo BTK Dam B",
@@ -1923,7 +2149,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "R&S United",
      "borta": "IFK Lund Dam C",
@@ -1940,7 +2168,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 4",
      "hemma": "Åstorps BTK Dam",
      "borta": "IFK Lund Dam D",
@@ -1970,7 +2200,9 @@
     {
      "datum": "2026-11-24",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "BTK Scania B",
      "borta": "IFK Lund D1",
@@ -1987,7 +2219,9 @@
     {
      "datum": "2026-11-24",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 5",
      "hemma": "BTK Scania C",
      "borta": "Kågeröds BTK E",
@@ -2016,7 +2250,9 @@
     {
      "datum": "2026-12-17",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "BTK Scania B",
      "borta": "BTK Rekord C",
@@ -2041,7 +2277,7 @@
    ],
    "serier": [
     "Div 3 SSSÖ",
-    "Division 3 Damer",
+    "Division 3 Damer (1)",
     "Division 7"
    ],
    "antal": 15,
@@ -2049,7 +2285,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "IFK Lund Dam D",
      "borta": "Sjöbo BTK Dam B",
@@ -2066,7 +2304,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "Åstorps BTK Dam",
      "borta": "R&S United",
@@ -2083,7 +2323,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "Kvarnby AK E",
      "borta": "BTK Scania E",
@@ -2100,7 +2342,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "Malmö IF I",
      "borta": "Kågeröds BTK Youth",
@@ -2117,7 +2361,9 @@
     {
      "datum": "2027-01-17",
      "tid": "10:00",
+     "serie_id": "513-7444-0",
      "serie": "Division 7",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 7",
      "hemma": "Bjärnums BTK B",
      "borta": "Kullahalvöns BTK Blå",
@@ -2134,7 +2380,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "IF Ale",
      "borta": "Skurups BTK",
@@ -2151,7 +2399,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Sölvesborgs BTK",
      "borta": "IFK Lund Bordtennis: C1",
@@ -2168,7 +2418,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "Malmö IF: B",
@@ -2185,7 +2437,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 9",
      "hemma": "Degeberga GOIF",
      "borta": "BTK Scania",
@@ -2202,7 +2456,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 8",
      "hemma": "R&S United",
      "borta": "IFK Lund Dam D",
@@ -2219,7 +2475,9 @@
     {
      "datum": "2027-01-17",
      "tid": "11:30",
-     "serie": "Division 3 Damer",
+     "serie_id": "513-7581-0",
+     "serie": "Division 3 Damer (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 8",
      "hemma": "Sjöbo BTK Dam B",
      "borta": "IFK Lund Dam C",
@@ -2236,7 +2494,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Malmö IF: B",
      "borta": "Sölvesborgs BTK",
@@ -2253,7 +2513,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "BTK Scania",
      "borta": "IF Ale",
@@ -2270,7 +2532,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "Degeberga GOIF",
      "borta": "Skurups BTK",
@@ -2287,7 +2551,9 @@
     {
      "datum": "2027-01-17",
      "tid": "15:00",
+     "serie_id": "417-5822-0",
      "serie": "Div 3 SSSÖ",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 10",
      "hemma": "KFUM Kristianstad BTF",
      "borta": "IFK Lund Bordtennis: C1",
@@ -2317,7 +2583,9 @@
     {
      "datum": "2027-01-19",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 9",
      "hemma": "BTK Scania B",
      "borta": "Åstorps BTK D",
@@ -2334,7 +2602,9 @@
     {
      "datum": "2027-01-19",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 9",
      "hemma": "BTK Scania C",
      "borta": "IFK Lund E2",
@@ -2364,7 +2634,9 @@
     {
      "datum": "2027-02-04",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 11",
      "hemma": "BTK Scania B",
      "borta": "BTK Rekord D",
@@ -2381,7 +2653,9 @@
     {
      "datum": "2027-02-04",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 11",
      "hemma": "BTK Scania C",
      "borta": "Åstorps BTK E",
@@ -2410,7 +2684,9 @@
     {
      "datum": "2027-03-02",
      "tid": "19:00",
+     "serie_id": "513-7446-0",
      "serie": "Division 5 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 13",
      "hemma": "BTK Scania C",
      "borta": "IFK Lund E1",
@@ -2439,7 +2715,9 @@
     {
      "datum": "2027-03-09",
      "tid": "19:00",
+     "serie_id": "513-7453-0",
      "serie": "Division 4 Västra",
+     "evenemang": "Skåneserier Senior herr/dam",
      "omgang": "Round 13",
      "hemma": "BTK Scania B",
      "borta": "Klippans BTK A",
@@ -2458,6 +2736,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5822-0",
    "serie": "Div 3 SSSÖ",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
@@ -2555,16 +2834,17 @@
    ]
   },
   {
-   "serie": "Division 3 Damer",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1073/2/7/7",
+   "serie_id": "513-7581-0",
+   "serie": "Division 3 Damer (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
    "exakt_lank": true,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Karlsborgs BTK Blå",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "R&S United",
+     "klubb": "Bordtennisklubben Scania",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2574,8 +2854,8 @@
     },
     {
      "placering": 2,
-     "lag": "Karlsborgs BTK Grön",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "Åstorps BTK Dam",
+     "klubb": "Åstorps Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2585,8 +2865,8 @@
     },
     {
      "placering": 3,
-     "lag": "Karlsborgs BTK Röd",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "IFK Lund Dam D",
+     "klubb": "IFK Lund Bordtennis",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2596,8 +2876,19 @@
     },
     {
      "placering": 4,
-     "lag": "Karlsborgs BTK Gul",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "IFK Lund Dam C",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Sjöbo BTK Dam B",
+     "klubb": "Sjöbo Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2608,6 +2899,72 @@
    ]
   },
   {
+   "serie_id": "513-7583-0",
+   "serie": "Division 3 Damer (2)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Sjöbo BTK Dam B",
+     "klubb": "Sjöbo Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund Dam C",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Åstorps BTK Dam",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "R&S United",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Lund Dam D",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
@@ -2705,6 +3062,7 @@
    ]
   },
   {
+   "serie_id": "513-7446-0",
    "serie": "Division 5 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
@@ -2791,6 +3149,7 @@
    ]
   },
   {
+   "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1474/2/7/7",
@@ -2888,16 +3247,17 @@
    ]
   },
   {
+   "serie_id": "513-7444-0",
    "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
    "exakt_lank": true,
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Kungälvs BTK E",
-     "klubb": "Kungälvs Bordtennisklubb",
+     "lag": "Kullahalvöns BTK Blå",
+     "klubb": "Kullahalvöns Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2907,8 +3267,8 @@
     },
     {
      "placering": 2,
-     "lag": "Rudalens IF B",
-     "klubb": "Rudalens Idrottsförening",
+     "lag": "Kågeröds BTK Youth",
+     "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2918,8 +3278,8 @@
     },
     {
      "placering": 3,
-     "lag": "Lindome BTK C",
-     "klubb": "Lindome Bordtennisklubb",
+     "lag": "BTK Scania E",
+     "klubb": "Bordtennisklubben Scania",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2929,8 +3289,8 @@
     },
     {
      "placering": 4,
-     "lag": "Romelanda UF",
-     "klubb": "Romelanda Ungdomsförening",
+     "lag": "Bjärreds BTK D",
+     "klubb": "Bjärreds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2940,8 +3300,8 @@
     },
     {
      "placering": 5,
-     "lag": "Mölndals BTK D",
-     "klubb": "Mölndals Bordtennisklubb",
+     "lag": "Kvarnby AK E",
+     "klubb": "Kvarnby Atletklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2951,8 +3311,8 @@
     },
     {
      "placering": 6,
-     "lag": "BTK Linné H",
-     "klubb": "Bordtennisklubben Linné",
+     "lag": "Malmö IF I",
+     "klubb": "Malmö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2962,19 +3322,8 @@
     },
     {
      "placering": 7,
-     "lag": "BTK Linné I",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Askims BTK D",
-     "klubb": "Askims Bordtennisklubb",
+     "lag": "Bjärnums BTK B",
+     "klubb": "Bjärnums Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

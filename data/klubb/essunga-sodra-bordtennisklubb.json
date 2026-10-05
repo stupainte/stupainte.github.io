@@ -4,20 +4,22 @@
   "namn": "Essunga Södra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-02T10:12:40Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Essunga S BTK",
    "serie": {
-    "namn": "Södra"
+    "namn": "Div 4 Södra"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Essunga S:a BTK B",
    "serie": {
-    "namn": "Mellersta"
+    "namn": "Div 7 Mellersta"
    },
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -25,7 +27,9 @@
   {
    "datum": "2026-10-07",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Ulricehamns IF D",
    "borta": "Essunga S:a BTK B",
@@ -42,7 +46,9 @@
   {
    "datum": "2026-10-08",
    "tid": "19:45",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Sjömarkens BTK B2",
    "borta": "Essunga S BTK",
@@ -59,7 +65,9 @@
   {
    "datum": "2026-10-21",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Essunga S:a BTK B",
    "borta": "Vedums AIS E2",
@@ -76,7 +84,9 @@
   {
    "datum": "2026-10-22",
    "tid": "18:30",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Essunga S BTK",
    "borta": "Byttorps IF",
@@ -93,7 +103,9 @@
   {
    "datum": "2026-11-03",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "IFK Falköping BTK D1",
    "borta": "Essunga S:a BTK B",
@@ -110,7 +122,9 @@
   {
    "datum": "2026-11-05",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Hyssna BTK",
    "borta": "Essunga S BTK",
@@ -127,7 +141,9 @@
   {
    "datum": "2026-11-12",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Essunga S BTK",
    "borta": "Sjömarkens BTK B1",
@@ -144,7 +160,9 @@
   {
    "datum": "2026-11-17",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Sandareds BTK",
    "borta": "Essunga S BTK",
@@ -161,7 +179,9 @@
   {
    "datum": "2026-11-18",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Essunga S:a BTK B",
    "borta": "IFK Falköping BTK D2",
@@ -178,7 +198,9 @@
   {
    "datum": "2026-11-26",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Essunga S BTK",
    "borta": "Mariedals IK C",
@@ -195,7 +217,9 @@
   {
    "datum": "2026-12-03",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Essunga S BTK",
    "borta": "Alingsås PK C",
@@ -211,8 +235,10 @@
   },
   {
    "datum": "2026-12-03",
-   "tid": "19:00",
-   "serie": "Mellersta",
+   "tid": "20:00",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Alingsås PK E",
    "borta": "Essunga S:a BTK B",
@@ -229,7 +255,9 @@
   {
    "datum": "2026-12-10",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Essunga S BTK",
    "borta": "Sjömarkens BTK B2",
@@ -246,7 +274,9 @@
   {
    "datum": "2027-01-06",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Essunga S:a BTK B",
    "borta": "Ulricehamns IF D",
@@ -263,7 +293,9 @@
   {
    "datum": "2027-01-17",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Byttorps IF",
    "borta": "Essunga S BTK",
@@ -280,7 +312,9 @@
   {
    "datum": "2027-01-21",
    "tid": "19:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Essunga S BTK",
    "borta": "Hyssna BTK",
@@ -297,7 +331,9 @@
   {
    "datum": "2027-01-21",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Vedums AIS E2",
    "borta": "Essunga S:a BTK B",
@@ -314,7 +350,9 @@
   {
    "datum": "2027-02-03",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Essunga S:a BTK B",
    "borta": "IFK Falköping BTK D1",
@@ -331,7 +369,9 @@
   {
    "datum": "2027-02-07",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Sjömarkens BTK B1",
    "borta": "Essunga S BTK",
@@ -348,7 +388,9 @@
   {
    "datum": "2027-02-16",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "IFK Falköping BTK D2",
    "borta": "Essunga S:a BTK B",
@@ -365,7 +407,9 @@
   {
    "datum": "2027-02-25",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Essunga S BTK",
    "borta": "Sandareds BTK",
@@ -382,7 +426,9 @@
   {
    "datum": "2027-03-03",
    "tid": "19:00",
-   "serie": "Mellersta",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Essunga S:a BTK B",
    "borta": "Alingsås PK E",
@@ -399,7 +445,9 @@
   {
    "datum": "2027-03-07",
    "tid": "11:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Mariedals IK C",
    "borta": "Essunga S BTK",
@@ -418,7 +466,9 @@
   {
    "datum": "2026-09-30",
    "tid": "18:00",
-   "serie": "Södra",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Alingsås PK C",
    "borta": "Essunga S BTK",
@@ -442,14 +492,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-21",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 2",
      "hemma": "Essunga S:a BTK B",
      "borta": "Vedums AIS E2",
@@ -471,14 +523,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-22",
      "tid": "18:30",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 3",
      "hemma": "Essunga S BTK",
      "borta": "Byttorps IF",
@@ -500,14 +554,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-12",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Essunga S BTK",
      "borta": "Sjömarkens BTK B1",
@@ -529,14 +585,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-18",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Essunga S:a BTK B",
      "borta": "IFK Falköping BTK D2",
@@ -558,14 +616,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-11-26",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 7",
      "hemma": "Essunga S BTK",
      "borta": "Mariedals IK C",
@@ -587,14 +647,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-12-03",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Essunga S BTK",
      "borta": "Alingsås PK C",
@@ -616,14 +678,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-12-10",
      "tid": "19:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Essunga S BTK",
      "borta": "Sjömarkens BTK B2",
@@ -645,14 +709,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-06",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Essunga S:a BTK B",
      "borta": "Ulricehamns IF D",
@@ -674,14 +740,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-01-21",
      "tid": "19:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Essunga S BTK",
      "borta": "Hyssna BTK",
@@ -703,14 +771,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-03",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 8",
      "hemma": "Essunga S:a BTK B",
      "borta": "IFK Falköping BTK D1",
@@ -732,14 +802,16 @@
     "-"
    ],
    "serier": [
-    "Södra"
+    "Div 4 Södra"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-02-25",
      "tid": "18:00",
-     "serie": "Södra",
+     "serie_id": "367-6345-0",
+     "serie": "Div 4 Södra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Essunga S BTK",
      "borta": "Sandareds BTK",
@@ -761,14 +833,16 @@
     "-"
    ],
    "serier": [
-    "Mellersta"
+    "Div 7 Mellersta"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2027-03-03",
      "tid": "19:00",
-     "serie": "Mellersta",
+     "serie_id": "367-7536-0",
+     "serie": "Div 7 Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Essunga S:a BTK B",
      "borta": "Alingsås PK E",
@@ -787,49 +861,50 @@
  ],
  "tabeller": [
   {
-   "serie": "Mellersta",
+   "serie_id": "367-6345-0",
+   "serie": "Div 4 Södra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Trollhättans BTK Röd",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Alingsås PK C",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Alingsås PK svart",
-     "klubb": "Ådalslidens Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sjömarkens BTK B1",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Lidan BTK Grön",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Lidan BTK Svart",
-     "klubb": "Lidan Bordtennisklubb",
+     "lag": "Mariedals IK C",
+     "klubb": "Mariedals Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -839,8 +914,8 @@
     },
     {
      "placering": 5,
-     "lag": "Alingsås PK Ultra",
-     "klubb": "Alingsås Pingis Klubb",
+     "lag": "Byttorps IF",
+     "klubb": "Byttorps Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -850,54 +925,110 @@
     },
     {
      "placering": 6,
-     "lag": "Trollhättans BTK Blå",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sjömarkens BTK B2",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Essunga S BTK",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
   },
   {
-   "serie": "Södra",
-   "evenemang": "Nationellt kvalspel 2026",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
+   "serie_id": "367-7536-0",
+   "serie": "Div 7 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
    "exakt_lank": false,
-   "startad": true,
+   "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "Halmstad BTK: B",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Ulricehamns IF D",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Lund Bordtennis: B1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "IFK Falköping BTK D1",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Varbergs BTK",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Alingsås PK E",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Vedums AIS E2",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Falköping BTK D2",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Essunga S:a BTK B",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

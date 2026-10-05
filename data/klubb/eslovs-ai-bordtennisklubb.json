@@ -4,27 +4,22 @@
   "namn": "Eslövs AI Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T11:02:20Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
-  {
-   "namn": "Eslövs AI BTK",
-   "serie": {
-    "namn": "Pingisligan (herr)"
-   },
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
   {
    "namn": "Eslövs AI BTK",
    "serie": {
     "namn": "Pingisligan herrar Knockout"
    },
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
-   "namn": "Eslövs AI BTK: A1",
+   "namn": "Eslövs AI BTK",
    "serie": {
-    "namn": "Pingisligan (dam)"
+    "namn": "Pingisligan (herr)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -32,6 +27,15 @@
    "serie": {
     "namn": "Pingisligan damer Knockout"
    },
+   "evenemang": "Pingisligan by STIGA Slutspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Eslövs AI BTK: A1",
+   "serie": {
+    "namn": "Pingisligan (dam)"
+   },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -39,6 +43,7 @@
    "serie": {
     "namn": "Pingisligan (dam)"
    },
+   "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -46,7 +51,9 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Sjömarkens BTK",
    "borta": "Eslövs AI BTK: A2",
@@ -63,7 +70,9 @@
   {
    "datum": "2026-10-17",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Halmstad BTK",
    "borta": "Eslövs AI BTK: A1",
@@ -80,7 +89,9 @@
   {
    "datum": "2026-10-17",
    "tid": "16:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Våxtorps BOIS",
    "borta": "Eslövs AI BTK: A2",
@@ -97,7 +108,9 @@
   {
    "datum": "2026-10-18",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Våxtorps BOIS",
@@ -114,7 +127,9 @@
   {
    "datum": "2026-10-20",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 3",
    "hemma": "Eslövs AI BTK",
    "borta": "Spårvägens BTK",
@@ -131,7 +146,9 @@
   {
    "datum": "2026-10-24",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Kosta SK",
@@ -148,7 +165,9 @@
   {
    "datum": "2026-10-24",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Kosta SK",
@@ -165,7 +184,9 @@
   {
    "datum": "2026-11-10",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 4",
    "hemma": "Kosta SK",
    "borta": "Eslövs AI BTK",
@@ -182,7 +203,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Västers BTK",
@@ -199,7 +222,9 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Spårvägens BTK",
    "borta": "Eslövs AI BTK: A2",
@@ -216,7 +241,9 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Ängby SK",
@@ -233,7 +260,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Köpings BTK Dam",
@@ -250,7 +279,9 @@
   {
    "datum": "2026-11-15",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Tibble-Kungsängen BTK",
    "borta": "Eslövs AI BTK: A1",
@@ -267,7 +298,9 @@
   {
    "datum": "2026-11-17",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 5",
    "hemma": "Eslövs AI BTK",
    "borta": "BTK Rekord",
@@ -284,7 +317,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Västers BTK",
    "borta": "Eslövs AI BTK: A2",
@@ -301,7 +336,9 @@
   {
    "datum": "2026-12-12",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 9",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Ängby SK",
@@ -318,7 +355,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Tibble-Kungsängen BTK",
    "borta": "Eslövs AI BTK: A2",
@@ -335,7 +374,9 @@
   {
    "datum": "2026-12-12",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Köpings BTK Dam",
    "borta": "Eslövs AI BTK: A1",
@@ -352,7 +393,9 @@
   {
    "datum": "2026-12-13",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Spårvägens BTK",
@@ -369,7 +412,9 @@
   {
    "datum": "2026-12-15",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 7",
    "hemma": "Söderhamns UIF",
    "borta": "Eslövs AI BTK",
@@ -386,7 +431,9 @@
   {
    "datum": "2026-12-16",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 6",
    "hemma": "Eskilstuna by STIGA",
    "borta": "Eslövs AI BTK",
@@ -403,7 +450,9 @@
   {
    "datum": "2027-01-12",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 8",
    "hemma": "Halmstad BTK",
    "borta": "Eslövs AI BTK",
@@ -420,7 +469,9 @@
   {
    "datum": "2027-02-11",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 10",
    "hemma": "Spårvägens BTK",
    "borta": "Eslövs AI BTK",
@@ -437,7 +488,9 @@
   {
    "datum": "2027-02-16",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 11",
    "hemma": "Eslövs AI BTK",
    "borta": "Kosta SK",
@@ -454,7 +507,9 @@
   {
    "datum": "2027-02-17",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 13",
    "hemma": "Eslövs AI BTK",
    "borta": "Eskilstuna by STIGA",
@@ -471,7 +526,9 @@
   {
    "datum": "2027-03-02",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 12",
    "hemma": "BTK Rekord",
    "borta": "Eslövs AI BTK",
@@ -488,7 +545,9 @@
   {
    "datum": "2027-03-16",
    "tid": "18:00",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 14",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -507,7 +566,9 @@
   {
    "datum": "2026-04-06",
    "tid": "18:30",
+   "serie_id": "302-3872-0",
    "serie": "Pingisligan damer Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Kosta SK",
    "borta": "Eslövs AI BTK: A1",
@@ -526,7 +587,9 @@
   {
    "datum": "2026-04-08",
    "tid": "18:30",
+   "serie_id": "302-3872-0",
    "serie": "Pingisligan damer Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Kosta SK",
@@ -545,7 +608,9 @@
   {
    "datum": "2026-04-13",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Halmstad BTK",
    "borta": "Eslövs AI BTK",
@@ -565,7 +630,9 @@
   {
    "datum": "2026-04-15",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Semi Finals",
    "hemma": "Eslövs AI BTK",
    "borta": "Halmstad BTK",
@@ -585,7 +652,9 @@
   {
    "datum": "2026-04-16",
    "tid": "18:30",
+   "serie_id": "302-3872-0",
    "serie": "Pingisligan damer Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Köpings BTK Dam",
    "borta": "Eslövs AI BTK: A1",
@@ -604,7 +673,9 @@
   {
    "datum": "2026-04-18",
    "tid": "13:00",
+   "serie_id": "302-3872-0",
    "serie": "Pingisligan damer Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Eslövs AI BTK: A1",
    "borta": "Köpings BTK Dam",
@@ -624,7 +695,9 @@
   {
    "datum": "2026-04-21",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Söderhamns UIF",
    "borta": "Eslövs AI BTK",
@@ -643,7 +716,9 @@
   {
    "datum": "2026-04-23",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -662,7 +737,9 @@
   {
    "datum": "2026-04-24",
    "tid": "18:30",
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
+   "evenemang": "Pingisligan by STIGA Slutspel",
    "omgang": "Final",
    "hemma": "Eslövs AI BTK",
    "borta": "Söderhamns UIF",
@@ -681,7 +758,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Eslövs AI BTK: A1",
@@ -700,7 +779,9 @@
   {
    "datum": "2026-09-19",
    "tid": "15:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Eslövs AI BTK: A1",
@@ -719,7 +800,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Eslövs AI BTK: A2",
    "borta": "Halmstad BTK",
@@ -738,7 +821,9 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 2",
    "hemma": "Sjömarkens BTK",
    "borta": "Eslövs AI BTK: A1",
@@ -757,7 +842,9 @@
   {
    "datum": "2026-09-22",
    "tid": "18:30",
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
    "omgang": "Round 1",
    "hemma": "Eslövs AI BTK",
    "borta": "Halmstad BTK",
@@ -788,7 +875,9 @@
     {
      "datum": "2026-10-20",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 3",
      "hemma": "Eslövs AI BTK",
      "borta": "Spårvägens BTK",
@@ -817,7 +906,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Kosta SK",
      "borta": "Tibble-Kungsängen BTK",
@@ -834,7 +925,9 @@
     {
      "datum": "2026-11-14",
      "tid": "11:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 6",
      "hemma": "Eslövs AI BTK: A1",
      "borta": "Västers BTK",
@@ -851,7 +944,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Tibble-Kungsängen BTK",
      "borta": "Halmstad BTK",
@@ -868,7 +963,9 @@
     {
      "datum": "2026-11-14",
      "tid": "15:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 7",
      "hemma": "Västers BTK",
      "borta": "Kosta SK",
@@ -897,7 +994,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Västers BTK",
      "borta": "Halmstad BTK",
@@ -914,7 +1013,9 @@
     {
      "datum": "2026-11-15",
      "tid": "11:00",
+     "serie_id": "417-5724-0",
      "serie": "Pingisligan (dam)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 8",
      "hemma": "Tibble-Kungsängen BTK",
      "borta": "Eslövs AI BTK: A1",
@@ -943,7 +1044,9 @@
     {
      "datum": "2026-11-17",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 5",
      "hemma": "Eslövs AI BTK",
      "borta": "BTK Rekord",
@@ -972,7 +1075,9 @@
     {
      "datum": "2027-02-16",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 11",
      "hemma": "Eslövs AI BTK",
      "borta": "Kosta SK",
@@ -1001,7 +1106,9 @@
     {
      "datum": "2027-02-17",
      "tid": "18:30",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 13",
      "hemma": "Eslövs AI BTK",
      "borta": "Eskilstuna by STIGA",
@@ -1030,7 +1137,9 @@
     {
      "datum": "2027-03-16",
      "tid": "18:00",
+     "serie_id": "417-5727-0",
      "serie": "Pingisligan (herr)",
+     "evenemang": "Nationellt seriespel 2026-2027",
      "omgang": "Round 14",
      "hemma": "Eslövs AI BTK",
      "borta": "Söderhamns UIF",
@@ -1049,6 +1158,7 @@
  ],
  "tabeller": [
   {
+   "serie_id": "417-5724-0",
    "serie": "Pingisligan (dam)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
@@ -1179,6 +1289,7 @@
    ]
   },
   {
+   "serie_id": "417-5727-0",
    "serie": "Pingisligan (herr)",
    "evenemang": "Nationellt seriespel 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
@@ -1265,6 +1376,7 @@
    ]
   },
   {
+   "serie_id": "302-3872-0",
    "serie": "Pingisligan damer Knockout",
    "evenemang": "Pingisligan by STIGA Slutspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
@@ -1318,6 +1430,7 @@
    ]
   },
   {
+   "serie_id": "302-3873-0",
    "serie": "Pingisligan herrar Knockout",
    "evenemang": "Pingisligan by STIGA Slutspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",

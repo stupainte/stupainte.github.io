@@ -4,20 +4,38 @@
   "namn": "Markaryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-01T10:37:24Z",
+ "uppdaterad": "2026-10-05T19:09:45Z",
  "lag": [
   {
    "namn": "Markaryds BTK A",
    "serie": {
-    "namn": "Division 5 Södra"
+    "namn": "Division 5 Södra (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Markaryds BTK A",
+   "serie": {
+    "namn": "Division 5 Södra (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
    "namn": "Markaryds BTK B",
    "serie": {
-    "namn": "Division 6 Södra"
+    "namn": "Division 6 Södra (1)"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Markaryds BTK B",
+   "serie": {
+    "namn": "Division 6 Södra (2)"
+   },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -25,6 +43,7 @@
    "serie": {
     "namn": "Division 7 Södra"
    },
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
@@ -32,7 +51,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "BTK-72 Trönninge A",
    "borta": "Markaryds BTK B",
@@ -47,7 +68,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "HBTKG3/Oskarström",
    "borta": "Markaryds BTK C",
@@ -62,7 +85,9 @@
   {
    "datum": "2026-10-11",
    "tid": "19:00",
-   "serie": "Division 5 Södra",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 1",
    "hemma": "Halmstad BTK E1",
    "borta": "Markaryds BTK A",
@@ -77,7 +102,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Markaryds BTK B",
    "borta": "LBTK Serve C1",
@@ -92,7 +119,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Markaryds BTK C",
    "borta": "Sibbarps GoIF C",
@@ -107,7 +136,9 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie": "Division 5 Södra",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
    "hemma": "Markaryds BTK A",
    "borta": "Simlångsdalens IF A",
@@ -122,7 +153,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "LBTK Serve C2",
    "borta": "Markaryds BTK B",
@@ -137,7 +170,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Markaryds BTK C",
    "borta": "Halmstad BTK G2",
@@ -152,7 +187,9 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
-   "serie": "Division 5 Södra",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Våxtorps BoIS A",
    "borta": "Markaryds BTK A",
@@ -167,7 +204,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Halmstad BTK F2",
    "borta": "Markaryds BTK B",
@@ -182,7 +221,9 @@
   {
    "datum": "2026-11-08",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 4",
    "hemma": "Markaryds BTK C",
    "borta": "Halmstad BTK G1",
@@ -199,7 +240,84 @@
  "arrangerar": [],
  "tabeller": [
   {
-   "serie": "Division 5 Södra",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Ratic C3",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Halmstad BTK E1",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Simlångsdalens IF A",
+     "klubb": "Simlångsdalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Våxtorps BoIS A",
+     "klubb": "Våxtorps Boll O IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Markaryds BTK A",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Halmstad BTK E 3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7591-0",
+   "serie": "Division 5 Södra (2)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "exakt_lank": true,
@@ -274,7 +392,84 @@
    ]
   },
   {
-   "serie": "Division 6 Södra",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
+   "exakt_lank": true,
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Skedala BTK A",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK-72 Trönninge A",
+     "klubb": "Bordtennisklubben-72 Trönninge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "LBTK Serve C1",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Markaryds BTK B",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Halmstad BTK F2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "411-7599-0",
+   "serie": "Division 6 Södra (2)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
    "exakt_lank": true,
@@ -349,6 +544,7 @@
    ]
   },
   {
+   "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
