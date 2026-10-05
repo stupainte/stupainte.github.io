@@ -4,7 +4,7 @@
   "namn": "Damsnäs Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T11:02:20Z",
  "lag": [
   {
    "namn": "Damnäs IF B",
@@ -29,40 +29,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "omgang": "Round 3",
-   "hemma": "Damnäs IF B",
-   "borta": "Lyckeby BTK H",
-   "hemma_klubb": "Damsnäs Idrottsförening",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "Demohallen",
-   "arrangor": "Damsnäs Idrottsförening",
-   "arrangorer": [
-    "Damsnäs Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "omgang": "Round 3",
-   "hemma": "Kyrkhults BTK C",
-   "borta": "Damsnäs IF C",
-   "hemma_klubb": "Kyrkhults Bordtennisklubb",
-   "borta_klubb": "Damsnäs Idrottsförening",
-   "plats": "Kyrkhults skola",
-   "arrangor": "Kyrkhults Bordtennisklubb",
-   "arrangorer": [
-    "Kyrkhults Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-18",
    "tid": "10:30",
@@ -758,38 +724,28 @@
    "exakt_lank": false,
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-04",
+   "tid": "13:00",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "omgang": "Round 3",
+   "hemma": "Damnäs IF B",
+   "borta": "Lyckeby BTK H",
+   "hemma_klubb": "Damsnäs Idrottsförening",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "Demohallen",
+   "arrangor": "Damsnäs Idrottsförening",
+   "arrangorer": [
+    "Damsnäs Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-04",
-   "platser": [
-    "Demohallen"
-   ],
-   "serier": [
-    "Div 6 Syd/VÄSTRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-04",
-     "tid": "13:00",
-     "serie": "Div 6 Syd/VÄSTRA",
-     "omgang": "Round 3",
-     "hemma": "Damnäs IF B",
-     "borta": "Lyckeby BTK H",
-     "hemma_klubb": "Damsnäs Idrottsförening",
-     "borta_klubb": "Lyckeby Bordtennisklubb",
-     "plats": "Demohallen",
-     "arrangor": "Damsnäs Idrottsförening",
-     "arrangorer": [
-      "Damsnäs Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
   {
    "datum": "2026-10-18",
    "platser": [
@@ -1259,26 +1215,15 @@
      "placering": 2,
      "lag": "Lyckeby BTK H",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Damnäs IF B",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Carlshamns BTK D",
      "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 2,
@@ -1289,13 +1234,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Lyckeby BTK K",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Damnäs IF B",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

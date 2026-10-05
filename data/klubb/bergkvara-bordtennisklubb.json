@@ -4,7 +4,7 @@
   "namn": "Bergkvara Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T11:02:20Z",
  "lag": [
   {
    "namn": "Bergkvara BTK",
@@ -517,37 +517,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-04",
-   "platser": [
-    "bergkvara BT-hall"
-   ],
-   "serier": [
-    "DIV 4 SÖDRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-04",
-     "tid": "13:00",
-     "serie": "DIV 4 SÖDRA",
-     "omgang": "Round 3",
-     "hemma": "Bergkvara BTK",
-     "borta": "Lyckeby BTK D",
-     "hemma_klubb": "Bergkvara Bordtennisklubb",
-     "borta_klubb": "Lyckeby Bordtennisklubb",
-     "plats": "bergkvara BT-hall",
-     "arrangor": "Bergkvara Bordtennisklubb",
-     "arrangorer": [
-      "Bergkvara Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
-     "exakt_lank": false,
-     "hemma_poang": 0,
-     "borta_poang": 2
-    }
-   ]
-  },
-  {
    "datum": "2026-11-14",
    "platser": [
     "A-hallen"
@@ -876,17 +845,17 @@
      "placering": 2,
      "lag": "Nävragöls BK ",
      "klubb": "Nävragöls Bollklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
+     "lag": "Dänningelanda BTK C",
+     "klubb": "Dänningelanda Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -898,15 +867,26 @@
      "placering": 4,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Bergkvara BTK",
      "klubb": "Bergkvara Bordtennisklubb",
      "spelade": 3,
@@ -917,31 +897,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "SK Frigg B",
-     "klubb": "Sportklubben Frigg",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Dänningelanda BTK C",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Carlshamns BTK B",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Carlshamns BTK B",
-     "klubb": "Carlshamns Bordtennisklubb",
+     "lag": "SK Frigg B",
+     "klubb": "Sportklubben Frigg",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Vaggeryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-04T10:24:12Z",
+ "uppdaterad": "2026-10-05T11:02:20Z",
  "lag": [
   {
    "namn": "Vaggeryds BTK",
@@ -36,23 +36,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Norra B",
-   "omgang": "Round 3",
-   "hemma": "Vaggeryds BTK C",
-   "borta": "Vetlanda BTK B",
-   "hemma_klubb": "Vaggeryds Bordtennisklubb",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "Vaggeryds Idrottshall",
-   "arrangor": "Vaggeryds Bordtennisklubb",
-   "arrangorer": [
-    "Vaggeryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-07",
    "tid": "19:00",
@@ -951,35 +934,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-04",
-   "platser": [
-    "Vaggeryds Idrottshall"
-   ],
-   "serier": [
-    "Div 6 Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-04",
-     "tid": "13:00",
-     "serie": "Div 6 Norra B",
-     "omgang": "Round 3",
-     "hemma": "Vaggeryds BTK C",
-     "borta": "Vetlanda BTK B",
-     "hemma_klubb": "Vaggeryds Bordtennisklubb",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "Vaggeryds Idrottshall",
-     "arrangor": "Vaggeryds Bordtennisklubb",
-     "arrangorer": [
-      "Vaggeryds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-     "exakt_lank": false
-    }
-   ]
-  },
-  {
    "datum": "2026-10-07",
    "platser": [
     "Vaggeryds Idrottshall"
@@ -1450,6 +1404,17 @@
     },
     {
      "placering": 2,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "KFUM Jönköping IA D",
      "klubb": "KFUM Jönköping",
      "spelade": 2,
@@ -1460,7 +1425,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "KFUM Jönköping IA C",
      "klubb": "KFUM Jönköping",
      "spelade": 2,
@@ -1471,7 +1436,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sävsjö BTK A",
      "klubb": "Sävsjö Bordtennisklubb",
      "spelade": 2,
@@ -1482,20 +1447,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "Bruzaholms SK A",
-     "klubb": "Bruzaholms Sportklubb",
+     "lag": "BTK Final A",
+     "klubb": "Bordtennisklubben Final",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1505,12 +1459,12 @@
     },
     {
      "placering": 7,
-     "lag": "BTK Final A",
-     "klubb": "Bordtennisklubben Final",
-     "spelade": 2,
+     "lag": "Bruzaholms SK A",
+     "klubb": "Bruzaholms Sportklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

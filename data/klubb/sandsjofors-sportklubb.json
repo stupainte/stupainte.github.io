@@ -4,7 +4,7 @@
   "namn": "Sandsjöfors Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-09-29T10:17:42Z",
+ "uppdaterad": "2026-10-05T11:02:20Z",
  "lag": [
   {
    "namn": "Sandsjöfors SK A",
@@ -15,23 +15,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-04",
-   "tid": "13:00",
-   "serie": "Div 6 Norra A ",
-   "omgang": "Round 3",
-   "hemma": "Tranås BTK C",
-   "borta": "Sandsjöfors SK A",
-   "hemma_klubb": "Tranås Bordtennisklubb",
-   "borta_klubb": "Sandsjöfors Sportklubb",
-   "plats": "Floragatan",
-   "arrangor": "Tranås Bordtennisklubb",
-   "arrangorer": [
-    "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -462,6 +445,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Tranås BTK C",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Tranås BTK D",
      "klubb": "Tranås Bordtennisklubb",
      "spelade": 3,
@@ -469,17 +463,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 5,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Tranås BTK C",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
      "setdiff": "264–0"
     },
     {
@@ -495,17 +478,6 @@
     },
     {
      "placering": 4,
-     "lag": " KFUM Jönköping IA G",
-     "klubb": "KFUM Jönköping",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
      "lag": "KFUM Jönköping IA F",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
@@ -516,7 +488,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Sandsjöfors SK A",
      "klubb": "Sandsjöfors Sportklubb",
      "spelade": 2,
@@ -527,9 +499,20 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Huskvarna Södra IS E",
      "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 7,
+     "lag": " KFUM Jönköping IA G",
+     "klubb": "KFUM Jönköping",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
