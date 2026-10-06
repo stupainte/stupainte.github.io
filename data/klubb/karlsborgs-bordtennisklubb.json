@@ -4,7 +4,7 @@
   "namn": "Karlsborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-06T10:58:23Z",
  "lag": [
   {
    "namn": "Karlsborgs BTK",
@@ -1461,6 +1461,48 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-01",
+   "tid": "18:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Karlsborgs BTK B1",
+   "borta": "Karlsborgs BTK B2",
+   "hemma_klubb": "Karlsborgs Bordtennisklubb",
+   "borta_klubb": "Karlsborgs Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-01",
+   "tid": "18:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Karlsborgs BTK B1",
+   "borta": "Karlsborgs BTK B2",
+   "hemma_klubb": "Karlsborgs Bordtennisklubb",
+   "borta_klubb": "Karlsborgs Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2732,6 +2774,17 @@
     },
     {
      "placering": 3,
+     "lag": "Karlsborgs BTK B1",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Skagersviks BTK C",
      "klubb": "Skagersviks Bordtennisklubb",
      "spelade": 1,
@@ -2742,7 +2795,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Istrums SK",
      "klubb": "Istrums Skidklubb",
      "spelade": 1,
@@ -2753,24 +2806,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Karlsborgs BTK B1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Karlsborgs BTK B2",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

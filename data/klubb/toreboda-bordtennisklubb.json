@@ -4,7 +4,7 @@
   "namn": "Töreboda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-06T10:58:23Z",
  "lag": [
   {
    "namn": "Töreboda BTK",
@@ -16,25 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-05",
-   "tid": "19:00",
-   "serie_id": "367-6440-0",
-   "serie": "Div 4 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Hova BTK",
-   "borta": "Töreboda BTK",
-   "hemma_klubb": "Hova Bordtennisklubb",
-   "borta_klubb": "Töreboda Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Hova Bordtennisklubb",
-   "arrangorer": [
-    "Hova Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-07",
    "tid": "18:00",
@@ -246,6 +227,27 @@
   }
  ],
  "resultat": [
+  {
+   "datum": "2026-10-05",
+   "tid": "19:00",
+   "serie_id": "367-6440-0",
+   "serie": "Div 4 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Hova BTK",
+   "borta": "Töreboda BTK",
+   "hemma_klubb": "Hova Bordtennisklubb",
+   "borta_klubb": "Töreboda Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Hova Bordtennisklubb",
+   "arrangorer": [
+    "Hova Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
   {
    "datum": "2026-11-19",
    "tid": "18:00",
@@ -532,6 +534,17 @@
     },
     {
      "placering": 2,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": "Vedums AIS B",
      "klubb": "Vedums Allmänna IS",
      "spelade": 2,
@@ -542,7 +555,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Blikstorps AIK B",
      "klubb": "Blikstorps Allmänna IK",
      "spelade": 2,
@@ -553,20 +566,9 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Skagersviks BTK",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -578,10 +580,10 @@
      "placering": 6,
      "lag": "Töreboda BTK",
      "klubb": "Töreboda Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "264–0"
     },

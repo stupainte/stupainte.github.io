@@ -4,7 +4,7 @@
   "namn": "Larvs Fotbollklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-06T10:58:23Z",
  "lag": [
   {
    "namn": "Larvs FK",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-05",
-   "tid": "18:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "IFK Lidköping B2",
-   "borta": "Larvs FK B",
-   "hemma_klubb": "IFK Lidköping",
-   "borta_klubb": "Larvs Fotbollklubb",
-   "plats": "-",
-   "arrangor": "IFK Lidköping",
-   "arrangorer": [
-    "IFK Lidköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-15",
    "tid": "18:00",
@@ -563,6 +544,27 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-05",
+   "tid": "18:00",
+   "serie_id": "367-6439-0",
+   "serie": "Div 5 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "IFK Lidköping B2",
+   "borta": "Larvs FK B",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Larvs Fotbollklubb",
+   "plats": "-",
+   "arrangor": "IFK Lidköping",
+   "arrangorer": [
+    "IFK Lidköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -996,11 +998,11 @@
      "placering": 5,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1016,8 +1018,8 @@
     },
     {
      "placering": 7,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
+     "lag": "Vårgårda IK",
+     "klubb": "Vårgårda IK Bordtennis",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1027,12 +1029,12 @@
     },
     {
      "placering": 8,
-     "lag": "Vårgårda IK",
-     "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 1,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

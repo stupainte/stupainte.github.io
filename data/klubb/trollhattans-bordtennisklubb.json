@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-06T10:58:23Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -236,6 +236,44 @@
    "exakt_lank": false
   },
   {
+   "datum": "2026-11-03",
+   "tid": "10:00",
+   "serie_id": "367-7710-0",
+   "serie": "Höst Ungd Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Trollhättans BTK Röd",
+   "borta": "Trollhättans BTK Blå",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "exakt_lank": false
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "10:00",
+   "serie_id": "367-7710-0",
+   "serie": "Höst Ungd Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Trollhättans BTK Röd",
+   "borta": "Trollhättans BTK Blå",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "exakt_lank": false
+  },
+  {
    "datum": "2026-11-04",
    "tid": "19:00",
    "serie_id": "367-6439-0",
@@ -252,44 +290,6 @@
     "Vårgårda IK Bordtennis"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "10:00",
-   "serie_id": "367-7710-0",
-   "serie": "Höst Ungd Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Trollhättans BTK Röd",
-   "borta": "Trollhättans BTK Blå",
-   "hemma_klubb": "Trollhättans Bordtennisklubb",
-   "borta_klubb": "Trollhättans Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Trollhättans Bordtennisklubb",
-   "arrangorer": [
-    "Trollhättans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
-   "exakt_lank": false
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "10:00",
-   "serie_id": "367-7710-0",
-   "serie": "Höst Ungd Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Trollhättans BTK Röd",
-   "borta": "Trollhättans BTK Blå",
-   "hemma_klubb": "Trollhättans Bordtennisklubb",
-   "borta_klubb": "Trollhättans Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Trollhättans Bordtennisklubb",
-   "arrangorer": [
-    "Trollhättans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
    "exakt_lank": false
   },
   {
@@ -1448,18 +1448,17 @@
    ]
   },
   {
-   "datum": "2026-11-08",
+   "datum": "2026-11-03",
    "platser": [
     "-"
    ],
    "serier": [
-    "Div 6 Nordvästra",
     "Höst Ungd Mellersta"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
     {
-     "datum": "2026-11-08",
+     "datum": "2026-11-03",
      "tid": "10:00",
      "serie_id": "367-7710-0",
      "serie": "Höst Ungd Mellersta",
@@ -1476,7 +1475,19 @@
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
      "exakt_lank": false
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-08",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Div 6 Nordvästra"
+   ],
+   "antal": 1,
+   "matcher": [
     {
      "datum": "2026-11-08",
      "tid": "19:00",
@@ -2120,11 +2131,11 @@
      "placering": 5,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2140,8 +2151,8 @@
     },
     {
      "placering": 7,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
+     "lag": "Vårgårda IK",
+     "klubb": "Vårgårda IK Bordtennis",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2151,12 +2162,12 @@
     },
     {
      "placering": 8,
-     "lag": "Vårgårda IK",
-     "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 1,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
