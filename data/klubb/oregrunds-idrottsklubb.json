@@ -4,7 +4,7 @@
   "namn": "Öregrunds Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-07T10:44:54Z",
  "lag": [
   {
    "namn": "Öregrunds IK A",
@@ -254,6 +254,27 @@
   }
  ],
  "resultat": [
+  {
+   "datum": "2026-09-19",
+   "tid": "10:00",
+   "serie_id": "435-6115-0",
+   "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Öregrunds IK B",
+   "borta": "Sunnersta AIF C2",
+   "hemma_klubb": "Öregrunds Idrottsklubb",
+   "borta_klubb": "Sunnersta Allmänna IF",
+   "plats": "Sven-Persson Hallen",
+   "arrangor": "Öregrunds Idrottsklubb",
+   "arrangorer": [
+    "Öregrunds Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
   {
    "datum": "2026-09-19",
    "tid": "14:00",
@@ -802,6 +823,17 @@
     },
     {
      "placering": 4,
+     "lag": "Sunnersta AIF C2",
+     "klubb": "Sunnersta Allmänna IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Norrtälje BTK D",
      "klubb": "Norrtälje Bordtennisklubb",
      "spelade": 2,
@@ -812,7 +844,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Sandvikens BTK B",
      "klubb": "Sandvikens Bordtennisklubb",
      "spelade": 2,
@@ -823,7 +855,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Gefle PK D2",
      "klubb": "Gefle Pingisklubb",
      "spelade": 2,
@@ -834,24 +866,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Öregrunds IK B",
      "klubb": "Öregrunds Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Sunnersta AIF C2",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

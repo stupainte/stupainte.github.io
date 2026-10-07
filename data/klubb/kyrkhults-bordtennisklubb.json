@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-06T10:58:23Z",
+ "uppdaterad": "2026-10-07T10:44:54Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -40,6 +40,25 @@
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-11",
+   "tid": "11:00",
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Kyrkhults BTK C",
+   "borta": "Damsnäs IF C",
+   "hemma_klubb": "Kyrkhults Bordtennisklubb",
+   "borta_klubb": "Damsnäs Idrottsförening",
+   "plats": "Kyrkhults skola",
+   "arrangor": "Kyrkhults Bordtennisklubb",
+   "arrangorer": [
+    "Kyrkhults Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "exakt_lank": false
+  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -943,6 +962,27 @@
   },
   {
    "datum": "2026-09-27",
+   "tid": "13:00",
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Kyrkhults BTK C",
+   "borta": "Lyckeby BTK H",
+   "hemma_klubb": "Kyrkhults Bordtennisklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "Kyrkhults skola",
+   "arrangor": "Kyrkhults Bordtennisklubb",
+   "arrangorer": [
+    "Kyrkhults Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-27",
    "tid": "17:00",
    "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
@@ -1027,6 +1067,37 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-10-11",
+   "platser": [
+    "Kyrkhults skola"
+   ],
+   "serier": [
+    "Div 6 Syd/VÄSTRA"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-11",
+     "tid": "11:00",
+     "serie_id": "372-6759-0",
+     "serie": "Div 6 Syd/VÄSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 3",
+     "hemma": "Kyrkhults BTK C",
+     "borta": "Damsnäs IF C",
+     "hemma_klubb": "Kyrkhults Bordtennisklubb",
+     "borta_klubb": "Damsnäs Idrottsförening",
+     "plats": "Kyrkhults skola",
+     "arrangor": "Kyrkhults Bordtennisklubb",
+     "arrangorer": [
+      "Kyrkhults Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+     "exakt_lank": false
+    }
+   ]
+  },
   {
    "datum": "2026-10-18",
    "platser": [
@@ -1691,21 +1762,21 @@
      "placering": 2,
      "lag": "BTK Frej D",
      "klubb": "Bordtennisklubben Frej",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -1724,11 +1795,11 @@
      "placering": 5,
      "lag": "Listerby IK C",
      "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1789,11 +1860,11 @@
      "placering": 2,
      "lag": "Lyckeby BTK H",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1855,10 +1926,10 @@
      "placering": 8,
      "lag": "Kyrkhults BTK C",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-07T10:44:54Z",
  "lag": [
   {
    "namn": "Tranås BTK A",
@@ -72,25 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-14",
-   "tid": "10:00",
-   "serie_id": "372-6765-0",
-   "serie": "Veteran Norra B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Vetlanda BTK B",
-   "borta": "Tranås BTK B",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Vetlanda BT-hall",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-14",
    "tid": "14:00",
@@ -1944,6 +1925,27 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-14",
+   "tid": "10:00",
+   "serie_id": "372-6765-0",
+   "serie": "Veteran Norra B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Vetlanda BTK B",
+   "borta": "Tranås BTK B",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6760-0",
@@ -3464,21 +3466,21 @@
      "placering": 1,
      "lag": "Vetlanda BTK B",
      "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Tranås BTK B",
      "klubb": "Tranås Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
