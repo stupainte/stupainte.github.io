@@ -53,17 +53,12 @@ GitHub Actions  →  STUPA:s API  →  data/*.json i repot  →  GitHub Pages
 Ingen server, inga kostnader, inget att underhålla utöver hämtaren.
 
 Se `ARKITEKTUR.md` för API-referensen: endpoints, datakedjan, varför
-klubbtillhörighet inte behöver gissas fram, och varför djuplänkning till en
-enskild division bara fungerar ibland.
+klubbtillhörighet inte behöver gissas fram, och hur djuplänkning till en
+enskild division fungerar (och inte fungerade tidigare).
 
-**Om länkarna till STUPA:** de öppnar alltid rätt evenemang. Om de även
-öppnar rätt serie beror på divisionen — STUPA respekterar länken när
-divisionen inte har egna undergrupper (t.ex. mindre distrikt), men hoppar
-till en annan, obesläktad serie när den har det (nationella serien, de
-flesta distrikt). Hämtaren räknar ut vilket som gäller för varje match och
-lagrar det som `exakt_lank`. Frontenden visar olika `title` beroende på
-värdet — antingen att länken är exakt, eller vilken serie användaren själv
-ska välja i STUPA:s menyrad.
+**Om länkarna till STUPA:** de öppnar rätt evenemang och rätt division direkt.
+Det gick inte förrän oktober 2026 — STUPA ignorerade tidigare divisionen i
+adressen. Se `FÖRVALTNING.md` för historiken och hur det kontrolleras igen.
 
 ## Publicera
 

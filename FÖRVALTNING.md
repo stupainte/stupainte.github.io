@@ -260,48 +260,36 @@ kontrollera om ett nytt serienamn eller en ny `abbr` har dykt upp i STUPA.
 av namn *och* serie, annars försvinner det ena. Klubben gick från 9 till 14 lag
 när felet rättades.
 
-### Djuplänkning till en division fungerar — men bara ibland
+### Djuplänkning till division — fungerar sedan oktober 2026
 
-Länge dokumenterat här som "går inte alls". Det stämmer inte helt.
-Verifierat i webbläsare 2026-09-20, med rensad `localStorage`/`sessionStorage`
-för att utesluta cachad klienttillstånd:
+Historik, eftersom den förklarar varför koden ser ut som den gör och vad som
+kan gå sönder igen:
 
-- `/events/501/1060/...` (Värmlands BTF, Division 5) → **stannar kvar**.
-- `/events/417/1149/...` (Nationellt seriespel, Div 2 SSÖ Dam) → **hoppar**
-  till `/events/417/1119` ("Pingisligan (dam)"), en helt obesläktad serie.
+- **Till och med september 2026** ignorerade STUPA:s frontend `category_id` i
+  `/events/{event}/{category}/2/7/7` för alla divisioner med undergrupper
+  (nästan alla) och hoppade till evenemangets första division. Det gällde ~80 %
+  av matcherna. Det var en brist i deras datamodell: undergrupper ("Div 4A")
+  fanns bara på stage-nivå, inte i den kategorilista frontenden validerade mot.
+  Vi byggde en gissning (`exakt_lank`, jämförelse mot `get_events_categories`)
+  som avgjorde i förväg vilka länkar som skulle fungera, och en tooltip som sa
+  åt användaren att byta division manuellt.
+- **2026-10-08** hade STUPA åtgärdat det. Verifierat i ren webbläsare (rensad
+  `localStorage`/`sessionStorage`) mot 11 evenemang, inklusive de tidigare
+  värsta fallen: länken stannar kvar och STUPA visar rätt kategori OCH
+  undergrupp. `exakt_lank` och det extra API-anropet togs bort samma dag.
 
-Mönstret, verifierat med flera exempel i båda riktningarna: länken stämmer
-EXAKT när divisionens `category_id` också finns bland evenemangets
-toppnivåkategorier (`get_events_categories`). Den listan innehåller bara de
-odelade divisionsnamnen ("Division 4", "Division 2 (dam)") — inte de
-bokstavs- eller regionindelade undergrupperna ("Division 4A", "Div 2 SSÖ
-Dam") som en enskild match faktiskt tillhör.
-
-- Har en division bara **en** grupp (litet distrikt, t.ex. Värmlands BTF) är
-  `category_id` detsamma på båda nivåerna → länken stämmer.
-- Har den **flera** grupper (nationella serien, de flesta distrikt) finns
-  undergruppens id bara på stage-nivå → länken hoppar i stället till
-  evenemangets FÖRSTA toppnivåkategori, oavsett vilken match man klickade på.
-
-`hamta.py` räknar ut detta i förväg: ett extra anrop till
-`get_events_categories` per evenemang, jämfört mot varje stages `category_id`,
-sparat som `exakt_lank` (bool) på varje match och tabell. Frontenden visar
-olika tooltip beroende på värdet — se `matchKort()` i `index.html`.
-
-**Försök inte höja träffsäkerheten ytterligare genom att länka till
-toppnivå-id:t i stället för undergruppens.** Testat: `/events/417/1123/...`
-("Division 2 (dam)") hoppar till `/events/417/1149` — som RÅKAR vara rätt i
-det här fallet, men det är STUPA:s egen förvalda undergrupp för den
-toppnivån, inte en garanti. Det finns ingen API-relation mellan en
-toppnivåkategori och "rätt" undergrupp att utnyttja; STUPA:s eget val är
-opålitligt och kan inte förutsägas utan att fråga STUPA:s frontend-kod
-direkt (vilket kräver en riktig webbläsare, inte `requests`).
+**Så kontrollerar du om det gått sönder igen** (gör det om någon rapporterar
+fel division efter länkklick): öppna en länk ur datan, t.ex.
+`/events/417/1149/2/7/7`, i en ren flik. Adressen ska stå kvar och menyerna
+visa "Division 2 (dam)" och "Div 2 SSÖ Dam". Hoppar den till `/events/417/1119`
+är gamla beteendet tillbaka. Då: återinför jämförelsen mot
+`get_events_categories` (se git-historiken, commit "Länka rätt division när
+STUPA tillåter det") och tooltipen om att byta division.
 
 ### Divisionsnamn finns inte där man tror
 
 `get_events_categories` returnerar bara toppnivåerna ("Division 4") utan
-undergrupperna A/B/C — det är samma lista som `exakt_lank` jämför mot ovan.
-Rätt VISNINGSNAMN ligger i
+undergrupperna A/B/C. Rätt VISNINGSNAMN ligger i
 `stage.event_category.category.category_description`.
 
 ---
@@ -483,7 +471,7 @@ Fält som frontenden läser och som därför inte får byta namn:
 | `index.json` | `sasong`, `klubbar[].slug`, `.namn`, `.antal_lag` |
 | `turneringar.json` | `turneringar[].namn`, `.datum`, `.slutdatum`, `.ort`, `.arena`, `.land`, `.niva`, `.status`, `.kalla`, `.lank`, `.hink` |
 | klubbfil | `klubb.namn`, `sasong`, `uppdaterad`, `lag[].namn`, `lag[].serie.namn` |
-| match | `datum`, `tid`, `serie_id`, `serie`, `evenemang`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `exakt_lank`, `hemma_poang`, `borta_poang` |
+| match | `datum`, `tid`, `serie_id`, `serie`, `evenemang`, `omgang`, `hemma`, `borta`, `plats`, `arrangor`, `arrangorer`, `stupa_url`, `hemma_poang`, `borta_poang` |
 | tabell | `serie_id`, `serie`, `evenemang`, `startad`, `rader[].placering`, `.lag`, `.spelade`, `.vunna`, `.oavgjorda`, `.forlorade`, `.matchpoang`, `.setdiff` |
 | arrangerar | `datum`, `antal`, `platser`, `serier`, `matcher[]` |
 | turnering | `namn`, `datum`, `ort`, `niva`, `status`, `stupa_url` |
@@ -497,7 +485,7 @@ sönder, och skulle krympa datan en del:
 | --- | ---- | --------- |
 | `index.json` | `arrangerar_dagar` | tillagt för framtida bruk, används inte |
 | match | `hemma_klubb`, `borta_klubb` | behövs under bearbetningen men inte i utdatan |
-| tabell | `stupa_url`, `exakt_lank` | skrivs för framtida bruk — tabellvyn har ingen klickbar länk än |
+| tabell | `stupa_url` | skrivs för framtida bruk — tabellvyn har ingen klickbar länk än |
 | tabellrad | `klubb` | |
 | turnering | `slutdatum` | |
 

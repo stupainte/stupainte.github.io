@@ -361,40 +361,10 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
     ev_id = ev["id"]
     ev_namn = ev.get("name", "")
 
-    # Om en länk verkligen öppnar rätt division eller inte går att avgöra i
-    # förväg, och det skiljer sig från division till division inom SAMMA
-    # evenemang. Verifierat i webbläsare 2026-09-20:
-    #
-    #   /events/501/1060/... (Värmlands BTF, Division 5)   → stannar kvar
-    #   /events/417/1149/... (Nationellt, Div 2 SSÖ Dam)   → hoppar till
-    #                                                          /events/417/1119
-    #                                                          ("Pingisligan
-    #                                                          (dam)", en helt
-    #                                                          annan serie)
-    #
-    # Mönstret: länken stannar kvar EXAKT när divisionens category_id också
-    # finns bland evenemangets toppnivåkategorier (get_events_categories).
-    # Den listan innehåller bara de odelade divisionsnamnen ("Division 4",
-    # "Division 2 (dam)") — inte de bokstavs- eller regionsindelade
-    # undergrupperna ("Division 4A", "Div 2 SSÖ Dam") som varje faktisk
-    # match tillhör. Har en division bara EN grupp (litet distrikt, typ
-    # Värmlands BTF) är category_id detsamma på båda nivåerna och länken
-    # stämmer. Har den flera grupper (nationella serien, de flesta distrikt)
-    # finns undergruppens id bara på stage-nivå, och länken hoppar i stället
-    # till evenemangets första toppnivåkategori — helt obesläktad med den
-    # match man klickade på.
-    #
-    # Detta går att avgöra i förväg med ett enda extra anrop per evenemang.
-    toppniva_id = {
-        c.get("category_id")
-        for c in api.data("get_events_categories", event_id=ev_id, per_page=100)
-    }
-
     # Divisionsnamnet ligger inbäddat i varje stage:
     #   stage.event_category.category.category_description → "Division 4A"
     # get_events_categories returnerar bara toppnivåerna ("Division 4") och
-    # duger därför inte för namnet — undergrupperna A/B/C saknas där. Den
-    # används ändå ovan, för att avgöra länkens tillförlitlighet.
+    # duger därför inte för namnet — undergrupperna A/B/C saknas där.
     stages = api.data("get_stages", event_id=ev_id, per_page=200)
     divisionsnamn = entydiga_divisionsnamn(stages, ev_namn)
 
@@ -405,14 +375,15 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
         ec = st.get("event_category") or {}
         kat = ec.get("category") or {}
         division = divisionsnamn[st["id"]]
-        # Den nakna adressen /events/435 ger "No Records Found", så den
-        # fullständiga formen behålls även när länken inte är exakt — se
-        # `exakt_lank`-resonemanget ovan för varför den ibland ändå landar
-        # på fel division.
+        # Djuplänk till exakt division. Fram till 2026-10 ignorerade STUPA
+        # category_id i adressen för serier med undergrupper och hoppade till
+        # evenemangets första division; det åtgärdades hos STUPA och verifierades
+        # 2026-10-08 mot 11 evenemang. Se FÖRVALTNING.md ("Djuplänkning") för hur
+        # det kontrolleras igen om det skulle gå sönder.
+        # Den nakna adressen /events/435 ger "No Records Found".
         kat_id = ec.get("category_id")
         djuplank = (f"{WEBB}/events/{ev_id}/{kat_id}/2/7/7" if kat_id
                     else f"{WEBB}/events/{ev_id}")
-        exakt_lank = kat_id in toppniva_id if kat_id else False
 
         grupper = api.data(
             "get_group_matches",
@@ -460,7 +431,6 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "serie": serienamn,
                     "evenemang": ev_namn,
                     "stupa_url": djuplank,
-                    "exakt_lank": exakt_lank,
                     "startad": any(r["spelade"] for r in rader),
                     "rader": rader,
                 })
@@ -496,7 +466,6 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "arrangor": " / ".join(arr) or None,
                     "arrangorer": arr,
                     "stupa_url": djuplank,
-                    "exakt_lank": exakt_lank,
                 }
                 # Obs: score_published duger INTE som markör för spelad match.
                 # Det är en inställning på divisionsnivå och är True även för
