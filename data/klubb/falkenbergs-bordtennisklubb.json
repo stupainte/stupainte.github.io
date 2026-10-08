@@ -4,7 +4,7 @@
   "namn": "Falkenbergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-07T10:44:54Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "Falkenbergs BTK",
@@ -64,23 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-11",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 1",
-   "hemma": "Halmstad BTK G2",
-   "borta": "Falkenbergs BTK E",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Falkenbergs Bordtennisklubb",
-   "plats": "Halmstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
-   "exakt_lank": true
-  },
   {
    "datum": "2026-10-11",
    "tid": "19:00",
@@ -163,8 +146,10 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -218,8 +203,10 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -245,23 +232,6 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Halmstad BTK G1",
-   "borta": "Falkenbergs BTK E",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Falkenbergs Bordtennisklubb",
-   "plats": "Halmstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "19:00",
    "serie_id": "411-7533-0",
    "serie": "Division 5 Mellersta (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -277,19 +247,21 @@
    "exakt_lank": true
   },
   {
-   "datum": "2026-10-25",
+   "datum": "2026-10-18",
    "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Skedala BTK B",
+   "omgang": "Round 2",
+   "hemma": "Halmstad BTK G1",
    "borta": "Falkenbergs BTK E",
-   "hemma_klubb": "Skedala Bordtennisklubb",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
-   "plats": "Skedala",
-   "arrangor": null,
-   "arrangorer": [],
+   "plats": "Halmstad Arena",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "exakt_lank": true
   },
@@ -311,19 +283,21 @@
    "exakt_lank": true
   },
   {
-   "datum": "2026-11-08",
+   "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Falkenbergs BTK E",
-   "borta": "HBTKG3/Oskarström",
-   "hemma_klubb": "Falkenbergs Bordtennisklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Tullbrohallen Falkenberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "omgang": "Round 3",
+   "hemma": "Skedala BTK B",
+   "borta": "Falkenbergs BTK E",
+   "hemma_klubb": "Skedala Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Skedala",
+   "arrangor": "Skedala Bordtennisklubb",
+   "arrangorer": [
+    "Skedala Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "exakt_lank": true
   },
@@ -342,6 +316,25 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "exakt_lank": true
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 4",
+   "hemma": "Falkenbergs BTK E",
+   "borta": "HBTKG3/Oskarström",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Tullbrohallen Falkenberg",
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "exakt_lank": true
   },
   {
@@ -432,8 +425,10 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Sibbarps Gymnastik O IF",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -449,8 +444,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -1019,6 +1016,27 @@
    "exakt_lank": false,
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Halmstad BTK G2",
+   "borta": "Falkenbergs BTK E",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Halmstad Arena",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1099,6 +1117,37 @@
       "Falkenbergs Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
+     "exakt_lank": true
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-08",
+   "platser": [
+    "Tullbrohallen Falkenberg"
+   ],
+   "serier": [
+    "Division 7 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-08",
+     "tid": "19:00",
+     "serie_id": "411-7479-0",
+     "serie": "Division 7 Södra",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 4",
+     "hemma": "Falkenbergs BTK E",
+     "borta": "HBTKG3/Oskarström",
+     "hemma_klubb": "Falkenbergs Bordtennisklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Tullbrohallen Falkenberg",
+     "arrangor": "Falkenbergs Bordtennisklubb",
+     "arrangorer": [
+      "Falkenbergs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
      "exakt_lank": true
     }
    ]
@@ -1424,6 +1473,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Sibbarps GoIF C",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "HBTKG3/Oskarström",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 1,
@@ -1434,75 +1494,64 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Halmstad BTK G2",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Falkenbergs BTK E",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Halmstad BTK G1",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Halmstad BTK G1",
+     "lag": "Halmstad BTK G2",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Falkenbergs BTK E",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Ratic D",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 0,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Sibbarps GoIF C",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 0,
+     "lag": "Markaryds BTK C",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Markaryds BTK C",
-     "klubb": "Markaryds Bordtennisklubb",
+     "lag": "BTK Ratic D",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

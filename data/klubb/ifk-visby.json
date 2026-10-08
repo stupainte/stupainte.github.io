@@ -4,7 +4,7 @@
   "namn": "IFK Visby"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-07T10:44:54Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "IFK Visby",
@@ -40,44 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-11",
-   "tid": "18:00",
-   "serie_id": "505-7514-0",
-   "serie": "Division 4",
-   "evenemang": "Distriktsserier Gotland",
-   "omgang": "Round 1",
-   "hemma": "IFK Visby B 3",
-   "borta": "IFK Visby B 2",
-   "hemma_klubb": "IFK Visby",
-   "borta_klubb": "IFK Visby",
-   "plats": "Södervärns B-hall",
-   "arrangor": "IFK Visby",
-   "arrangorer": [
-    "IFK Visby"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
-   "exakt_lank": true
-  },
-  {
-   "datum": "2026-10-11",
-   "tid": "18:00",
-   "serie_id": "505-7514-0",
-   "serie": "Division 4",
-   "evenemang": "Distriktsserier Gotland",
-   "omgang": "Round 1",
-   "hemma": "IFK Visby B 3",
-   "borta": "IFK Visby B 2",
-   "hemma_klubb": "IFK Visby",
-   "borta_klubb": "IFK Visby",
-   "plats": "Södervärns B-hall",
-   "arrangor": "IFK Visby",
-   "arrangorer": [
-    "IFK Visby"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
-   "exakt_lank": true
-  },
   {
    "datum": "2026-10-18",
    "tid": "18:00",
@@ -1009,6 +971,48 @@
    "exakt_lank": true,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "18:00",
+   "serie_id": "505-7514-0",
+   "serie": "Division 4",
+   "evenemang": "Distriktsserier Gotland",
+   "omgang": "Round 1",
+   "hemma": "IFK Visby B 3",
+   "borta": "IFK Visby B 2",
+   "hemma_klubb": "IFK Visby",
+   "borta_klubb": "IFK Visby",
+   "plats": "Södervärns B-hall",
+   "arrangor": "IFK Visby",
+   "arrangorer": [
+    "IFK Visby"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "18:00",
+   "serie_id": "505-7514-0",
+   "serie": "Division 4",
+   "evenemang": "Distriktsserier Gotland",
+   "omgang": "Round 1",
+   "hemma": "IFK Visby B 3",
+   "borta": "IFK Visby B 2",
+   "hemma_klubb": "IFK Visby",
+   "borta_klubb": "IFK Visby",
+   "plats": "Södervärns B-hall",
+   "arrangor": "IFK Visby",
+   "arrangorer": [
+    "IFK Visby"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
+   "exakt_lank": true,
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1060,7 +1064,9 @@
       "IFK Visby"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
-     "exakt_lank": true
+     "exakt_lank": true,
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1566,6 +1572,17 @@
     },
     {
      "placering": 2,
+     "lag": "IFK Visby B 3",
+     "klubb": "IFK Visby",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Visby BTK B",
      "klubb": "Visby Bordtennisklubb",
      "spelade": 0,
@@ -1576,7 +1593,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "VIF Gute BTK B",
      "klubb": "Visby IF Gute Bordtennisklubb",
      "spelade": 0,
@@ -1587,20 +1604,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "IFK Visby B 3",
-     "klubb": "IFK Visby",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "IFK Visby B 2",
-     "klubb": "IFK Visby",
+     "lag": "Fårösunds GoIK",
+     "klubb": "Fårösunds Gymnastik o Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1610,12 +1616,12 @@
     },
     {
      "placering": 6,
-     "lag": "Fårösunds GoIK",
-     "klubb": "Fårösunds Gymnastik o Idrottsklubb",
-     "spelade": 0,
+     "lag": "IFK Visby B 2",
+     "klubb": "IFK Visby",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

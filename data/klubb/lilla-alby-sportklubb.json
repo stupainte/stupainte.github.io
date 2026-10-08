@@ -4,7 +4,7 @@
   "namn": "Lilla Alby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "Lilla Alby SK",
@@ -25,32 +25,21 @@
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "exakt_lank": false,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Bro IK B",
      "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Spånga P. C1",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "IFK Österåkers BTK B",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 0,
@@ -61,7 +50,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 3,
      "lag": "Norrtulls SK A2",
      "klubb": "Norrtulls Sportklubb",
      "spelade": 0,
@@ -72,7 +61,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Hässelby PBK B",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
      "spelade": 0,
@@ -83,7 +72,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Lilla Alby SK",
      "klubb": "Lilla Alby Sportklubb",
      "spelade": 0,
@@ -94,7 +83,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Solna BTK A1",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 0,
@@ -105,13 +94,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Spånga P. C2",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Spånga P. C1",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

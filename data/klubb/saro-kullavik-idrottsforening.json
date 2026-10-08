@@ -4,7 +4,7 @@
   "namn": "Särö Kullavik Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-07T10:44:54Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "Särö Kullavik IF",
@@ -193,8 +193,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -210,8 +212,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -227,8 +231,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Simlångsdalens Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -244,8 +250,10 @@
    "hemma_klubb": "Sibbarps Gymnastik O IF",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -337,8 +345,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -354,8 +364,10 @@
    "hemma_klubb": "Asige Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -371,8 +383,10 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -388,8 +402,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "BT Hallen Varberg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7",
    "exakt_lank": true
   },
@@ -1210,10 +1226,21 @@
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1059/2/7/7",
    "exakt_lank": true,
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Halmstad BTK E",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Åsa IF B",
      "klubb": "Åsa Idrottsförening",
      "spelade": 0,
@@ -1224,29 +1251,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Laholms BTK Serve B",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Halmstad BTK E",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Sibbarps GoIF A",
      "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 0,
@@ -1257,7 +1262,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "BTK Ratic B",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
@@ -1268,7 +1273,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Varbergs BTK C",
      "klubb": "Varbergs Bordtennisklubb",
      "spelade": 0,
@@ -1279,7 +1284,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Kungsbacka BTK C",
      "klubb": "Kungsbacka Bordtennisklubb",
      "spelade": 0,
@@ -1290,13 +1295,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Särö Kullavik IF B",
      "klubb": "Särö Kullavik Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Laholms BTK Serve B",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1312,72 +1328,28 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Horreds BTK B1",
-     "klubb": "Horreds Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Kungsbacka BTK D1",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "198–0"
     },
     {
      "placering": 2,
-     "lag": "Kungsbacka BTK D1",
+     "lag": "Kungsbacka BTK D2",
      "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
-     "lag": "Kungsbacka BTK D2",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Särö Kullavik IF C",
-     "klubb": "Särö Kullavik Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Åsa IF C",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Varbergs BTK D1",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "330–0"
-    },
-    {
-     "placering": 7,
      "lag": "Varbergs BTK D2",
      "klubb": "Varbergs Bordtennisklubb",
      "spelade": 1,
@@ -1385,7 +1357,51 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 2,
-     "setdiff": "330–0"
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Varbergs BTK D1",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Horreds BTK B1",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Särö Kullavik IF C",
+     "klubb": "Särö Kullavik Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Åsa IF C",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 8,
@@ -1396,7 +1412,7 @@
      "oavgjorda": 0,
      "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–2310"
+     "setdiff": "0–1386"
     }
    ]
   },

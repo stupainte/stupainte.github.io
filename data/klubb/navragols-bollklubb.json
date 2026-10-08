@@ -4,7 +4,7 @@
   "namn": "Nävragöls Bollklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-05T19:09:45Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "Nävragöls BK ",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-07",
-   "tid": "13:00",
-   "serie_id": "372-6735-0",
-   "serie": "Div 6 Syd/ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Kättilsmåla BTK A",
-   "borta": "Nävragöls BK B",
-   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
-   "borta_klubb": "Nävragöls Bollklubb",
-   "plats": "kättilsmåla skola",
-   "arrangor": "Kättilsmåla Bordtennisklubb",
-   "arrangorer": [
-    "Kättilsmåla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
-   "exakt_lank": false
-  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -510,6 +491,27 @@
    "exakt_lank": false,
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-07",
+   "tid": "13:00",
+   "serie_id": "372-6735-0",
+   "serie": "Div 6 Syd/ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Kättilsmåla BTK A",
+   "borta": "Nävragöls BK B",
+   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+   "borta_klubb": "Nävragöls Bollklubb",
+   "plats": "kättilsmåla skola",
+   "arrangor": "Kättilsmåla Bordtennisklubb",
+   "arrangorer": [
+    "Kättilsmåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1181/2/7/7",
+   "exakt_lank": false,
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2026-11-11",
@@ -987,10 +989,10 @@
      "placering": 2,
      "lag": "Kättilsmåla BTK A",
      "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 8,
      "setdiff": "528–0"
     },
@@ -1007,8 +1009,8 @@
     },
     {
      "placering": 4,
-     "lag": "Kosta SK D",
-     "klubb": "Kosta Sportklubb",
+     "lag": "Nävragöls BK B",
+     "klubb": "Nävragöls Bollklubb",
      "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
@@ -1018,13 +1020,13 @@
     },
     {
      "placering": 5,
-     "lag": "Nävragöls BK B",
-     "klubb": "Nävragöls Bollklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Kosta SK D",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "528–0"
     },
     {

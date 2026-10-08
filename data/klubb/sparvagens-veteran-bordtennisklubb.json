@@ -4,7 +4,7 @@
   "namn": "Spårvägens Veteran Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-07T10:44:54Z",
+ "uppdaterad": "2026-10-08T11:06:47Z",
  "lag": [
   {
    "namn": "Spårvägens V BTK A2",
@@ -75,7 +75,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1579/2/7/7",
    "exakt_lank": false,
-   "hemma_poang": 1,
+   "hemma_poang": 0,
    "borta_poang": 2
   },
   {
@@ -97,7 +97,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
    "exakt_lank": false,
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -117,7 +117,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
    "exakt_lank": false,
-   "hemma_poang": 1,
+   "hemma_poang": 0,
    "borta_poang": 2
   }
  ],
@@ -253,24 +253,24 @@
     },
     {
      "placering": 3,
-     "lag": "Spårvägens V. BTK B1",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Ängby SK B2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Hammarby IF BTF ",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
+     "lag": "Hässelby PBK",
+     "klubb": "Hässelby Pensionärers Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -285,18 +285,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Hässelby PBK",
-     "klubb": "Hässelby Pensionärers Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
+     "placering": 6,
      "lag": "Ängby SK B1",
      "klubb": "Ängby Sportklubb",
      "spelade": 0,
@@ -307,13 +296,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Ängby SK B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 0,
+     "placering": 7,
+     "lag": "Spårvägens V. BTK B1",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Hammarby IF BTF ",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -329,17 +329,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Ängby SK C2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
      "lag": "Spårvägens V. BTK C",
      "klubb": "Spårvägens Veteran Bordtennisklubb",
      "spelade": 1,
@@ -350,7 +339,29 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 2,
+     "lag": "Ängby SK C2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 3,
+     "lag": "Tyresö BTK",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Ängby SK C1",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
@@ -358,17 +369,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tyresö BTK",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
