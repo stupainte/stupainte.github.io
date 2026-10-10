@@ -4,7 +4,7 @@
   "namn": "Markaryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-10T10:17:34Z",
  "lag": [
   {
    "namn": "Markaryds BTK A",
@@ -67,6 +67,24 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Markaryds BTK C",
+   "borta": "Sibbarps GoIF C",
+   "hemma_klubb": "Markaryds Bordtennisklubb",
+   "borta_klubb": "Sibbarps Gymnastik O IF",
+   "plats": "Sparbankshallen Markaryd",
+   "arrangor": "Markaryds Bordtennisklubb",
+   "arrangorer": [
+    "Markaryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "19:00",
    "serie_id": "411-7590-0",
    "serie": "Division 5 Södra (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -99,16 +117,16 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7"
   },
   {
-   "datum": "2026-10-18",
+   "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
+   "omgang": "Round 3",
    "hemma": "Markaryds BTK C",
-   "borta": "Sibbarps GoIF C",
+   "borta": "Halmstad BTK G2",
    "hemma_klubb": "Markaryds Bordtennisklubb",
-   "borta_klubb": "Sibbarps Gymnastik O IF",
+   "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Sparbankshallen Markaryd",
    "arrangor": "Markaryds Bordtennisklubb",
    "arrangorer": [
@@ -151,14 +169,14 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7"
   },
   {
-   "datum": "2026-10-25",
+   "datum": "2026-11-08",
    "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
+   "omgang": "Round 4",
    "hemma": "Markaryds BTK C",
-   "borta": "Halmstad BTK G2",
+   "borta": "Halmstad BTK G1",
    "hemma_klubb": "Markaryds Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Sparbankshallen Markaryd",
@@ -185,24 +203,6 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7"
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Markaryds BTK C",
-   "borta": "Halmstad BTK G1",
-   "hemma_klubb": "Markaryds Bordtennisklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Sparbankshallen Markaryd",
-   "arrangor": "Markaryds Bordtennisklubb",
-   "arrangorer": [
-    "Markaryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
   }
  ],
  "resultat": [
@@ -529,6 +529,17 @@
     },
     {
      "placering": 2,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK-72 Trönninge A",
      "klubb": "Bordtennisklubben-72 Trönninge",
      "spelade": 1,
@@ -539,31 +550,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "LBTK Serve C1",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "LBTK Serve C2",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 0,
+     "lag": "Markaryds BTK B",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Markaryds BTK B",
-     "klubb": "Markaryds Bordtennisklubb",
+     "lag": "LBTK Serve C1",
+     "klubb": "Laholms Bordtennisklubb Serve",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
