@@ -4,7 +4,7 @@
   "namn": "Bro Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-10T10:17:34Z",
+ "uppdaterad": "2026-10-11T10:30:42Z",
  "lag": [
   {
    "namn": "Bro IK",
@@ -112,78 +112,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-10",
-   "tid": "09:00",
-   "serie_id": "482-6770-0",
-   "serie": "Grupp 3",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 1",
-   "hemma": "Köpings BTK Kolsva Exiles",
-   "borta": "Bro IK",
-   "hemma_klubb": "Köpings Bordtennisklubb",
-   "borta_klubb": "Bro Idrottsklubb",
-   "plats": "Åsbyhallen",
-   "arrangor": "Hallstahammars Bordtennisklubb",
-   "arrangorer": [
-    "Hallstahammars Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7"
-  },
-  {
-   "datum": "2026-10-10",
-   "tid": "10:30",
-   "serie_id": "482-6770-0",
-   "serie": "Grupp 3",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 2",
-   "hemma": "Bro IK",
-   "borta": "Västerås BTK VoV",
-   "hemma_klubb": "Bro Idrottsklubb",
-   "borta_klubb": "Västerås Bordtennisklubb",
-   "plats": "Åsbyhallen",
-   "arrangor": "Hallstahammars Bordtennisklubb",
-   "arrangorer": [
-    "Hallstahammars Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7"
-  },
-  {
-   "datum": "2026-10-10",
-   "tid": "12:00",
-   "serie_id": "482-6770-0",
-   "serie": "Grupp 3",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Hallstahammars BTK",
-   "borta": "Bro IK",
-   "hemma_klubb": "Hallstahammars Bordtennisklubb",
-   "borta_klubb": "Bro Idrottsklubb",
-   "plats": "Åsbyhallen",
-   "arrangor": "Hallstahammars Bordtennisklubb",
-   "arrangorer": [
-    "Hallstahammars Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7"
-  },
-  {
-   "datum": "2026-10-10",
-   "tid": "13:30",
-   "serie_id": "482-6770-0",
-   "serie": "Grupp 3",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Köpings BTK Kix Boys",
-   "borta": "Bro IK",
-   "hemma_klubb": "Köpings Bordtennisklubb",
-   "borta_klubb": "Bro Idrottsklubb",
-   "plats": "Åsbyhallen",
-   "arrangor": "Hallstahammars Bordtennisklubb",
-   "arrangorer": [
-    "Hallstahammars Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7"
-  },
   {
    "datum": "2026-10-17",
    "tid": "10:00",
@@ -1063,6 +991,86 @@
     "Falu Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "09:00",
+   "serie_id": "482-6770-0",
+   "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 1",
+   "hemma": "Köpings BTK Kolsva Exiles",
+   "borta": "Bro IK",
+   "hemma_klubb": "Köpings Bordtennisklubb",
+   "borta_klubb": "Bro Idrottsklubb",
+   "plats": "Åsbyhallen",
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "10:30",
+   "serie_id": "482-6770-0",
+   "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 2",
+   "hemma": "Bro IK",
+   "borta": "Västerås BTK VoV",
+   "hemma_klubb": "Bro Idrottsklubb",
+   "borta_klubb": "Västerås Bordtennisklubb",
+   "plats": "Åsbyhallen",
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "12:00",
+   "serie_id": "482-6770-0",
+   "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Hallstahammars BTK",
+   "borta": "Bro IK",
+   "hemma_klubb": "Hallstahammars Bordtennisklubb",
+   "borta_klubb": "Bro Idrottsklubb",
+   "plats": "Åsbyhallen",
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "13:30",
+   "serie_id": "482-6770-0",
+   "serie": "Grupp 3",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Köpings BTK Kix Boys",
+   "borta": "Bro IK",
+   "hemma_klubb": "Köpings Bordtennisklubb",
+   "borta_klubb": "Bro Idrottsklubb",
+   "plats": "Åsbyhallen",
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
   }
@@ -2425,71 +2433,71 @@
    "serie": "Grupp 3",
    "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1317/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Borlänge BTK",
-     "klubb": "Borlänge Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Bro IK",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Köpings BTK Kolsva Exiles",
-     "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hallstahammars BTK",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Västerås BTK VoV",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Borlänge BTK",
+     "klubb": "Borlänge Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Bro IK",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Köpings BTK Kix Boys",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Hallstahammars BTK",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Västerås BTK VoV",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Köpings BTK Kix Boys",
+     "lag": "Köpings BTK Kolsva Exiles",
      "klubb": "Köpings Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
