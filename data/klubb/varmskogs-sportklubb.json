@@ -4,7 +4,7 @@
   "namn": "Värmskogs Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Värmskog",
@@ -23,7 +23,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
- "kommande": [],
+ "kommande": [
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "501-7039-0",
+   "serie": "Division 4",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 3",
+   "hemma": "Carlstad",
+   "borta": "Värmskog",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "Värmskogs Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Värmskogs Sportklubb",
+   "arrangorer": [
+    "Värmskogs Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7"
+  }
+ ],
  "resultat": [
   {
    "datum": "",
@@ -106,7 +125,38 @@
    "borta_poang": 0
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Division 4"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie_id": "501-7039-0",
+     "serie": "Division 4",
+     "evenemang": "Värmlands BTF",
+     "omgang": "Round 3",
+     "hemma": "Carlstad",
+     "borta": "Värmskog",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Värmskogs Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Värmskogs Sportklubb",
+     "arrangorer": [
+      "Värmskogs Sportklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "501-7039-0",

@@ -4,7 +4,7 @@
   "namn": "Kvarnby Atletklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Kvarnby AK A",
@@ -60,8 +60,10 @@
    "hemma_klubb": "Limhamns Bordtennisklubb",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Limhamns Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -76,8 +78,10 @@
    "hemma_klubb": "Skurups Bordtennisklubb",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "Skurups Sparbank Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -178,8 +182,10 @@
    "hemma_klubb": "Kvarnby Atletklubb",
    "borta_klubb": "FIFH Malmö Parasportförening",
    "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Kvarnby Atletklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -194,8 +200,10 @@
    "hemma_klubb": "Kvarnby Atletklubb",
    "borta_klubb": "Idrottsföreningen Ale",
    "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Kvarnby Atletklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -1125,6 +1133,55 @@
  ],
  "resultat": [],
  "arrangerar": [
+  {
+   "datum": "2026-10-24",
+   "platser": [
+    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
+   ],
+   "serier": [
+    "Division 5 Södra 1",
+    "Division 5 Södra 2"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-10-24",
+     "tid": "10:00",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "Kvarnby AK B",
+     "borta": "FIFH Malmö B",
+     "hemma_klubb": "Kvarnby Atletklubb",
+     "borta_klubb": "FIFH Malmö Parasportförening",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    },
+    {
+     "datum": "2026-10-24",
+     "tid": "10:00",
+     "serie_id": "513-7450-0",
+     "serie": "Division 5 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "Kvarnby AK C",
+     "borta": "IF Ale C ",
+     "hemma_klubb": "Kvarnby Atletklubb",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb",
+     "arrangorer": [
+      "Kvarnby Atletklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
+    }
+   ]
+  },
   {
    "datum": "2026-11-15",
    "platser": [

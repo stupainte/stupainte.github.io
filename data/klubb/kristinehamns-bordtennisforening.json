@@ -4,7 +4,7 @@
   "namn": "Kristinehamns Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-11T10:30:42Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Kristinehamn",
@@ -34,6 +34,14 @@
    "namn": "Kristinehamn 2",
    "serie": {
     "namn": "Division 6"
+   },
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Kristinehamn 2",
+   "serie": {
+    "namn": "Ungdomsserie grupp 2"
    },
    "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -1833,35 +1841,13 @@
     },
     {
      "placering": 2,
-     "lag": "Kil 1",
-     "klubb": "Kils Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Arvika 1",
-     "klubb": "Arvika Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Carlstad 1",
      "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 14,
      "setdiff": "0–0"
     },
     {
@@ -1876,9 +1862,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Hööken 1",
      "klubb": "Höökens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Arvika 1",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kil 1",
+     "klubb": "Kils Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1894,6 +1902,103 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "501-8688-0",
+   "serie": "Ungdomsserie grupp 2",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1535/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Arvika 3",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Carlstad 3",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Arvika 2",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kil 2",
+     "klubb": "Kils Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Hööken 2",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Brevik",
+     "klubb": "Breviks Sportkklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

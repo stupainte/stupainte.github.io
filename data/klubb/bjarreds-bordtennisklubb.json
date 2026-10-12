@@ -4,7 +4,7 @@
   "namn": "Bjärreds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Bjärreds BTK",
@@ -52,8 +52,10 @@
    "hemma_klubb": "FIFH Malmö Parasportförening",
    "borta_klubb": "Bjärreds Bordtennisklubb",
    "plats": "FIFH Hallen, Pildammsvägen 26",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "FIFH Malmö Parasportförening",
+   "arrangorer": [
+    "FIFH Malmö Parasportförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -176,8 +178,10 @@
    "hemma_klubb": "Bjärreds Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -958,6 +962,36 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-10-21",
+   "platser": [
+    "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred"
+   ],
+   "serier": [
+    "Division 5 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-21",
+     "tid": "19:00",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "Bjärreds BTK B",
+     "borta": "IFK Lund E3",
+     "hemma_klubb": "Bjärreds Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+     "arrangor": "Bjärreds Bordtennisklubb",
+     "arrangorer": [
+      "Bjärreds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    }
+   ]
+  },
   {
    "datum": "2027-02-13",
    "platser": [

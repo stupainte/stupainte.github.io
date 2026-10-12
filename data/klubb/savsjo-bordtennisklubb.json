@@ -4,7 +4,7 @@
   "namn": "Sävsjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Sävsjö BTK A",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-11",
-   "tid": "18:00",
-   "serie_id": "372-6633-0",
-   "serie": "DIV 4 NORRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "BTK Final A",
-   "borta": "Sävsjö BTK A",
-   "hemma_klubb": "Bordtennisklubben Final",
-   "borta_klubb": "Sävsjö Bordtennisklubb",
-   "plats": "I12 hallen",
-   "arrangor": "Bordtennisklubben Final",
-   "arrangorer": [
-    "Bordtennisklubben Final"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -503,6 +485,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1178/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "18:00",
+   "serie_id": "372-6633-0",
+   "serie": "DIV 4 NORRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "BTK Final A",
+   "borta": "Sävsjö BTK A",
+   "hemma_klubb": "Bordtennisklubben Final",
+   "borta_klubb": "Sävsjö Bordtennisklubb",
+   "plats": "I12 hallen",
+   "arrangor": "Bordtennisklubben Final",
+   "arrangorer": [
+    "Bordtennisklubben Final"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -858,6 +860,17 @@
     },
     {
      "placering": 4,
+     "lag": "Sävsjö BTK A",
+     "klubb": "Sävsjö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "KFUM Jönköping IA C",
      "klubb": "KFUM Jönköping",
      "spelade": 2,
@@ -868,24 +881,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Sävsjö BTK A",
-     "klubb": "Sävsjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "BTK Final A",
      "klubb": "Bordtennisklubben Final",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

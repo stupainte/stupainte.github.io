@@ -4,7 +4,7 @@
   "namn": "Limhamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Limhamns BTK A",
@@ -76,8 +76,10 @@
    "hemma_klubb": "Limhamns Bordtennisklubb",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Limhamns Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -200,8 +202,10 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Limhamns Bordtennisklubb",
    "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -1168,7 +1172,38 @@
   }
  ],
  "resultat": [],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-14",
+   "platser": [
+    "Limhamns Sporthall, Grönalundsgatan 6"
+   ],
+   "serier": [
+    "Division 5 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-14",
+     "tid": "19:00",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 1",
+     "hemma": "Limhamns BTK B",
+     "borta": "Kvarnby AK B",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+     "arrangor": "Limhamns Bordtennisklubb",
+     "arrangorer": [
+      "Limhamns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "513-7452-0",

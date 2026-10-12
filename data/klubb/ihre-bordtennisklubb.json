@@ -4,7 +4,7 @@
   "namn": "Ihre Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Ihre BTK A",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-11",
-   "tid": "16:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Kyrkhults BTK A",
-   "borta": "Ihre BTK A",
-   "hemma_klubb": "Kyrkhults Bordtennisklubb",
-   "borta_klubb": "Ihre Bordtennisklubb",
-   "plats": "Kyrkhults skola",
-   "arrangor": "Kyrkhults Bordtennisklubb",
-   "arrangorer": [
-    "Kyrkhults Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -765,6 +747,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "16:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Kyrkhults BTK A",
+   "borta": "Ihre BTK A",
+   "hemma_klubb": "Kyrkhults Bordtennisklubb",
+   "borta_klubb": "Ihre Bordtennisklubb",
+   "plats": "Kyrkhults skola",
+   "arrangor": "Kyrkhults Bordtennisklubb",
+   "arrangorer": [
+    "Kyrkhults Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1222,22 +1224,22 @@
      "placering": 1,
      "lag": "Kullåkra BTK A",
      "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "BTK Frej D",
      "klubb": "Bordtennisklubben Frej",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1414,6 +1416,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kyrkhults BTK A",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kullåkra BTK A",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
@@ -1424,7 +1437,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Listerby IK A",
      "klubb": "Listerby Idrottsklubb",
      "spelade": 1,
@@ -1432,17 +1445,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ihre BTK A",
-     "klubb": "Ihre Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -1469,17 +1471,6 @@
     },
     {
      "placering": 6,
-     "lag": "Kyrkhults BTK A",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Gammalstorps GOIF A",
      "klubb": "Gammalstorps Gymnastik O IF",
      "spelade": 1,
@@ -1490,13 +1481,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Kullåkra BTK C",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Ihre BTK A",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

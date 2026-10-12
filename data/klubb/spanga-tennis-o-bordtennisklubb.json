@@ -4,7 +4,7 @@
   "namn": "Spånga Tennis o Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-10T10:17:34Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Spånga P. A1",
@@ -173,6 +173,46 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7919-0",
+   "serie": "Div 6 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Spånga TBK B",
+   "borta": "IFK Täby BTK C2",
+   "hemma_klubb": "Spånga Tennis o Bordtennisklubb",
+   "borta_klubb": "IFK Täby Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Spånga Tennis o Bordtennisklubb",
+   "arrangorer": [
+    "Spånga Tennis o Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7935-0",
+   "serie": "div 7 Mellersta A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Hammarby IF BTF F3",
+   "borta": "Spånga TBK C",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Spånga Tennis o Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7787-0",
    "serie": "Pensionär Serie D Norra",
    "evenemang": "Stockholms BTF 26/27",
@@ -185,6 +225,26 @@
    "arrangor": "Bro Idrottsklubb",
    "arrangorer": [
     "Bro Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Solna BTK A1",
+   "borta": "Spånga P. C2",
+   "hemma_klubb": "Solna Bordtennisklubb",
+   "borta_klubb": "Spånga Tennis o Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Solna Bordtennisklubb",
+   "arrangorer": [
+    "Solna Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "hemma_poang": 2,
@@ -379,6 +439,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Spånga TBK B",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Österåkers BTK E",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 1,
@@ -389,7 +460,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Ängby SK F4",
      "klubb": "Ängby Sportklubb",
      "spelade": 1,
@@ -400,7 +471,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Järfälla BTF D",
      "klubb": "Järfälla Bordtennisförening",
      "spelade": 1,
@@ -411,7 +482,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Rotebro BTK B",
      "klubb": "Rotebro Bordtennisklubb",
      "spelade": 1,
@@ -422,29 +493,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Spånga TBK B",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "IFK Täby BTK C2",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Hammarby IF BTF E1",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 1,
@@ -455,9 +504,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Tibble Kungsängen BTK D",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IFK Täby BTK C2",
+     "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -641,23 +701,23 @@
      "placering": 7,
      "lag": "Djurgårdens IF BTF ",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "198–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Ingarö IF",
      "klubb": "Ingarö Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     }
    ]
   },
@@ -692,6 +752,17 @@
     },
     {
      "placering": 3,
+     "lag": "Solna BTK A1",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Hässelby PBK B",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
      "spelade": 0,
@@ -702,20 +773,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Lilla Alby SK",
      "klubb": "Lilla Alby Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Solna BTK A1",
-     "klubb": "Solna Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -727,10 +787,10 @@
      "placering": 6,
      "lag": "Spånga P. C2",
      "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -941,48 +1001,37 @@
      "placering": 2,
      "lag": "Solna BTK D3",
      "klubb": "Solna Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IFK Täby BTK D3",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Spånga TBK C",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Hammarby IF BTF F3",
      "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Spånga TBK C",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Djurgårdens IF BTF C2",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 0,
@@ -993,13 +1042,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Jarlabergs BTK B1",
      "klubb": "Jarlabergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Täby BTK D3",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

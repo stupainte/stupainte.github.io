@@ -4,10 +4,10 @@
   "namn": "Markaryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-10T10:17:34Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
-   "namn": "Markaryds BTK A",
+   "namn": "Markaryds BTK A ",
    "serie": {
     "namn": "Division 5 Södra (1)"
    },
@@ -15,7 +15,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
-   "namn": "Markaryds BTK A",
+   "namn": "Markaryds BTK A ",
    "serie": {
     "namn": "Division 5 Södra (2)"
    },
@@ -49,22 +49,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-10-11",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 1",
-   "hemma": "Halmstad BTK E1",
-   "borta": "Markaryds BTK A",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Markaryds Bordtennisklubb",
-   "plats": "Halmstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-  },
-  {
    "datum": "2026-10-18",
    "tid": "19:00",
    "serie_id": "411-7479-0",
@@ -89,7 +73,7 @@
    "serie": "Division 5 Södra (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 2",
-   "hemma": "Markaryds BTK A",
+   "hemma": "Markaryds BTK A ",
    "borta": "Simlångsdalens IF A",
    "hemma_klubb": "Markaryds Bordtennisklubb",
    "borta_klubb": "Simlångsdalens Idrottsförening",
@@ -142,7 +126,7 @@
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Våxtorps BoIS A",
-   "borta": "Markaryds BTK A",
+   "borta": "Markaryds BTK A ",
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Markaryds Bordtennisklubb",
    "plats": "Våxtorps Idrottshall",
@@ -225,6 +209,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-06",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Halmstad BTK E1",
+   "borta": "Markaryds BTK A ",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Markaryds Bordtennisklubb",
+   "plats": "Halmstad Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2026-10-08",
@@ -368,6 +370,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Markaryds BTK A ",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Våxtorps BoIS A",
      "klubb": "Våxtorps Boll O IS",
      "spelade": 1,
@@ -378,7 +391,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Simlångsdalens IF A",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 1,
@@ -389,7 +402,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Ratic C3",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
@@ -400,7 +413,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Halmstad BTK E 3",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 0,
@@ -411,24 +424,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Markaryds BTK A",
-     "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -465,7 +467,7 @@
     },
     {
      "placering": 3,
-     "lag": "Markaryds BTK A",
+     "lag": "Markaryds BTK A ",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,

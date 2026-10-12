@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -52,8 +52,10 @@
    "hemma_klubb": "Skurups Bordtennisklubb",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "Skurups Sparbank Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -68,8 +70,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Skurups Bordtennisklubb",
    "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -138,8 +142,10 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Skurups Bordtennisklubb",
    "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -864,6 +870,36 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-10-14",
+   "platser": [
+    "Skurups Sparbank Arena"
+   ],
+   "serier": [
+    "Division 5 Södra 2"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-14",
+     "tid": "19:00",
+     "serie_id": "513-7450-0",
+     "serie": "Division 5 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 1",
+     "hemma": "Skurups BTK C",
+     "borta": "Kvarnby AK C",
+     "hemma_klubb": "Skurups Bordtennisklubb",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "Skurups Sparbank Arena",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
+    }
+   ]
+  },
   {
    "datum": "2027-02-13",
    "platser": [

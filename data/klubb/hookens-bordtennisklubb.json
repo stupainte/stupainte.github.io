@@ -4,7 +4,7 @@
   "namn": "Höökens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-11T10:30:42Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Hööken",
@@ -34,6 +34,14 @@
    "namn": "Hööken 1",
    "serie": {
     "namn": "Ungdomsserie grupp 1"
+   },
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Hööken 2",
+   "serie": {
+    "namn": "Ungdomsserie grupp 2"
    },
    "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -190,6 +198,47 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7746-0",
+   "serie": "Ungdomsserie grupp 1",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 1",
+   "hemma": "Hööken 1",
+   "borta": "Carlstad 1",
+   "hemma_klubb": "Höökens Bordtennisklubb",
+   "borta_klubb": "Carlstads Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Carlstads Bordtennisklubb / Höökens Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb",
+    "Höökens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1534/2/7/7",
+   "hemma_poang": 3,
+   "borta_poang": 7
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7746-0",
+   "serie": "Ungdomsserie grupp 1",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 2",
+   "hemma": "Carlstad 2",
+   "borta": "Hööken 1",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "Höökens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1534/2/7/7",
+   "hemma_poang": 4,
+   "borta_poang": 6
   },
   {
    "datum": "2026-09-19",
@@ -591,35 +640,13 @@
     },
     {
      "placering": 2,
-     "lag": "Kil 1",
-     "klubb": "Kils Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Arvika 1",
-     "klubb": "Arvika Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Carlstad 1",
      "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 14,
      "setdiff": "0–0"
     },
     {
@@ -634,9 +661,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Hööken 1",
      "klubb": "Höökens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Arvika 1",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kil 1",
+     "klubb": "Kils Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -652,6 +701,103 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "501-8688-0",
+   "serie": "Ungdomsserie grupp 2",
+   "evenemang": "Värmlands BTF",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1535/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Arvika 3",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Carlstad 3",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Arvika 2",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kil 2",
+     "klubb": "Kils Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Hööken 2",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Brevik",
+     "klubb": "Breviks Sportkklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

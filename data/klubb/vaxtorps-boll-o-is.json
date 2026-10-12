@@ -4,7 +4,7 @@
   "namn": "Våxtorps Boll O IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Våxtorps BOIS",
@@ -110,7 +110,7 @@
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "omgang": "Round 3",
    "hemma": "Våxtorps BoIS A",
-   "borta": "Markaryds BTK A",
+   "borta": "Markaryds BTK A ",
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Markaryds Bordtennisklubb",
    "plats": "Våxtorps Idrottshall",
@@ -461,6 +461,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Markaryds BTK A ",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Våxtorps BoIS A",
      "klubb": "Våxtorps Boll O IS",
      "spelade": 1,
@@ -471,7 +482,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Simlångsdalens IF A",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 1,
@@ -482,7 +493,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Ratic C3",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
@@ -493,7 +504,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Halmstad BTK E 3",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 0,
@@ -504,24 +515,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Markaryds BTK A",
-     "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -558,7 +558,7 @@
     },
     {
      "placering": 3,
-     "lag": "Markaryds BTK A",
+     "lag": "Markaryds BTK A ",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,

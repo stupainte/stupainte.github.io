@@ -4,7 +4,7 @@
   "namn": "Fältöverstens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-10T10:17:34Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "Fältöverstens BTK",
@@ -41,6 +41,26 @@
  ],
  "kommande": [],
  "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7790-0",
+   "serie": "Pensionär Serie E",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Ingarö IF C1",
+   "borta": "Fältöverstens BTK C1",
+   "hemma_klubb": "Ingarö Idrottsförening",
+   "borta_klubb": "Fältöverstens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Ingarö Idrottsförening",
+   "arrangorer": [
+    "Ingarö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1582/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
   {
    "datum": "",
    "tid": "",
@@ -203,22 +223,22 @@
      "placering": 2,
      "lag": "Spårvägens BTK",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "St.-Postens IK",
      "klubb": "Stockholms-Postens IK",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -287,6 +307,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Fältöverstens BTK C1",
+     "klubb": "Fältöverstens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Hammarby IF BTF D",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 1,
@@ -297,7 +328,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Fältöverstens BTK C2",
      "klubb": "Fältöverstens Bordtennisklubb",
      "spelade": 1,
@@ -308,7 +339,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Ängby SK D",
      "klubb": "Ängby Sportklubb",
      "spelade": 1,
@@ -319,29 +350,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ingarö IF C1",
-     "klubb": "Ingarö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Fältöverstens BTK C1",
-     "klubb": "Fältöverstens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Hässelby PBK C",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
      "spelade": 0,
@@ -352,7 +361,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Ingarö IF C2",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 0,
@@ -363,9 +372,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "IFK Österåkers BTK C",
      "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Ingarö IF C1",
+     "klubb": "Ingarö Idrottsförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

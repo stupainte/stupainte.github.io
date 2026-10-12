@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Frej"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-12T11:31:18Z",
  "lag": [
   {
    "namn": "BTK Frej",
@@ -137,24 +137,6 @@
     "Lessebo Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6740-0",
-   "serie": "DIV 5 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "BTK Frej D",
-   "borta": "Kullåkra BTK A",
-   "hemma_klubb": "Bordtennisklubben Frej",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "Fläktgruppens Arena",
-   "arrangor": "Bordtennisklubben Frej",
-   "arrangorer": [
-    "Bordtennisklubben Frej"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -1255,6 +1237,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
+   "serie_id": "372-6740-0",
+   "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "BTK Frej D",
+   "borta": "Kullåkra BTK A",
+   "hemma_klubb": "Bordtennisklubben Frej",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Fläktgruppens Arena",
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1285,7 +1287,9 @@
      "arrangorer": [
       "Bordtennisklubben Frej"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+     "hemma_poang": 1,
+     "borta_poang": 1
     },
     {
      "datum": "2026-10-18",
@@ -2270,22 +2274,22 @@
      "placering": 1,
      "lag": "Kullåkra BTK A",
      "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "BTK Frej D",
      "klubb": "Bordtennisklubben Frej",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
