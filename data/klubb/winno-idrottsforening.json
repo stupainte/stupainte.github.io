@@ -4,7 +4,7 @@
   "namn": "Winnö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "Winnö IF A",
@@ -67,8 +67,10 @@
    "hemma_klubb": "Degeberga Gymnastik O IF",
    "borta_klubb": "Winnö Idrottsförening",
    "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Degeberga Gymnastik O IF",
+   "arrangorer": [
+    "Degeberga Gymnastik O IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -541,42 +543,6 @@
  "resultat": [],
  "arrangerar": [
   {
-   "datum": "2026-10-12",
-   "platser": [
-    "Gamla Gymnastiksalen på Bjärnums Skola"
-   ],
-   "serier": [
-    "Division 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-12",
-     "tid": "19:00",
-     "serie_id": "513-7449-0",
-     "serie": "Division 5 Nordöstra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 1",
-     "hemma": "Bjärnums BTK",
-     "borta": "Verums GoIF",
-     "hemma_klubb": "Bjärnums Bordtennisklubb",
-     "borta_klubb": "Verums Gymnastik O IF",
-     "plats": "Gamla Gymnastiksalen på Bjärnums Skola",
-     "arrangor": "Bjärnums Bordtennisklubb / Hylta Gymnastikförening / Verums Gymnastik O IF / Winnö Idrottsförening / Arkelstorps Bordtennisklubb / KFUM Kristianstad Bordtennisförening / Hässleholms Bordtennisklubb",
-     "arrangorer": [
-      "Bjärnums Bordtennisklubb",
-      "Hylta Gymnastikförening",
-      "Verums Gymnastik O IF",
-      "Winnö Idrottsförening",
-      "Arkelstorps Bordtennisklubb",
-      "KFUM Kristianstad Bordtennisförening",
-      "Hässleholms Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-10-13",
    "platser": [
     "Färlövs skola"
@@ -840,10 +806,21 @@
    "serie": "Division 4 Nordöstra (1)",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Hässleholms BTK A",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Degeberga GoIF B",
      "klubb": "Degeberga Gymnastik O IF",
      "spelade": 0,
@@ -854,20 +831,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "KFUM Kristianstad BTF B",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Arkelstorps BTK A",
-     "klubb": "Arkelstorps Bordtennisklubb",
+     "lag": "Winnö IF A",
+     "klubb": "Winnö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -877,8 +843,8 @@
     },
     {
      "placering": 4,
-     "lag": "Hässleholms BTK A",
-     "klubb": "Hässleholms Bordtennisklubb",
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -899,12 +865,12 @@
     },
     {
      "placering": 6,
-     "lag": "Winnö IF A",
-     "klubb": "Winnö Idrottsförening",
-     "spelade": 0,
+     "lag": "Arkelstorps BTK A",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -990,10 +956,21 @@
    "serie": "Division 5 Nordöstra",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Verums GoIF",
+     "klubb": "Verums Gymnastik O IF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Arkelstorps BTK B",
      "klubb": "Arkelstorps Bordtennisklubb",
      "spelade": 0,
@@ -1004,7 +981,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
+     "lag": "KFUM Kristianstad BTF D",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Hässleholms BTK B2",
      "klubb": "Hässleholms Bordtennisklubb",
      "spelade": 0,
@@ -1015,31 +1003,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Hylta GF",
-     "klubb": "Hylta Gymnastikförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Bjärnums BTK",
-     "klubb": "Bjärnums Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Verums GoIF",
-     "klubb": "Verums Gymnastik O IF",
+     "lag": "Hässleholms BTK B1",
+     "klubb": "Hässleholms Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1060,8 +1026,8 @@
     },
     {
      "placering": 7,
-     "lag": "Hässleholms BTK B1",
-     "klubb": "Hässleholms Bordtennisklubb",
+     "lag": "Hylta GF",
+     "klubb": "Hylta Gymnastikförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1071,12 +1037,12 @@
     },
     {
      "placering": 8,
-     "lag": "KFUM Kristianstad BTF D",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 0,
+     "lag": "Bjärnums BTK",
+     "klubb": "Bjärnums Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

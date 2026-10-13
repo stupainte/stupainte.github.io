@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Clipper"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "BTK Clipper A",
@@ -67,24 +67,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
   },
   {
-   "datum": "2026-10-15",
-   "tid": "10:00",
-   "serie_id": "372-6764-0",
-   "serie": "Veteran Norra C",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "BTK Clipper C",
-   "borta": "KFUM Jönköping IA D",
-   "hemma_klubb": "Bordtennisklubben Clipper",
-   "borta_klubb": "KFUM Jönköping",
-   "plats": "Sporthallen Nässjö",
-   "arrangor": "Bordtennisklubben Clipper",
-   "arrangorer": [
-    "Bordtennisklubben Clipper"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
-  },
-  {
    "datum": "2026-10-18",
    "tid": "18:00",
    "serie_id": "372-6739-0",
@@ -119,6 +101,24 @@
     "Tranås Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
+  },
+  {
+   "datum": "2026-10-22",
+   "tid": "10:00",
+   "serie_id": "372-6764-0",
+   "serie": "Veteran Norra C",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "BTK Clipper C",
+   "borta": "KFUM Jönköping IA D",
+   "hemma_klubb": "Bordtennisklubben Clipper",
+   "borta_klubb": "KFUM Jönköping",
+   "plats": "Sporthallen Nässjö",
+   "arrangor": "Bordtennisklubben Clipper",
+   "arrangorer": [
+    "Bordtennisklubben Clipper"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
   },
   {
    "datum": "2026-10-26",
@@ -1153,7 +1153,7 @@
    ]
   },
   {
-   "datum": "2026-10-15",
+   "datum": "2026-10-22",
    "platser": [
     "Sporthallen Nässjö"
    ],
@@ -1163,7 +1163,7 @@
    "antal": 1,
    "matcher": [
     {
-     "datum": "2026-10-15",
+     "datum": "2026-10-22",
      "tid": "10:00",
      "serie_id": "372-6764-0",
      "serie": "Veteran Norra C",
@@ -1985,23 +1985,23 @@
     },
     {
      "placering": 4,
+     "lag": "Huskvarna Södra IS B",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "KFUM Jönköping IA A",
      "klubb": "KFUM Jönköping",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Vetlanda BTK A",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2018,12 +2018,12 @@
     },
     {
      "placering": 7,
-     "lag": "Huskvarna Södra IS B",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 1,
+     "lag": "Vetlanda BTK A",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

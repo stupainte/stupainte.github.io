@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Linné"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "BTK Linné",
@@ -3850,7 +3850,7 @@
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1499/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-10-11",
@@ -3868,7 +3868,7 @@
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1499/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-10-11",
@@ -3886,7 +3886,7 @@
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1499/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-10-11",
@@ -3903,7 +3903,7 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1499/2/7/7",
-   "hemma_poang": 1,
+   "hemma_poang": 0,
    "borta_poang": 2
   },
   {
@@ -5645,6 +5645,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IF IFO B1",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "BTK Linné D",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
@@ -5656,8 +5667,8 @@
     },
     {
      "placering": 2,
-     "lag": "IF IFO B1",
-     "klubb": "Idrottsföreningen Ifo",
+     "lag": "BTK Linné E",
+     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -5666,29 +5677,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Kungälvs BTK D",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "BTK Warta C",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
+     "placering": 2,
      "lag": "BTK Warta B",
      "klubb": "Bordtennisklubben Warta",
      "spelade": 0,
@@ -5699,7 +5688,29 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 2,
+     "lag": "BTK Warta C",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kungälvs BTK D",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "TopSpeed BTK B",
      "klubb": "TopSpeed Bordtennisklubb",
      "spelade": 0,
@@ -5710,20 +5721,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "IF IFO B2",
      "klubb": "Idrottsföreningen Ifo",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "BTK Linné E",
-     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -6344,17 +6344,6 @@
     },
     {
      "placering": 2,
-     "lag": "Rudalen Svart Äldre",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Warta Wolverines",
      "klubb": "Bordtennisklubben Warta",
      "spelade": 1,
@@ -6365,14 +6354,25 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "BTK Linné Röd",
-     "klubb": "Bordtennisklubben Linné",
+     "placering": 3,
+     "lag": "Rudalen Svart Äldre",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mölndal The Leons",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -6383,17 +6383,17 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Mölndal The Leons",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 0,
+     "lag": "BTK Linné Röd",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

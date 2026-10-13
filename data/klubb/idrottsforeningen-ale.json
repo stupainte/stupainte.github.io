@@ -4,7 +4,7 @@
   "namn": "Idrottsföreningen Ale"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "IF Ale",
@@ -52,8 +52,10 @@
    "hemma_klubb": "Idrottsföreningen Ale",
    "borta_klubb": "Limhamns Bordtennisklubb",
    "plats": "Idrottsvillan, Kåseberga",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Idrottsföreningen Ale",
+   "arrangorer": [
+    "Idrottsföreningen Ale"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
@@ -900,6 +902,36 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-10-13",
+   "platser": [
+    "Idrottsvillan, Kåseberga"
+   ],
+   "serier": [
+    "Division 4 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-13",
+     "tid": "19:00",
+     "serie_id": "513-7452-0",
+     "serie": "Division 4 Södra",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 1",
+     "hemma": "IF Ale B",
+     "borta": "Limhamns BTK A",
+     "hemma_klubb": "Idrottsföreningen Ale",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Idrottsvillan, Kåseberga",
+     "arrangor": "Idrottsföreningen Ale",
+     "arrangorer": [
+      "Idrottsföreningen Ale"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
+    }
+   ]
+  },
   {
    "datum": "2026-10-17",
    "platser": [

@@ -4,7 +4,7 @@
   "namn": "Idrottsföreningen Ifo"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "IF IFO B1",
@@ -56,44 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-12",
-   "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "IF IFO B2",
-   "borta": "IF IFO B1",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Idrottsföreningen Ifo",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-12",
-   "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "IF IFO B2",
-   "borta": "IF IFO B1",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Idrottsföreningen Ifo",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
   {
    "datum": "2026-10-14",
    "tid": "19:00",
@@ -1559,6 +1521,48 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-12",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "IF IFO B2",
+   "borta": "IF IFO B1",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-12",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (1)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "IF IFO B2",
+   "borta": "IF IFO B1",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-10-17",
    "tid": "15:00",
    "serie_id": "417-5771-0",
@@ -1600,37 +1604,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-12",
-   "platser": [
-    "Vinstahallen"
-   ],
-   "serier": [
-    "Division 4 (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-12",
-     "tid": "19:00",
-     "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 1",
-     "hemma": "IF IFO B2",
-     "borta": "IF IFO B1",
-     "hemma_klubb": "Idrottsföreningen Ifo",
-     "borta_klubb": "Idrottsföreningen Ifo",
-     "plats": "Vinstahallen",
-     "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund",
-      "Idrottsföreningen Ifo"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-14",
    "platser": [
@@ -2639,6 +2612,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IF IFO B1",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "BTK Linné D",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
@@ -2650,8 +2634,8 @@
     },
     {
      "placering": 2,
-     "lag": "IF IFO B1",
-     "klubb": "Idrottsföreningen Ifo",
+     "lag": "BTK Linné E",
+     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2660,29 +2644,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Kungälvs BTK D",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "BTK Warta C",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
+     "placering": 2,
      "lag": "BTK Warta B",
      "klubb": "Bordtennisklubben Warta",
      "spelade": 0,
@@ -2693,7 +2655,29 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 2,
+     "lag": "BTK Warta C",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kungälvs BTK D",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "TopSpeed BTK B",
      "klubb": "TopSpeed Bordtennisklubb",
      "spelade": 0,
@@ -2704,20 +2688,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "IF IFO B2",
      "klubb": "Idrottsföreningen Ifo",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "BTK Linné E",
-     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

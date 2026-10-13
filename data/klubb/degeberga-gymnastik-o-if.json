@@ -4,7 +4,7 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
@@ -44,8 +44,10 @@
    "hemma_klubb": "Degeberga Gymnastik O IF",
    "borta_klubb": "Winnö Idrottsförening",
    "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Degeberga Gymnastik O IF",
+   "arrangorer": [
+    "Degeberga Gymnastik O IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -533,6 +535,36 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-10-15",
+   "platser": [
+    "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga"
+   ],
+   "serier": [
+    "Division 4 Nordöstra (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-15",
+     "tid": "19:00",
+     "serie_id": "513-7451-0",
+     "serie": "Division 4 Nordöstra (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 1",
+     "hemma": "Degeberga GoIF B",
+     "borta": "Winnö IF A",
+     "hemma_klubb": "Degeberga Gymnastik O IF",
+     "borta_klubb": "Winnö Idrottsförening",
+     "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2027-02-14",
    "platser": [
     "A-hallen"
@@ -720,10 +752,21 @@
    "serie": "Division 4 Nordöstra (1)",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Hässleholms BTK A",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Degeberga GoIF B",
      "klubb": "Degeberga Gymnastik O IF",
      "spelade": 0,
@@ -734,20 +777,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "KFUM Kristianstad BTF B",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Arkelstorps BTK A",
-     "klubb": "Arkelstorps Bordtennisklubb",
+     "lag": "Winnö IF A",
+     "klubb": "Winnö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -757,8 +789,8 @@
     },
     {
      "placering": 4,
-     "lag": "Hässleholms BTK A",
-     "klubb": "Hässleholms Bordtennisklubb",
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -779,12 +811,12 @@
     },
     {
      "placering": 6,
-     "lag": "Winnö IF A",
-     "klubb": "Winnö Idrottsförening",
-     "spelade": 0,
+     "lag": "Arkelstorps BTK A",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

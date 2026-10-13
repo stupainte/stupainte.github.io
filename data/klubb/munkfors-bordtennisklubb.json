@@ -4,7 +4,7 @@
   "namn": "Munkfors Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "Munkfors",
@@ -63,6 +63,46 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
    "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-8688-0",
+   "serie": "Ungdomsserie grupp 2",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 1",
+   "hemma": "Munkfors",
+   "borta": "Carlstad 3",
+   "hemma_klubb": "Munkfors Bordtennisklubb",
+   "borta_klubb": "Carlstads Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Höökens Bordtennisklubb",
+   "arrangorer": [
+    "Höökens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1535/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-8688-0",
+   "serie": "Ungdomsserie grupp 2",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 2",
+   "hemma": "Kristinehamn 2",
+   "borta": "Munkfors",
+   "hemma_klubb": "Kristinehamns Bordtennisförening",
+   "borta_klubb": "Munkfors Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Höökens Bordtennisklubb",
+   "arrangorer": [
+    "Höökens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1535/2/7/7",
+   "hemma_poang": 0,
    "borta_poang": 0
   }
  ],
@@ -236,12 +276,12 @@
    "serie": "Ungdomsserie grupp 2",
    "evenemang": "Värmlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1535/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Arvika 3",
-     "klubb": "Arvika Bordtennisklubb",
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -251,8 +291,8 @@
     },
     {
      "placering": 2,
-     "lag": "Carlstad 3",
-     "klubb": "Carlstads Bordtennisklubb",
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -262,12 +302,12 @@
     },
     {
      "placering": 3,
-     "lag": "Munkfors",
-     "klubb": "Munkfors Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Hööken 2",
+     "klubb": "Höökens Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -283,7 +323,29 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
+     "lag": "Arvika 3",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Brevik",
+     "klubb": "Breviks Sportkklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Kil 2",
      "klubb": "Kils Bordtennisklubb",
      "spelade": 0,
@@ -294,35 +356,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Kristinehamn 2",
-     "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Hööken 2",
-     "klubb": "Höökens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
-     "lag": "Brevik",
-     "klubb": "Breviks Sportkklubb",
-     "spelade": 0,
+     "lag": "Carlstad 3",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

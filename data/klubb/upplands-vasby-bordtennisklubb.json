@@ -4,7 +4,7 @@
   "namn": "Upplands Väsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "Upplands Väsby BTK",
@@ -456,6 +456,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7779-0",
+   "serie": "Div 4 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Upplands Väsby BTK",
+   "borta": "IFK Lidingö BTK B2",
+   "hemma_klubb": "Upplands Väsby Bordtennisklubb",
+   "borta_klubb": "IFK Lidingö Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Upplands Väsby Bordtennisklubb",
+   "arrangorer": [
+    "Upplands Väsby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1532/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7933-0",
    "serie": "Div 7 Norra A",
    "evenemang": "Stockholms BTF 26/27",
@@ -525,6 +545,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Upplands Väsby BTK",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Österåkers BTK C",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 1,
@@ -535,7 +566,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
+     "lag": "Tullinge TP BTK B2",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Ängby SK D1",
      "klubb": "Ängby Sportklubb",
      "spelade": 1,
@@ -546,51 +588,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Spårvägens BTK F1",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tullinge TP BTK B2",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Upplands Väsby BTK",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IFK Lidingö BTK B2",
-     "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Järfälla BTK B",
      "klubb": "Järfälla Bordtennisförening",
      "spelade": 1,
@@ -601,9 +599,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 6,
+     "lag": "Spårvägens BTK F1",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Solna BTK B",
      "klubb": "Solna Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "IFK Lidingö BTK B2",
+     "klubb": "IFK Lidingö Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

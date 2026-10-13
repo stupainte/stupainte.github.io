@@ -4,7 +4,7 @@
   "namn": "FIFH Malmö Parasportförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-13T11:20:52Z",
  "lag": [
   {
    "namn": "FIFH Malmö A",
@@ -70,8 +70,10 @@
    "hemma_klubb": "FIFH Malmö Parasportförening",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "FIFH Hallen, Pildammsvägen 26",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "FIFH Malmö Parasportförening",
+   "arrangorer": [
+    "FIFH Malmö Parasportförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
@@ -474,6 +476,36 @@
       "FIFH Malmö Parasportförening"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-21",
+   "platser": [
+    "FIFH Hallen, Pildammsvägen 26"
+   ],
+   "serier": [
+    "Division 4 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-21",
+     "tid": "18:30",
+     "serie_id": "513-7452-0",
+     "serie": "Division 4 Södra",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 1",
+     "hemma": "FIFH Malmö A",
+     "borta": "Kvarnby AK A",
+     "hemma_klubb": "FIFH Malmö Parasportförening",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "FIFH Hallen, Pildammsvägen 26",
+     "arrangor": "FIFH Malmö Parasportförening",
+     "arrangorer": [
+      "FIFH Malmö Parasportförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
     }
    ]
   }
