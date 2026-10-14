@@ -4,7 +4,7 @@
   "namn": "Särö Kullavik Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Särö Kullavik IF",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-13",
-   "tid": "18:30",
-   "serie_id": "411-7588-0",
-   "serie": "Division 5 Norra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 1",
-   "hemma": "Särö Kullavik IF C",
-   "borta": "Åsa IF C",
-   "hemma_klubb": "Särö Kullavik Idrottsförening",
-   "borta_klubb": "Åsa Idrottsförening",
-   "plats": "Hall 4",
-   "arrangor": "Särö Kullavik Idrottsförening",
-   "arrangorer": [
-    "Särö Kullavik Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1246/2/7/7"
-  },
   {
    "datum": "2026-10-17",
    "tid": "10:00",
@@ -801,36 +783,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-13",
-   "platser": [
-    "Hall 4"
-   ],
-   "serier": [
-    "Division 5 Norra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-13",
-     "tid": "18:30",
-     "serie_id": "411-7588-0",
-     "serie": "Division 5 Norra",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 1",
-     "hemma": "Särö Kullavik IF C",
-     "borta": "Åsa IF C",
-     "hemma_klubb": "Särö Kullavik Idrottsförening",
-     "borta_klubb": "Åsa Idrottsförening",
-     "plats": "Hall 4",
-     "arrangor": "Särö Kullavik Idrottsförening",
-     "arrangorer": [
-      "Särö Kullavik Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1246/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-10-17",
    "platser": [
     "BT Hallen Varberg"
@@ -1172,39 +1124,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Ratic B",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Halmstad BTK E",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Åsa IF B",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Varbergs BTK C",
      "klubb": "Varbergs Bordtennisklubb",
      "spelade": 0,
@@ -1215,9 +1134,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Kungsbacka BTK C",
-     "klubb": "Kungsbacka Bordtennisklubb",
+     "placering": 2,
+     "lag": "BTK Ratic B",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1226,7 +1145,29 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 3,
+     "lag": "Halmstad BTK E",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Åsa IF B",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Särö Kullavik IF B",
      "klubb": "Särö Kullavik Idrottsförening",
      "spelade": 0,
@@ -1237,7 +1178,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Laholms BTK Serve B",
      "klubb": "Laholms Bordtennisklubb Serve",
      "spelade": 1,
@@ -1248,9 +1189,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Sibbarps GoIF A",
      "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kungsbacka BTK C",
+     "klubb": "Kungsbacka Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Eslövs AI Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Eslövs AI BTK",
@@ -391,24 +391,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
-   "datum": "2026-12-15",
-   "tid": "18:00",
-   "serie_id": "417-5727-0",
-   "serie": "Pingisligan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 7",
-   "hemma": "Söderhamns UIF",
-   "borta": "Eslövs AI BTK",
-   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
-   "borta_klubb": "Eslövs AI Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Söderhamns Ungdomsgårds IF",
-   "arrangorer": [
-    "Söderhamns Ungdomsgårds IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
-  },
-  {
    "datum": "2026-12-16",
    "tid": "18:00",
    "serie_id": "417-5727-0",
@@ -423,6 +405,24 @@
    "arrangor": "Linden Bordtennisklubb Eskilstuna",
    "arrangorer": [
     "Linden Bordtennisklubb Eskilstuna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-12-17",
+   "tid": "18:00",
+   "serie_id": "417-5727-0",
+   "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 7",
+   "hemma": "Söderhamns UIF",
+   "borta": "Eslövs AI BTK",
+   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+   "borta_klubb": "Eslövs AI Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
@@ -1266,17 +1266,39 @@
     },
     {
      "placering": 3,
-     "lag": "BTK Rekord",
-     "klubb": "Bordtennisklubben Rekord",
+     "lag": "Eskilstuna by STIGA",
+     "klubb": "Linden Bordtennisklubb Eskilstuna",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Halmstad BTK",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 1,
@@ -1287,36 +1309,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 7,
      "lag": "Spårvägens BTK",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Eskilstuna by STIGA",
-     "klubb": "Linden Bordtennisklubb Eskilstuna",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]

@@ -4,7 +4,7 @@
   "namn": "Simlångsdalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Simlångsdalens IF",
@@ -69,22 +69,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
   },
   {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Markaryds BTK A ",
-   "borta": "Simlångsdalens IF A",
-   "hemma_klubb": "Markaryds Bordtennisklubb",
-   "borta_klubb": "Simlångsdalens Idrottsförening",
-   "plats": "Sparbankshallen Markaryd",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-  },
-  {
    "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7590-0",
@@ -96,8 +80,28 @@
    "hemma_klubb": "Simlångsdalens Idrottsförening",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Simlångsdalen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
+  },
+  {
+   "datum": "2026-10-27",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Markaryds BTK A ",
+   "borta": "Simlångsdalens IF A",
+   "hemma_klubb": "Markaryds Bordtennisklubb",
+   "borta_klubb": "Simlångsdalens Idrottsförening",
+   "plats": "Sparbankshallen Markaryd",
+   "arrangor": "Markaryds Bordtennisklubb",
+   "arrangorer": [
+    "Markaryds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
   },
   {
@@ -150,14 +154,47 @@
    "hemma_klubb": "Simlångsdalens Idrottsförening",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Simlångsdalen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-25",
+   "platser": [
+    "Simlångsdalen"
+   ],
+   "serier": [
+    "Division 5 Södra (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-25",
+     "tid": "19:00",
+     "serie_id": "411-7590-0",
+     "serie": "Division 5 Södra (1)",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 3",
+     "hemma": "Simlångsdalens IF A",
+     "borta": "BTK Ratic C3",
+     "hemma_klubb": "Simlångsdalens Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Ratic",
+     "plats": "Simlångsdalen",
+     "arrangor": "Simlångsdalens Idrottsförening",
+     "arrangorer": [
+      "Simlångsdalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "411-7590-0",

@@ -4,7 +4,7 @@
   "namn": "Limhamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-13T11:20:52Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Limhamns BTK A",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-13",
-   "tid": "19:00",
-   "serie_id": "513-7452-0",
-   "serie": "Division 4 Södra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "IF Ale B",
-   "borta": "Limhamns BTK A",
-   "hemma_klubb": "Idrottsföreningen Ale",
-   "borta_klubb": "Limhamns Bordtennisklubb",
-   "plats": "Idrottsvillan, Kåseberga",
-   "arrangor": "Idrottsföreningen Ale",
-   "arrangorer": [
-    "Idrottsföreningen Ale"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-  },
   {
    "datum": "2026-10-14",
    "tid": "19:00",
@@ -1173,7 +1155,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-13",
+   "tid": "19:00",
+   "serie_id": "513-7452-0",
+   "serie": "Division 4 Södra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "IF Ale B",
+   "borta": "Limhamns BTK A",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Idrottsvillan, Kåseberga",
+   "arrangor": "Idrottsföreningen Ale",
+   "arrangorer": [
+    "Idrottsföreningen Ale"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-10-14",
@@ -1216,8 +1219,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Trelleborgs BTK D",
-     "klubb": "Trelleborgs Bordtennisklubb",
+     "lag": "IF Ale B",
+     "klubb": "Idrottsföreningen Ale",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1238,50 +1241,6 @@
     },
     {
      "placering": 3,
-     "lag": "Limhamns BTK A",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "FIFH Malmö A",
-     "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Kvarnby AK A",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IF Ale B",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Malmö IF C",
      "klubb": "Malmö Idrottsförening",
      "spelade": 0,
@@ -1292,9 +1251,53 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 4,
+     "lag": "Trelleborgs BTK D",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Trelleborgs BTK C",
      "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "FIFH Malmö A",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kvarnby AK A",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Limhamns BTK A",
+     "klubb": "Limhamns Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

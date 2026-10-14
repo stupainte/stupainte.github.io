@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -2123,38 +2123,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-13",
-   "platser": [
-    "Vinstahallen"
-   ],
-   "serier": [
-    "Div 4 Norra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-13",
-     "tid": "18:00",
-     "serie_id": "376-6931-0",
-     "serie": "Div 4 Norra",
-     "evenemang": "Norrlands BTF",
-     "omgang": "Round 1",
-     "hemma": "Umeå BTK C",
-     "borta": "Umeå BTK D",
-     "hemma_klubb": "Umeå Bordtennisklubb",
-     "borta_klubb": "Umeå Bordtennisklubb",
-     "plats": "Vinstahallen",
-     "arrangor": "Umeå Bordtennisklubb",
-     "arrangorer": [
-      "Umeå Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    }
-   ]
-  },
-  {
    "datum": "2026-11-14",
    "platser": [
     "Vinstahallen"
@@ -3253,6 +3221,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Luleå PF A",
+     "klubb": "Luleå Pingisförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Umeå BTK C",
      "klubb": "Umeå Bordtennisklubb",
      "spelade": 1,
@@ -3263,29 +3242,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Luleå PF A",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Luleå PF B",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Skellefteå AIK BTF C",
      "klubb": "Skellefteå AIK BTF",
      "spelade": 0,
@@ -3296,7 +3253,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Skellefteå AIK BTF D",
      "klubb": "Skellefteå AIK BTF",
      "spelade": 0,
@@ -3307,7 +3264,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Pitepingis BTF",
      "klubb": "PitePingis Bordtennisförening",
      "spelade": 0,
@@ -3318,7 +3275,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Umeå BTK E",
      "klubb": "Umeå Bordtennisklubb",
      "spelade": 0,
@@ -3329,9 +3286,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Umeå BTK D",
      "klubb": "Umeå Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Luleå PF B",
+     "klubb": "Luleå Pingisförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

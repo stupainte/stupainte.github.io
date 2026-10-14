@@ -4,7 +4,7 @@
   "namn": "Sundbybergs Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Sundbybergs IK",
@@ -25,6 +25,26 @@
  ],
  "kommande": [],
  "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7910-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "IFK Österåkers BTK D",
+   "borta": "Sundbybergs IK",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Sundbybergs Idrottsklubb",
+   "plats": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1583/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
   {
    "datum": "",
    "tid": "",
@@ -57,6 +77,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Österåkers BTK D",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Täby BTK B",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
@@ -67,7 +98,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tibble Kungsängen BTK C",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 1,
@@ -78,36 +109,25 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "IFK Österåkers BTK D",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Ängby SK E",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "KFUM Stocksund C",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Sundbybergs IK",
-     "klubb": "Sundbybergs Idrottsklubb",
-     "spelade": 0,
+     "lag": "Ängby SK E",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -123,8 +143,8 @@
     },
     {
      "placering": 7,
-     "lag": "KFUM Stocksund C",
-     "klubb": "KFUM Stocksund IA",
+     "lag": "Sundbybergs IK",
+     "klubb": "Sundbybergs Idrottsklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Asige Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Asige BTK",
@@ -32,6 +32,24 @@
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-15",
+   "tid": "19:00",
+   "serie_id": "411-7594-0",
+   "serie": "Division 6 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Asige BTK A",
+   "borta": "Halmstad BTK F1",
+   "hemma_klubb": "Asige Bordtennisklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Asige",
+   "arrangor": "Asige Bordtennisklubb",
+   "arrangorer": [
+    "Asige Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
+  },
   {
    "datum": "2026-10-18",
    "tid": "09:30",
@@ -69,22 +87,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
   },
   {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7594-0",
-   "serie": "Division 6 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Asige BTK A",
-   "borta": "Halmstad BTK F1",
-   "hemma_klubb": "Asige Bordtennisklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Asige",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-  },
-  {
    "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7594-0",
@@ -96,8 +98,10 @@
    "hemma_klubb": "Rydöbruks Idrottsförening",
    "borta_klubb": "Asige Bordtennisklubb",
    "plats": "Rydöbruk",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
   },
   {
@@ -112,8 +116,10 @@
    "hemma_klubb": "Asige Bordtennisklubb",
    "borta_klubb": "Rydöbruks Idrottsförening",
    "plats": "Asige",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Asige Bordtennisklubb",
+   "arrangorer": [
+    "Asige Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
   },
   {
@@ -153,8 +159,108 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
   }
  ],
- "resultat": [],
- "arrangerar": [],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "411-7594-0",
+   "serie": "Division 6 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Asige BTK A",
+   "borta": "Vakant",
+   "hemma_klubb": "Asige Bordtennisklubb",
+   "borta_klubb": "Vakant",
+   "plats": null,
+   "arrangor": "Asige Bordtennisklubb",
+   "arrangorer": [
+    "Asige Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "411-7595-0",
+   "serie": "Division 6 Mellersta (2)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Asige BTK A",
+   "borta": "Vakant",
+   "hemma_klubb": "Asige Bordtennisklubb",
+   "borta_klubb": "Vakant",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-10-15",
+   "platser": [
+    "Asige"
+   ],
+   "serier": [
+    "Division 6 Mellersta (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-15",
+     "tid": "19:00",
+     "serie_id": "411-7594-0",
+     "serie": "Division 6 Mellersta (1)",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 2",
+     "hemma": "Asige BTK A",
+     "borta": "Halmstad BTK F1",
+     "hemma_klubb": "Asige Bordtennisklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Asige",
+     "arrangor": "Asige Bordtennisklubb",
+     "arrangorer": [
+      "Asige Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-08",
+   "platser": [
+    "Asige"
+   ],
+   "serier": [
+    "Division 6 Mellersta (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-08",
+     "tid": "19:00",
+     "serie_id": "411-7594-0",
+     "serie": "Division 6 Mellersta (1)",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 4",
+     "hemma": "Asige BTK A",
+     "borta": "Rydöbruks IF B2",
+     "hemma_klubb": "Asige Bordtennisklubb",
+     "borta_klubb": "Rydöbruks Idrottsförening",
+     "plats": "Asige",
+     "arrangor": "Asige Bordtennisklubb",
+     "arrangorer": [
+      "Asige Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "411-7594-0",
@@ -167,15 +273,26 @@
      "placering": 1,
      "lag": "Rydöbruks IF B2",
      "klubb": "Rydöbruks Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Asige BTK A",
+     "klubb": "Asige Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 2,
-     "setdiff": "0–0"
+     "setdiff": "198–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Halmstad BTK F1",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 1,
@@ -186,31 +303,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Asige BTK A",
-     "klubb": "Asige Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Vakant",
-     "klubb": "Vakant",
-     "spelade": 0,
+     "lag": "Halmstad BTK F3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Halmstad BTK F3",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "Rydöbruks IF B1",
+     "klubb": "Rydöbruks Idrottsförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -220,14 +326,14 @@
     },
     {
      "placering": 6,
-     "lag": "Rydöbruks IF B1",
-     "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 1,
+     "lag": "Vakant",
+     "klubb": "Vakant",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–396"
     }
    ]
   },
@@ -236,45 +342,45 @@
    "serie": "Division 6 Mellersta (2)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Halmstad BTK F3",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 2,
-     "lag": "Rydöbruks IF B1",
-     "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Halmstad BTK F1",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
      "lag": "Asige BTK A",
      "klubb": "Asige Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "198–0"
     },
     {
      "placering": 4,
-     "lag": "Vakant",
-     "klubb": "Vakant",
+     "lag": "Rydöbruks IF B1",
+     "klubb": "Rydöbruks Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -295,14 +401,14 @@
     },
     {
      "placering": 6,
-     "lag": "Halmstad BTK F1",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Vakant",
+     "klubb": "Vakant",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 3,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–594"
     }
    ]
   },

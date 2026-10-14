@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-13T11:20:52Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -57,24 +57,6 @@
     "Kyrkhults Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6740-0",
-   "serie": "DIV 5 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Ihre BTK A",
-   "borta": "Kyrkhults BTK B",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Kyrkhults Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -1051,6 +1033,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
+   "serie_id": "372-6740-0",
+   "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Ihre BTK A",
+   "borta": "Kyrkhults BTK B",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Kyrkhults Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1722,19 +1724,19 @@
     },
     {
      "placering": 3,
-     "lag": "Jämjö BTK C",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "Kyrkhults BTK B",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kyrkhults BTK B",
-     "klubb": "Kyrkhults Bordtennisklubb",
+     "lag": "Jämjö BTK C",
+     "klubb": "Jämjö Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1755,8 +1757,8 @@
     },
     {
      "placering": 6,
-     "lag": "Ihre BTK A",
-     "klubb": "Ihre Bordtennisklubb",
+     "lag": "Lyckeby BTK E",
+     "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1766,12 +1768,12 @@
     },
     {
      "placering": 7,
-     "lag": "Lyckeby BTK E",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Ihre BTK A",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

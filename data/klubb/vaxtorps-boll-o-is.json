@@ -4,7 +4,7 @@
   "namn": "Våxtorps Boll O IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-14T09:12:43Z",
  "lag": [
   {
    "namn": "Våxtorps BOIS",
@@ -98,8 +98,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Halmstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
   },
   {
@@ -114,8 +116,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Markaryds Bordtennisklubb",
    "plats": "Våxtorps Idrottshall",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
   },
   {
@@ -262,8 +266,10 @@
    "hemma_klubb": "Simlångsdalens Idrottsförening",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Simlångsdalen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
@@ -447,6 +453,36 @@
       "Våxtorps Boll O IS"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-25",
+   "platser": [
+    "Våxtorps Idrottshall"
+   ],
+   "serier": [
+    "Division 5 Södra (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-25",
+     "tid": "19:00",
+     "serie_id": "411-7590-0",
+     "serie": "Division 5 Södra (1)",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 3",
+     "hemma": "Våxtorps BoIS A",
+     "borta": "Markaryds BTK A ",
+     "hemma_klubb": "Våxtorps Boll O IS",
+     "borta_klubb": "Markaryds Bordtennisklubb",
+     "plats": "Våxtorps Idrottshall",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
     }
    ]
   }
