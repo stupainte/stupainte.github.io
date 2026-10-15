@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "BTK Scania",
@@ -2934,6 +2934,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kågeröds BTK D",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Lund E2",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 1,
@@ -2944,7 +2955,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IFK Lund E1",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 1,
@@ -2955,7 +2966,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Scania C",
      "klubb": "Bordtennisklubben Scania",
      "spelade": 0,
@@ -2966,7 +2977,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Klippans BTK B",
      "klubb": "Klippans Bordtennisklubb",
      "spelade": 0,
@@ -2977,20 +2988,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Kågeröds BTK E",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "Kågeröds BTK D",
-     "klubb": "Kågeröds Bordtennisklubb",
+     "lag": "Åstorps BTK E",
+     "klubb": "Åstorps Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3000,12 +3000,12 @@
     },
     {
      "placering": 7,
-     "lag": "Åstorps BTK E",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kågeröds BTK E",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

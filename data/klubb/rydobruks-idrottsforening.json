@@ -4,7 +4,7 @@
   "namn": "Rydöbruks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Rydöbruks IF A",
@@ -56,42 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7533-0",
-   "serie": "Division 5 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Rydöbruks IF A",
-   "borta": "Falkenbergs BTK C",
-   "hemma_klubb": "Rydöbruks Idrottsförening",
-   "borta_klubb": "Falkenbergs Bordtennisklubb",
-   "plats": "Rydöbruk",
-   "arrangor": "Rydöbruks Idrottsförening",
-   "arrangorer": [
-    "Rydöbruks Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7594-0",
-   "serie": "Division 6 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Halmstad BTK F3",
-   "borta": "Rydöbruks IF B1",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Rydöbruks Idrottsförening",
-   "plats": "Halmstad Arena",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-  },
   {
    "datum": "2026-10-25",
    "tid": "19:00",
@@ -279,39 +243,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-14",
+   "tid": "18:30",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Rydöbruks IF A",
+   "borta": "Falkenbergs BTK C",
+   "hemma_klubb": "Rydöbruks Idrottsförening",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Rydöbruk",
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-18",
-   "platser": [
-    "Rydöbruk"
-   ],
-   "serier": [
-    "Division 5 Mellersta (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-18",
-     "tid": "19:00",
-     "serie_id": "411-7533-0",
-     "serie": "Division 5 Mellersta (1)",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 2",
-     "hemma": "Rydöbruks IF A",
-     "borta": "Falkenbergs BTK C",
-     "hemma_klubb": "Rydöbruks Idrottsförening",
-     "borta_klubb": "Falkenbergs Bordtennisklubb",
-     "plats": "Rydöbruk",
-     "arrangor": "Rydöbruks Idrottsförening",
-     "arrangorer": [
-      "Rydöbruks Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-25",
    "platser": [
@@ -403,26 +357,37 @@
      "placering": 1,
      "lag": "Falkenbergs BTK C",
      "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Sibbarps GoIF B",
      "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Halmstad BTK E2",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 2,
@@ -433,7 +398,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "BTK Ratic C2",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 2,
@@ -444,24 +409,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "BTK Ratic C1",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Rydöbruks IF A",
      "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

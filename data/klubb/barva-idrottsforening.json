@@ -4,7 +4,7 @@
   "namn": "Barva Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Barva IF A",
@@ -609,6 +609,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1061/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "10:00",
+   "serie_id": "519-7376-0",
+   "serie": "Division 5",
+   "evenemang": "Södermanlands BTF",
+   "omgang": "Round 3",
+   "hemma": "Barva IF A",
+   "borta": "IFA Eskilstuna B",
+   "hemma_klubb": "Barva Idrottsförening",
+   "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Barva Idrottsförening",
+   "arrangorer": [
+    "Barva Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [],
@@ -633,17 +653,6 @@
     },
     {
      "placering": 2,
-     "lag": "Nyköpings BTK C1",
-     "klubb": "Nyköping Oxelösund Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Katrineholms BTK C",
      "klubb": "Katrineholms Bordtennisklubb",
      "spelade": 3,
@@ -654,7 +663,40 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 3,
+     "lag": "Nyköpings BTK C1",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 4,
+     "lag": "Nyköpings BTK C2",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFA Eskilstuna B",
+     "klubb": "Idrottsföreningen För Alla Eskilstuna",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Flens BTK A",
      "klubb": "Flens Bordtennisklubb",
      "spelade": 3,
@@ -665,36 +707,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "IFA Eskilstuna B",
-     "klubb": "Idrottsföreningen För Alla Eskilstuna",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Nyköpings BTK C2",
-     "klubb": "Nyköping Oxelösund Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "Barva IF A",
      "klubb": "Barva Idrottsförening",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

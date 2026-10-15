@@ -4,7 +4,7 @@
   "namn": "Ängby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Ängby SK",
@@ -2715,6 +2715,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7779-0",
+   "serie": "Div 4 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Ängby SK D1",
+   "borta": "IFK Österåkers BTK C",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "IFK Österåkers Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1532/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7790-0",
    "serie": "Pensionär Serie E",
    "evenemang": "Stockholms BTF 26/27",
@@ -2851,6 +2871,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7784-0",
+   "serie": "Pensionär Serie B",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Spårvägens V. BTK B1",
+   "borta": "Ängby SK B2",
+   "hemma_klubb": "Spårvägens Veteran Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": null,
+   "arrangor": "Spårvägens Veteran Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Veteran Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1578/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -6561,34 +6601,34 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Upplands Väsby BTK",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IFK Österåkers BTK C",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Österåkers BTK C",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Tullinge TP BTK B2",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Tullinge TP BTK B2",
-     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Upplands Väsby BTK",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -6596,10 +6636,10 @@
      "placering": 4,
      "lag": "Ängby SK D1",
      "klubb": "Ängby Sportklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -6755,6 +6795,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Täby BTK B",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Österåkers BTK D",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 2,
@@ -6765,29 +6816,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "IFK Täby BTK B",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Tibble Kungsängen BTK C",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "KFUM Stocksund C",
      "klubb": "KFUM Stocksund IA",
      "spelade": 2,
@@ -6798,7 +6827,29 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 4,
+     "lag": "Bro IK C",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 5,
+     "lag": "Tibble Kungsängen BTK C",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Ängby SK E",
      "klubb": "Ängby Sportklubb",
      "spelade": 2,
@@ -6806,17 +6857,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Järfälla BTF C",
-     "klubb": "Järfälla Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -6832,8 +6872,8 @@
     },
     {
      "placering": 8,
-     "lag": "Bro IK C",
-     "klubb": "Bro Idrottsklubb",
+     "lag": "Järfälla BTF C",
+     "klubb": "Järfälla Bordtennisförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -6949,6 +6989,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "KFUM Stocksund D",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Täby BTK C1",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 1,
@@ -6959,20 +7010,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Hammarby IF BTF E2",
      "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "KFUM Stocksund D",
-     "klubb": "KFUM Stocksund IA",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -6993,17 +7033,6 @@
     },
     {
      "placering": 5,
-     "lag": "Upplands Väsby BTK B",
-     "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Norrtulls SK F2",
      "klubb": "Norrtulls Sportklubb",
      "spelade": 1,
@@ -7014,7 +7043,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Spårvägens BTK H3",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
@@ -7025,13 +7054,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Boo RK E3",
      "klubb": "Boo Racketklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Upplands Väsby BTK B",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -7068,8 +7108,8 @@
     },
     {
      "placering": 3,
-     "lag": "Djurgårdens IF BTF B",
-     "klubb": "Djurgårdens IF BTF",
+     "lag": "Boo RK E2",
+     "klubb": "Boo Racketklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -7079,13 +7119,13 @@
     },
     {
      "placering": 4,
-     "lag": "Boo RK E2",
-     "klubb": "Boo Racketklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Djurgårdens IF BTF B",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -7337,6 +7377,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Spårvägens V. BTK A1",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Ängby SK A1",
      "klubb": "Ängby Sportklubb",
      "spelade": 1,
@@ -7347,7 +7398,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IFK Österåkers BTK A1",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 1,
@@ -7358,20 +7409,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Spånga P. A1",
      "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Spårvägens V. BTK A1",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -7392,17 +7432,6 @@
     },
     {
      "placering": 6,
-     "lag": "Spårvägens V BTK A2",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Spånga P. A2",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 1,
@@ -7413,13 +7442,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "IFK Österåkers BTK A2",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Spårvägens V BTK A2",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -7467,24 +7507,24 @@
     },
     {
      "placering": 4,
-     "lag": "Ängby SK B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
+     "lag": "Spårvägens V. BTK B1",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Spårvägens V. BTK B1",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Ängby SK B2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Jarlabergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Jarlabergs BTK",
@@ -192,6 +192,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7911-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Jarlabergs BTK",
+   "borta": "Norrtulls SK E",
+   "hemma_klubb": "Jarlabergs Bordtennisklubb",
+   "borta_klubb": "Norrtulls Sportklubb",
+   "plats": null,
+   "arrangor": "Jarlabergs Bordtennisklubb",
+   "arrangorer": [
+    "Jarlabergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7937-0",
    "serie": "Div 7 Södra A",
    "evenemang": "Stockholms BTF 26/27",
@@ -221,6 +241,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Norrtulls SK E",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Tullinge TP BTK C",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 1,
@@ -231,7 +262,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tyresö BTK C",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 1,
@@ -242,7 +273,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Boo RK D",
      "klubb": "Boo Racketklubb",
      "spelade": 1,
@@ -253,42 +284,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Norrtulls SK E",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Spårvägens BTK G",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ingarö IF B",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Jarlabergs BTK",
      "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ingarö IF B",
-     "klubb": "Ingarö Idrottsförening",
+     "lag": "Spårvägens BTK G",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -300,10 +320,10 @@
      "placering": 8,
      "lag": "Djurgårdens IF BTF ",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -340,17 +360,6 @@
     },
     {
      "placering": 3,
-     "lag": "Tyresö BTK E1",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "IFK Täby BTK D4",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 0,
@@ -361,9 +370,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Solna BTK D2",
      "klubb": "Solna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Tyresö BTK E1",
+     "klubb": "Tyresö Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Våxtorps Boll O IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Våxtorps BOIS",
@@ -85,24 +85,6 @@
     "Våxtorps Boll O IS"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Halmstad BTK E 3",
-   "borta": "Våxtorps BoIS A",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Våxtorps Boll O IS",
-   "plats": "Halmstad Arena",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
   },
   {
    "datum": "2026-10-25",
@@ -273,6 +255,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Halmstad BTK E 3",
+   "borta": "Våxtorps BoIS A",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Våxtorps Boll O IS",
+   "plats": "Halmstad Arena",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -497,6 +499,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Våxtorps BoIS A",
+     "klubb": "Våxtorps Boll O IS",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Markaryds BTK A ",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 1,
@@ -507,18 +520,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Våxtorps BoIS A",
-     "klubb": "Våxtorps Boll O IS",
-     "spelade": 1,
-     "vunna": 0,
+     "placering": 3,
+     "lag": "Halmstad BTK E 3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Simlångsdalens IF A",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 1,
@@ -529,31 +542,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "BTK Ratic C3",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Halmstad BTK E 3",
+     "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Halmstad BTK E1",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "BTK Ratic C3",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

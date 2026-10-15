@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-14",
-   "tid": "19:00",
-   "serie_id": "513-7450-0",
-   "serie": "Division 5 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "Skurups BTK C",
-   "borta": "Kvarnby AK C",
-   "hemma_klubb": "Skurups Bordtennisklubb",
-   "borta_klubb": "Kvarnby Atletklubb",
-   "plats": "Skurups Sparbank Arena",
-   "arrangor": "Skurups Bordtennisklubb",
-   "arrangorer": [
-    "Skurups Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-  },
   {
    "datum": "2026-10-15",
    "tid": "19:15",
@@ -867,39 +849,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-14",
+   "tid": "19:00",
+   "serie_id": "513-7450-0",
+   "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "Skurups BTK C",
+   "borta": "Kvarnby AK C",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-14",
-   "platser": [
-    "Skurups Sparbank Arena"
-   ],
-   "serier": [
-    "Division 5 Södra 2"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-14",
-     "tid": "19:00",
-     "serie_id": "513-7450-0",
-     "serie": "Division 5 Södra 2",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 1",
-     "hemma": "Skurups BTK C",
-     "borta": "Kvarnby AK C",
-     "hemma_klubb": "Skurups Bordtennisklubb",
-     "borta_klubb": "Kvarnby Atletklubb",
-     "plats": "Skurups Sparbank Arena",
-     "arrangor": "Skurups Bordtennisklubb",
-     "arrangorer": [
-      "Skurups Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-02-13",
    "platser": [
@@ -1280,23 +1252,23 @@
    "serie": "Division 5 Södra 1",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kvarnby AK B",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1306,8 +1278,8 @@
     },
     {
      "placering": 3,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1339,8 +1311,8 @@
     },
     {
      "placering": 6,
-     "lag": "Bjärreds BTK B",
-     "klubb": "Bjärreds Bordtennisklubb",
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1350,12 +1322,12 @@
     },
     {
      "placering": 7,
-     "lag": "Kvarnby AK B",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 0,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1370,6 +1342,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Skurups BTK C",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Malmö IF G",
      "klubb": "Malmö Idrottsförening",
      "spelade": 1,
@@ -1380,29 +1363,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Skurups BTK C",
-     "klubb": "Skurups Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Kvarnby AK C",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "IF Ale C ",
      "klubb": "Idrottsföreningen Ale",
      "spelade": 0,
@@ -1413,7 +1374,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "IFK Lund E4",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 0,
@@ -1424,7 +1385,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Trelleborgs BTK E",
      "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 0,
@@ -1435,9 +1396,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Malmö IF F",
      "klubb": "Malmö Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kvarnby AK C",
+     "klubb": "Kvarnby Atletklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

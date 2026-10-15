@@ -4,7 +4,7 @@
   "namn": "Långemåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Långemåla BTK",
@@ -86,24 +86,6 @@
     "Oskarshamns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6741-0",
-   "serie": "DIV 5 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Långemåla BTK C",
-   "borta": "Kalmar BTK C",
-   "hemma_klubb": "Långemåla Bordtennisklubb",
-   "borta_klubb": "Kalmar Bordtennisklubb",
-   "plats": "Långemåla sporthall",
-   "arrangor": "Långemåla Bordtennisklubb",
-   "arrangorer": [
-    "Långemåla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -802,6 +784,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
+   "serie_id": "372-6741-0",
+   "serie": "DIV 5 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Långemåla BTK C",
+   "borta": "Kalmar BTK C",
+   "hemma_klubb": "Långemåla Bordtennisklubb",
+   "borta_klubb": "Kalmar Bordtennisklubb",
+   "plats": "Långemåla sporthall",
+   "arrangor": "Långemåla Bordtennisklubb",
+   "arrangorer": [
+    "Långemåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -833,7 +835,9 @@
      "arrangorer": [
       "Långemåla Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-10-18",
@@ -1291,11 +1295,11 @@
      "placering": 1,
      "lag": "Kalmar BTK C",
      "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1324,11 +1328,11 @@
      "placering": 4,
      "lag": "BTK Arsenal Nybro A",
      "klubb": "Bordtennisklubben Arsenal Nybro",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1346,17 +1350,17 @@
      "placering": 6,
      "lag": "Kristvalla BTK A",
      "klubb": "Kristvalla Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Långemåla BTK C",
-     "klubb": "Långemåla Bordtennisklubb",
+     "lag": "BTK Arsenal Nybro B",
+     "klubb": "Bordtennisklubben Arsenal Nybro",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1366,12 +1370,12 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Arsenal Nybro B",
-     "klubb": "Bordtennisklubben Arsenal Nybro",
-     "spelade": 3,
+     "lag": "Långemåla BTK C",
+     "klubb": "Långemåla Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

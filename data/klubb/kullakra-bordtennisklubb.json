@@ -4,7 +4,7 @@
   "namn": "Kullåkra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-15T08:45:29Z",
  "lag": [
   {
    "namn": "Kullåkra BTK A",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6758-0",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Kullåkra BTK B",
-   "borta": "Ihre BTK B",
-   "hemma_klubb": "Kullåkra Bordtennisklubb",
-   "borta_klubb": "Ihre Bordtennisklubb",
-   "plats": "Bräne-Hoby Idrottshall",
-   "arrangor": "Kullåkra Bordtennisklubb",
-   "arrangorer": [
-    "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "13:00",
@@ -775,24 +757,6 @@
    "serie": "Veteran Södra",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "omgang": "Round 12",
-   "hemma": "Kullåkra BTK B",
-   "borta": "Kättilsmåla BTK A",
-   "hemma_klubb": "Kullåkra Bordtennisklubb",
-   "borta_klubb": "Kättilsmåla Bordtennisklubb",
-   "plats": "Bräne-Hoby Idrottshall",
-   "arrangor": "Kullåkra Bordtennisklubb",
-   "arrangorer": [
-    "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
-  {
-   "datum": "2027-03-14",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 12",
    "hemma": "Kullåkra BTK A",
    "borta": "Gammalstorps GOIF A",
    "hemma_klubb": "Kullåkra Bordtennisklubb",
@@ -1127,6 +1091,26 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Kullåkra BTK B",
+   "borta": "Ihre BTK B",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Ihre Bordtennisklubb",
+   "plats": "Bräne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
    "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1185,6 +1169,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2027-03-14",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 12",
+   "hemma": "Kullåkra BTK B",
+   "borta": "Kättilsmåla BTK A",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Kättilsmåla Bordtennisklubb",
+   "plats": "Bräne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-04-04",
    "tid": "13:00",
    "serie_id": "372-6772-0",
@@ -1233,7 +1237,9 @@
      "arrangorer": [
       "Kullåkra Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-10-18",
@@ -1745,7 +1751,9 @@
      "arrangorer": [
       "Kullåkra Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2027-03-14",
@@ -2005,6 +2013,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Lyckeby BTK G",
      "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 3,
@@ -2012,17 +2031,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2060,8 +2068,8 @@
     },
     {
      "placering": 6,
-     "lag": "Ihre BTK B",
-     "klubb": "Ihre Bordtennisklubb",
+     "lag": "Carlshamns BTK C",
+     "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2071,12 +2079,12 @@
     },
     {
      "placering": 7,
-     "lag": "Carlshamns BTK C",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Ihre BTK B",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -2135,6 +2143,17 @@
     },
     {
      "placering": 4,
+     "lag": "Kättilsmåla BTK A",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Kullåkra BTK B",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
@@ -2145,7 +2164,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Gammalstorps GOIF A",
      "klubb": "Gammalstorps Gymnastik O IF",
      "spelade": 1,
@@ -2156,20 +2175,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Kullåkra BTK C",
      "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Kättilsmåla BTK A",
-     "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
