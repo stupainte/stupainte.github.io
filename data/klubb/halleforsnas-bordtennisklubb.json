@@ -4,7 +4,7 @@
   "namn": "Hälleforsnäs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-11T10:30:42Z",
+ "uppdaterad": "2026-10-16T08:40:20Z",
  "lag": [
   {
    "namn": "Hälleforsnäs BTK A",
@@ -573,6 +573,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1061/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-10",
+   "tid": "13:00",
+   "serie_id": "519-7377-0",
+   "serie": "Division 6",
+   "evenemang": "Södermanlands BTF",
+   "omgang": "Round 3",
+   "hemma": "Flens BTK B",
+   "borta": "Hälleforsnäs BTK B",
+   "hemma_klubb": "Flens Bordtennisklubb",
+   "borta_klubb": "Hälleforsnäs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Flens Bordtennisklubb",
+   "arrangorer": [
+    "Flens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1061/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1448,6 +1468,17 @@
     },
     {
      "placering": 6,
+     "lag": "Flens BTK B",
+     "klubb": "Flens Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Barva IF B",
      "klubb": "Barva Idrottsförening",
      "spelade": 2,
@@ -1458,31 +1489,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Flens BTK B",
-     "klubb": "Flens Bordtennisklubb",
-     "spelade": 2,
+     "placering": 8,
+     "lag": "Hälleforsnäs BTK B",
+     "klubb": "Hälleforsnäs Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 9,
      "lag": "Eskilstuna BTK C",
      "klubb": "Eskilstuna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Hälleforsnäs BTK B",
-     "klubb": "Hälleforsnäs Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,

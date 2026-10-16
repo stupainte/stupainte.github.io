@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Safir"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-15T08:45:29Z",
+ "uppdaterad": "2026-10-16T08:40:20Z",
  "lag": [
   {
    "namn": "BTK Safir",
@@ -1731,38 +1731,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-15",
-   "platser": [
-    "BTK Safir"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-15",
-     "tid": "18:00",
-     "serie_id": "460-8125-0",
-     "serie": "Division 5",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 1",
-     "hemma": "BTK Safir-D2",
-     "borta": "BTK Safir-D1",
-     "hemma_klubb": "Bordtennisklubben Safir",
-     "borta_klubb": "Bordtennisklubben Safir",
-     "plats": "BTK Safir",
-     "arrangor": "Bordtennisklubben Safir",
-     "arrangorer": [
-      "Bordtennisklubben Safir"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
-     "hemma_poang": 1,
-     "borta_poang": 1
-    }
-   ]
-  },
-  {
    "datum": "2026-10-18",
    "platser": [
     "A-hallen"
@@ -3002,6 +2970,28 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Storå BTK-C",
+     "klubb": "Storå Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Ålsta BTK-B1",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Safir-D2",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 1,
@@ -3012,7 +3002,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 4,
      "lag": "BTK Safir-D1",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 1,
@@ -3023,7 +3013,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 5,
      "lag": "AGA BTK-C",
      "klubb": "Aga Bordtennisklubb",
      "spelade": 0,
@@ -3034,7 +3024,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 5,
      "lag": "Gropens IF-B",
      "klubb": "Gropens Idrottsförening",
      "spelade": 0,
@@ -3045,64 +3035,42 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Simon SK-A1",
-     "klubb": "Simon Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Simon SK-A2",
-     "klubb": "Simon Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Storå BTK-C",
-     "klubb": "Storå Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ålsta BTK-B1",
-     "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ålsta BTK-B2",
-     "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 5,
      "lag": "Östansjö IF-B",
      "klubb": "Östansjö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Ålsta BTK-B2",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Simon SK-A1",
+     "klubb": "Simon Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Simon SK-A2",
+     "klubb": "Simon Sportklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

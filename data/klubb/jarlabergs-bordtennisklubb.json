@@ -4,7 +4,7 @@
   "namn": "Jarlabergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-15T08:45:29Z",
+ "uppdaterad": "2026-10-16T08:40:20Z",
  "lag": [
   {
    "namn": "Jarlabergs BTK",
@@ -208,6 +208,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7935-0",
+   "serie": "div 7 Mellersta A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Jarlabergs BTK B1",
+   "borta": "Hammarby IF BTF F3",
+   "hemma_klubb": "Jarlabergs Bordtennisklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": "Jarlabergs Bordtennisklubb",
+   "arrangorer": [
+    "Jarlabergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "",
@@ -596,6 +616,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Hammarby IF BTF F3",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Lidingö BTK C",
      "klubb": "IFK Lidingö Bordtennisklubb",
      "spelade": 1,
@@ -606,7 +637,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Solna BTK D3",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 1,
@@ -617,7 +648,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Spånga TBK C",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 1,
@@ -628,20 +659,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Hammarby IF BTF F3",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Jarlabergs BTK B1",
-     "klubb": "Jarlabergs Bordtennisklubb",
+     "lag": "Djurgårdens IF BTF C2",
+     "klubb": "Djurgårdens IF BTF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -651,12 +671,12 @@
     },
     {
      "placering": 6,
-     "lag": "Djurgårdens IF BTF C2",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 0,
+     "lag": "Jarlabergs BTK B1",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
