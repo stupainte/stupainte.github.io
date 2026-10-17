@@ -4,7 +4,7 @@
   "namn": "Askims Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-17T08:13:53Z",
  "lag": [
   {
    "namn": "Askims BTK",
@@ -20,6 +20,14 @@
     "namn": "Div 1 V Herr"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Askims BTK",
+   "serie": {
+    "namn": "Division 3 Damer"
+   },
+   "evenemang": "Göteborgs Lokala Damserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -253,24 +261,6 @@
   {
    "datum": "2026-10-18",
    "tid": "17:00",
-   "serie_id": "371-7375-0",
-   "serie": "Division 9",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "Askims BTK F",
-   "borta": "Torslanda BTK B",
-   "hemma_klubb": "Askims Bordtennisklubb",
-   "borta_klubb": "Torslanda Bordtennisklubb",
-   "plats": "Askims BTK:s träningshall",
-   "arrangor": "Askims Bordtennisklubb",
-   "arrangorer": [
-    "Askims Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "17:00",
    "serie_id": "371-7264-0",
    "serie": "Division 10",
    "evenemang": " Göteborgs Distriktserie",
@@ -280,8 +270,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Backa Bordtennis Klubb",
    "plats": "Askims BTK:s träningshall",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -315,6 +307,56 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7"
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "17:00",
+   "serie_id": "371-7375-0",
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Askims BTK F",
+   "borta": "Torslanda BTK B",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Torslanda Bordtennisklubb",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 1",
+   "hemma": "Askims BTK",
+   "borta": "Lindome BTK 2 Dam",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "18:45",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 2",
+   "hemma": "Varberg Röd",
+   "borta": "Askims BTK",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
   },
   {
    "datum": "2026-11-14",
@@ -364,8 +406,10 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Frölunda Kulturhus, lilla hallen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -516,8 +560,10 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Frölunda Kulturhus, lilla hallen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -605,8 +651,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Bohus Idrottsförening",
    "plats": "Askims BTK:s träningshall",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -627,6 +675,38 @@
     "Askims Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 3",
+   "hemma": "Askims BTK",
+   "borta": "Torslanda IK ",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "18:45",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 4",
+   "hemma": "Varberg Vit",
+   "borta": "Askims BTK",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
   },
   {
    "datum": "2026-12-06",
@@ -778,8 +858,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Askims BTK:s träningshall",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -858,6 +940,22 @@
   },
   {
    "datum": "2026-12-20",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 5",
+   "hemma": "Askims BTK",
+   "borta": "Varbergs BTK Violett",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Varbergs Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
+  },
+  {
+   "datum": "2026-12-20",
    "tid": "18:00",
    "serie_id": "371-7375-0",
    "serie": "Division 9",
@@ -873,6 +971,22 @@
     "Lekstorps Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "18:45",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 6",
+   "hemma": "Askims BTK",
+   "borta": "Lindome BTK 1 Dam",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -1013,9 +1127,43 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Torslanda Idrottsklubb",
    "plats": "Askims BTK:s träningshall",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 7",
+   "hemma": "Stenungsunds BTF",
+   "borta": "Askims BTK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
    "arrangor": null,
    "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "18:45",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 8",
+   "hemma": "Askims BTK",
+   "borta": "BTK Linné B",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
   },
   {
    "datum": "2027-01-28",
@@ -1047,8 +1195,10 @@
    "hemma_klubb": "Backa Bordtennis Klubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "VinstahallenSkogomeskolan",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Backa Bordtennis Klubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -1136,9 +1286,27 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Askims BTK:s träningshall",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 9",
+   "hemma": "Lindome BTK 3 Dam",
+   "borta": "Askims BTK",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
    "arrangor": null,
    "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7"
   },
   {
    "datum": "2027-02-13",
@@ -1242,8 +1410,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Askims BTK:s träningshall",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -1332,8 +1502,10 @@
    "hemma_klubb": "Bohus Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Bohushallen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Bohus Idrottsförening",
+   "arrangorer": [
+    "Bohus Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -1402,8 +1574,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Brushanestigen 3",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -1564,8 +1738,10 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangorer": [
+    "Torslanda Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   },
   {
@@ -1784,6 +1960,27 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-15",
+   "tid": "18:30",
+   "serie_id": "371-7232-0",
+   "serie": "Division 5",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Lekstorps IF D",
+   "borta": "Askims BTK C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-15",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -1831,12 +2028,42 @@
     "Askims BTK:s träningshall"
    ],
    "serier": [
-    "Division 9"
+    "Division 10"
    ],
    "antal": 1,
    "matcher": [
     {
      "datum": "2026-10-18",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 1",
+     "hemma": "Askims BTK E",
+     "borta": "Backa BTK C",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-25",
+   "platser": [
+    "Askims BTK:s träningshall"
+   ],
+   "serier": [
+    "Division 9"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-25",
      "tid": "17:00",
      "serie_id": "371-7375-0",
      "serie": "Division 9",
@@ -1939,13 +2166,33 @@
   {
    "datum": "2026-11-29",
    "platser": [
+    "Askims BTK:s träningshall",
     "Vinstahallen"
    ],
    "serier": [
+    "Division 10",
     "Division 5"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-29",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 4",
+     "hemma": "Askims BTK E",
+     "borta": "Bohus IF A",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Bohus Idrottsförening",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2026-11-29",
      "tid": "17:00",
@@ -1973,10 +2220,29 @@
     "Askims BTK:s träningshall"
    ],
    "serier": [
+    "Division 10",
     "Division 7"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 5",
+     "hemma": "Askims BTK E",
+     "borta": "Kungälvs BTK G",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2026-12-13",
      "tid": "17:00",
@@ -2056,9 +2322,10 @@
    ],
    "serier": [
     "Div 3 VSSÖ",
+    "Division 10",
     "Division 7"
    ],
-   "antal": 5,
+   "antal": 6,
    "matcher": [
     {
      "datum": "2027-01-17",
@@ -2131,6 +2398,24 @@
       "Askims Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 7",
+     "hemma": "Askims BTK E",
+     "borta": "Torslanda IK E",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Torslanda Idrottsklubb",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
     },
     {
      "datum": "2027-01-17",
@@ -2209,10 +2494,29 @@
     "Askims BTK:s träningshall"
    ],
    "serier": [
+    "Division 10",
     "Division 9"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2027-02-07",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 9",
+     "hemma": "Askims BTK E",
+     "borta": "Rudalens IF D",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2027-02-07",
      "tid": "17:00",
@@ -2239,10 +2543,29 @@
     "Askims BTK:s träningshall"
    ],
    "serier": [
+    "Division 10",
     "Division 9"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "17:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 10",
+     "hemma": "Askims BTK E",
+     "borta": "Rudalens IF E",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Askims BTK:s träningshall",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2027-02-14",
      "tid": "17:00",
@@ -2693,65 +3016,21 @@
    "serie": "Division 5",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Linné G",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Torslanda BTK A",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Lekstorps IF D",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Torslanda IK A",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Torslanda BTK A",
-     "klubb": "Torslanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Mölndals BTK C",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Askims BTK C",
      "klubb": "Askims Bordtennisklubb",
      "spelade": 0,
@@ -2762,13 +3041,57 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 3,
+     "lag": "BTK Linné G",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "BTK Linné F",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK A",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lekstorps IF D",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Mölndals BTK C",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2959,6 +3282,125 @@
      "placering": 8,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Torslanda IK ",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Varberg Vit",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Askims BTK",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Lindome BTK 1 Dam",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Stenungsunds BTF",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Linné B",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Lindome BTK 3 Dam",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Lindome BTK 2 Dam",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Varberg Röd",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Varbergs BTK Violett",
+     "klubb": "Varbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

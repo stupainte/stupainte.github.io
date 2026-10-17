@@ -4,7 +4,7 @@
   "namn": "IFK Lund Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-17T08:13:53Z",
  "lag": [
   {
    "namn": "IFK Lund Bordtennis",
@@ -7506,6 +7506,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kvarnby AK B",
      "klubb": "Kvarnby Atletklubb",
      "spelade": 1,
@@ -7516,7 +7527,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Skurups BTK B",
      "klubb": "Skurups Bordtennisklubb",
      "spelade": 1,
@@ -7527,29 +7538,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Bjärreds BTK B",
-     "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Malmö IF E",
      "klubb": "Malmö Idrottsförening",
      "spelade": 0,
@@ -7560,7 +7549,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "IFK Lund E3",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 1,
@@ -7571,9 +7560,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Limhamns BTK B",
      "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

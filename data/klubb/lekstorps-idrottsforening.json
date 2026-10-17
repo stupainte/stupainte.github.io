@@ -4,7 +4,7 @@
   "namn": "Lekstorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-17T08:13:53Z",
  "lag": [
   {
    "namn": "Lekstorp Green Giants",
@@ -2484,6 +2484,27 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-15",
+   "tid": "18:30",
+   "serie_id": "371-7232-0",
+   "serie": "Division 5",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Lekstorps IF D",
+   "borta": "Askims BTK C",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -3896,65 +3917,21 @@
    "serie": "Division 5",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Linné G",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Torslanda BTK A",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Lekstorps IF D",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Torslanda IK A",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Torslanda BTK A",
-     "klubb": "Torslanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Mölndals BTK C",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Askims BTK C",
      "klubb": "Askims Bordtennisklubb",
      "spelade": 0,
@@ -3965,13 +3942,57 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 3,
+     "lag": "BTK Linné G",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "BTK Linné F",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK A",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lekstorps IF D",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Mölndals BTK C",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -4083,8 +4104,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Linné J",
-     "klubb": "Bordtennisklubben Linné",
+     "lag": "Rudalens IF C",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4105,8 +4126,8 @@
     },
     {
      "placering": 3,
-     "lag": "Rudalens IF C",
-     "klubb": "Rudalens Idrottsförening",
+     "lag": "BTK Linné J",
+     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4116,8 +4137,8 @@
     },
     {
      "placering": 4,
-     "lag": "IF IFO E",
-     "klubb": "Idrottsföreningen Ifo",
+     "lag": "Mölndals BTK F",
+     "klubb": "Mölndals Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4127,17 +4148,6 @@
     },
     {
      "placering": 5,
-     "lag": "Torslanda IK C",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Mölndals BTK E",
      "klubb": "Mölndals Bordtennisklubb",
      "spelade": 0,
@@ -4148,9 +4158,20 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "Torslanda IK C",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
-     "lag": "Mölndals BTK F",
-     "klubb": "Mölndals Bordtennisklubb",
+     "lag": "IF IFO E",
+     "klubb": "Idrottsföreningen Ifo",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

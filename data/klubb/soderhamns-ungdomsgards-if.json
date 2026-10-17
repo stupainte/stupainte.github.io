@@ -4,7 +4,7 @@
   "namn": "Söderhamns Ungdomsgårds IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-17T08:13:53Z",
  "lag": [
   {
    "namn": "Söderhamns UIF",
@@ -3728,43 +3728,32 @@
    "serie": "Ungdomsserier",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Ortvikens PK F",
+     "lag": "Ortvikens PK G",
      "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Ortvikens PK H",
      "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Söderhamns UIF H",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Alfta BTK F",
      "klubb": "Alfta Bordtennisklubb",
      "spelade": 0,
@@ -3775,9 +3764,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Hudiksvalls IF BTK C",
      "klubb": "Hudiksvalls IF Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Söderhamns UIF H",
+     "klubb": "Söderhamns Ungdomsgårds IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3800,21 +3800,21 @@
      "placering": 7,
      "lag": "Ortvikens PK I",
      "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Ortvikens PK G",
+     "lag": "Ortvikens PK F",
      "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
