@@ -4,7 +4,7 @@
   "namn": "Huddinge Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Huddinge BTK",
@@ -104,6 +104,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7780-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Spårvägens BTK F2",
+   "borta": "Huddinge BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Huddinge Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1533/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7938-0",
    "serie": "Div 7 Södra B",
    "evenemang": "Stockholms BTF 26/27",
@@ -133,24 +153,24 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Huddinge BTK",
-     "klubb": "Huddinge Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IFK Lidingö BTK B1",
+     "klubb": "IFK Lidingö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Lidingö BTK B1",
-     "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Huddinge BTK",
+     "klubb": "Huddinge Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -179,11 +199,11 @@
      "placering": 5,
      "lag": "Spårvägens BTK F2",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -212,10 +232,10 @@
      "placering": 8,
      "lag": "Hammarby IF BTF D",
      "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -263,13 +283,13 @@
     },
     {
      "placering": 4,
-     "lag": "Spårvägens BTK H1",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hammarby IF BTF E4",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -296,8 +316,8 @@
     },
     {
      "placering": 7,
-     "lag": "Hammarby IF BTF E4",
-     "klubb": "Hammarby IF Bordtennisförening",
+     "lag": "Spårvägens BTK H1",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

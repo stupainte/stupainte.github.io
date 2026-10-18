@@ -4,7 +4,7 @@
   "namn": "Skuttunge Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Skuttunge SK",
@@ -16,42 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "435-6115-0",
-   "serie": "Division 5B",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "IK Sirius BTK E2",
-   "borta": "Skuttunge SK",
-   "hemma_klubb": "IK Sirius Bordtennisklubb",
-   "borta_klubb": "Skuttunge Sportklubb",
-   "plats": "Rimbo",
-   "arrangor": "Rimbo Idrottsförening",
-   "arrangorer": [
-    "Rimbo Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "14:00",
-   "serie_id": "435-6115-0",
-   "serie": "Division 5B",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Gefle PK D2",
-   "borta": "Skuttunge SK",
-   "hemma_klubb": "Gefle Pingisklubb",
-   "borta_klubb": "Skuttunge Sportklubb",
-   "plats": "Rimbo",
-   "arrangor": "Rimbo Idrottsförening",
-   "arrangorer": [
-    "Rimbo Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -286,6 +250,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Norrtälje BTK D",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Skuttunge SK",
      "klubb": "Skuttunge Sportklubb",
      "spelade": 2,
@@ -296,7 +271,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IK Sirius BTK E2",
      "klubb": "IK Sirius Bordtennisklubb",
      "spelade": 2,
@@ -307,69 +282,58 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Rimbo IF A",
      "klubb": "Rimbo Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Sunnersta AIF C2",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Norrtälje BTK D",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Sunnersta AIF C2",
+     "klubb": "Sunnersta Allmänna IF",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Sandvikens BTK B",
-     "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Öregrunds IK B",
+     "klubb": "Öregrunds Idrottsklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Gefle PK D2",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 2,
+     "lag": "Sandvikens BTK B",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 4,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Öregrunds IK B",
-     "klubb": "Öregrunds Idrottsklubb",
-     "spelade": 2,
+     "lag": "Gefle PK D2",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

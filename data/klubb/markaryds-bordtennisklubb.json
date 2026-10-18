@@ -4,7 +4,7 @@
   "namn": "Markaryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Markaryds BTK A ",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
-   "hemma": "Markaryds BTK C",
-   "borta": "Sibbarps GoIF C",
-   "hemma_klubb": "Markaryds Bordtennisklubb",
-   "borta_klubb": "Sibbarps Gymnastik O IF",
-   "plats": "Sparbankshallen Markaryd",
-   "arrangor": "Markaryds Bordtennisklubb",
-   "arrangorer": [
-    "Markaryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
-  },
   {
    "datum": "2026-10-25",
    "tid": "19:00",
@@ -419,6 +401,26 @@
   {
    "datum": "2026-10-18",
    "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Markaryds BTK C",
+   "borta": "Sibbarps GoIF C",
+   "hemma_klubb": "Markaryds Bordtennisklubb",
+   "borta_klubb": "Sibbarps Gymnastik O IF",
+   "plats": "Sparbankshallen Markaryd",
+   "arrangor": "Markaryds Bordtennisklubb",
+   "arrangorer": [
+    "Markaryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "19:00",
    "serie_id": "411-7596-0",
    "serie": "Division 6 Södra (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -485,7 +487,9 @@
      "arrangorer": [
       "Markaryds Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -999,6 +1003,17 @@
     },
     {
      "placering": 2,
+     "lag": "Sibbarps GoIF C",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "HBTKG3/Oskarström",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 2,
@@ -1006,17 +1021,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Sibbarps GoIF C",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1056,10 +1060,10 @@
      "placering": 7,
      "lag": "Markaryds BTK C",
      "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

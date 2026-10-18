@@ -4,7 +4,7 @@
   "namn": "Tomelilla Allmänna IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Tomelilla AIS",
@@ -16,42 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "513-7442-0",
-   "serie": "Division 6 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "Tomelilla AIS",
-   "borta": "Skurups BTK C",
-   "hemma_klubb": "Tomelilla Allmänna IS",
-   "borta_klubb": "Skurups Bordtennisklubb",
-   "plats": "Söderslättshallen, Trelleborg",
-   "arrangor": "Trelleborgs Bordtennisklubb",
-   "arrangorer": [
-    "Trelleborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "12:30",
-   "serie_id": "513-7442-0",
-   "serie": "Division 6 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Limhamns BTK C2",
-   "borta": "Tomelilla AIS",
-   "hemma_klubb": "Limhamns Bordtennisklubb",
-   "borta_klubb": "Tomelilla Allmänna IS",
-   "plats": "Söderslättshallen, Trelleborg",
-   "arrangor": "Trelleborgs Bordtennisklubb",
-   "arrangorer": [
-    "Trelleborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "10:00",
@@ -197,7 +161,48 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "513-7442-0",
+   "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "Tomelilla AIS",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Tomelilla Allmänna IS",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:30",
+   "serie_id": "513-7442-0",
+   "serie": "Division 6 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Limhamns BTK C2",
+   "borta": "Tomelilla AIS",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Tomelilla Allmänna IS",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2027-01-17",
@@ -326,82 +331,82 @@
    "serie": "Division 6 Södra 2",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "IF Ale D",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Tomelilla AIS",
+     "klubb": "Tomelilla Allmänna IS",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Lund F3",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Trelleborgs BTK F",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Trelleborgs BTK F",
-     "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IF Ale D",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Tomelilla AIS",
-     "klubb": "Tomelilla Allmänna IS",
-     "spelade": 0,
+     "lag": "IFK Lund F3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Skurups BTK C",
-     "klubb": "Skurups Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Limhamns BTK C2",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK C2",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
+     "lag": "IFK Lund F4",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "IFK Lund F4",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
+     "lag": "Skurups BTK C",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

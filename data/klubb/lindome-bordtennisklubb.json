@@ -4,7 +4,7 @@
   "namn": "Lindome Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Lindome BTK",
@@ -152,79 +152,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "417-5775-0",
-   "serie": "Div 3 VSSV",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Öckerö IF",
-   "borta": "Lindome BTK",
-   "hemma_klubb": "Öckerö Idrottsförening",
-   "borta_klubb": "Lindome Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Kungsbacka Bordtennisklubb",
-   "arrangorer": [
-    "Kungsbacka Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "12:00",
-   "serie_id": "371-7239-0",
-   "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "Lindome BTK C",
-   "borta": "Kungälvs BTK E",
-   "hemma_klubb": "Lindome Bordtennisklubb",
-   "borta_klubb": "Kungälvs Bordtennisklubb",
-   "plats": "Almåshallen",
-   "arrangor": "Lindome Bordtennisklubb",
-   "arrangorer": [
-    "Lindome Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "12:00",
-   "serie_id": "371-7238-0",
-   "serie": "Division 6",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "Lindome BTK B",
-   "borta": "Lekstorps IF E",
-   "hemma_klubb": "Lindome Bordtennisklubb",
-   "borta_klubb": "Lekstorps Idrottsförening",
-   "plats": "Almåshallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Lindome Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "14:00",
-   "serie_id": "417-5775-0",
-   "serie": "Div 3 VSSV",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "BTK Linné: C2",
-   "borta": "Lindome BTK",
-   "hemma_klubb": "Bordtennisklubben Linné",
-   "borta_klubb": "Lindome Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Kungsbacka Bordtennisklubb",
-   "arrangorer": [
-    "Kungsbacka Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "09:00",
@@ -2253,59 +2180,90 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "417-5775-0",
+   "serie": "Div 3 VSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Öckerö IF",
+   "borta": "Lindome BTK",
+   "hemma_klubb": "Öckerö Idrottsförening",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kungsbacka Bordtennisklubb",
+   "arrangorer": [
+    "Kungsbacka Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie_id": "371-7239-0",
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Lindome BTK C",
+   "borta": "Kungälvs BTK E",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Almåshallen",
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie_id": "371-7238-0",
+   "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Lindome BTK B",
+   "borta": "Lekstorps IF E",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Almåshallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lindome Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "14:00",
+   "serie_id": "417-5775-0",
+   "serie": "Div 3 VSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "BTK Linné: C2",
+   "borta": "Lindome BTK",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kungsbacka Bordtennisklubb",
+   "arrangorer": [
+    "Kungsbacka Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-17",
-   "platser": [
-    "Almåshallen"
-   ],
-   "serier": [
-    "Division 6",
-    "Division 7"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-10-17",
-     "tid": "12:00",
-     "serie_id": "371-7238-0",
-     "serie": "Division 6",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 1",
-     "hemma": "Lindome BTK B",
-     "borta": "Lekstorps IF E",
-     "hemma_klubb": "Lindome Bordtennisklubb",
-     "borta_klubb": "Lekstorps Idrottsförening",
-     "plats": "Almåshallen",
-     "arrangor": "Göteborgs Bordtennisförbund / Lindome Bordtennisklubb",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund",
-      "Lindome Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
-    },
-    {
-     "datum": "2026-10-17",
-     "tid": "12:00",
-     "serie_id": "371-7239-0",
-     "serie": "Division 7",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 1",
-     "hemma": "Lindome BTK C",
-     "borta": "Kungälvs BTK E",
-     "hemma_klubb": "Lindome Bordtennisklubb",
-     "borta_klubb": "Kungälvs Bordtennisklubb",
-     "plats": "Almåshallen",
-     "arrangor": "Lindome Bordtennisklubb",
-     "arrangorer": [
-      "Lindome Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-21",
    "platser": [
@@ -2849,6 +2807,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Lindome BTK B",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IF IFO C",
      "klubb": "Idrottsföreningen Ifo",
      "spelade": 1,
@@ -2859,7 +2828,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IF IFO D",
      "klubb": "Idrottsföreningen Ifo",
      "spelade": 1,
@@ -2870,7 +2839,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Backa BTK B",
      "klubb": "Backa Bordtennis Klubb",
      "spelade": 0,
@@ -2881,7 +2850,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Torslanda IK B",
      "klubb": "Torslanda Idrottsklubb",
      "spelade": 0,
@@ -2892,7 +2861,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Rudalens IF A",
      "klubb": "Rudalens Idrottsförening",
      "spelade": 0,
@@ -2903,20 +2872,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "BTK Warta D",
      "klubb": "Bordtennisklubben Warta",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Lindome BTK B",
-     "klubb": "Lindome Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2928,10 +2886,10 @@
      "placering": 8,
      "lag": "Lekstorps IF E",
      "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2942,54 +2900,21 @@
    "serie": "Division 7",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Kungälvs BTK E",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Lindome BTK C",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Rudalens IF B",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lindome BTK C",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Romelanda UF",
-     "klubb": "Romelanda Ungdomsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Mölndals BTK D",
      "klubb": "Mölndals Bordtennisklubb",
      "spelade": 0,
@@ -3000,9 +2925,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "BTK Linné H",
-     "klubb": "Bordtennisklubben Linné",
+     "placering": 3,
+     "lag": "Askims BTK D",
+     "klubb": "Askims Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3011,7 +2936,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 4,
      "lag": "BTK Linné I",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
@@ -3022,13 +2947,46 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Askims BTK D",
-     "klubb": "Askims Bordtennisklubb",
+     "placering": 5,
+     "lag": "BTK Linné H",
+     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rudalens IF B",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Romelanda UF",
+     "klubb": "Romelanda Ungdomsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kungälvs BTK E",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3762,89 +3720,89 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Öckerö IF",
-     "klubb": "Öckerö Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Lindome BTK",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Lindome BTK",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Öckerö IF",
+     "klubb": "Öckerö Idrottsförening",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Mölndals BTK: B",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Åsa IF: A1",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Åsa IF: A1",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Mölndals BTK: B",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "BTK Linné: C2",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Kungsbacka BTK: B",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Kungsbacka BTK: B",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Varbergs BTK: B2",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Varbergs BTK: B2",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "BTK Linné: C2",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Särö Kullavik IF",
      "klubb": "Särö Kullavik Idrottsförening",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

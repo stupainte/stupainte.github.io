@@ -4,7 +4,7 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie_id": "417-5822-0",
-   "serie": "Div 3 SSSÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Skurups BTK",
-   "borta": "Degeberga GOIF",
-   "hemma_klubb": "Skurups Bordtennisklubb",
-   "borta_klubb": "Degeberga Gymnastik O IF",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Scania",
-   "arrangorer": [
-    "Bordtennisklubben Scania"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
-   "serie_id": "417-5822-0",
-   "serie": "Div 3 SSSÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "IFK Lund Bordtennis: C1",
-   "borta": "Degeberga GOIF",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Degeberga Gymnastik O IF",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Scania",
-   "arrangorer": [
-    "Bordtennisklubben Scania"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
-  },
   {
    "datum": "2026-10-22",
    "tid": "19:00",
@@ -533,6 +497,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie_id": "417-5822-0",
+   "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Skurups BTK",
+   "borta": "Degeberga GOIF",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Degeberga Gymnastik O IF",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Scania",
+   "arrangorer": [
+    "Bordtennisklubben Scania"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie_id": "417-5822-0",
+   "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "IFK Lund Bordtennis: C1",
+   "borta": "Degeberga GOIF",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Degeberga Gymnastik O IF",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Scania",
+   "arrangorer": [
+    "Bordtennisklubben Scania"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -633,87 +637,87 @@
      "placering": 1,
      "lag": "Malmö IF: B",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IF Ale",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "IFK Lund Bordtennis: C1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IFK Lund Bordtennis: C1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "IF Ale",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Degeberga GOIF",
      "klubb": "Degeberga Gymnastik O IF",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "KFUM Kristianstad BTF",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Skurups BTK",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Skurups BTK",
-     "klubb": "Skurups Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "BTK Scania",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "BTK Scania",
-     "klubb": "Bordtennisklubben Scania",
-     "spelade": 2,
+     "lag": "KFUM Kristianstad BTF",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Sölvesborgs BTK",
      "klubb": "Sölvesborgs Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

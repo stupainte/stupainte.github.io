@@ -4,7 +4,7 @@
   "namn": "Solna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Silly Smashers",
@@ -50,6 +50,22 @@
    "namn": "Solna BTK B",
    "serie": {
     "namn": "Div 4 Norra"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Solna BTK B1",
+   "serie": {
+    "namn": "Division 3 Damer"
+   },
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Solna BTK B2",
+   "serie": {
+    "namn": "Division 3 Damer"
    },
    "evenemang": "Stockholms BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -104,42 +120,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie_id": "417-5739-0",
-   "serie": "Div 1 Ö Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Solna BTK",
-   "borta": "Spårvägens BTK: C1",
-   "hemma_klubb": "Solna Bordtennisklubb",
-   "borta_klubb": "Spårvägens Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Linköpings Pingisklubb",
-   "arrangorer": [
-    "Linköpings Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
-   "serie_id": "417-5739-0",
-   "serie": "Div 1 Ö Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Ängby SK: C2",
-   "borta": "Solna BTK",
-   "hemma_klubb": "Ängby Sportklubb",
-   "borta_klubb": "Solna Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Linköpings Pingisklubb",
-   "arrangorer": [
-    "Linköpings Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "10:00",
@@ -901,6 +881,114 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Djurgårdens IF BTF C3",
+   "borta": "Solna BTK B1",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Jarlabergs BTK A2",
+   "borta": "Solna BTK B2",
+   "hemma_klubb": "Jarlabergs Bordtennisklubb",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Solna BTK B1",
+   "borta": "Jarlabergs BTK A2",
+   "hemma_klubb": "Solna Bordtennisklubb",
+   "borta_klubb": "Jarlabergs Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Djurgårdens IF BTF C2",
+   "borta": "Solna BTK B2",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Djurgårdens IF BTF C2",
+   "borta": "Solna BTK B1",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Djurgårdens IF BTF C3",
+   "borta": "Solna BTK B2",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7927-0",
    "serie": "Div 6 Södra A",
    "evenemang": "Stockholms BTF 26/27",
@@ -953,6 +1041,26 @@
    "arrangor": "Solna Bordtennisklubb",
    "arrangorer": [
     "Solna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7935-0",
+   "serie": "div 7 Mellersta A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Spånga TBK C",
+   "borta": "Solna BTK D3",
+   "hemma_klubb": "Spånga Tennis o Bordtennisklubb",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Spånga Tennis o Bordtennisklubb",
+   "arrangorer": [
+    "Spånga Tennis o Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
    "hemma_poang": 2,
@@ -1117,6 +1225,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie_id": "417-5739-0",
+   "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Solna BTK",
+   "borta": "Spårvägens BTK: C1",
+   "hemma_klubb": "Solna Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie_id": "417-5739-0",
+   "serie": "Div 1 Ö Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Ängby SK: C2",
+   "borta": "Solna BTK",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1251,67 +1399,67 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Spårvägens BTK: C1",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Linköpings PK",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Linköpings PK",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Spårvägens BTK: C1",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Stratos Enköping BTK: A1",
-     "klubb": "Stratos Enköping Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Norrtulls SK",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Solna BTK",
-     "klubb": "Solna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Ängby SK: C2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Ängby SK: C2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 2,
+     "lag": "Solna BTK",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Norrtulls SK",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 2,
+     "lag": "Stratos Enköping BTK: A1",
+     "klubb": "Stratos Enköping Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1319,21 +1467,21 @@
      "placering": 7,
      "lag": "Spårvägens BTK: C2",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Djurgårdens IF BTF: A2",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1900,6 +2048,147 @@
    ]
   },
   {
+   "serie_id": "464-8759-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Stockholms BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1073/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Spårvägens BTK E1",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Solna BTK B1",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Djurgårdens IF BTF C2",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Jarlabergs BTK A1",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Jarlabergs BTK A3",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Nynäshamns BTK",
+     "klubb": "Nynäshamns Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Jarlabergs BTK A2",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Ingarö IF",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Spårvägens BTK E2",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Solna BTK B2",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 11,
+     "lag": "Djurgårdens IF BTF C1",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 12,
+     "lag": "Djurgårdens IF BTF C3",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
    "serie_id": "464-7787-0",
    "serie": "Pensionär Serie D Norra",
    "evenemang": "Stockholms BTF 26/27",
@@ -1908,8 +2197,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "IFK Österåkers BTK B",
-     "klubb": "IFK Österåkers Bordtennisklubb",
+     "lag": "Bro IK B",
+     "klubb": "Bro Idrottsklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1919,13 +2208,13 @@
     },
     {
      "placering": 2,
-     "lag": "Bro IK B",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IFK Österåkers BTK B",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1954,10 +2243,10 @@
      "placering": 5,
      "lag": "Lilla Alby SK",
      "klubb": "Lilla Alby Sportklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2263,19 +2552,19 @@
     },
     {
      "placering": 2,
-     "lag": "IFK Lidingö BTK C",
-     "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Spånga TBK C",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Solna BTK D3",
-     "klubb": "Solna Bordtennisklubb",
+     "lag": "IFK Lidingö BTK C",
+     "klubb": "IFK Lidingö Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2296,13 +2585,13 @@
     },
     {
      "placering": 5,
-     "lag": "Spånga TBK C",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Solna BTK D3",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

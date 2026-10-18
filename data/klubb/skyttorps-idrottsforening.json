@@ -4,7 +4,7 @@
   "namn": "Skyttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Skyttorps IF A",
@@ -40,78 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "435-6120-0",
-   "serie": "Division 6A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Skyttorps IF B",
-   "borta": "IK Sirius BTK F1",
-   "hemma_klubb": "Skyttorps Idrottsförening",
-   "borta_klubb": "IK Sirius Bordtennisklubb",
-   "plats": "Skyttorp",
-   "arrangor": "Skyttorps Idrottsförening",
-   "arrangorer": [
-    "Skyttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "435-6137-0",
-   "serie": "Division 4A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Skyttorps IF A",
-   "borta": "Sandvikens BTK A",
-   "hemma_klubb": "Skyttorps Idrottsförening",
-   "borta_klubb": "Sandvikens Bordtennisklubb",
-   "plats": "Gävle",
-   "arrangor": "KFUM Gävle Bordtennis",
-   "arrangorer": [
-    "KFUM Gävle Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "13:00",
-   "serie_id": "435-6120-0",
-   "serie": "Division 6A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Skyttorps IF B",
-   "borta": "Heby AIF C2",
-   "hemma_klubb": "Skyttorps Idrottsförening",
-   "borta_klubb": "Heby Allmänna Idrottsförening",
-   "plats": "Skyttorp",
-   "arrangor": "Skyttorps Idrottsförening",
-   "arrangorer": [
-    "Skyttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "14:00",
-   "serie_id": "435-6137-0",
-   "serie": "Division 4A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Skyttorps IF A",
-   "borta": "Gefle PK C",
-   "hemma_klubb": "Skyttorps Idrottsförening",
-   "borta_klubb": "Gefle Pingisklubb",
-   "plats": "Gävle",
-   "arrangor": "KFUM Gävle Bordtennis",
-   "arrangorer": [
-    "KFUM Gävle Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "09:00",
@@ -995,6 +923,86 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "435-6120-0",
+   "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Skyttorps IF B",
+   "borta": "IK Sirius BTK F1",
+   "hemma_klubb": "Skyttorps Idrottsförening",
+   "borta_klubb": "IK Sirius Bordtennisklubb",
+   "plats": "Skyttorp",
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "435-6137-0",
+   "serie": "Division 4A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Skyttorps IF A",
+   "borta": "Sandvikens BTK A",
+   "hemma_klubb": "Skyttorps Idrottsförening",
+   "borta_klubb": "Sandvikens Bordtennisklubb",
+   "plats": "Gävle",
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "13:00",
+   "serie_id": "435-6120-0",
+   "serie": "Division 6A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Skyttorps IF B",
+   "borta": "Heby AIF C2",
+   "hemma_klubb": "Skyttorps Idrottsförening",
+   "borta_klubb": "Heby Allmänna Idrottsförening",
+   "plats": "Skyttorp",
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "14:00",
+   "serie_id": "435-6137-0",
+   "serie": "Division 4A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Skyttorps IF A",
+   "borta": "Gefle PK C",
+   "hemma_klubb": "Skyttorps Idrottsförening",
+   "borta_klubb": "Gefle Pingisklubb",
+   "plats": "Gävle",
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "435-6123-0",
@@ -1076,90 +1084,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-17",
-   "platser": [
-    "Skyttorp"
-   ],
-   "serier": [
-    "Division 6A"
-   ],
-   "antal": 4,
-   "matcher": [
-    {
-     "datum": "2026-10-17",
-     "tid": "10:00",
-     "serie_id": "435-6120-0",
-     "serie": "Division 6A",
-     "evenemang": "Nordöstra Svealands BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Stratos Enköping BTK E",
-     "borta": "Heby AIF C2",
-     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
-     "borta_klubb": "Heby Allmänna Idrottsförening",
-     "plats": "Skyttorp",
-     "arrangor": "Skyttorps Idrottsförening",
-     "arrangorer": [
-      "Skyttorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-    },
-    {
-     "datum": "2026-10-17",
-     "tid": "10:00",
-     "serie_id": "435-6120-0",
-     "serie": "Division 6A",
-     "evenemang": "Nordöstra Svealands BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Skyttorps IF B",
-     "borta": "IK Sirius BTK F1",
-     "hemma_klubb": "Skyttorps Idrottsförening",
-     "borta_klubb": "IK Sirius Bordtennisklubb",
-     "plats": "Skyttorp",
-     "arrangor": "Skyttorps Idrottsförening",
-     "arrangorer": [
-      "Skyttorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-    },
-    {
-     "datum": "2026-10-17",
-     "tid": "13:00",
-     "serie_id": "435-6120-0",
-     "serie": "Division 6A",
-     "evenemang": "Nordöstra Svealands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Stratos Enköping BTK E",
-     "borta": "IK Sirius BTK F1",
-     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
-     "borta_klubb": "IK Sirius Bordtennisklubb",
-     "plats": "Skyttorp",
-     "arrangor": "Skyttorps Idrottsförening",
-     "arrangorer": [
-      "Skyttorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-    },
-    {
-     "datum": "2026-10-17",
-     "tid": "13:00",
-     "serie_id": "435-6120-0",
-     "serie": "Division 6A",
-     "evenemang": "Nordöstra Svealands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Skyttorps IF B",
-     "borta": "Heby AIF C2",
-     "hemma_klubb": "Skyttorps Idrottsförening",
-     "borta_klubb": "Heby Allmänna Idrottsförening",
-     "plats": "Skyttorp",
-     "arrangor": "Skyttorps Idrottsförening",
-     "arrangorer": [
-      "Skyttorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-18",
    "platser": [
@@ -1601,54 +1525,54 @@
      "placering": 1,
      "lag": "KFUM Gävle BT B",
      "klubb": "KFUM Gävle Bordtennis",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 10,
      "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Sandvikens BTK A",
-     "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Skyttorps IF A",
+     "klubb": "Skyttorps Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 2,
+     "matchpoang": 7,
      "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "IK Sirius BTK D1",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Skyttorps IF A",
-     "klubb": "Skyttorps Idrottsförening",
-     "spelade": 3,
+     "lag": "Sandvikens BTK A",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 3,
+     "matchpoang": 6,
      "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Gefle PK C",
-     "klubb": "Gefle Pingisklubb",
-     "spelade": 2,
+     "lag": "Örbyhus IF",
+     "klubb": "Örbyhus Idrottsförening",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "264–0"
     },
@@ -1656,22 +1580,22 @@
      "placering": 6,
      "lag": "Upplands-Ekeby IF B",
      "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "Örbyhus IF",
-     "klubb": "Örbyhus Idrottsförening",
-     "spelade": 3,
+     "lag": "Gefle PK C",
+     "klubb": "Gefle Pingisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "264–0"
     },
     {
@@ -1696,6 +1620,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Stratos Enköping BTK E",
+     "klubb": "Stratos Enköping Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Vassunda IF C1",
      "klubb": "Vassunda Idrottsförening",
      "spelade": 2,
@@ -1706,20 +1641,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tärnsjö BTK B",
      "klubb": "Tärnsjö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Stratos Enköping BTK E",
-     "klubb": "Stratos Enköping Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1731,11 +1655,11 @@
      "placering": 4,
      "lag": "IK Sirius BTK F1",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1762,24 +1686,24 @@
     },
     {
      "placering": 7,
-     "lag": "Skyttorps IF B",
-     "klubb": "Skyttorps Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Heby AIF C2",
+     "klubb": "Heby Allmänna Idrottsförening",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Heby AIF C2",
-     "klubb": "Heby Allmänna Idrottsförening",
-     "spelade": 2,
+     "lag": "Skyttorps IF B",
+     "klubb": "Skyttorps Idrottsförening",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

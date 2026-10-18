@@ -4,7 +4,7 @@
   "namn": "Carlstads Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Carlstad",
@@ -88,60 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "501-7039-0",
-   "serie": "Division 4",
-   "evenemang": "Värmlands BTF",
-   "omgang": "Round 3",
-   "hemma": "Carlstad",
-   "borta": "Värmskog",
-   "hemma_klubb": "Carlstads Bordtennisklubb",
-   "borta_klubb": "Värmskogs Sportklubb",
-   "plats": "Hall 1",
-   "arrangor": "Värmskogs Sportklubb",
-   "arrangorer": [
-    "Värmskogs Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie_id": "417-5757-0",
-   "serie": "Div 2 VSN",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Carlstads BTK",
-   "borta": "IFK Falköping BTK",
-   "hemma_klubb": "Carlstads Bordtennisklubb",
-   "borta_klubb": "IFK Falköping Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Kils Bordtennisklubb",
-   "arrangorer": [
-    "Kils Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
-   "serie_id": "417-5757-0",
-   "serie": "Div 2 VSN",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Carlstads BTK",
-   "borta": "Skövde PK",
-   "hemma_klubb": "Carlstads Bordtennisklubb",
-   "borta_klubb": "Skövde Pingisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Kils Bordtennisklubb",
-   "arrangorer": [
-    "Kils Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "11:00",
@@ -615,9 +561,10 @@
    "hemma_klubb": "Carlstads Bordtennisklubb",
    "borta_klubb": "Höökens Bordtennisklubb",
    "plats": null,
-   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangor": "Björkborns Gymnastik O IF / Carlstads Bordtennisklubb",
    "arrangorer": [
-    "Björkborns Gymnastik O IF"
+    "Björkborns Gymnastik O IF",
+    "Carlstads Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 1,
@@ -635,9 +582,10 @@
    "hemma_klubb": "Carlstads Bordtennisklubb",
    "borta_klubb": "Molkoms Racketklubb",
    "plats": null,
-   "arrangor": "Björkborns Gymnastik O IF",
+   "arrangor": "Björkborns Gymnastik O IF / Carlstads Bordtennisklubb",
    "arrangorer": [
-    "Björkborns Gymnastik O IF"
+    "Björkborns Gymnastik O IF",
+    "Carlstads Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 1,
@@ -904,6 +852,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie_id": "417-5757-0",
+   "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Carlstads BTK",
+   "borta": "IFK Falköping BTK",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "IFK Falköping Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kils Bordtennisklubb",
+   "arrangorer": [
+    "Kils Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie_id": "417-5757-0",
+   "serie": "Div 2 VSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Carlstads BTK",
+   "borta": "Skövde PK",
+   "hemma_klubb": "Carlstads Bordtennisklubb",
+   "borta_klubb": "Skövde Pingisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kils Bordtennisklubb",
+   "arrangorer": [
+    "Kils Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1118,87 +1106,87 @@
      "placering": 1,
      "lag": "Vedums AIS",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Munkedals BTK: B",
-     "klubb": "Munkedals Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Munkedals BTK: B",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kungälvs BTK: A2",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Carlstads BTK",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Carlstads BTK",
-     "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Kungälvs BTK: A2",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Skövde PK",
      "klubb": "Skövde Pingisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Kils BTK",
      "klubb": "Kils Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Skagersviks BTK",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1312,11 +1300,11 @@
      "placering": 1,
      "lag": "Björkborn",
      "klubb": "Björkborns Gymnastik O IF",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1332,17 +1320,6 @@
     },
     {
      "placering": 3,
-     "lag": "Värmskog",
-     "klubb": "Värmskogs Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Carlstad",
      "klubb": "Carlstads Bordtennisklubb",
      "spelade": 1,
@@ -1353,7 +1330,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Arvika",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 1,
@@ -1361,6 +1338,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

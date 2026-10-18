@@ -4,7 +4,7 @@
   "namn": "Vellinge Näsets Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Vellinge Näsets BTK",
@@ -16,42 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "513-7441-0",
-   "serie": "Division 6 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "Malmö IF H",
-   "borta": "Vellinge Näsets BTK",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "12:30",
-   "serie_id": "513-7441-0",
-   "serie": "Division 6 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "IFK Lund F5",
-   "borta": "Vellinge Näsets BTK",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "13:00",
@@ -269,7 +233,48 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "513-7441-0",
+   "serie": "Division 6 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "Malmö IF H",
+   "borta": "Vellinge Näsets BTK",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:30",
+   "serie_id": "513-7441-0",
+   "serie": "Division 6 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "IFK Lund F5",
+   "borta": "Vellinge Näsets BTK",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-11-15",
@@ -590,93 +595,93 @@
    "serie": "Division 6 Södra 1",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "IFK Lund F2",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Vellinge Näsets BTK",
+     "klubb": "Vellinge Näsets Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Limhamns BTK C1",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Bjärreds BTK C",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Bjärreds BTK C",
-     "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IFK Lund F2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Malmö IF H",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Vellinge Näsets BTK",
-     "klubb": "Vellinge Näsets Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Limhamns BTK C1",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Kvarnby AK D",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 0,
+     "lag": "Limhamns BTK C3",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Limhamns BTK C3",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
+     "lag": "IFK Lund F5",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IFK Lund F5",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
+     "lag": "Kvarnby AK D",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

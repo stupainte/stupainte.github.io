@@ -4,7 +4,7 @@
   "namn": "Hudiksvalls IF Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Hudiksvalls IF BTK A",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "376-6935-0",
-   "serie": "Div 4 Södra",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 1",
-   "hemma": "Hudiksvalls IF BTK A",
-   "borta": "Alfta BTK B",
-   "hemma_klubb": "Hudiksvalls IF Bordtennisklubb",
-   "borta_klubb": "Alfta Bordtennisklubb",
-   "plats": "Norrfjärn",
-   "arrangor": "Norrfjärns Idrottsförening",
-   "arrangorer": [
-    "Norrfjärns Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "13:00",
-   "serie_id": "376-6935-0",
-   "serie": "Div 4 Södra",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 2",
-   "hemma": "Färila BTK B",
-   "borta": "Hudiksvalls IF BTK A",
-   "hemma_klubb": "Färila Bordtennisklubb",
-   "borta_klubb": "Hudiksvalls IF Bordtennisklubb",
-   "plats": "Norrfjärn",
-   "arrangor": "Norrfjärns Idrottsförening",
-   "arrangorer": [
-    "Norrfjärns Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "10:00",
@@ -683,6 +647,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1358/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "376-6935-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 1",
+   "hemma": "Hudiksvalls IF BTK A",
+   "borta": "Alfta BTK B",
+   "hemma_klubb": "Hudiksvalls IF Bordtennisklubb",
+   "borta_klubb": "Alfta Bordtennisklubb",
+   "plats": "Norrfjärn",
+   "arrangor": "Norrfjärns Idrottsförening",
+   "arrangorer": [
+    "Norrfjärns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "13:00",
+   "serie_id": "376-6935-0",
+   "serie": "Div 4 Södra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 2",
+   "hemma": "Färila BTK B",
+   "borta": "Hudiksvalls IF BTK A",
+   "hemma_klubb": "Färila Bordtennisklubb",
+   "borta_klubb": "Hudiksvalls IF Bordtennisklubb",
+   "plats": "Norrfjärn",
+   "arrangor": "Norrfjärns Idrottsförening",
+   "arrangorer": [
+    "Norrfjärns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1198,82 +1202,82 @@
    "serie": "Div 4 Södra",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Marma IF",
-     "klubb": "Marma Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ortvikens PK B",
+     "klubb": "Ortvikens Pingisklubb",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Ortvikens PK B",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Hudiksvalls IF BTK A",
+     "klubb": "Hudiksvalls IF Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Färila BTK B",
-     "klubb": "Färila Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Norrfjärns IF A",
+     "klubb": "Norrfjärns Idrottsförening",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Hudiksvalls IF BTK A",
-     "klubb": "Hudiksvalls IF Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ortvikens PK C",
+     "klubb": "Ortvikens Pingisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Alfta BTK B",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Färila BTK B",
+     "klubb": "Färila Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Ortvikens PK C",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 0,
+     "lag": "Marma IF",
+     "klubb": "Marma Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Norrfjärns IF A",
-     "klubb": "Norrfjärns Idrottsförening",
-     "spelade": 0,
+     "lag": "Alfta BTK B",
+     "klubb": "Alfta Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

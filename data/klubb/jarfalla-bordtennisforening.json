@@ -4,7 +4,7 @@
   "namn": "Järfälla Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Järfälla BTF",
@@ -48,42 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "417-5763-0",
-   "serie": "Div 3 NSSÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Järfälla BTF",
-   "borta": "Vassunda IF",
-   "hemma_klubb": "Järfälla Bordtennisförening",
-   "borta_klubb": "Vassunda Idrottsförening",
-   "plats": "A-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "14:00",
-   "serie_id": "417-5763-0",
-   "serie": "Div 3 NSSÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Järfälla BTF",
-   "borta": "Sunnersta AIF: A2",
-   "hemma_klubb": "Järfälla Bordtennisförening",
-   "borta_klubb": "Sunnersta Allmänna IF",
-   "plats": "A-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "11:00",
@@ -289,6 +253,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7919-0",
+   "serie": "Div 6 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Ängby SK F4",
+   "borta": "Järfälla BTF D",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Järfälla Bordtennisförening",
+   "plats": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7779-0",
    "serie": "Div 4 Norra",
    "evenemang": "Stockholms BTF 26/27",
@@ -425,6 +409,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "417-5763-0",
+   "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Järfälla BTF",
+   "borta": "Vassunda IF",
+   "hemma_klubb": "Järfälla Bordtennisförening",
+   "borta_klubb": "Vassunda Idrottsförening",
+   "plats": "A-hallen",
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "14:00",
+   "serie_id": "417-5763-0",
+   "serie": "Div 3 NSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Järfälla BTF",
+   "borta": "Sunnersta AIF: A2",
+   "hemma_klubb": "Järfälla Bordtennisförening",
+   "borta_klubb": "Sunnersta Allmänna IF",
+   "plats": "A-hallen",
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -523,78 +547,78 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Sunnersta AIF: A2",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Järfälla BTF",
+     "klubb": "Järfälla Bordtennisförening",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Järfälla BTF",
-     "klubb": "Järfälla Bordtennisförening",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Sunnersta AIF: A2",
+     "klubb": "Sunnersta Allmänna IF",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "KFUM Stocksund: B",
      "klubb": "KFUM Stocksund IA",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Boo Racketklubb: B2",
      "klubb": "Boo Racketklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Vassunda IF",
-     "klubb": "Vassunda Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Upplands-Ekeby IF: A1",
+     "klubb": "Upplands-Ekeby Idrottsförening",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "IK Sirius BTK: C",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Upplands-Ekeby IF: A1",
-     "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 2,
+     "lag": "Vassunda IF",
+     "klubb": "Vassunda Idrottsförening",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -602,11 +626,11 @@
      "placering": 8,
      "lag": "Bro IK: B",
      "klubb": "Bro Idrottsklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -825,13 +849,13 @@
     },
     {
      "placering": 2,
-     "lag": "Ängby SK F4",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
+     "lag": "Järfälla BTF D",
+     "klubb": "Järfälla Bordtennisförening",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -847,13 +871,13 @@
     },
     {
      "placering": 4,
-     "lag": "Järfälla BTF D",
-     "klubb": "Järfälla Bordtennisförening",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Ängby SK F4",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

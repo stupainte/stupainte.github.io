@@ -4,7 +4,7 @@
   "namn": "Kristinehamns Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Kristinehamn",
@@ -80,42 +80,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie_id": "417-5756-0",
-   "serie": "Div 2 ÖSS",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Kristinehamns BTF",
-   "borta": "Linköpings PK: B",
-   "hemma_klubb": "Kristinehamns Bordtennisförening",
-   "borta_klubb": "Linköpings Pingisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Idrottsföreningen Norcopensarna",
-   "arrangorer": [
-    "Idrottsföreningen Norcopensarna"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
-   "serie_id": "417-5756-0",
-   "serie": "Div 2 ÖSS",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Ljungsbro BTK",
-   "borta": "Kristinehamns BTF",
-   "hemma_klubb": "Ljungsbro Bordtennisklubb",
-   "borta_klubb": "Kristinehamns Bordtennisförening",
-   "plats": "A-hallen",
-   "arrangor": "Idrottsföreningen Norcopensarna",
-   "arrangorer": [
-    "Idrottsföreningen Norcopensarna"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "11:00",
@@ -866,9 +830,10 @@
    "hemma_klubb": "Värmskogs Sportklubb",
    "borta_klubb": "Kristinehamns Bordtennisförening",
    "plats": null,
-   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangor": "Kristinehamns Bordtennisförening / Värmskogs Sportklubb",
    "arrangorer": [
-    "Kristinehamns Bordtennisförening"
+    "Kristinehamns Bordtennisförening",
+    "Värmskogs Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 0,
@@ -886,8 +851,9 @@
    "hemma_klubb": "Arvika Bordtennisklubb",
    "borta_klubb": "Kristinehamns Bordtennisförening",
    "plats": null,
-   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangor": "Arvika Bordtennisklubb / Kristinehamns Bordtennisförening",
    "arrangorer": [
+    "Arvika Bordtennisklubb",
     "Kristinehamns Bordtennisförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
@@ -1094,6 +1060,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie_id": "417-5756-0",
+   "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Kristinehamns BTF",
+   "borta": "Linköpings PK: B",
+   "hemma_klubb": "Kristinehamns Bordtennisförening",
+   "borta_klubb": "Linköpings Pingisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie_id": "417-5756-0",
+   "serie": "Div 2 ÖSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Ljungsbro BTK",
+   "borta": "Kristinehamns BTF",
+   "hemma_klubb": "Ljungsbro Bordtennisklubb",
+   "borta_klubb": "Kristinehamns Bordtennisförening",
+   "plats": "A-hallen",
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1422,88 +1428,88 @@
      "placering": 1,
      "lag": "Västerås BTK",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Eskilstuna BTK",
      "klubb": "Eskilstuna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "IF Norcopensarna",
      "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Kristinehamns BTF",
      "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Västers BTK: C",
      "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Linköpings PK: B",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "BTK Safir",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "BTK Safir",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 2,
+     "lag": "Linköpings PK: B",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Ljungsbro BTK",
      "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -1616,11 +1622,11 @@
      "placering": 1,
      "lag": "Björkborn",
      "klubb": "Björkborns Gymnastik O IF",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1636,17 +1642,6 @@
     },
     {
      "placering": 3,
-     "lag": "Värmskog",
-     "klubb": "Värmskogs Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Carlstad",
      "klubb": "Carlstads Bordtennisklubb",
      "spelade": 1,
@@ -1657,7 +1652,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Arvika",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 1,
@@ -1665,6 +1660,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

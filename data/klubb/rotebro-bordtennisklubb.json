@@ -4,7 +4,7 @@
   "namn": "Rotebro Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Rotebro BTK",
@@ -40,42 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "11:00",
-   "serie_id": "417-5755-0",
-   "serie": "Div 2 ÖSN",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "IFK Lidingö BTK",
-   "borta": "Rotebro BTK",
-   "hemma_klubb": "IFK Lidingö Bordtennisklubb",
-   "borta_klubb": "Rotebro Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Ängby Sportklubb",
-   "arrangorer": [
-    "Ängby Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "15:00",
-   "serie_id": "417-5755-0",
-   "serie": "Div 2 ÖSN",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Rotebro BTK",
-   "borta": "Back BTK",
-   "hemma_klubb": "Rotebro Bordtennisklubb",
-   "borta_klubb": "Back Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Ängby Sportklubb",
-   "arrangorer": [
-    "Ängby Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "11:00",
@@ -317,6 +281,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie_id": "417-5755-0",
+   "serie": "Div 2 ÖSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "IFK Lidingö BTK",
+   "borta": "Rotebro BTK",
+   "hemma_klubb": "IFK Lidingö Bordtennisklubb",
+   "borta_klubb": "Rotebro Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie_id": "417-5755-0",
+   "serie": "Div 2 ÖSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Rotebro BTK",
+   "borta": "Back BTK",
+   "hemma_klubb": "Rotebro Bordtennisklubb",
+   "borta_klubb": "Back Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [],
@@ -332,87 +336,87 @@
      "placering": 1,
      "lag": "IFK Lidingö BTK",
      "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Rotebro BTK",
-     "klubb": "Rotebro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Ängby SK: C",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Ängby SK: C",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 2,
+     "lag": "Boo Racketklubb",
+     "klubb": "Boo Racketklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Boo Racketklubb",
-     "klubb": "Boo Racketklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Rotebro BTK",
+     "klubb": "Rotebro Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Hammarby IF BTF: B",
      "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Back BTK",
      "klubb": "Back Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Spårvägens BTK: C1",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "IFK Österåkers BTK: B1",
      "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -438,13 +442,13 @@
     },
     {
      "placering": 2,
-     "lag": "Ängby SK F4",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
+     "lag": "Järfälla BTF D",
+     "klubb": "Järfälla Bordtennisförening",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -460,13 +464,13 @@
     },
     {
      "placering": 4,
-     "lag": "Järfälla BTF D",
-     "klubb": "Järfälla Bordtennisförening",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Ängby SK F4",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Långshyttans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Långshyttans BTK 1",
@@ -24,60 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "523-7409-0",
-   "serie": "Division 6 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "omgang": "Round 1",
-   "hemma": "Långshyttans BTK 2",
-   "borta": "Dala-Järna IK 5",
-   "hemma_klubb": "Långshyttans Bordtennisklubb",
-   "borta_klubb": "Dala-Järna Idrottsklubb",
-   "plats": "Smedjehallen Smb",
-   "arrangor": "Bärke BTK ",
-   "arrangorer": [
-    "Bärke BTK "
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "12:00",
-   "serie_id": "523-7409-0",
-   "serie": "Division 6 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "Långshyttans BTK 2",
-   "borta": "Bärke BTK 2",
-   "hemma_klubb": "Långshyttans Bordtennisklubb",
-   "borta_klubb": "Bärke BTK ",
-   "plats": "Smedjehallen Smb",
-   "arrangor": "Bärke BTK ",
-   "arrangorer": [
-    "Bärke BTK "
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7"
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "14:00",
-   "serie_id": "523-7409-0",
-   "serie": "Division 6 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "omgang": "Round 3",
-   "hemma": "Vikarby IK 3",
-   "borta": "Långshyttans BTK 2",
-   "hemma_klubb": "Vikarby Idrottsklubb",
-   "borta_klubb": "Långshyttans Bordtennisklubb",
-   "plats": "Smedjehallen Smb",
-   "arrangor": "Bärke BTK ",
-   "arrangorer": [
-    "Bärke BTK "
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7"
-  },
   {
    "datum": "2026-10-18",
    "tid": "10:00",
@@ -529,7 +475,68 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-17",
+   "tid": "10:00",
+   "serie_id": "523-7409-0",
+   "serie": "Division 6 Mellersta",
+   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
+   "omgang": "Round 1",
+   "hemma": "Långshyttans BTK 2",
+   "borta": "Dala-Järna IK 5",
+   "hemma_klubb": "Långshyttans Bordtennisklubb",
+   "borta_klubb": "Dala-Järna Idrottsklubb",
+   "plats": "Smedjehallen Smb",
+   "arrangor": "Bärke BTK ",
+   "arrangorer": [
+    "Bärke BTK "
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "12:00",
+   "serie_id": "523-7409-0",
+   "serie": "Division 6 Mellersta",
+   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
+   "omgang": "Round 2",
+   "hemma": "Långshyttans BTK 2",
+   "borta": "Bärke BTK 2",
+   "hemma_klubb": "Långshyttans Bordtennisklubb",
+   "borta_klubb": "Bärke BTK ",
+   "plats": "Smedjehallen Smb",
+   "arrangor": "Bärke BTK ",
+   "arrangorer": [
+    "Bärke BTK "
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "14:00",
+   "serie_id": "523-7409-0",
+   "serie": "Division 6 Mellersta",
+   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
+   "omgang": "Round 3",
+   "hemma": "Vikarby IK 3",
+   "borta": "Långshyttans BTK 2",
+   "hemma_klubb": "Vikarby Idrottsklubb",
+   "borta_klubb": "Långshyttans Bordtennisklubb",
+   "plats": "Smedjehallen Smb",
+   "arrangor": "Bärke BTK ",
+   "arrangorer": [
+    "Bärke BTK "
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [],
  "tabeller": [
   {
@@ -634,93 +641,93 @@
    "serie": "Division 6 Mellersta",
    "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1260/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Långshyttans BTK 2",
      "klubb": "Långshyttans Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Bärke BTK 2",
-     "klubb": "Bärke BTK ",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Dala-Järna IK 5",
+     "klubb": "Dala-Järna Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Vikarby IK 3",
-     "klubb": "Vikarby Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Borlänge BTK 4",
+     "klubb": "Borlänge Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Borlänge BTK 4",
-     "klubb": "Borlänge Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Vikarby IK 2",
+     "klubb": "Vikarby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Falu BTK E",
-     "klubb": "Falu Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Vikarby IK 3",
+     "klubb": "Vikarby Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Vikarby IK 2",
-     "klubb": "Vikarby Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Bärke BTK 2",
+     "klubb": "Bärke BTK ",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Bärke BTK 3",
-     "klubb": "Bärke BTK ",
-     "spelade": 0,
+     "lag": "Falu BTK E",
+     "klubb": "Falu Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Dala-Järna IK 5",
-     "klubb": "Dala-Järna Idrottsklubb",
-     "spelade": 0,
+     "lag": "Bärke BTK 3",
+     "klubb": "Bärke BTK ",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

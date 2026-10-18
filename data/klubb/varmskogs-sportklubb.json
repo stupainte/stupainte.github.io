@@ -4,7 +4,7 @@
   "namn": "Värmskogs Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-12T11:31:18Z",
+ "uppdaterad": "2026-10-18T08:31:26Z",
  "lag": [
   {
    "namn": "Värmskog",
@@ -23,26 +23,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
  ],
- "kommande": [
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
-   "serie_id": "501-7039-0",
-   "serie": "Division 4",
-   "evenemang": "Värmlands BTF",
-   "omgang": "Round 3",
-   "hemma": "Carlstad",
-   "borta": "Värmskog",
-   "hemma_klubb": "Carlstads Bordtennisklubb",
-   "borta_klubb": "Värmskogs Sportklubb",
-   "plats": "Hall 1",
-   "arrangor": "Värmskogs Sportklubb",
-   "arrangorer": [
-    "Värmskogs Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7"
-  }
- ],
+ "kommande": [],
  "resultat": [
   {
    "datum": "",
@@ -96,9 +77,10 @@
    "hemma_klubb": "Värmskogs Sportklubb",
    "borta_klubb": "Kristinehamns Bordtennisförening",
    "plats": null,
-   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangor": "Kristinehamns Bordtennisförening / Värmskogs Sportklubb",
    "arrangorer": [
-    "Kristinehamns Bordtennisförening"
+    "Kristinehamns Bordtennisförening",
+    "Värmskogs Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 0,
@@ -116,47 +98,38 @@
    "hemma_klubb": "Värmskogs Sportklubb",
    "borta_klubb": "Kils Bordtennisklubb",
    "plats": null,
-   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangor": "Kristinehamns Bordtennisförening / Värmskogs Sportklubb",
    "arrangorer": [
-    "Kristinehamns Bordtennisförening"
+    "Kristinehamns Bordtennisförening",
+    "Värmskogs Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7039-0",
+   "serie": "Division 4",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 4",
+   "hemma": "Björkborn",
+   "borta": "Värmskog",
+   "hemma_klubb": "Björkborns Gymnastik O IF",
+   "borta_klubb": "Värmskogs Sportklubb",
+   "plats": null,
+   "arrangor": "Björkborns Gymnastik O IF / Värmskogs Sportklubb",
+   "arrangorer": [
+    "Björkborns Gymnastik O IF",
+    "Värmskogs Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   }
  ],
- "arrangerar": [
-  {
-   "datum": "2026-10-17",
-   "platser": [
-    "Hall 1"
-   ],
-   "serier": [
-    "Division 4"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-17",
-     "tid": "10:00",
-     "serie_id": "501-7039-0",
-     "serie": "Division 4",
-     "evenemang": "Värmlands BTF",
-     "omgang": "Round 3",
-     "hemma": "Carlstad",
-     "borta": "Värmskog",
-     "hemma_klubb": "Carlstads Bordtennisklubb",
-     "borta_klubb": "Värmskogs Sportklubb",
-     "plats": "Hall 1",
-     "arrangor": "Värmskogs Sportklubb",
-     "arrangorer": [
-      "Värmskogs Sportklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1059/2/7/7"
-    }
-   ]
-  }
- ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie_id": "501-7039-0",
@@ -169,11 +142,11 @@
      "placering": 1,
      "lag": "Björkborn",
      "klubb": "Björkborns Gymnastik O IF",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -189,17 +162,6 @@
     },
     {
      "placering": 3,
-     "lag": "Värmskog",
-     "klubb": "Värmskogs Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Carlstad",
      "klubb": "Carlstads Bordtennisklubb",
      "spelade": 1,
@@ -210,7 +172,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Arvika",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 1,
@@ -218,6 +180,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Värmskog",
+     "klubb": "Värmskogs Sportklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
