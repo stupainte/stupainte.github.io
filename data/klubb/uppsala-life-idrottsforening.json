@@ -4,7 +4,7 @@
   "namn": "Uppsala Life Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Uppsala Life IF A",
@@ -48,42 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "10:00",
-   "serie_id": "435-6095-0",
-   "serie": "Division 5A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Sunnersta AIF C1",
-   "borta": "Uppsala Life IF B",
-   "hemma_klubb": "Sunnersta Allmänna IF",
-   "borta_klubb": "Uppsala Life Idrottsförening",
-   "plats": "Idrottshuset",
-   "arrangor": "Stratos Enköping Bordtennisklubb",
-   "arrangorer": [
-    "Stratos Enköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "14:00",
-   "serie_id": "435-6095-0",
-   "serie": "Division 5A",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "IK Sirius BTK E1",
-   "borta": "Uppsala Life IF B",
-   "hemma_klubb": "IK Sirius Bordtennisklubb",
-   "borta_klubb": "Uppsala Life Idrottsförening",
-   "plats": "Idrottshuset",
-   "arrangor": "Stratos Enköping Bordtennisklubb",
-   "arrangorer": [
-    "Stratos Enköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -1311,6 +1275,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie_id": "435-6095-0",
+   "serie": "Division 5A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Sunnersta AIF C1",
+   "borta": "Uppsala Life IF B",
+   "hemma_klubb": "Sunnersta Allmänna IF",
+   "borta_klubb": "Uppsala Life Idrottsförening",
+   "plats": "Idrottshuset",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "14:00",
+   "serie_id": "435-6095-0",
+   "serie": "Division 5A",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "IK Sirius BTK E1",
+   "borta": "Uppsala Life IF B",
+   "hemma_klubb": "IK Sirius Bordtennisklubb",
+   "borta_klubb": "Uppsala Life Idrottsförening",
+   "plats": "Idrottshuset",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-14",
    "tid": "13:00",
    "serie_id": "435-6117-0",
@@ -2369,43 +2373,43 @@
      "placering": 1,
      "lag": "Enköpings Pingisveteraner A",
      "klubb": "Enköpings Pingisveteraner",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Heby AIF B",
-     "klubb": "Heby Allmänna Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Bålsta BTK A",
+     "klubb": "Bålsta Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Bålsta BTK A",
-     "klubb": "Bålsta Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Sunnersta AIF C1",
+     "klubb": "Sunnersta Allmänna IF",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sunnersta AIF C1",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 2,
+     "lag": "Heby AIF B",
+     "klubb": "Heby Allmänna Idrottsförening",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2413,43 +2417,43 @@
      "placering": 5,
      "lag": "Gefle PK D1",
      "klubb": "Gefle Pingisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Stratos Enköping BTK D",
-     "klubb": "Stratos Enköping Bordtennisklubb",
-     "spelade": 2,
+     "lag": "IK Sirius BTK E1",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "IK Sirius BTK E1",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Uppsala Life IF B",
+     "klubb": "Uppsala Life Idrottsförening",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Uppsala Life IF B",
-     "klubb": "Uppsala Life Idrottsförening",
-     "spelade": 2,
+     "lag": "Stratos Enköping BTK D",
+     "klubb": "Stratos Enköping Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

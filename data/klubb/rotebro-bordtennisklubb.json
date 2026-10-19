@@ -4,7 +4,7 @@
   "namn": "Rotebro Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Rotebro BTK",
@@ -241,6 +241,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7934-0",
+   "serie": "Div 7 Norra B",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Hammarby IF BTF F4",
+   "borta": "Rotebro BTK C2",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Rotebro Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1590/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "2026-09-19",
@@ -625,41 +645,41 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Djurgårdens IF BTF C1",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Hammarby IF BTF F4",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Solna BTK D1",
      "klubb": "Solna Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Hammarby IF BTF F4",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
+     "lag": "KFUM Stocksund E2",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "KFUM Stocksund E2",
-     "klubb": "KFUM Stocksund IA",
+     "lag": "Djurgårdens IF BTF C1",
+     "klubb": "Djurgårdens IF BTF",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -682,10 +702,10 @@
      "placering": 6,
      "lag": "Rotebro BTK C2",
      "klubb": "Rotebro Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Lilla Alby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Lilla Alby SK",
@@ -49,6 +49,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Solna BTK A1",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Bro IK B",
      "klubb": "Bro Idrottsklubb",
      "spelade": 2,
@@ -59,7 +70,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IFK Österåkers BTK B",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 2,
@@ -70,20 +81,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Hässelby PBK B",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Solna BTK A1",
-     "klubb": "Solna Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -104,18 +104,18 @@
     },
     {
      "placering": 6,
-     "lag": "Spånga P. C1",
+     "lag": "Spånga P. C2",
      "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Spånga P. C2",
+     "lag": "Spånga P. C1",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
@@ -128,10 +128,10 @@
      "placering": 8,
      "lag": "Norrtulls SK A2",
      "klubb": "Norrtulls Sportklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

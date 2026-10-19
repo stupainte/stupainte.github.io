@@ -4,7 +4,7 @@
   "namn": "Bohus Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-17T08:13:53Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Bohus IF A",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "10:00",
-   "serie_id": "371-7264-0",
-   "serie": "Division 10",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "Kungälvs BTK G",
-   "borta": "Bohus IF A",
-   "hemma_klubb": "Kungälvs Bordtennisklubb",
-   "borta_klubb": "Bohus Idrottsförening",
-   "plats": "Brushanestigen 3",
-   "arrangor": "Kungälvs Bordtennisklubb",
-   "arrangorer": [
-    "Kungälvs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "14:00",
@@ -233,7 +215,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-18",
+   "tid": "10:00",
+   "serie_id": "371-7264-0",
+   "serie": "Division 10",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Kungälvs BTK G",
+   "borta": "Bohus IF A",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bohus Idrottsförening",
+   "plats": "Brushanestigen 3",
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-12-13",
@@ -422,21 +425,10 @@
    "serie": "Division 10",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Backa BTK C",
-     "klubb": "Backa Bordtennis Klubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
      "lag": "Askims BTK E",
      "klubb": "Askims Bordtennisklubb",
      "spelade": 0,
@@ -447,9 +439,20 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 2,
+     "lag": "Bohus IF A",
+     "klubb": "Bohus Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 3,
-     "lag": "Kungälvs BTK G",
-     "klubb": "Kungälvs Bordtennisklubb",
+     "lag": "Rudalens IF E",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -470,8 +473,8 @@
     },
     {
      "placering": 5,
-     "lag": "Rudalens IF E",
-     "klubb": "Rudalens Idrottsförening",
+     "lag": "Torslanda IK E",
+     "klubb": "Torslanda Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -481,19 +484,19 @@
     },
     {
      "placering": 6,
-     "lag": "Bohus IF A",
-     "klubb": "Bohus Idrottsförening",
-     "spelade": 0,
+     "lag": "Kungälvs BTK G",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Torslanda IK E",
-     "klubb": "Torslanda Idrottsklubb",
+     "lag": "Backa BTK C",
+     "klubb": "Backa Bordtennis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

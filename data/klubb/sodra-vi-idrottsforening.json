@@ -4,7 +4,7 @@
   "namn": "Södra Vi Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Södra VI IF A",
@@ -343,6 +343,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "BTK Frej E",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
      "spelade": 3,
@@ -353,25 +364,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "BTK Frej E",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
      "lag": "Bruzaholms SK B",
      "klubb": "Bruzaholms Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -389,26 +389,15 @@
      "placering": 5,
      "lag": "Vetlanda BTK B",
      "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Lessebo BTK C",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Vaggeryds BTK C",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 2,
@@ -417,6 +406,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–264"
+    },
+    {
+     "placering": 7,
+     "lag": "Lessebo BTK C",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   }

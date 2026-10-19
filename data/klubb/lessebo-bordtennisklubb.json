@@ -4,7 +4,7 @@
   "namn": "Lessebo Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-14T09:12:43Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Lessebo BTK",
@@ -40,42 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6761-0",
-   "serie": "Div 6 Norra B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Lessebo BTK C",
-   "borta": "Bruzaholms SK B",
-   "hemma_klubb": "Lessebo Bordtennisklubb",
-   "borta_klubb": "Bruzaholms Sportklubb",
-   "plats": "Kappelt Lessebo",
-   "arrangor": "Lessebo Bordtennisklubb",
-   "arrangorer": [
-    "Lessebo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7"
-  },
-  {
-   "datum": "2026-10-18",
-   "tid": "13:00",
-   "serie_id": "372-6757-0",
-   "serie": "DIV 5 Mellersta",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Lessebo BTK B",
-   "borta": "BTK Frej C",
-   "hemma_klubb": "Lessebo Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Frej",
-   "plats": "Kappelt Lessebo",
-   "arrangor": "Lessebo Bordtennisklubb",
-   "arrangorer": [
-    "Lessebo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "11:00",
@@ -1039,58 +1003,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
+   "serie_id": "372-6761-0",
+   "serie": "Div 6 Norra B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Lessebo BTK C",
+   "borta": "Bruzaholms SK B",
+   "hemma_klubb": "Lessebo Bordtennisklubb",
+   "borta_klubb": "Bruzaholms Sportklubb",
+   "plats": "Kappelt Lessebo",
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
+   "serie_id": "372-6757-0",
+   "serie": "DIV 5 Mellersta",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Lessebo BTK B",
+   "borta": "BTK Frej C",
+   "hemma_klubb": "Lessebo Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Kappelt Lessebo",
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-18",
-   "platser": [
-    "Kappelt Lessebo"
-   ],
-   "serier": [
-    "DIV 5 Mellersta",
-    "Div 6 Norra B"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-10-18",
-     "tid": "13:00",
-     "serie_id": "372-6757-0",
-     "serie": "DIV 5 Mellersta",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Lessebo BTK B",
-     "borta": "BTK Frej C",
-     "hemma_klubb": "Lessebo Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Frej",
-     "plats": "Kappelt Lessebo",
-     "arrangor": "Lessebo Bordtennisklubb",
-     "arrangorer": [
-      "Lessebo Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-    },
-    {
-     "datum": "2026-10-18",
-     "tid": "13:00",
-     "serie_id": "372-6761-0",
-     "serie": "Div 6 Norra B",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Lessebo BTK C",
-     "borta": "Bruzaholms SK B",
-     "hemma_klubb": "Lessebo Bordtennisklubb",
-     "borta_klubb": "Bruzaholms Sportklubb",
-     "plats": "Kappelt Lessebo",
-     "arrangor": "Lessebo Bordtennisklubb",
-     "arrangorer": [
-      "Lessebo Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -2032,46 +1987,46 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Frej C",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Lessebo BTK B",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Lessebo BTK B",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 3,
+     "lag": "BTK Frej C",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Ljungby BTK A",
-     "klubb": "Ljungby Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Böksholms IF A",
+     "klubb": "Böksholms Idrottsförening",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Böksholms IF A",
-     "klubb": "Böksholms Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "Ljungby BTK A",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -2129,6 +2084,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "BTK Frej E",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
      "spelade": 3,
@@ -2139,25 +2105,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "BTK Frej E",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
      "lag": "Bruzaholms SK B",
      "klubb": "Bruzaholms Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2175,26 +2130,15 @@
      "placering": 5,
      "lag": "Vetlanda BTK B",
      "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Lessebo BTK C",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Vaggeryds BTK C",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 2,
@@ -2203,6 +2147,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–264"
+    },
+    {
+     "placering": 7,
+     "lag": "Lessebo BTK C",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   }

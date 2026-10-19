@@ -4,7 +4,7 @@
   "namn": "Romelanda Ungdomsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-19T10:54:27Z",
  "lag": [
   {
    "namn": "Romelanda UF",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-18",
-   "tid": "15:00",
-   "serie_id": "371-7239-0",
-   "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 1",
-   "hemma": "Rudalens IF B",
-   "borta": "Romelanda UF",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Romelanda Ungdomsförening",
-   "plats": "Frölunda Kulturhus, lilla hallen",
-   "arrangor": "Rudalens Idrottsförening",
-   "arrangorer": [
-    "Rudalens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "14:00",
@@ -269,7 +251,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-10-18",
+   "tid": "15:00",
+   "serie_id": "371-7239-0",
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 1",
+   "hemma": "Rudalens IF B",
+   "borta": "Romelanda UF",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Romelanda Ungdomsförening",
+   "plats": "Frölunda Kulturhus, lilla hallen",
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-11-17",
@@ -492,6 +495,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Mölndals BTK D",
+     "klubb": "Mölndals Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Lindome BTK C",
      "klubb": "Lindome Bordtennisklubb",
      "spelade": 1,
@@ -502,20 +516,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Mölndals BTK D",
-     "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Askims BTK D",
-     "klubb": "Askims Bordtennisklubb",
+     "lag": "Rudalens IF B",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -547,17 +550,6 @@
     },
     {
      "placering": 6,
-     "lag": "Rudalens IF B",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Romelanda UF",
      "klubb": "Romelanda Ungdomsförening",
      "spelade": 0,
@@ -568,9 +560,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Kungälvs BTK E",
      "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK D",
+     "klubb": "Askims Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
