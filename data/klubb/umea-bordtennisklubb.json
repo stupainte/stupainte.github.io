@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-19T10:54:27Z",
+ "uppdaterad": "2026-10-20T09:07:46Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -478,42 +478,6 @@
    "hemma": "Luleå PF B",
    "borta": "Umeå BTK D",
    "hemma_klubb": "Luleå Pingisförening",
-   "borta_klubb": "Umeå Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Luleå Pingisförening",
-   "arrangorer": [
-    "Luleå Pingisförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7"
-  },
-  {
-   "datum": "2027-01-16",
-   "tid": "10:00",
-   "serie_id": "376-6931-0",
-   "serie": "Div 4 Norra",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 6",
-   "hemma": "Umeå BTK C",
-   "borta": "Umeå BTK E",
-   "hemma_klubb": "Umeå Bordtennisklubb",
-   "borta_klubb": "Umeå Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Luleå Pingisförening",
-   "arrangorer": [
-    "Luleå Pingisförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7"
-  },
-  {
-   "datum": "2027-01-16",
-   "tid": "10:00",
-   "serie_id": "376-6931-0",
-   "serie": "Div 4 Norra",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 6",
-   "hemma": "Umeå BTK C",
-   "borta": "Umeå BTK E",
-   "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Vinstahallen",
    "arrangor": "Luleå Pingisförening",
@@ -2155,6 +2119,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "10:00",
+   "serie_id": "376-6931-0",
+   "serie": "Div 4 Norra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 6",
+   "hemma": "Umeå BTK C",
+   "borta": "Umeå BTK E",
+   "hemma_klubb": "Umeå Bordtennisklubb",
+   "borta_klubb": "Umeå Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Luleå Pingisförening",
+   "arrangorer": [
+    "Luleå Pingisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "10:00",
+   "serie_id": "376-6931-0",
+   "serie": "Div 4 Norra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 6",
+   "hemma": "Umeå BTK C",
+   "borta": "Umeå BTK E",
+   "hemma_klubb": "Umeå Bordtennisklubb",
+   "borta_klubb": "Umeå Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Luleå Pingisförening",
+   "arrangorer": [
+    "Luleå Pingisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1347/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3279,6 +3283,17 @@
     },
     {
      "placering": 3,
+     "lag": "Umeå BTK C",
+     "klubb": "Umeå Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Pitepingis BTF",
      "klubb": "PitePingis Bordtennisförening",
      "spelade": 5,
@@ -3289,20 +3304,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Skellefteå AIK BTF C",
      "klubb": "Skellefteå AIK BTF",
-     "spelade": 5,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Umeå BTK C",
-     "klubb": "Umeå Bordtennisklubb",
      "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
@@ -3336,10 +3340,10 @@
      "placering": 8,
      "lag": "Umeå BTK E",
      "klubb": "Umeå Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

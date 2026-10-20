@@ -4,7 +4,7 @@
   "namn": "Kullahalvöns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-19T10:54:27Z",
+ "uppdaterad": "2026-10-20T09:07:46Z",
  "lag": [
   {
    "namn": "Kullahalvöns BTK",
@@ -731,6 +731,26 @@
   {
    "datum": "2026-10-18",
    "tid": "12:30",
+   "serie_id": "513-7444-0",
+   "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Kullahalvöns BTK Blå",
+   "borta": "Kågeröds BTK Youth",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": "Bordtennisklubben Scania",
+   "arrangorer": [
+    "Bordtennisklubben Scania"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "12:30",
    "serie_id": "513-7445-0",
    "serie": "Division 6 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
@@ -1315,8 +1335,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Bjärreds BTK D",
-     "klubb": "Bjärreds Bordtennisklubb",
+     "lag": "Kågeröds BTK Youth",
+     "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1326,13 +1346,13 @@
     },
     {
      "placering": 2,
-     "lag": "Kågeröds BTK Youth",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Bjärreds BTK D",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1370,19 +1390,19 @@
     },
     {
      "placering": 6,
-     "lag": "Kullahalvöns BTK Blå",
-     "klubb": "Kullahalvöns Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kvarnby AK E",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Kvarnby AK E",
-     "klubb": "Kvarnby Atletklubb",
+     "lag": "Kullahalvöns BTK Blå",
+     "klubb": "Kullahalvöns Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
