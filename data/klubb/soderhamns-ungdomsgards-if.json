@@ -4,7 +4,7 @@
   "namn": "Söderhamns Ungdomsgårds IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-19T10:54:27Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "Söderhamns UIF",
@@ -88,24 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-20",
-   "tid": "18:30",
-   "serie_id": "417-5727-0",
-   "serie": "Pingisligan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Söderhamns UIF",
-   "borta": "Eskilstuna by STIGA",
-   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
-   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
-   "plats": "A-hallen",
-   "arrangor": "Söderhamns Ungdomsgårds IF",
-   "arrangorer": [
-    "Söderhamns Ungdomsgårds IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
-  },
   {
    "datum": "2026-10-24",
    "tid": "10:00",
@@ -2061,6 +2043,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-20",
+   "tid": "18:30",
+   "serie_id": "417-5727-0",
+   "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Söderhamns UIF",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "A-hallen",
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 3
+  },
+  {
    "datum": "2027-03-14",
    "tid": "15:00",
    "serie_id": "417-5815-0",
@@ -2082,36 +2084,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-20",
-   "platser": [
-    "A-hallen"
-   ],
-   "serier": [
-    "Pingisligan (herr)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-20",
-     "tid": "18:30",
-     "serie_id": "417-5727-0",
-     "serie": "Pingisligan (herr)",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 3",
-     "hemma": "Söderhamns UIF",
-     "borta": "Eskilstuna by STIGA",
-     "hemma_klubb": "Söderhamns Ungdomsgårds IF",
-     "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
-     "plats": "A-hallen",
-     "arrangor": "Söderhamns Ungdomsgårds IF",
-     "arrangorer": [
-      "Söderhamns Ungdomsgårds IF"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -3393,17 +3365,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
      "lag": "Eslövs AI BTK",
      "klubb": "Eslövs AI Bordtennisklubb",
      "spelade": 1,
@@ -3414,18 +3375,40 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 2,
      "lag": "Eskilstuna by STIGA",
      "klubb": "Linden Bordtennisklubb Eskilstuna",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 3,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Kosta SK",
      "klubb": "Kosta Sportklubb",
      "spelade": 2,
@@ -3436,7 +3419,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "BTK Rekord",
      "klubb": "Bordtennisklubben Rekord",
      "spelade": 2,
@@ -3444,17 +3427,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Halmstad BTK",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {

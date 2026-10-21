@@ -4,7 +4,7 @@
   "namn": "Kvarnby Atletklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "Kvarnby AK A",
@@ -78,8 +78,10 @@
    "hemma_klubb": "Trelleborgs Bordtennisklubb",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "Söderslättshallen, Trelleborg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
@@ -101,8 +103,8 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
-   "datum": "2026-10-24",
-   "tid": "10:00",
+   "datum": "2026-10-26",
+   "tid": "18:30",
    "serie_id": "513-7447-0",
    "serie": "Division 5 Södra 1",
    "evenemang": "Skåneserier Senior herr/dam",
@@ -112,9 +114,10 @@
    "hemma_klubb": "Kvarnby Atletklubb",
    "borta_klubb": "FIFH Malmö Parasportförening",
    "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": "Kvarnby Atletklubb",
+   "arrangor": "Kvarnby Atletklubb / FIFH Malmö Parasportförening",
    "arrangorer": [
-    "Kvarnby Atletklubb"
+    "Kvarnby Atletklubb",
+    "FIFH Malmö Parasportförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
@@ -1152,29 +1155,10 @@
     "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
    ],
    "serier": [
-    "Division 5 Södra 1",
     "Division 5 Södra 2"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
-    {
-     "datum": "2026-10-24",
-     "tid": "10:00",
-     "serie_id": "513-7447-0",
-     "serie": "Division 5 Södra 1",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "Kvarnby AK B",
-     "borta": "FIFH Malmö B",
-     "hemma_klubb": "Kvarnby Atletklubb",
-     "borta_klubb": "FIFH Malmö Parasportförening",
-     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-     "arrangor": "Kvarnby Atletklubb",
-     "arrangorer": [
-      "Kvarnby Atletklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-    },
     {
      "datum": "2026-10-24",
      "tid": "10:00",
@@ -1192,6 +1176,37 @@
       "Kvarnby Atletklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-26",
+   "platser": [
+    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
+   ],
+   "serier": [
+    "Division 5 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-26",
+     "tid": "18:30",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "Kvarnby AK B",
+     "borta": "FIFH Malmö B",
+     "hemma_klubb": "Kvarnby Atletklubb",
+     "borta_klubb": "FIFH Malmö Parasportförening",
+     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+     "arrangor": "Kvarnby Atletklubb / FIFH Malmö Parasportförening",
+     "arrangorer": [
+      "Kvarnby Atletklubb",
+      "FIFH Malmö Parasportförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
     }
    ]
   },
@@ -1649,17 +1664,28 @@
     },
     {
      "placering": 2,
-     "lag": "IF Ale B",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "FIFH Malmö A",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "IF Ale B",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Malmö IF D",
      "klubb": "Malmö Idrottsförening",
      "spelade": 0,
@@ -1670,20 +1696,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Malmö IF C",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "FIFH Malmö A",
-     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1832,6 +1847,17 @@
     },
     {
      "placering": 2,
+     "lag": "Trelleborgs BTK E",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IFK Lund E4",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 1,
@@ -1842,7 +1868,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Malmö IF G",
      "klubb": "Malmö Idrottsförening",
      "spelade": 1,
@@ -1853,29 +1879,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Trelleborgs BTK E",
-     "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Malmö IF F",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "IF Ale C ",
      "klubb": "Idrottsföreningen Ale",
      "spelade": 1,
@@ -1886,13 +1890,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Kvarnby AK C",
      "klubb": "Kvarnby Atletklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Malmö IF F",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

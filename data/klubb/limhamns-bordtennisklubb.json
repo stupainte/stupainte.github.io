@@ -4,7 +4,7 @@
   "namn": "Limhamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "Limhamns BTK A",
@@ -78,8 +78,10 @@
    "hemma_klubb": "Limhamns Bordtennisklubb",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Limhamns Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
@@ -171,22 +173,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7"
   },
   {
-   "datum": "2026-11-18",
-   "tid": "19:00",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Limhamns BTK B",
-   "borta": "FIFH Malmö B",
-   "hemma_klubb": "Limhamns Bordtennisklubb",
-   "borta_klubb": "FIFH Malmö Parasportförening",
-   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
-  {
    "datum": "2026-11-19",
    "tid": "19:00",
    "serie_id": "513-7452-0",
@@ -201,6 +187,22 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
+  },
+  {
+   "datum": "2026-11-20",
+   "tid": "18:30",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Limhamns BTK B",
+   "borta": "FIFH Malmö B",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "FIFH Malmö Parasportförening",
+   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
    "datum": "2026-11-25",
@@ -1191,7 +1193,38 @@
    "borta_poang": 2
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-21",
+   "platser": [
+    "Limhamns Sporthall, Grönalundsgatan 6"
+   ],
+   "serier": [
+    "Division 4 Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-21",
+     "tid": "19:00",
+     "serie_id": "513-7452-0",
+     "serie": "Division 4 Södra",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "Limhamns BTK A",
+     "borta": "Malmö IF C",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+     "arrangor": "Limhamns Bordtennisklubb",
+     "arrangorer": [
+      "Limhamns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "513-7452-0",
@@ -1213,17 +1246,28 @@
     },
     {
      "placering": 2,
-     "lag": "IF Ale B",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "FIFH Malmö A",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "IF Ale B",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Malmö IF D",
      "klubb": "Malmö Idrottsförening",
      "spelade": 0,
@@ -1234,20 +1278,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Malmö IF C",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "FIFH Malmö A",
-     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

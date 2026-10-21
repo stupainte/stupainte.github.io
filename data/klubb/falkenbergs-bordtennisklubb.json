@@ -4,7 +4,7 @@
   "namn": "Falkenbergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "Falkenbergs BTK",
@@ -81,24 +81,6 @@
     "Falkenbergs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
-  {
-   "datum": "2026-10-25",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Skedala BTK B",
-   "borta": "Falkenbergs BTK E",
-   "hemma_klubb": "Skedala Bordtennisklubb",
-   "borta_klubb": "Falkenbergs Bordtennisklubb",
-   "plats": "Skedala",
-   "arrangor": "Skedala Bordtennisklubb",
-   "arrangorer": [
-    "Skedala Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
   },
   {
    "datum": "2026-11-08",
@@ -1143,6 +1125,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-19",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "Skedala BTK B",
+   "borta": "Falkenbergs BTK E",
+   "hemma_klubb": "Skedala Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Skedala",
+   "arrangor": "Skedala Bordtennisklubb",
+   "arrangorer": [
+    "Skedala Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1563,11 +1565,11 @@
      "placering": 2,
      "lag": "Sibbarps GoIF B",
      "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1596,10 +1598,10 @@
      "placering": 5,
      "lag": "BTK Ratic C2",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1808,6 +1810,17 @@
     },
     {
      "placering": 4,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Halmstad BTK G2",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 2,
@@ -1818,7 +1831,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "BTK Ratic D",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 3,
@@ -1826,17 +1839,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -1854,10 +1856,10 @@
      "placering": 8,
      "lag": "Falkenbergs BTK E",
      "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

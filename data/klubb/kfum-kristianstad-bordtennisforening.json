@@ -4,7 +4,7 @@
   "namn": "KFUM Kristianstad Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "KFUM Kristianstad BTF",
@@ -68,8 +68,10 @@
    "hemma_klubb": "Degeberga Gymnastik O IF",
    "borta_klubb": "KFUM Kristianstad Bordtennisförening",
    "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Degeberga Gymnastik O IF",
+   "arrangorer": [
+    "Degeberga Gymnastik O IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -102,8 +104,10 @@
    "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
    "borta_klubb": "Arkelstorps Bordtennisklubb",
    "plats": "Bordtennishallen i Kristianstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "KFUM Kristianstad Bordtennisförening",
+   "arrangorer": [
+    "KFUM Kristianstad Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -1068,10 +1072,29 @@
     "Bordtennishallen i Kristianstad Arena"
    ],
    "serier": [
+    "Division 4 Nordöstra (1)",
     "Division 5 Nordöstra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-10-23",
+     "tid": "19:00",
+     "serie_id": "513-7451-0",
+     "serie": "Division 4 Nordöstra (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 2",
+     "hemma": "KFUM Kristianstad BTF C",
+     "borta": "Arkelstorps BTK A",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Arkelstorps Bordtennisklubb",
+     "plats": "Bordtennishallen i Kristianstad Arena",
+     "arrangor": "KFUM Kristianstad Bordtennisförening",
+     "arrangorer": [
+      "KFUM Kristianstad Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
+    },
     {
      "datum": "2026-10-23",
      "tid": "19:00",
@@ -1380,19 +1403,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "KFUM Kristianstad BTF B",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Hässleholms BTK A",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Hässleholms BTK A",
-     "klubb": "Hässleholms Bordtennisklubb",
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1404,10 +1427,10 @@
      "placering": 3,
      "lag": "Winnö IF A",
      "klubb": "Winnö Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

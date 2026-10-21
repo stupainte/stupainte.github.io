@@ -4,7 +4,7 @@
   "namn": "Rydöbruks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-10-21T09:05:10Z",
  "lag": [
   {
    "namn": "Rydöbruks IF A",
@@ -57,6 +57,24 @@
  ],
  "kommande": [
   {
+   "datum": "2026-10-21",
+   "tid": "18:30",
+   "serie_id": "411-7594-0",
+   "serie": "Division 6 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "Rydöbruks IF B1",
+   "borta": "Asige BTK A",
+   "hemma_klubb": "Rydöbruks Idrottsförening",
+   "borta_klubb": "Asige Bordtennisklubb",
+   "plats": "Rydöbruk",
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
+  },
+  {
    "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7533-0",
@@ -73,24 +91,6 @@
     "Bordtennisklubben Ratic"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
-  {
-   "datum": "2026-10-25",
-   "tid": "19:00",
-   "serie_id": "411-7594-0",
-   "serie": "Division 6 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Rydöbruks IF B1",
-   "borta": "Asige BTK A",
-   "hemma_klubb": "Rydöbruks Idrottsförening",
-   "borta_klubb": "Asige Bordtennisklubb",
-   "plats": "Rydöbruk",
-   "arrangor": "Rydöbruks Idrottsförening",
-   "arrangorer": [
-    "Rydöbruks Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
   },
   {
    "datum": "2026-11-08",
@@ -415,18 +415,18 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-25",
+   "datum": "2026-10-21",
    "platser": [
     "Rydöbruk"
    ],
    "serier": [
     "Division 6 Mellersta (1)"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
     {
-     "datum": "2026-10-25",
-     "tid": "19:00",
+     "datum": "2026-10-21",
+     "tid": "18:30",
      "serie_id": "411-7594-0",
      "serie": "Division 6 Mellersta (1)",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -441,7 +441,19 @@
       "Rydöbruks Idrottsförening"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-25",
+   "platser": [
+    "Rydöbruk"
+   ],
+   "serier": [
+    "Division 6 Mellersta (1)"
+   ],
+   "antal": 1,
+   "matcher": [
     {
      "datum": "2026-10-25",
      "tid": "19:00",
@@ -627,11 +639,11 @@
      "placering": 2,
      "lag": "Sibbarps GoIF B",
      "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -660,10 +672,10 @@
      "placering": 5,
      "lag": "BTK Ratic C2",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
