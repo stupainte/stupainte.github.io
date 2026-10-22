@@ -4,7 +4,7 @@
   "namn": "Falkenbergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Falkenbergs BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "19:00",
-   "serie_id": "411-7533-0",
-   "serie": "Division 5 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Falkenbergs BTK C",
-   "borta": "Halmstad BTK E2",
-   "hemma_klubb": "Falkenbergs Bordtennisklubb",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Tullbrohallen Falkenberg",
-   "arrangor": "Falkenbergs Bordtennisklubb",
-   "arrangorer": [
-    "Falkenbergs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "19:00",
@@ -1145,6 +1127,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "19:00",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "Falkenbergs BTK C",
+   "borta": "Halmstad BTK E2",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Tullbrohallen Falkenberg",
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1174,7 +1176,9 @@
      "arrangorer": [
       "Falkenbergs Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1554,11 +1558,11 @@
      "placering": 1,
      "lag": "Falkenbergs BTK C",
      "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1587,10 +1591,10 @@
      "placering": 4,
      "lag": "Halmstad BTK E2",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Limhamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Limhamns BTK A",
@@ -48,42 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-21",
-   "tid": "18:00",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Malmö IF E",
-   "borta": "Limhamns BTK B",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "Limhamns Bordtennisklubb",
-   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": "Malmö Idrottsförening",
-   "arrangorer": [
-    "Malmö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
-  {
-   "datum": "2026-10-21",
-   "tid": "19:00",
-   "serie_id": "513-7452-0",
-   "serie": "Division 4 Södra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Limhamns BTK A",
-   "borta": "Malmö IF C",
-   "hemma_klubb": "Limhamns Bordtennisklubb",
-   "borta_klubb": "Malmö Idrottsförening",
-   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": "Limhamns Bordtennisklubb",
-   "arrangorer": [
-    "Limhamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-  },
   {
    "datum": "2026-11-11",
    "tid": "19:00",
@@ -1191,40 +1155,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
-  }
- ],
- "arrangerar": [
+  },
   {
    "datum": "2026-10-21",
-   "platser": [
-    "Limhamns Sporthall, Grönalundsgatan 6"
+   "tid": "18:00",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF E",
+   "borta": "Limhamns BTK B",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
    ],
-   "serier": [
-    "Division 4 Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-21",
-     "tid": "19:00",
-     "serie_id": "513-7452-0",
-     "serie": "Division 4 Södra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "Limhamns BTK A",
-     "borta": "Malmö IF C",
-     "hemma_klubb": "Limhamns Bordtennisklubb",
-     "borta_klubb": "Malmö Idrottsförening",
-     "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-     "arrangor": "Limhamns Bordtennisklubb",
-     "arrangorer": [
-      "Limhamns Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-    }
-   ]
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie_id": "513-7452-0",
@@ -1235,19 +1188,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Trelleborgs BTK C",
-     "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "FIFH Malmö A",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "FIFH Malmö A",
-     "klubb": "FIFH Malmö Parasportförening",
+     "lag": "Trelleborgs BTK C",
+     "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1290,17 +1243,6 @@
     },
     {
      "placering": 6,
-     "lag": "Kvarnby AK A",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Limhamns BTK A",
      "klubb": "Limhamns Bordtennisklubb",
      "spelade": 0,
@@ -1311,9 +1253,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Trelleborgs BTK D",
      "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kvarnby AK A",
+     "klubb": "Kvarnby Atletklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1334,11 +1287,11 @@
      "placering": 1,
      "lag": "Bjärreds BTK B",
      "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1354,6 +1307,17 @@
     },
     {
      "placering": 3,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Skurups BTK B",
      "klubb": "Skurups Bordtennisklubb",
      "spelade": 1,
@@ -1364,20 +1328,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "IFK Lund E3",
-     "klubb": "IFK Lund Bordtennis",
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1387,23 +1340,23 @@
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 1,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 1,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

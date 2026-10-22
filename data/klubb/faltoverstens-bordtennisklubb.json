@@ -4,7 +4,7 @@
   "namn": "Fältöverstens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Fältöverstens BTK",
@@ -206,6 +206,27 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7789-0",
+   "serie": "Pensionär Serie D Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Fältöverstens BTK B",
+   "borta": "St.-Postens IK",
+   "hemma_klubb": "Fältöverstens Bordtennisklubb",
+   "borta_klubb": "Stockholms-Postens IK",
+   "plats": null,
+   "arrangor": "Fältöverstens Bordtennisklubb / Stockholms-Postens IK",
+   "arrangorer": [
+    "Fältöverstens Bordtennisklubb",
+    "Stockholms-Postens IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1581/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7784-0",
    "serie": "Pensionär Serie B",
    "evenemang": "Stockholms BTF 26/27",
@@ -383,17 +404,6 @@
     },
     {
      "placering": 2,
-     "lag": "Fältöverstens BTK B",
-     "klubb": "Fältöverstens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Hammarby IF BTF C",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 2,
@@ -404,7 +414,29 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 3,
+     "lag": "Fältöverstens BTK B",
+     "klubb": "Fältöverstens Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 4,
+     "lag": "St.-Postens IK",
+     "klubb": "Stockholms-Postens IK",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Norrtulls SK A1",
      "klubb": "Norrtulls Sportklubb",
      "spelade": 2,
@@ -412,17 +444,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "St.-Postens IK",
-     "klubb": "Stockholms-Postens IK",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

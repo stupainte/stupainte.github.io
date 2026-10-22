@@ -4,7 +4,7 @@
   "namn": "IFK Visby"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "IFK Visby",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-21",
-   "tid": "19:00",
-   "serie_id": "417-5783-0",
-   "serie": "Div 3 SSNÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "IFK Visby",
-   "borta": "Visby IF Gute BTK",
-   "hemma_klubb": "IFK Visby",
-   "borta_klubb": "Visby IF Gute Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "IFK Visby",
-   "arrangorer": [
-    "IFK Visby"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
-  },
   {
    "datum": "2026-10-25",
    "tid": "18:00",
@@ -969,39 +951,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "19:00",
+   "serie_id": "417-5783-0",
+   "serie": "Div 3 SSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "IFK Visby",
+   "borta": "Visby IF Gute BTK",
+   "hemma_klubb": "IFK Visby",
+   "borta_klubb": "Visby IF Gute Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "IFK Visby",
+   "arrangorer": [
+    "IFK Visby"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-21",
-   "platser": [
-    "A-hallen"
-   ],
-   "serier": [
-    "Div 3 SSNÖ"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-21",
-     "tid": "19:00",
-     "serie_id": "417-5783-0",
-     "serie": "Div 3 SSNÖ",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 5",
-     "hemma": "IFK Visby",
-     "borta": "Visby IF Gute BTK",
-     "hemma_klubb": "IFK Visby",
-     "borta_klubb": "Visby IF Gute Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "IFK Visby",
-     "arrangorer": [
-      "IFK Visby"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-25",
    "platser": [
@@ -1545,6 +1517,17 @@
     },
     {
      "placering": 5,
+     "lag": "Visby IF Gute BTK",
+     "klubb": "Visby IF Gute Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "KFUM Jönköping IA: B",
      "klubb": "KFUM Jönköping",
      "spelade": 2,
@@ -1555,24 +1538,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Visby IF Gute BTK",
-     "klubb": "Visby IF Gute Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "IFK Visby",
      "klubb": "IFK Visby",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Bjärreds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Bjärreds BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-21",
-   "tid": "19:00",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Bjärreds BTK B",
-   "borta": "IFK Lund E3",
-   "hemma_klubb": "Bjärreds Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
-   "arrangor": "Bjärreds Bordtennisklubb",
-   "arrangorer": [
-    "Bjärreds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
@@ -973,39 +955,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "19:00",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Bjärreds BTK B",
+   "borta": "IFK Lund E3",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-21",
-   "platser": [
-    "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred"
-   ],
-   "serier": [
-    "Division 5 Södra 1"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-21",
-     "tid": "19:00",
-     "serie_id": "513-7447-0",
-     "serie": "Division 5 Södra 1",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "Bjärreds BTK B",
-     "borta": "IFK Lund E3",
-     "hemma_klubb": "Bjärreds Bordtennisklubb",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
-     "arrangor": "Bjärreds Bordtennisklubb",
-     "arrangorer": [
-      "Bjärreds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-02-13",
    "platser": [
@@ -1392,11 +1364,11 @@
      "placering": 1,
      "lag": "Bjärreds BTK B",
      "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1412,6 +1384,17 @@
     },
     {
      "placering": 3,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Skurups BTK B",
      "klubb": "Skurups Bordtennisklubb",
      "spelade": 1,
@@ -1422,20 +1405,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "IFK Lund E3",
-     "klubb": "IFK Lund Bordtennis",
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1445,23 +1417,23 @@
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 1,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 1,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

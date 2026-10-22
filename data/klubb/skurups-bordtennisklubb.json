@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -859,6 +859,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-19",
+   "tid": "19:00",
+   "serie_id": "513-7450-0",
+   "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF G",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1248,11 +1268,11 @@
      "placering": 1,
      "lag": "Bjärreds BTK B",
      "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1268,6 +1288,17 @@
     },
     {
      "placering": 3,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Skurups BTK B",
      "klubb": "Skurups Bordtennisklubb",
      "spelade": 1,
@@ -1278,20 +1309,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "IFK Lund E3",
-     "klubb": "IFK Lund Bordtennis",
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1301,23 +1321,23 @@
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 1,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 1,
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1334,11 +1354,11 @@
      "placering": 1,
      "lag": "Skurups BTK C",
      "klubb": "Skurups Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1367,10 +1387,10 @@
      "placering": 4,
      "lag": "Malmö IF G",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

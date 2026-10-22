@@ -4,7 +4,7 @@
   "namn": "Hylta Gymnastikförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-16T08:40:20Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Hylta GF",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-21",
-   "tid": "19:00",
-   "serie_id": "513-7449-0",
-   "serie": "Division 5 Nordöstra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Hässleholms BTK B1",
-   "borta": "Hylta GF",
-   "hemma_klubb": "Hässleholms Bordtennisklubb",
-   "borta_klubb": "Hylta Gymnastikförening",
-   "plats": "Björklundahallen, Hövdingegatan 17, Hässleholm",
-   "arrangor": "Hässleholms Bordtennisklubb",
-   "arrangorer": [
-    "Hässleholms Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "19:00",
@@ -272,6 +254,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-21",
+   "tid": "19:00",
+   "serie_id": "513-7449-0",
+   "serie": "Division 5 Nordöstra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Hässleholms BTK B1",
+   "borta": "Hylta GF",
+   "hemma_klubb": "Hässleholms Bordtennisklubb",
+   "borta_klubb": "Hylta Gymnastikförening",
+   "plats": "Björklundahallen, Hövdingegatan 17, Hässleholm",
+   "arrangor": "Hässleholms Bordtennisklubb",
+   "arrangorer": [
+    "Hässleholms Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -497,6 +499,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Hässleholms BTK B1",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "KFUM Kristianstad BTF D",
      "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 1,
@@ -507,7 +520,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Winnö IF B",
      "klubb": "Winnö Idrottsförening",
      "spelade": 0,
@@ -515,17 +528,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hässleholms BTK B1",
-     "klubb": "Hässleholms Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -563,19 +565,19 @@
     },
     {
      "placering": 7,
-     "lag": "Hylta GF",
-     "klubb": "Hylta Gymnastikförening",
-     "spelade": 0,
+     "lag": "Arkelstorps BTK B",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Arkelstorps BTK B",
-     "klubb": "Arkelstorps Bordtennisklubb",
+     "lag": "Hylta GF",
+     "klubb": "Hylta Gymnastikförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

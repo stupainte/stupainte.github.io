@@ -4,7 +4,7 @@
   "namn": "Alfta Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:25Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Alfta BTK",
@@ -539,24 +539,6 @@
    "arrangor": "Hudiksvalls IF Bordtennisklubb",
    "arrangorer": [
     "Hudiksvalls IF Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7"
-  },
-  {
-   "datum": "2026-12-19",
-   "tid": "18:00",
-   "serie_id": "376-7265-0",
-   "serie": "Ungdomsserier",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 1",
-   "hemma": "Alfta BTK F",
-   "borta": "Hudiksvalls IF BTK C",
-   "hemma_klubb": "Alfta Bordtennisklubb",
-   "borta_klubb": "Hudiksvalls IF Bordtennisklubb",
-   "plats": "Alfta",
-   "arrangor": "Alfta Bordtennisklubb",
-   "arrangorer": [
-    "Alfta Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7"
   },
@@ -1275,6 +1257,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1349/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "18:00",
+   "serie_id": "376-7265-0",
+   "serie": "Ungdomsserier",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 1",
+   "hemma": "Alfta BTK F",
+   "borta": "Hudiksvalls IF BTK C",
+   "hemma_klubb": "Alfta Bordtennisklubb",
+   "borta_klubb": "Hudiksvalls IF Bordtennisklubb",
+   "plats": "Alfta",
+   "arrangor": "Alfta Bordtennisklubb",
+   "arrangorer": [
+    "Alfta Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1304,7 +1306,9 @@
      "arrangorer": [
       "Alfta Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7",
+     "hemma_poang": 1,
+     "borta_poang": 1
     }
    ]
   },
@@ -1947,24 +1951,24 @@
     },
     {
      "placering": 3,
-     "lag": "Alfta BTK F",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Hudiksvalls IF BTK C",
+     "klubb": "Hudiksvalls IF Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Hudiksvalls IF BTK C",
-     "klubb": "Hudiksvalls IF Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Alfta BTK F",
+     "klubb": "Alfta Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

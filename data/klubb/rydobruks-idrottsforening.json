@@ -4,7 +4,7 @@
   "namn": "Rydöbruks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-22T09:07:21Z",
  "lag": [
   {
    "namn": "Rydöbruks IF A",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-21",
-   "tid": "18:30",
-   "serie_id": "411-7594-0",
-   "serie": "Division 6 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Rydöbruks IF B1",
-   "borta": "Asige BTK A",
-   "hemma_klubb": "Rydöbruks Idrottsförening",
-   "borta_klubb": "Asige Bordtennisklubb",
-   "plats": "Rydöbruk",
-   "arrangor": "Rydöbruks Idrottsförening",
-   "arrangorer": [
-    "Rydöbruks Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-  },
   {
    "datum": "2026-10-25",
    "tid": "19:00",
@@ -393,6 +375,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-21",
+   "tid": "18:30",
+   "serie_id": "411-7594-0",
+   "serie": "Division 6 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "Rydöbruks IF B1",
+   "borta": "Asige BTK A",
+   "hemma_klubb": "Rydöbruks Idrottsförening",
+   "borta_klubb": "Asige Bordtennisklubb",
+   "plats": "Rydöbruk",
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-10-25",
    "tid": "19:00",
    "serie_id": "411-7594-0",
@@ -414,36 +416,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-21",
-   "platser": [
-    "Rydöbruk"
-   ],
-   "serier": [
-    "Division 6 Mellersta (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-21",
-     "tid": "18:30",
-     "serie_id": "411-7594-0",
-     "serie": "Division 6 Mellersta (1)",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 3",
-     "hemma": "Rydöbruks IF B1",
-     "borta": "Asige BTK A",
-     "hemma_klubb": "Rydöbruks Idrottsförening",
-     "borta_klubb": "Asige Bordtennisklubb",
-     "plats": "Rydöbruk",
-     "arrangor": "Rydöbruks Idrottsförening",
-     "arrangorer": [
-      "Rydöbruks Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-25",
    "platser": [
@@ -628,11 +600,11 @@
      "placering": 1,
      "lag": "Falkenbergs BTK C",
      "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -661,10 +633,10 @@
      "placering": 4,
      "lag": "Halmstad BTK E2",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -778,11 +750,11 @@
      "placering": 1,
      "lag": "Asige BTK A",
      "klubb": "Asige Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "198–0"
     },
     {
@@ -820,17 +792,6 @@
     },
     {
      "placering": 5,
-     "lag": "Rydöbruks IF B1",
-     "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Vakant",
      "klubb": "Vakant",
      "spelade": 2,
@@ -839,6 +800,17 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–396"
+    },
+    {
+     "placering": 6,
+     "lag": "Rydöbruks IF B1",
+     "klubb": "Rydöbruks Idrottsförening",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
     }
    ]
   },
