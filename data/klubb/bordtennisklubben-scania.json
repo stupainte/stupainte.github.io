@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "BTK Scania",
@@ -47,6 +47,14 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
+   "namn": "BTK Scania Pensionärer",
+   "serie": {
+    "namn": "Pensionärsserier"
+   },
+   "evenemang": "Skåneserier Pensionär",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
    "namn": "R&S United",
    "serie": {
     "namn": "Division 3 Damer (1)"
@@ -65,22 +73,20 @@
  ],
  "kommande": [
   {
-   "datum": "2026-10-22",
-   "tid": "19:15",
-   "serie_id": "513-7446-0",
-   "serie": "Division 5 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
+   "datum": "2026-11-02",
+   "tid": "11:30",
+   "serie_id": "573-8710-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Skåneserier Pensionär",
    "omgang": "Round 2",
-   "hemma": "IFK Lund E2",
-   "borta": "BTK Scania C",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Bordtennisklubben Scania",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7"
+   "hemma": "BTK Scania Pensionärer",
+   "borta": "Bjärreds BTK V1",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/573/1072/2/7/7"
   },
   {
    "datum": "2026-11-10",
@@ -1491,6 +1497,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-22",
+   "tid": "19:15",
+   "serie_id": "513-7446-0",
+   "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "IFK Lund E2",
+   "borta": "BTK Scania C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bordtennisklubben Scania",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2250,6 +2276,114 @@
    ]
   },
   {
+   "serie_id": "573-8710-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Skåneserier Pensionär",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/573/1072/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Scania Pensionärer",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Bjärreds BTK V1",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Klippans BTK V1",
+     "klubb": "Klippans Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Pensionärernas BTK i Helsingborg 1",
+     "klubb": "Pensionärernas Bordtennisklubb i Helsingborg",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Skurups BTK",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "SK Hakoah",
+     "klubb": "Sportklubben Hakoah",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Pensionärernas BTK i Helsingborg 2",
+     "klubb": "Pensionärernas Bordtennisklubb i Helsingborg",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Klippans BTK V2",
+     "klubb": "Klippans Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Bjärreds BTK V2",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
    "serie_id": "513-7581-0",
    "serie": "Division 3 Damer (1)",
    "evenemang": "Skåneserier Senior herr/dam",
@@ -2494,6 +2628,17 @@
     },
     {
      "placering": 2,
+     "lag": "IFK Lund E2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Åstorps BTK E",
      "klubb": "Åstorps Bordtennisklubb",
      "spelade": 1,
@@ -2504,25 +2649,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Scania C",
      "klubb": "Bordtennisklubben Scania",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IFK Lund E2",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

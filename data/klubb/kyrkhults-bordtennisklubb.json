@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -129,24 +129,6 @@
     "Carlshamns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Gammalstorps GOIF A",
-   "borta": "Kyrkhults BTK A",
-   "hemma_klubb": "Gammalstorps Gymnastik O IF",
-   "borta_klubb": "Kyrkhults Bordtennisklubb",
-   "plats": "Norje Skola",
-   "arrangor": "Gammalstorps Gymnastik O IF",
-   "arrangorer": [
-    "Gammalstorps Gymnastik O IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -1021,6 +1003,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Gammalstorps GOIF A",
+   "borta": "Kyrkhults BTK A",
+   "hemma_klubb": "Gammalstorps Gymnastik O IF",
+   "borta_klubb": "Kyrkhults Bordtennisklubb",
+   "plats": "Norje Skola",
+   "arrangor": "Gammalstorps Gymnastik O IF",
+   "arrangorer": [
+    "Gammalstorps Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1799,11 +1801,11 @@
      "placering": 1,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1841,17 +1843,6 @@
     },
     {
      "placering": 5,
-     "lag": "Gammalstorps GOIF A",
-     "klubb": "Gammalstorps Gymnastik O IF",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Kullåkra BTK C",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
@@ -1862,13 +1853,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Gammalstorps GOIF A",
+     "klubb": "Gammalstorps Gymnastik O IF",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

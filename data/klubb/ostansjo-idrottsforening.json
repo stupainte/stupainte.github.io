@@ -4,7 +4,7 @@
   "namn": "Östansjö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "Östansjö IF-A",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-22",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "BTK Safir-D1",
-   "borta": "Östansjö IF-B",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Östansjö Idrottsförening",
-   "plats": "BTK Safir",
-   "arrangor": "Bordtennisklubben Safir",
-   "arrangorer": [
-    "Bordtennisklubben Safir"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-10-24",
    "tid": "10:00",
@@ -197,24 +179,6 @@
    "borta": "AGA BTK-C",
    "hemma_klubb": "Östansjö Idrottsförening",
    "borta_klubb": "Aga Bordtennisklubb",
-   "plats": "Östansjö",
-   "arrangor": "Östansjö Idrottsförening",
-   "arrangorer": [
-    "Östansjö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
-  {
-   "datum": "2026-12-03",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 8",
-   "hemma": "Östansjö IF-B",
-   "borta": "Simon SK-A2",
-   "hemma_klubb": "Östansjö Idrottsförening",
-   "borta_klubb": "Simon Sportklubb",
    "plats": "Östansjö",
    "arrangor": "Östansjö Idrottsförening",
    "arrangorer": [
@@ -603,6 +567,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-12-03",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 8",
+   "hemma": "Östansjö IF-B",
+   "borta": "Simon SK-A2",
+   "hemma_klubb": "Östansjö Idrottsförening",
+   "borta_klubb": "Simon Sportklubb",
+   "plats": "Östansjö",
+   "arrangor": "Östansjö Idrottsförening",
+   "arrangorer": [
+    "Östansjö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -692,7 +676,9 @@
      "arrangorer": [
       "Östansjö Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1124,22 +1110,22 @@
      "placering": 1,
      "lag": "Storå BTK-C",
      "klubb": "Storå Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Ålsta BTK-B1",
-     "klubb": "Ålsta Bordtennisklubb",
+     "lag": "Gropens IF-B",
+     "klubb": "Gropens Idrottsförening",
      "spelade": 1,
-     "vunna": 1,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -1155,17 +1141,28 @@
     },
     {
      "placering": 4,
-     "lag": "AGA BTK-C",
-     "klubb": "Aga Bordtennisklubb",
+     "lag": "Ålsta BTK-B1",
+     "klubb": "Ålsta Bordtennisklubb",
      "spelade": 1,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Östansjö IF-B",
+     "klubb": "Östansjö Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "BTK Safir-D2",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 1,
@@ -1176,7 +1173,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "BTK Safir-D1",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 1,
@@ -1187,9 +1184,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Gropens IF-B",
-     "klubb": "Gropens Idrottsförening",
+     "placering": 8,
+     "lag": "AGA BTK-C",
+     "klubb": "Aga Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1198,20 +1195,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Östansjö IF-B",
-     "klubb": "Östansjö Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 9,
-     "lag": "Ålsta BTK-B2",
-     "klubb": "Ålsta Bordtennisklubb",
+     "lag": "Simon SK-A2",
+     "klubb": "Simon Sportklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1221,12 +1207,12 @@
     },
     {
      "placering": 10,
-     "lag": "Simon SK-A2",
-     "klubb": "Simon Sportklubb",
-     "spelade": 0,
+     "lag": "Ålsta BTK-B2",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

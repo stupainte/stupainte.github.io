@@ -4,7 +4,7 @@
   "namn": "Rydöbruks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "Rydöbruks IF A",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "19:00",
-   "serie_id": "411-7533-0",
-   "serie": "Division 5 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "BTK Ratic C1",
-   "borta": "Rydöbruks IF A",
-   "hemma_klubb": "Bordtennisklubben Ratic",
-   "borta_klubb": "Rydöbruks Idrottsförening",
-   "plats": "Ratichallen",
-   "arrangor": "Bordtennisklubben Ratic",
-   "arrangorer": [
-    "Bordtennisklubben Ratic"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "19:00",
@@ -397,6 +379,26 @@
   {
    "datum": "2026-10-25",
    "tid": "19:00",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "BTK Ratic C1",
+   "borta": "Rydöbruks IF A",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Rydöbruks Idrottsförening",
+   "plats": "Ratichallen",
+   "arrangor": "Bordtennisklubben Ratic",
+   "arrangorer": [
+    "Bordtennisklubben Ratic"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "19:00",
    "serie_id": "411-7594-0",
    "serie": "Division 6 Mellersta (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -622,11 +624,11 @@
      "placering": 3,
      "lag": "BTK Ratic C1",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -655,10 +657,10 @@
      "placering": 6,
      "lag": "Rydöbruks IF A",
      "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

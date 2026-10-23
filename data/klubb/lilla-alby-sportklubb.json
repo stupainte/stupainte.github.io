@@ -4,7 +4,7 @@
   "namn": "Lilla Alby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "Lilla Alby SK",
@@ -56,6 +56,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "IFK Österåkers BTK B",
+   "borta": "Lilla Alby SK",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Lilla Alby Sportklubb",
+   "plats": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -69,6 +89,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Österåkers BTK B",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Solna BTK A1",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 3,
@@ -79,57 +110,46 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Bro IK B",
      "klubb": "Bro Idrottsklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Österåkers BTK B",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Hässelby PBK B",
      "klubb": "Hässelby Pensionärers Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Lilla Alby SK",
-     "klubb": "Lilla Alby Sportklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Spånga P. C2",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Spånga P. C2",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Lilla Alby SK",
+     "klubb": "Lilla Alby Sportklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -137,10 +157,10 @@
      "placering": 7,
      "lag": "Spånga P. C1",
      "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

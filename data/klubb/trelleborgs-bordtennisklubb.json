@@ -4,7 +4,7 @@
   "namn": "Trelleborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-23T09:02:06Z",
  "lag": [
   {
    "namn": "Trelleborgs BTK",
@@ -112,8 +112,10 @@
    "hemma_klubb": "Skurups Bordtennisklubb",
    "borta_klubb": "Trelleborgs Bordtennisklubb",
    "plats": "Skurups Sparbank Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -2888,28 +2890,6 @@
     },
     {
      "placering": 3,
-     "lag": "IF Ale B",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Malmö IF D",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Malmö IF C",
      "klubb": "Malmö Idrottsförening",
      "spelade": 0,
@@ -2920,9 +2900,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Limhamns BTK A",
-     "klubb": "Limhamns Bordtennisklubb",
+     "placering": 4,
+     "lag": "IF Ale B",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Malmö IF D",
+     "klubb": "Malmö Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2931,7 +2922,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Trelleborgs BTK D",
      "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 1,
@@ -2942,13 +2933,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Kvarnby AK A",
      "klubb": "Kvarnby Atletklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Limhamns BTK A",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
