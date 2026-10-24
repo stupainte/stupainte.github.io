@@ -4,7 +4,7 @@
   "namn": "KFUM Stocksund IA"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-24T08:36:32Z",
  "lag": [
   {
    "namn": "KFUM Stocksund",
@@ -941,6 +941,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7933-0",
+   "serie": "Div 7 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "KFUM Stocksund E1",
+   "borta": "Upplands Väsby BTK C2",
+   "hemma_klubb": "KFUM Stocksund IA",
+   "borta_klubb": "Upplands Väsby Bordtennisklubb",
+   "plats": null,
+   "arrangor": "KFUM Stocksund IA",
+   "arrangorer": [
+    "KFUM Stocksund IA"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1589/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7910-0",
    "serie": "Div 5 Norra",
    "evenemang": "Stockholms BTF 26/27",
@@ -1526,6 +1546,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Hammarby IF BTF E2",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "KFUM Stocksund D",
      "klubb": "KFUM Stocksund IA",
      "spelade": 3,
@@ -1536,20 +1567,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "IFK Täby BTK C1",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Hammarby IF BTF E2",
-     "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1592,19 +1612,19 @@
     },
     {
      "placering": 7,
-     "lag": "Boo RK E3",
-     "klubb": "Boo Racketklubb",
-     "spelade": 2,
+     "lag": "Upplands Väsby BTK B",
+     "klubb": "Upplands Väsby Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Upplands Väsby BTK B",
-     "klubb": "Upplands Väsby Bordtennisklubb",
+     "lag": "Boo RK E3",
+     "klubb": "Boo Racketklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1678,6 +1698,17 @@
     },
     {
      "placering": 6,
+     "lag": "KFUM Stocksund E1",
+     "klubb": "KFUM Stocksund IA",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Tibble Kungsängen BTK E1",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 1,
@@ -1688,24 +1719,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "KFUM Stocksund E1",
-     "klubb": "KFUM Stocksund IA",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
      "lag": "Upplands Väsby BTK C2",
      "klubb": "Upplands Väsby Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

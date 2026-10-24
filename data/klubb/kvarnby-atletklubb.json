@@ -4,7 +4,7 @@
   "namn": "Kvarnby Atletklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-23T09:02:06Z",
+ "uppdaterad": "2026-10-24T08:36:32Z",
  "lag": [
   {
    "namn": "Kvarnby AK A",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-23",
-   "tid": "18:30",
-   "serie_id": "513-7452-0",
-   "serie": "Division 4 Södra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Trelleborgs BTK C",
-   "borta": "Kvarnby AK A",
-   "hemma_klubb": "Trelleborgs Bordtennisklubb",
-   "borta_klubb": "Kvarnby Atletklubb",
-   "plats": "Söderslättshallen, Trelleborg",
-   "arrangor": "Trelleborgs Bordtennisklubb",
-   "arrangorer": [
-    "Trelleborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-  },
   {
    "datum": "2026-10-24",
    "tid": "10:00",
@@ -1150,6 +1132,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-23",
+   "tid": "18:30",
+   "serie_id": "513-7452-0",
+   "serie": "Division 4 Södra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Trelleborgs BTK C",
+   "borta": "Kvarnby AK A",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Kvarnby Atletklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1670,11 +1672,11 @@
      "placering": 2,
      "lag": "Trelleborgs BTK C",
      "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1690,6 +1692,17 @@
     },
     {
      "placering": 4,
+     "lag": "Trelleborgs BTK D",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "IF Ale B",
      "klubb": "Idrottsföreningen Ale",
      "spelade": 1,
@@ -1700,20 +1713,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Malmö IF D",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Trelleborgs BTK D",
-     "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1723,23 +1725,23 @@
     },
     {
      "placering": 7,
-     "lag": "Kvarnby AK A",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
      "lag": "Limhamns BTK A",
      "klubb": "Limhamns Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kvarnby AK A",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

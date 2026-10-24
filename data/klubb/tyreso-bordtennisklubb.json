@@ -4,7 +4,7 @@
   "namn": "Tyresö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-23T09:02:06Z",
+ "uppdaterad": "2026-10-24T08:36:32Z",
  "lag": [
   {
    "namn": "Tyresö BTK",
@@ -1103,6 +1103,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7911-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Tyresö BTK C",
+   "borta": "Jarlabergs BTK",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Jarlabergs Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Tyresö Bordtennisklubb",
+   "arrangorer": [
+    "Tyresö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7927-0",
    "serie": "Div 6 Södra A",
    "evenemang": "Stockholms BTF 26/27",
@@ -1119,6 +1139,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7927-0",
+   "serie": "Div 6 Södra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Tyresö BTK D",
+   "borta": "Ängby SK F2",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": null,
+   "arrangor": "Tyresö Bordtennisklubb",
+   "arrangorer": [
+    "Tyresö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -1399,6 +1439,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1592/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7936-0",
+   "serie": "Div 7 Mellersta B",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Tyresö BTK E1",
+   "borta": "Spårvägens BTK I",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Tyresö Bordtennisklubb",
+   "arrangorer": [
+    "Tyresö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1592/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -2054,11 +2114,11 @@
      "placering": 1,
      "lag": "Tyresö BTK C",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -2120,10 +2180,10 @@
      "placering": 7,
      "lag": "Jarlabergs BTK",
      "klubb": "Jarlabergs Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -2182,6 +2242,17 @@
     },
     {
      "placering": 4,
+     "lag": "Tyresö BTK D",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Hammarby IF BTF E3",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 2,
@@ -2192,20 +2263,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Ängby SK F2",
      "klubb": "Ängby Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Djurgårdens IF BTF B",
-     "klubb": "Djurgårdens IF BTF",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2215,13 +2275,13 @@
     },
     {
      "placering": 7,
-     "lag": "Tyresö BTK D",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Djurgårdens IF BTF B",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2246,28 +2306,17 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Spårvägens BTK I",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Hammarby IF BTF F2 ",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Hammarby IF BTF F2 ",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Solna BTK D2",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 1,
@@ -2278,25 +2327,36 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "IFK Täby BTK D4",
-     "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 1,
+     "placering": 3,
+     "lag": "Spårvägens BTK I",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Tyresö BTK E1",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Tyresö BTK E1",
-     "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "IFK Täby BTK D4",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

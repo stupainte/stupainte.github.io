@@ -4,7 +4,7 @@
   "namn": "IFK Lidingö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-24T08:36:32Z",
  "lag": [
   {
    "namn": "IFK Lidingö BTK",
@@ -367,6 +367,26 @@
     "IFK Lidingö Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1532/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8844-0",
+   "serie": "Vet 35 Div 3 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Djurgårdens IF BTF ",
+   "borta": "IFK Lidingö BTK",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "IFK Lidingö Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1598/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -775,6 +795,17 @@
     },
     {
      "placering": 3,
+     "lag": "IFK Lidingö BTK",
+     "klubb": "IFK Lidingö Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "IK Makkabi ",
      "klubb": "IK Makkabi",
      "spelade": 1,
@@ -785,7 +816,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Spårvägens BTK C",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 2,
@@ -796,7 +827,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Bro IK C2",
      "klubb": "Bro Idrottsklubb",
      "spelade": 3,
@@ -804,17 +835,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IFK Lidingö BTK",
-     "klubb": "IFK Lidingö Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -832,10 +852,10 @@
      "placering": 8,
      "lag": "Djurgårdens IF BTF ",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
