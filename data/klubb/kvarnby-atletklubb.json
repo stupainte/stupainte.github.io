@@ -4,7 +4,7 @@
   "namn": "Kvarnby Atletklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-25T08:55:40Z",
  "lag": [
   {
    "namn": "Kvarnby AK A",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-24",
-   "tid": "10:00",
-   "serie_id": "513-7450-0",
-   "serie": "Division 5 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Kvarnby AK C",
-   "borta": "IF Ale C ",
-   "hemma_klubb": "Kvarnby Atletklubb",
-   "borta_klubb": "Idrottsföreningen Ale",
-   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": "Kvarnby Atletklubb",
-   "arrangorer": [
-    "Kvarnby Atletklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-  },
   {
    "datum": "2026-10-26",
    "tid": "18:30",
@@ -1152,39 +1134,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-24",
+   "tid": "10:00",
+   "serie_id": "513-7450-0",
+   "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Kvarnby AK C",
+   "borta": "IF Ale C ",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-24",
-   "platser": [
-    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
-   ],
-   "serier": [
-    "Division 5 Södra 2"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-24",
-     "tid": "10:00",
-     "serie_id": "513-7450-0",
-     "serie": "Division 5 Södra 2",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "Kvarnby AK C",
-     "borta": "IF Ale C ",
-     "hemma_klubb": "Kvarnby Atletklubb",
-     "borta_klubb": "Idrottsföreningen Ale",
-     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-     "arrangor": "Kvarnby Atletklubb",
-     "arrangorer": [
-      "Kvarnby Atletklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-26",
    "platser": [
@@ -1888,28 +1860,28 @@
      "placering": 5,
      "lag": "IF Ale C ",
      "klubb": "Idrottsföreningen Ale",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Kvarnby AK C",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 1,
+     "lag": "Malmö IF F",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Malmö IF F",
-     "klubb": "Malmö Idrottsförening",
+     "lag": "Kvarnby AK C",
+     "klubb": "Kvarnby Atletklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,

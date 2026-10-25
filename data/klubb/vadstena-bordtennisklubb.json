@@ -4,7 +4,7 @@
   "namn": "Vadstena Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-09T11:04:52Z",
+ "uppdaterad": "2026-10-25T08:55:40Z",
  "lag": [
   {
    "namn": "Vadstena BTK",
@@ -16,42 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-24",
-   "tid": "10:00",
-   "serie_id": "467-6947-0",
-   "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "omgang": "Round 3",
-   "hemma": "IK Sjöge",
-   "borta": "Vadstena BTK",
-   "hemma_klubb": "Idrottsklubben Sjöge",
-   "borta_klubb": "Vadstena Bordtennisklubb",
-   "plats": "Yasaka Arena",
-   "arrangor": "Linköpings Pingisklubb",
-   "arrangorer": [
-    "Linköpings Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7"
-  },
-  {
-   "datum": "2026-10-24",
-   "tid": "13:00",
-   "serie_id": "467-6947-0",
-   "serie": "Division 6",
-   "evenemang": "Östergötlands BTF 2026/2027",
-   "omgang": "Round 4",
-   "hemma": "Linköpings PK: F",
-   "borta": "Vadstena BTK",
-   "hemma_klubb": "Linköpings Pingisklubb",
-   "borta_klubb": "Vadstena Bordtennisklubb",
-   "plats": "Yasaka Arena",
-   "arrangor": "Linköpings Pingisklubb",
-   "arrangorer": [
-    "Linköpings Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7"
-  },
   {
    "datum": "2026-11-21",
    "tid": "10:00",
@@ -237,6 +201,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-24",
+   "tid": "10:00",
+   "serie_id": "467-6947-0",
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 3",
+   "hemma": "IK Sjöge",
+   "borta": "Vadstena BTK",
+   "hemma_klubb": "Idrottsklubben Sjöge",
+   "borta_klubb": "Vadstena Bordtennisklubb",
+   "plats": "Yasaka Arena",
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-24",
+   "tid": "13:00",
+   "serie_id": "467-6947-0",
+   "serie": "Division 6",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Linköpings PK: F",
+   "borta": "Vadstena BTK",
+   "hemma_klubb": "Linköpings Pingisklubb",
+   "borta_klubb": "Vadstena Bordtennisklubb",
+   "plats": "Yasaka Arena",
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -250,90 +254,90 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Västers BTK: E",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "IK Sjöge",
+     "klubb": "Idrottsklubben Sjöge",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IK Sjöge",
-     "klubb": "Idrottsklubben Sjöge",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Linköpings PK: F",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Vadstena BTK",
-     "klubb": "Vadstena Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Västers BTK: E",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IF Norcopensarna: E3",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
+     "lag": "Ljungsbro BTK: D",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Linköpings PK: F",
-     "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
+     "lag": "IF Norcopensarna: E3",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IF Norcopensarna: E1",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Vadstena BTK",
+     "klubb": "Vadstena Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ljungsbro BTK: D",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
+     "lag": "IF Norcopensarna: E2",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IF Norcopensarna: E2",
+     "lag": "IF Norcopensarna: E1",
      "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

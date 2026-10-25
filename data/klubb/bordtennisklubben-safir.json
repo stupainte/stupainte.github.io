@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Safir"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-25T08:55:40Z",
  "lag": [
   {
    "namn": "BTK Safir",
@@ -56,80 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-24",
-   "tid": "10:00",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 1",
-   "hemma": "BTK Safir-C2",
-   "borta": "BTK Safir-C1",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Bordtennisklubben Safir",
-   "plats": "Storå",
-   "arrangor": "Örebro Läns Bordtennisförbund / Storå Bordtennisklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-24",
-   "tid": "10:00",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 1",
-   "hemma": "BTK Safir-C2",
-   "borta": "BTK Safir-C1",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Bordtennisklubben Safir",
-   "plats": "Storå",
-   "arrangor": "Örebro Läns Bordtennisförbund / Storå Bordtennisklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-24",
-   "tid": "13:30",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "BTK Safir-C2",
-   "borta": "Östansjö IF-A",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Östansjö Idrottsförening",
-   "plats": "Storå",
-   "arrangor": "Storå Bordtennisklubb",
-   "arrangorer": [
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-24",
-   "tid": "13:30",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "Ekeby IF-A",
-   "borta": "BTK Safir-C1",
-   "hemma_klubb": "Ekeby Idrottsförening",
-   "borta_klubb": "Bordtennisklubben Safir",
-   "plats": "Storå",
-   "arrangor": "Storå Bordtennisklubb",
-   "arrangorer": [
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
   {
    "datum": "2026-10-29",
    "tid": "18:00",
@@ -2693,28 +2619,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Ekeby IF-A",
-     "klubb": "Ekeby Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "AGA BTK-B",
-     "klubb": "Aga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
      "lag": "BTK Safir-C1",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 0,
@@ -2736,7 +2640,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
+     "lag": "AGA BTK-B",
+     "klubb": "Aga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Gropens IF-A",
      "klubb": "Gropens Idrottsförening",
      "spelade": 0,
@@ -2747,7 +2662,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Storå BTK-B",
      "klubb": "Storå Bordtennisklubb",
      "spelade": 0,
@@ -2758,9 +2673,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Örebro BTS-A",
      "klubb": "Föreningen Örebro Bordtennis Seniorer",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Ekeby IF-A",
+     "klubb": "Ekeby Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Kosta Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-25T08:55:40Z",
  "lag": [
   {
    "namn": "Kosta SK",
@@ -64,42 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-24",
-   "tid": "11:00",
-   "serie_id": "417-5724-0",
-   "serie": "Pingisligan (dam)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Eslövs AI BTK: A2",
-   "borta": "Kosta SK",
-   "hemma_klubb": "Eslövs AI Bordtennisklubb",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "Eslövs AI Bordtennisklubb",
-   "arrangorer": [
-    "Eslövs AI Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
-  {
-   "datum": "2026-10-24",
-   "tid": "15:00",
-   "serie_id": "417-5724-0",
-   "serie": "Pingisligan (dam)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "Eslövs AI BTK: A1",
-   "borta": "Kosta SK",
-   "hemma_klubb": "Eslövs AI Bordtennisklubb",
-   "borta_klubb": "Kosta Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "Eslövs AI Bordtennisklubb",
-   "arrangorer": [
-    "Eslövs AI Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
-  },
   {
    "datum": "2026-11-10",
    "tid": "18:00",
@@ -1499,6 +1463,46 @@
    "borta_poang": 1
   },
   {
+   "datum": "2026-10-24",
+   "tid": "11:00",
+   "serie_id": "417-5724-0",
+   "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Eslövs AI BTK: A2",
+   "borta": "Kosta SK",
+   "hemma_klubb": "Eslövs AI Bordtennisklubb",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-24",
+   "tid": "15:00",
+   "serie_id": "417-5724-0",
+   "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "Eslövs AI BTK: A1",
+   "borta": "Kosta SK",
+   "hemma_klubb": "Eslövs AI Bordtennisklubb",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-02-14",
    "tid": "13:00",
    "serie_id": "372-6735-0",
@@ -2667,11 +2671,11 @@
      "placering": 1,
      "lag": "Eslövs AI BTK: A1",
      "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -2687,6 +2691,17 @@
     },
     {
      "placering": 3,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Halmstad BTK",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 5,
@@ -2697,7 +2712,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Spårvägens BTK",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 4,
@@ -2705,17 +2720,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2777,10 +2781,10 @@
      "placering": 11,
      "lag": "Eslövs AI BTK: A2",
      "klubb": "Eslövs AI Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Kullåkra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-23T09:02:06Z",
+ "uppdaterad": "2026-10-25T08:55:40Z",
  "lag": [
   {
    "namn": "Kullåkra BTK A",
@@ -48,6 +48,24 @@
   }
  ],
  "kommande": [
+  {
+   "datum": "2026-10-26",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 12",
+   "hemma": "Kullåkra BTK A",
+   "borta": "Gammalstorps GOIF A",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Gammalstorps Gymnastik O IF",
+   "plats": "Bräne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+  },
   {
    "datum": "2026-11-09",
    "tid": "19:00",
@@ -663,24 +681,6 @@
   {
    "datum": "2027-03-14",
    "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 12",
-   "hemma": "Kullåkra BTK A",
-   "borta": "Gammalstorps GOIF A",
-   "hemma_klubb": "Kullåkra Bordtennisklubb",
-   "borta_klubb": "Gammalstorps Gymnastik O IF",
-   "plats": "Bräne-Hoby Idrottshall",
-   "arrangor": "Kullåkra Bordtennisklubb",
-   "arrangorer": [
-    "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
-  {
-   "datum": "2027-03-14",
-   "tid": "13:00",
    "serie_id": "372-6740-0",
    "serie": "DIV 5 SÖDRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1141,6 +1141,36 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-10-26",
+   "platser": [
+    "Bräne-Hoby Idrottshall"
+   ],
+   "serier": [
+    "Veteran Södra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-26",
+     "tid": "13:00",
+     "serie_id": "372-6772-0",
+     "serie": "Veteran Södra",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 12",
+     "hemma": "Kullåkra BTK A",
+     "borta": "Gammalstorps GOIF A",
+     "hemma_klubb": "Kullåkra Bordtennisklubb",
+     "borta_klubb": "Gammalstorps Gymnastik O IF",
+     "plats": "Bräne-Hoby Idrottshall",
+     "arrangor": "Kullåkra Bordtennisklubb",
+     "arrangorer": [
+      "Kullåkra Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2026-11-09",
    "platser": [
     "Bräkne-Hoby Idrottshall"
@@ -1594,7 +1624,7 @@
     "Div 6 Syd/MELLERSTA",
     "Veteran Södra"
    ],
-   "antal": 3,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2027-03-14",
@@ -1633,24 +1663,6 @@
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
      "hemma_poang": 0,
      "borta_poang": 2
-    },
-    {
-     "datum": "2027-03-14",
-     "tid": "13:00",
-     "serie_id": "372-6772-0",
-     "serie": "Veteran Södra",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 12",
-     "hemma": "Kullåkra BTK A",
-     "borta": "Gammalstorps GOIF A",
-     "hemma_klubb": "Kullåkra Bordtennisklubb",
-     "borta_klubb": "Gammalstorps Gymnastik O IF",
-     "plats": "Bräne-Hoby Idrottshall",
-     "arrangor": "Kullåkra Bordtennisklubb",
-     "arrangorer": [
-      "Kullåkra Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
     }
    ]
   },
