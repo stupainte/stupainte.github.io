@@ -4,7 +4,7 @@
   "namn": "IFK Lund Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-25T08:55:40Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "IFK Lund Bordtennis",
@@ -89,15 +89,7 @@
   {
    "namn": "IFK Lund Dam C",
    "serie": {
-    "namn": "Division 3 Damer (1)"
-   },
-   "evenemang": "Skåneserier Senior herr/dam",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "IFK Lund Dam C",
-   "serie": {
-    "namn": "Division 3 Damer (2)"
+    "namn": "Division 3 Damer"
    },
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -105,15 +97,7 @@
   {
    "namn": "IFK Lund Dam D",
    "serie": {
-    "namn": "Division 3 Damer (1)"
-   },
-   "evenemang": "Skåneserier Senior herr/dam",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com"
-  },
-  {
-   "namn": "IFK Lund Dam D",
-   "serie": {
-    "namn": "Division 3 Damer (2)"
+    "namn": "Division 3 Damer"
    },
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -302,7 +286,7 @@
    "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund Dam D",
@@ -320,7 +304,7 @@
    "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 3",
    "hemma": "IFK Lund Dam C",
@@ -410,7 +394,7 @@
    "datum": "2026-11-14",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "R&S United",
@@ -428,7 +412,7 @@
    "datum": "2026-11-14",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 4",
    "hemma": "Åstorps BTK Dam",
@@ -1046,7 +1030,7 @@
    "datum": "2026-12-12",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 5",
    "hemma": "IFK Lund Dam C",
@@ -1154,7 +1138,7 @@
    "datum": "2026-12-12",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "IFK Lund Dam C",
@@ -1172,7 +1156,7 @@
    "datum": "2026-12-12",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 6",
    "hemma": "IFK Lund Dam C",
@@ -1869,24 +1853,8 @@
   {
    "datum": "2027-01-17",
    "tid": "10:00",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 8",
-   "hemma": "Skurups BTK B",
-   "borta": "IFK Lund E3",
-   "hemma_klubb": "Skurups Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "Skurups Sparbank Arena",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
-  {
-   "datum": "2027-01-17",
-   "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 7",
    "hemma": "IFK Lund Dam D",
@@ -1899,6 +1867,22 @@
     "Bordtennisklubben Scania"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "10:00",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 8",
+   "hemma": "Skurups BTK B",
+   "borta": "IFK Lund E3",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
    "datum": "2027-01-17",
@@ -1940,7 +1924,7 @@
    "datum": "2027-01-17",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "R&S United",
@@ -1958,7 +1942,7 @@
    "datum": "2027-01-17",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 8",
    "hemma": "Sjöbo BTK Dam B",
@@ -2520,7 +2504,7 @@
    "datum": "2027-02-13",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "IFK Lund Dam C",
@@ -2538,7 +2522,7 @@
    "datum": "2027-02-13",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 9",
    "hemma": "IFK Lund Dam D",
@@ -2628,7 +2612,7 @@
    "datum": "2027-02-13",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 10",
    "hemma": "Åstorps BTK Dam",
@@ -3142,42 +3126,6 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "10:00",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "IFK Lund Dam C",
-   "borta": "IFK Lund Dam D",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
-   "tid": "10:00",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "IFK Lund Dam C",
-   "borta": "IFK Lund Dam D",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
    "tid": "11:00",
    "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
@@ -3250,42 +3198,6 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "11:30",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "IFK Lund Dam D",
-   "borta": "Åstorps BTK Dam",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Åstorps Bordtennisklubb",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
-   "tid": "11:30",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Sjöbo BTK Dam B",
-   "borta": "IFK Lund Dam C",
-   "hemma_klubb": "Sjöbo Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
    "tid": "12:30",
    "serie_id": "513-7441-0",
    "serie": "Division 6 Södra 1",
@@ -3355,24 +3267,6 @@
     "Idrottsföreningen Ale"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1476/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
-   "tid": "13:00",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "R&S United",
-   "borta": "IFK Lund Dam D",
-   "hemma_klubb": "Bordtennisklubben Scania",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
   },
   {
    "datum": "2027-03-13",
@@ -3733,60 +3627,6 @@
     "Strövelstorp Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1474/2/7/7"
-  },
-  {
-   "datum": "2027-04-17",
-   "tid": "10:00",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "IFK Lund Dam C",
-   "borta": "Åstorps BTK Dam",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Åstorps Bordtennisklubb",
-   "plats": "Sjöbo",
-   "arrangor": "Sjöbo Bordtennisklubb",
-   "arrangorer": [
-    "Sjöbo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-04-17",
-   "tid": "11:30",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 5",
-   "hemma": "R&S United",
-   "borta": "IFK Lund Dam C",
-   "hemma_klubb": "Bordtennisklubben Scania",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "Sjöbo",
-   "arrangor": "Sjöbo Bordtennisklubb",
-   "arrangorer": [
-    "Sjöbo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-  },
-  {
-   "datum": "2027-04-17",
-   "tid": "11:30",
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 5",
-   "hemma": "IFK Lund Dam D",
-   "borta": "Sjöbo BTK Dam B",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Sjöbo Bordtennisklubb",
-   "plats": "Sjöbo",
-   "arrangor": "Sjöbo Bordtennisklubb",
-   "arrangorer": [
-    "Sjöbo Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
   },
   {
    "datum": "2027-04-17",
@@ -4684,7 +4524,7 @@
    "datum": "2026-10-18",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "IFK Lund Dam D",
@@ -4704,7 +4544,7 @@
    "datum": "2026-10-18",
    "tid": "10:00",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 1",
    "hemma": "IFK Lund Dam D",
@@ -4764,7 +4604,7 @@
    "datum": "2026-10-18",
    "tid": "11:30",
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "omgang": "Round 2",
    "hemma": "Sjöbo BTK Dam B",
@@ -6266,126 +6106,6 @@
    ]
   },
   {
-   "datum": "2027-03-13",
-   "platser": [
-    "IFK-hallen, Centrala IP, Lund"
-   ],
-   "serier": [
-    "Division 3 Damer (2)"
-   ],
-   "antal": 6,
-   "matcher": [
-    {
-     "datum": "2027-03-13",
-     "tid": "10:00",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 1",
-     "hemma": "IFK Lund Dam C",
-     "borta": "IFK Lund Dam D",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    },
-    {
-     "datum": "2027-03-13",
-     "tid": "10:00",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 1",
-     "hemma": "Åstorps BTK Dam",
-     "borta": "R&S United",
-     "hemma_klubb": "Åstorps Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Scania",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    },
-    {
-     "datum": "2027-03-13",
-     "tid": "11:30",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "IFK Lund Dam D",
-     "borta": "Åstorps BTK Dam",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "Åstorps Bordtennisklubb",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    },
-    {
-     "datum": "2027-03-13",
-     "tid": "11:30",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 2",
-     "hemma": "Sjöbo BTK Dam B",
-     "borta": "IFK Lund Dam C",
-     "hemma_klubb": "Sjöbo Bordtennisklubb",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    },
-    {
-     "datum": "2027-03-13",
-     "tid": "13:00",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 3",
-     "hemma": "Åstorps BTK Dam",
-     "borta": "Sjöbo BTK Dam B",
-     "hemma_klubb": "Åstorps Bordtennisklubb",
-     "borta_klubb": "Sjöbo Bordtennisklubb",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    },
-    {
-     "datum": "2027-03-13",
-     "tid": "13:00",
-     "serie_id": "513-7583-0",
-     "serie": "Division 3 Damer (2)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 3",
-     "hemma": "R&S United",
-     "borta": "IFK Lund Dam D",
-     "hemma_klubb": "Bordtennisklubben Scania",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2027-04-17",
    "platser": [
     "Hall 1",
@@ -7148,7 +6868,7 @@
   },
   {
    "serie_id": "513-7581-0",
-   "serie": "Division 3 Damer (1)",
+   "serie": "Division 3 Damer",
    "evenemang": "Skåneserier Senior herr/dam",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
    "startad": true,
@@ -7205,70 +6925,6 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    }
-   ]
-  },
-  {
-   "serie_id": "513-7583-0",
-   "serie": "Division 3 Damer (2)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1073/2/7/7",
-   "startad": false,
-   "rader": [
-    {
-     "placering": 1,
-     "lag": "Sjöbo BTK Dam B",
-     "klubb": "Sjöbo Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IFK Lund Dam C",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Åstorps BTK Dam",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "R&S United",
-     "klubb": "Bordtennisklubben Scania",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "IFK Lund Dam D",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -7316,8 +6972,8 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Scania B",
-     "klubb": "Bordtennisklubben Scania",
+     "lag": "BTK Rekord D",
+     "klubb": "Bordtennisklubben Rekord",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -7327,13 +6983,13 @@
     },
     {
      "placering": 5,
-     "lag": "BTK Rekord C",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "BTK Scania B",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -7360,13 +7016,13 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Rekord D",
+     "lag": "BTK Rekord C",
      "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

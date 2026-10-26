@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Rekord"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "BTK Rekord",
@@ -56,42 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "18:30",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "BTK Rekord D",
-   "borta": "BTK Rekord C",
-   "hemma_klubb": "Bordtennisklubben Rekord",
-   "borta_klubb": "Bordtennisklubben Rekord",
-   "plats": "Idrottenshus Helsingborg",
-   "arrangor": "Bordtennisklubben Rekord",
-   "arrangorer": [
-    "Bordtennisklubben Rekord"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
-  {
-   "datum": "2026-10-25",
-   "tid": "18:30",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 1",
-   "hemma": "BTK Rekord D",
-   "borta": "BTK Rekord C",
-   "hemma_klubb": "Bordtennisklubben Rekord",
-   "borta_klubb": "Bordtennisklubben Rekord",
-   "plats": "Idrottenshus Helsingborg",
-   "arrangor": "Bordtennisklubben Rekord",
-   "arrangorer": [
-    "Bordtennisklubben Rekord"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
   {
    "datum": "2026-11-09",
    "tid": "19:15",
@@ -1347,39 +1311,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "18:30",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "BTK Rekord D",
+   "borta": "BTK Rekord C",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "18:30",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 1",
+   "hemma": "BTK Rekord D",
+   "borta": "BTK Rekord C",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-25",
-   "platser": [
-    "Idrottenshus Helsingborg"
-   ],
-   "serier": [
-    "Division 4 Västra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-25",
-     "tid": "18:30",
-     "serie_id": "513-7453-0",
-     "serie": "Division 4 Västra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 1",
-     "hemma": "BTK Rekord D",
-     "borta": "BTK Rekord C",
-     "hemma_klubb": "Bordtennisklubben Rekord",
-     "borta_klubb": "Bordtennisklubben Rekord",
-     "plats": "Idrottenshus Helsingborg",
-     "arrangor": "Bordtennisklubben Rekord",
-     "arrangorer": [
-      "Bordtennisklubben Rekord"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-18",
    "platser": [
@@ -2333,8 +2307,8 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Scania B",
-     "klubb": "Bordtennisklubben Scania",
+     "lag": "BTK Rekord D",
+     "klubb": "Bordtennisklubben Rekord",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2344,13 +2318,13 @@
     },
     {
      "placering": 5,
-     "lag": "BTK Rekord C",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "BTK Scania B",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2377,13 +2351,13 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Rekord D",
+     "lag": "BTK Rekord C",
      "klubb": "Bordtennisklubben Rekord",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

@@ -4,7 +4,7 @@
   "namn": "Köpings Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-23T09:02:06Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "Köping",
@@ -80,42 +80,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "13:00",
-   "serie_id": "482-6738-0",
-   "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Köpings BTK GL",
-   "borta": "Köpings BTK Valla",
-   "hemma_klubb": "Köpings Bordtennisklubb",
-   "borta_klubb": "Köpings Bordtennisklubb",
-   "plats": "Energihallen",
-   "arrangor": "Köpings Bordtennisklubb",
-   "arrangorer": [
-    "Köpings Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-25",
-   "tid": "13:00",
-   "serie_id": "482-6738-0",
-   "serie": "Division 4",
-   "evenemang": "Västmanlands Distriktsserier 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Köpings BTK GL",
-   "borta": "Köpings BTK Valla",
-   "hemma_klubb": "Köpings Bordtennisklubb",
-   "borta_klubb": "Köpings Bordtennisklubb",
-   "plats": "Energihallen",
-   "arrangor": "Köpings Bordtennisklubb",
-   "arrangorer": [
-    "Köpings Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -1001,6 +965,24 @@
    "borta_poang": 0
   },
   {
+   "datum": "",
+   "tid": "",
+   "serie_id": "482-7764-0",
+   "serie": "Division 5",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 2",
+   "hemma": "Köping",
+   "borta": "Västerås 7",
+   "hemma_klubb": "Köpings Bordtennisklubb",
+   "borta_klubb": "Västerås Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-10-03",
    "tid": "10:00",
    "serie_id": "482-6738-0",
@@ -1563,36 +1545,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-25",
-   "platser": [
-    "Energihallen"
-   ],
-   "serier": [
-    "Division 4"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-25",
-     "tid": "13:00",
-     "serie_id": "482-6738-0",
-     "serie": "Division 4",
-     "evenemang": "Västmanlands Distriktsserier 2026-2027",
-     "omgang": "Round 3",
-     "hemma": "Köpings BTK GL",
-     "borta": "Köpings BTK Valla",
-     "hemma_klubb": "Köpings Bordtennisklubb",
-     "borta_klubb": "Köpings Bordtennisklubb",
-     "plats": "Energihallen",
-     "arrangor": "Köpings Bordtennisklubb",
-     "arrangorer": [
-      "Köpings Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1059/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-14",
    "platser": [
     "Energihallen"
@@ -1739,27 +1691,27 @@
      "placering": 1,
      "lag": "Västerås 8",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Västerås 2",
+     "lag": "Västerås 4",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Västerås 4",
+     "lag": "Västerås 2",
      "klubb": "Västerås Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
@@ -1781,17 +1733,28 @@
     },
     {
      "placering": 5,
-     "lag": "Västerås 5",
+     "lag": "Västerås 7",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
+     "lag": "Västerås 3",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Kungsör",
      "klubb": "Bordtennisklubben Kungsör",
      "spelade": 0,
@@ -1802,7 +1765,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Arboga",
      "klubb": "Arboga Bordtennisklubb",
      "spelade": 0,
@@ -1813,8 +1776,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
-     "lag": "Västerås 3",
+     "placering": 9,
+     "lag": "Västerås 5",
      "klubb": "Västerås Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
@@ -1824,7 +1787,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 9,
+     "placering": 10,
      "lag": "Hallstahammar",
      "klubb": "Hallstahammars Bordtennisklubb",
      "spelade": 1,
@@ -1835,7 +1798,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 10,
+     "placering": 11,
      "lag": "Västerås 6",
      "klubb": "Västerås Bordtennisklubb",
      "spelade": 1,
@@ -1846,24 +1809,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 11,
+     "placering": 12,
      "lag": "Köping",
      "klubb": "Köpings Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 12,
-     "lag": "Västerås 7",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

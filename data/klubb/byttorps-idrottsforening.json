@@ -4,7 +4,7 @@
   "namn": "Byttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "Byttorps A1",
@@ -88,24 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "11:00",
-   "serie_id": "367-7457-0",
-   "serie": "Div 6 Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Byttorps IF C2",
-   "borta": "Kinna BTK B2",
-   "hemma_klubb": "Byttorps Idrottsförening",
-   "borta_klubb": "Kinna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Byttorps Idrottsförening",
-   "arrangorer": [
-    "Byttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
   {
    "datum": "2026-10-28",
    "tid": "19:00",
@@ -2094,39 +2076,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "11:00",
+   "serie_id": "367-7457-0",
+   "serie": "Div 6 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Byttorps IF C2",
+   "borta": "Kinna BTK B2",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-25",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 6 Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-25",
-     "tid": "11:00",
-     "serie_id": "367-7457-0",
-     "serie": "Div 6 Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Byttorps IF C2",
-     "borta": "Kinna BTK B2",
-     "hemma_klubb": "Byttorps Idrottsförening",
-     "borta_klubb": "Kinna Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Byttorps Idrottsförening",
-     "arrangorer": [
-      "Byttorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-28",
    "platser": [
@@ -3569,23 +3541,23 @@
     },
     {
      "placering": 2,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Byttorps IF C2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Byttorps IF C2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 2,
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

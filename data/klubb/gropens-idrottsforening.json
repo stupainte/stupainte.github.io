@@ -4,7 +4,7 @@
   "namn": "Gropens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-25T08:55:40Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "Gropens IF-A",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-25",
-   "tid": "10:00",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 1",
-   "hemma": "Örebro BTS-A",
-   "borta": "Gropens IF-A",
-   "hemma_klubb": "Föreningen Örebro Bordtennis Seniorer",
-   "borta_klubb": "Gropens Idrottsförening",
-   "plats": "Storå",
-   "arrangor": "Storå Bordtennisklubb",
-   "arrangorer": [
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
-  {
-   "datum": "2026-10-25",
-   "tid": "13:30",
-   "serie_id": "460-8011-0",
-   "serie": "Division 4",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "Gropens IF-A",
-   "borta": "AGA BTK-B",
-   "hemma_klubb": "Gropens Idrottsförening",
-   "borta_klubb": "Aga Bordtennisklubb",
-   "plats": "Storå",
-   "arrangor": "Storå Bordtennisklubb",
-   "arrangorer": [
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-  },
   {
    "datum": "2026-10-29",
    "tid": "18:00",
@@ -793,6 +757,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "10:00",
+   "serie_id": "460-8011-0",
+   "serie": "Division 4",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 1",
+   "hemma": "Örebro BTS-A",
+   "borta": "Gropens IF-A",
+   "hemma_klubb": "Föreningen Örebro Bordtennis Seniorer",
+   "borta_klubb": "Gropens Idrottsförening",
+   "plats": "Storå",
+   "arrangor": "Storå Bordtennisklubb",
+   "arrangorer": [
+    "Storå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "13:30",
+   "serie_id": "460-8011-0",
+   "serie": "Division 4",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 2",
+   "hemma": "Gropens IF-A",
+   "borta": "AGA BTK-B",
+   "hemma_klubb": "Gropens Idrottsförening",
+   "borta_klubb": "Aga Bordtennisklubb",
+   "plats": "Storå",
+   "arrangor": "Storå Bordtennisklubb",
+   "arrangorer": [
+    "Storå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1361,10 +1365,32 @@
    "serie": "Division 4",
    "evenemang": "Örebro Läns Distriktsserier 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Gropens IF-A",
+     "klubb": "Gropens Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Örebro BTS-A",
+     "klubb": "Föreningen Örebro Bordtennis Seniorer",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Safir-C1",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 0,
@@ -1375,40 +1401,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "BTK Safir-C2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "AGA BTK-B",
-     "klubb": "Aga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Gropens IF-A",
-     "klubb": "Gropens Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 4,
      "lag": "Storå BTK-B",
      "klubb": "Storå Bordtennisklubb",
      "spelade": 0,
@@ -1419,9 +1412,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Örebro BTS-A",
-     "klubb": "Föreningen Örebro Bordtennis Seniorer",
+     "placering": 5,
+     "lag": "BTK Safir-C2",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Ekeby IF-A",
+     "klubb": "Ekeby Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1431,12 +1435,12 @@
     },
     {
      "placering": 7,
-     "lag": "Ekeby IF-A",
-     "klubb": "Ekeby Idrottsförening",
-     "spelade": 0,
+     "lag": "AGA BTK-B",
+     "klubb": "Aga Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1473,6 +1477,17 @@
     },
     {
      "placering": 2,
+     "lag": "Ålsta BTK-B1",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Östansjö IF-B",
      "klubb": "Östansjö Idrottsförening",
      "spelade": 3,
@@ -1483,7 +1498,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Gropens IF-B",
      "klubb": "Gropens Idrottsförening",
      "spelade": 1,
@@ -1491,17 +1506,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Ålsta BTK-B1",
-     "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1541,10 +1545,10 @@
      "placering": 8,
      "lag": "AGA BTK-C",
      "klubb": "Aga Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

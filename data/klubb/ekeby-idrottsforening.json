@@ -4,7 +4,7 @@
   "namn": "Ekeby Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-25T08:55:40Z",
+ "uppdaterad": "2026-10-26T09:34:38Z",
  "lag": [
   {
    "namn": "Ekeby IF-A",
@@ -410,10 +410,32 @@
    "serie": "Division 4",
    "evenemang": "Örebro Läns Distriktsserier 2026/2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Gropens IF-A",
+     "klubb": "Gropens Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Örebro BTS-A",
+     "klubb": "Föreningen Örebro Bordtennis Seniorer",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Safir-C1",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 0,
@@ -424,40 +446,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "BTK Safir-C2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "AGA BTK-B",
-     "klubb": "Aga Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Gropens IF-A",
-     "klubb": "Gropens Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
+     "placering": 4,
      "lag": "Storå BTK-B",
      "klubb": "Storå Bordtennisklubb",
      "spelade": 0,
@@ -468,9 +457,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Örebro BTS-A",
-     "klubb": "Föreningen Örebro Bordtennis Seniorer",
+     "placering": 5,
+     "lag": "BTK Safir-C2",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Ekeby IF-A",
+     "klubb": "Ekeby Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -480,12 +480,12 @@
     },
     {
      "placering": 7,
-     "lag": "Ekeby IF-A",
-     "klubb": "Ekeby Idrottsförening",
-     "spelade": 0,
+     "lag": "AGA BTK-B",
+     "klubb": "Aga Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
