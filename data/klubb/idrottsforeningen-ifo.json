@@ -4,12 +4,12 @@
   "namn": "Idrottsföreningen Ifo"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-26T09:34:38Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "IF IFO B1",
    "serie": {
-    "namn": "Division 4 (1)"
+    "namn": "Division 4 (2)"
    },
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -17,7 +17,7 @@
   {
    "namn": "IF IFO B2",
    "serie": {
-    "namn": "Division 4 (1)"
+    "namn": "Division 4 (2)"
    },
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -59,25 +59,6 @@
   {
    "datum": "2026-11-09",
    "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "IF IFO B2",
-   "borta": "Kungälvs BTK D",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Kungälvs Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2026-11-09",
-   "tid": "19:00",
    "serie_id": "371-7238-0",
    "serie": "Division 6",
    "evenemang": " Göteborgs Distriktserie",
@@ -95,10 +76,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
   },
   {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "IF IFO B2",
+   "borta": "Kungälvs BTK D",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
+  },
+  {
    "datum": "2026-11-11",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 2",
    "hemma": "IF IFO B1",
@@ -190,7 +190,7 @@
    "datum": "2026-11-16",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "IF IFO B2",
@@ -209,7 +209,7 @@
    "datum": "2026-11-18",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 3",
    "hemma": "IF IFO B1",
@@ -284,7 +284,7 @@
    "datum": "2026-11-23",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "IF IFO B2",
@@ -341,7 +341,7 @@
    "datum": "2026-11-29",
    "tid": "15:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 4",
    "hemma": "BTK Linné D",
@@ -379,7 +379,7 @@
    "datum": "2026-12-10",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "IF IFO B2",
@@ -398,7 +398,7 @@
    "datum": "2026-12-13",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 5",
    "hemma": "Kungälvs BTK D",
@@ -490,7 +490,7 @@
    "datum": "2026-12-14",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 6",
    "hemma": "IF IFO B2",
@@ -527,25 +527,6 @@
   {
    "datum": "2026-12-20",
    "tid": "17:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 6",
-   "hemma": "BTK Linné E",
-   "borta": "IF IFO B1",
-   "hemma_klubb": "Bordtennisklubben Linné",
-   "borta_klubb": "Idrottsföreningen Ifo",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2026-12-20",
-   "tid": "17:00",
    "serie_id": "371-7240-0",
    "serie": "Division 8",
    "evenemang": " Göteborgs Distriktserie",
@@ -560,6 +541,25 @@
     "Mölndals Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7"
+  },
+  {
+   "datum": "2026-12-20",
+   "tid": "17:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 6",
+   "hemma": "BTK Linné E",
+   "borta": "IF IFO B1",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Idrottsföreningen Ifo",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Linné",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
   },
   {
    "datum": "2026-12-20",
@@ -583,25 +583,6 @@
   {
    "datum": "2027-01-11",
    "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 7",
-   "hemma": "IF IFO B1",
-   "borta": "TopSpeed BTK B",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "TopSpeed Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2027-01-11",
-   "tid": "19:00",
    "serie_id": "371-7238-0",
    "serie": "Division 6",
    "evenemang": " Göteborgs Distriktserie",
@@ -617,6 +598,25 @@
     "Bordtennisklubben Warta"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
+  },
+  {
+   "datum": "2027-01-11",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 7",
+   "hemma": "IF IFO B1",
+   "borta": "TopSpeed BTK B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "TopSpeed Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
   },
   {
    "datum": "2027-01-13",
@@ -659,7 +659,7 @@
    "datum": "2027-01-17",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 7",
    "hemma": "BTK Warta C",
@@ -714,7 +714,7 @@
    "datum": "2027-01-25",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "IF IFO B1",
@@ -733,7 +733,7 @@
    "datum": "2027-01-25",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 8",
    "hemma": "IF IFO B1",
@@ -864,7 +864,7 @@
    "datum": "2027-02-07",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "BTK Warta B",
@@ -883,7 +883,7 @@
    "datum": "2027-02-07",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 9",
    "hemma": "Kungälvs BTK D",
@@ -940,7 +940,7 @@
    "datum": "2027-02-14",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "BTK Warta C",
@@ -977,7 +977,7 @@
    "datum": "2027-02-14",
    "tid": "15:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 10",
    "hemma": "BTK Linné D",
@@ -1013,25 +1013,6 @@
   {
    "datum": "2027-02-22",
    "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 11",
-   "hemma": "IF IFO B1",
-   "borta": "BTK Linné D",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Bordtennisklubben Linné",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2027-02-22",
-   "tid": "19:00",
    "serie_id": "371-7238-0",
    "serie": "Division 6",
    "evenemang": " Göteborgs Distriktserie",
@@ -1047,6 +1028,25 @@
     "Bordtennisklubben Warta"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
+  },
+  {
+   "datum": "2027-02-22",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 11",
+   "hemma": "IF IFO B1",
+   "borta": "BTK Linné D",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
   },
   {
    "datum": "2027-02-25",
@@ -1071,7 +1071,7 @@
    "datum": "2027-02-28",
    "tid": "10:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 11",
    "hemma": "BTK Warta B",
@@ -1090,7 +1090,7 @@
    "datum": "2027-03-08",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "IF IFO B1",
@@ -1201,7 +1201,7 @@
    "datum": "2027-03-14",
    "tid": "17:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 12",
    "hemma": "BTK Linné E",
@@ -1220,7 +1220,7 @@
    "datum": "2027-04-05",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "IF IFO B1",
@@ -1295,7 +1295,7 @@
    "datum": "2027-04-10",
    "tid": "11:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 13",
    "hemma": "TopSpeed BTK B",
@@ -1314,7 +1314,7 @@
    "datum": "2027-04-12",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "IF IFO B2",
@@ -1352,7 +1352,7 @@
    "datum": "2027-04-17",
    "tid": "11:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 14",
    "hemma": "TopSpeed BTK B",
@@ -1450,7 +1450,7 @@
    "datum": "2026-10-12",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "IF IFO B2",
@@ -1471,7 +1471,7 @@
    "datum": "2026-10-12",
    "tid": "19:00",
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "omgang": "Round 1",
    "hemma": "IF IFO B2",
@@ -1618,7 +1618,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -1626,7 +1626,7 @@
      "datum": "2026-11-09",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 2",
      "hemma": "IF IFO B2",
@@ -1649,7 +1649,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -1657,7 +1657,7 @@
      "datum": "2026-11-11",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 2",
      "hemma": "IF IFO B1",
@@ -1840,7 +1840,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -1848,7 +1848,7 @@
      "datum": "2026-11-16",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 3",
      "hemma": "IF IFO B2",
@@ -1871,7 +1871,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -1879,7 +1879,7 @@
      "datum": "2026-11-18",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 3",
      "hemma": "IF IFO B1",
@@ -1932,7 +1932,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -1940,7 +1940,7 @@
      "datum": "2026-11-23",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 4",
      "hemma": "IF IFO B2",
@@ -1994,7 +1994,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2002,7 +2002,7 @@
      "datum": "2026-12-10",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 5",
      "hemma": "IF IFO B2",
@@ -2025,7 +2025,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2033,7 +2033,7 @@
      "datum": "2026-12-14",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 6",
      "hemma": "IF IFO B2",
@@ -2056,7 +2056,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2064,7 +2064,7 @@
      "datum": "2027-01-11",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 7",
      "hemma": "IF IFO B1",
@@ -2148,7 +2148,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2156,7 +2156,7 @@
      "datum": "2027-01-25",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 8",
      "hemma": "IF IFO B1",
@@ -2364,7 +2364,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2372,7 +2372,7 @@
      "datum": "2027-02-22",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 11",
      "hemma": "IF IFO B1",
@@ -2426,7 +2426,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2434,7 +2434,7 @@
      "datum": "2027-03-08",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 12",
      "hemma": "IF IFO B1",
@@ -2538,7 +2538,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2546,7 +2546,7 @@
      "datum": "2027-04-05",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 13",
      "hemma": "IF IFO B1",
@@ -2650,7 +2650,7 @@
     "Vinstahallen"
    ],
    "serier": [
-    "Division 4 (1)"
+    "Division 4 (2)"
    ],
    "antal": 1,
    "matcher": [
@@ -2658,7 +2658,7 @@
      "datum": "2027-04-12",
      "tid": "19:00",
      "serie_id": "371-6457-0",
-     "serie": "Division 4 (1)",
+     "serie": "Division 4 (2)",
      "evenemang": " Göteborgs Distriktserie",
      "omgang": "Round 14",
      "hemma": "IF IFO B2",
@@ -2710,15 +2710,15 @@
  "tabeller": [
   {
    "serie_id": "371-6457-0",
-   "serie": "Division 4 (1)",
+   "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
    "startad": false,
    "rader": [
     {
      "placering": 1,
-     "lag": "IF IFO B1",
-     "klubb": "Idrottsföreningen Ifo",
+     "lag": "BTK Warta B",
+     "klubb": "Bordtennisklubben Warta",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2728,8 +2728,8 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Linné D",
-     "klubb": "Bordtennisklubben Linné",
+     "lag": "IF IFO B1",
+     "klubb": "Idrottsföreningen Ifo",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2750,8 +2750,8 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Warta C",
-     "klubb": "Bordtennisklubben Warta",
+     "lag": "BTK Linné D",
+     "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2772,6 +2772,17 @@
     },
     {
      "placering": 6,
+     "lag": "TopSpeed BTK B",
+     "klubb": "TopSpeed Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "IF IFO B2",
      "klubb": "Idrottsföreningen Ifo",
      "spelade": 0,
@@ -2782,20 +2793,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "BTK Warta B",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
-     "lag": "TopSpeed BTK B",
-     "klubb": "TopSpeed Bordtennisklubb",
+     "lag": "BTK Warta C",
+     "klubb": "Bordtennisklubben Warta",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

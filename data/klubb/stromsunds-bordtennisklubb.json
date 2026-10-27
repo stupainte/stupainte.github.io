@@ -4,7 +4,7 @@
   "namn": "Strömsunds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-19T10:54:27Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Strömsunds BTK A",
@@ -175,24 +175,6 @@
     "Ås Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7"
-  },
-  {
-   "datum": "2026-12-13",
-   "tid": "10:00",
-   "serie_id": "376-6932-0",
-   "serie": "Div 4 Mellersta",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 4",
-   "hemma": "Östersunds GIF C",
-   "borta": "Strömsunds BTK A",
-   "hemma_klubb": "Östersunds GIF",
-   "borta_klubb": "Strömsunds Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Sollefteå Bordtennisklubb",
-   "arrangorer": [
-    "Sollefteå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1348/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -503,24 +485,6 @@
   {
    "datum": "2027-02-13",
    "tid": "13:00",
-   "serie_id": "376-6932-0",
-   "serie": "Div 4 Mellersta",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 11",
-   "hemma": "Strömsunds BTK A",
-   "borta": "Östersunds GIF C",
-   "hemma_klubb": "Strömsunds Bordtennisklubb",
-   "borta_klubb": "Östersunds GIF",
-   "plats": "Vinstahallen",
-   "arrangor": "Sollefteå Bordtennisklubb",
-   "arrangorer": [
-    "Sollefteå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1348/2/7/7"
-  },
-  {
-   "datum": "2027-02-13",
-   "tid": "13:00",
    "serie_id": "376-6945-0",
    "serie": "Div 5 Mellersta B",
    "evenemang": "Norrlands BTF",
@@ -727,6 +691,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie_id": "376-6932-0",
+   "serie": "Div 4 Mellersta",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 4",
+   "hemma": "Östersunds GIF C",
+   "borta": "Strömsunds BTK A",
+   "hemma_klubb": "Östersunds GIF",
+   "borta_klubb": "Strömsunds Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Sollefteå Bordtennisklubb",
+   "arrangorer": [
+    "Sollefteå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1348/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "13:00",
+   "serie_id": "376-6932-0",
+   "serie": "Div 4 Mellersta",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 11",
+   "hemma": "Strömsunds BTK A",
+   "borta": "Östersunds GIF C",
+   "hemma_klubb": "Strömsunds Bordtennisklubb",
+   "borta_klubb": "Östersunds GIF",
+   "plats": "Vinstahallen",
+   "arrangor": "Sollefteå Bordtennisklubb",
+   "arrangorer": [
+    "Sollefteå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1348/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -736,95 +740,95 @@
    "serie": "Div 4 Mellersta",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1348/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Ås IF C",
      "klubb": "Ås Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 2,
-     "lag": "Östersunds GIF B",
-     "klubb": "Östersunds GIF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ås IF D",
+     "klubb": "Ås Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "Kungsgårdens IS A",
      "klubb": "Kungsgårdens Idrottssällskap",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "Sollefteå BTK A",
-     "klubb": "Sollefteå Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Ås IF E",
+     "klubb": "Ås Idrottsförening",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Strömsunds BTK A",
-     "klubb": "Strömsunds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sollefteå BTK A",
+     "klubb": "Sollefteå Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
-     "lag": "Ås IF E",
-     "klubb": "Ås Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Strömsunds BTK A",
+     "klubb": "Strömsunds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "Östersunds GIF C",
+     "lag": "Östersunds GIF B",
      "klubb": "Östersunds GIF",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
+     "matchpoang": 2,
+     "setdiff": "264–0"
     },
     {
      "placering": 8,
-     "lag": "Ås IF D",
-     "klubb": "Ås Idrottsförening",
-     "spelade": 0,
+     "lag": "Östersunds GIF C",
+     "klubb": "Östersunds GIF",
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 7,
      "matchpoang": 0,
-     "setdiff": "0–0"
+     "setdiff": "0–1848"
     }
    ]
   },

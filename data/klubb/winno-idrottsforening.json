@@ -4,7 +4,7 @@
   "namn": "Winnö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Winnö IF A",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-26",
-   "tid": "19:00",
-   "serie_id": "513-7449-0",
-   "serie": "Division 5 Nordöstra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 2",
-   "hemma": "Bjärnums BTK",
-   "borta": "Winnö IF B",
-   "hemma_klubb": "Bjärnums Bordtennisklubb",
-   "borta_klubb": "Winnö Idrottsförening",
-   "plats": "Gamla Gymnastiksalen på Bjärnums Skola",
-   "arrangor": "Bjärnums Bordtennisklubb",
-   "arrangorer": [
-    "Bjärnums Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-  },
   {
    "datum": "2026-11-13",
    "tid": "19:00",
@@ -535,6 +517,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-26",
+   "tid": "19:00",
+   "serie_id": "513-7449-0",
+   "serie": "Division 5 Nordöstra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 2",
+   "hemma": "Bjärnums BTK",
+   "borta": "Winnö IF B",
+   "hemma_klubb": "Bjärnums Bordtennisklubb",
+   "borta_klubb": "Winnö Idrottsförening",
+   "plats": "Gamla Gymnastiksalen på Bjärnums Skola",
+   "arrangor": "Bjärnums Bordtennisklubb",
+   "arrangorer": [
+    "Bjärnums Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -752,28 +754,28 @@
      "placering": 4,
      "lag": "Arkelstorps BTK A",
      "klubb": "Arkelstorps Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "KFUM Kristianstad BTF C",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 1,
+     "lag": "Degeberga GoIF B",
+     "klubb": "Degeberga Gymnastik O IF",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Degeberga GoIF B",
-     "klubb": "Degeberga Gymnastik O IF",
+     "lag": "KFUM Kristianstad BTF C",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -889,17 +891,6 @@
     },
     {
      "placering": 3,
-     "lag": "Winnö IF B",
-     "klubb": "Winnö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "KFUM Kristianstad BTF D",
      "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 2,
@@ -910,7 +901,29 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 4,
+     "lag": "Winnö IF B",
+     "klubb": "Winnö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 5,
+     "lag": "Bjärnums BTK",
+     "klubb": "Bjärnums Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Hässleholms BTK B2",
      "klubb": "Hässleholms Bordtennisklubb",
      "spelade": 2,
@@ -921,7 +934,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Arkelstorps BTK B",
      "klubb": "Arkelstorps Bordtennisklubb",
      "spelade": 2,
@@ -929,17 +942,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Bjärnums BTK",
-     "klubb": "Bjärnums Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Ljungsbro Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-26T09:34:38Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Ljungsbro BTK",
@@ -1721,6 +1721,86 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1061/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "10:00",
+   "serie_id": "467-6948-0",
+   "serie": "Väst",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 3",
+   "hemma": "Ljungsbro BTK: D2",
+   "borta": "Västers BTK: F1",
+   "hemma_klubb": "Ljungsbro Bordtennisklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Cloettahallen",
+   "arrangor": "Ljungsbro Bordtennisklubb",
+   "arrangorer": [
+    "Ljungsbro Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1360/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "13:00",
+   "serie_id": "467-6948-0",
+   "serie": "Väst",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 3",
+   "hemma": "Ljungsbro BTK: D1",
+   "borta": "Linköpings PK: F2",
+   "hemma_klubb": "Ljungsbro Bordtennisklubb",
+   "borta_klubb": "Linköpings Pingisklubb",
+   "plats": "Motala Sporthall",
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1360/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "13:00",
+   "serie_id": "467-6948-0",
+   "serie": "Väst",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Ljungsbro BTK: D2",
+   "borta": "Linköpings PK: F1",
+   "hemma_klubb": "Ljungsbro Bordtennisklubb",
+   "borta_klubb": "Linköpings Pingisklubb",
+   "plats": "Cloettahallen",
+   "arrangor": "Ljungsbro Bordtennisklubb",
+   "arrangorer": [
+    "Ljungsbro Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1360/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "16:00",
+   "serie_id": "467-6948-0",
+   "serie": "Väst",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Ljungsbro BTK: D1",
+   "borta": "Västers BTK: F2",
+   "hemma_klubb": "Ljungsbro Bordtennisklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Motala Sporthall",
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1360/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2474,37 +2554,26 @@
      "placering": 1,
      "lag": "Linköpings PK: F2",
      "klubb": "Linköpings Pingisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Linköpings PK: F1",
      "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Ljungsbro BTK: D2",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "IK Sjöge: B",
      "klubb": "Idrottsklubben Sjöge",
      "spelade": 4,
@@ -2515,46 +2584,57 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Linköpings Parasport",
-     "klubb": "Linköpings Parasportförening",
-     "spelade": 2,
-     "vunna": 1,
+     "placering": 4,
+     "lag": "Västers BTK: F1",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ljungsbro BTK: D2",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Västers BTK: F1",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Linköpings Parasport",
+     "klubb": "Linköpings Parasportförening",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Ljungsbro BTK: D1",
-     "klubb": "Ljungsbro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Västers BTK: F2",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Västers BTK: F2",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Ljungsbro BTK: D1",
+     "klubb": "Ljungsbro Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

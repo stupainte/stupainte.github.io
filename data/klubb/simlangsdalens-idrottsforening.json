@@ -4,7 +4,7 @@
   "namn": "Simlångsdalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-26T09:34:38Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Simlångsdalens IF",
@@ -215,6 +215,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-10-26",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 3",
+   "hemma": "Simlångsdalens IF A",
+   "borta": "BTK Ratic C3",
+   "hemma_klubb": "Simlångsdalens Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Simlångsdalen",
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -300,6 +320,17 @@
     },
     {
      "placering": 2,
+     "lag": "Simlångsdalens IF A",
+     "klubb": "Simlångsdalens Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 3,
@@ -310,7 +341,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Markaryds BTK A ",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 1,
@@ -321,7 +352,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Halmstad BTK E 3",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 3,
@@ -332,24 +363,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Simlångsdalens IF A",
-     "klubb": "Simlångsdalens Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "BTK Ratic C3",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     }

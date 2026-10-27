@@ -4,7 +4,7 @@
   "namn": "Norrtulls Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-26T09:34:38Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Norrtulls SK",
@@ -1309,6 +1309,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1597/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7941-0",
+   "serie": "Vet 35 Div 3 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Norrtulls SK C",
+   "borta": "Ängby SK",
+   "hemma_klubb": "Norrtulls Sportklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1597/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "",
@@ -2858,6 +2878,28 @@
     },
     {
      "placering": 2,
+     "lag": "Hammarby IF BTF E3",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Boo RK E2",
+     "klubb": "Boo Racketklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Solna BTK C",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 2,
@@ -2868,31 +2910,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Boo RK E2",
-     "klubb": "Boo Racketklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
+     "placering": 5,
      "lag": "Tyresö BTK D",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Hammarby IF BTF E3",
-     "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2926,10 +2946,10 @@
      "placering": 8,
      "lag": "Spårvägens BTK H2",
      "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3354,6 +3374,17 @@
     },
     {
      "placering": 3,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Tullinge TP BTK A1",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 2,
@@ -3364,7 +3395,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sundbybergs IK",
      "klubb": "Sundbybergs Idrottsklubb",
      "spelade": 3,
@@ -3375,7 +3406,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "IFK Täby BTK B1",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 3,
@@ -3383,17 +3414,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Ängby SK",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -3411,10 +3431,10 @@
      "placering": 8,
      "lag": "Norrtulls SK C",
      "klubb": "Norrtulls Sportklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

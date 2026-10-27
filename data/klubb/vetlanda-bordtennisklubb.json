@@ -4,7 +4,7 @@
   "namn": "Vetlanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Vetlanda BTK",
@@ -96,42 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-26",
-   "tid": "11:00",
-   "serie_id": "372-6763-0",
-   "serie": "Veteran Norra D",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Vetlanda BTK F",
-   "borta": "BTK Clipper D",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Clipper",
-   "plats": "Vetlanda BT-hall",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-  },
-  {
-   "datum": "2026-10-26",
-   "tid": "12:00",
-   "serie_id": "372-6763-0",
-   "serie": "Veteran Norra D",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Tranås BTK C",
-   "borta": "Vetlanda BTK H",
-   "hemma_klubb": "Tranås Bordtennisklubb",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "Floragatan",
-   "arrangor": "Tranås Bordtennisklubb",
-   "arrangorer": [
-    "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-  },
   {
    "datum": "2026-10-27",
    "tid": "10:00",
@@ -2539,6 +2503,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-26",
+   "tid": "11:00",
+   "serie_id": "372-6763-0",
+   "serie": "Veteran Norra D",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Vetlanda BTK F",
+   "borta": "BTK Clipper D",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Clipper",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-26",
+   "tid": "12:00",
+   "serie_id": "372-6763-0",
+   "serie": "Veteran Norra D",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Tranås BTK C",
+   "borta": "Vetlanda BTK H",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-10-28",
    "tid": "10:00",
    "serie_id": "372-6764-0",
@@ -2580,36 +2584,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-26",
-   "platser": [
-    "Vetlanda BT-hall"
-   ],
-   "serier": [
-    "Veteran Norra D"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-26",
-     "tid": "11:00",
-     "serie_id": "372-6763-0",
-     "serie": "Veteran Norra D",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Vetlanda BTK F",
-     "borta": "BTK Clipper D",
-     "hemma_klubb": "Vetlanda Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Clipper",
-     "plats": "Vetlanda BT-hall",
-     "arrangor": "Vetlanda Bordtennisklubb",
-     "arrangorer": [
-      "Vetlanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-10-28",
    "platser": [
@@ -4389,8 +4363,8 @@
     },
     {
      "placering": 2,
-     "lag": "MK Veteranen A",
-     "klubb": "Motionsklubben Veteranen",
+     "lag": "BTK Clipper C",
+     "klubb": "Bordtennisklubben Clipper",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -4400,13 +4374,13 @@
     },
     {
      "placering": 3,
-     "lag": "BTK Clipper C",
-     "klubb": "Bordtennisklubben Clipper",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "MK Veteranen A",
+     "klubb": "Motionsklubben Veteranen",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -4422,17 +4396,6 @@
     },
     {
      "placering": 5,
-     "lag": "Huskvarna Södra IS D",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "KFUM Jönköping IA D",
      "klubb": "KFUM Jönköping",
      "spelade": 2,
@@ -4443,13 +4406,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 6,
      "lag": "Vetlanda BTK G",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Huskvarna Södra IS D",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -4475,8 +4449,8 @@
     },
     {
      "placering": 2,
-     "lag": "Vetlanda BTK H",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "Tranås BTK C",
+     "klubb": "Tranås Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -4486,13 +4460,13 @@
     },
     {
      "placering": 3,
-     "lag": "Tranås BTK C",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Vetlanda BTK H",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -4508,19 +4482,19 @@
     },
     {
      "placering": 5,
-     "lag": "BTK Clipper D",
-     "klubb": "Bordtennisklubben Clipper",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Vetlanda BTK F",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Vetlanda BTK F",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "BTK Clipper D",
+     "klubb": "Bordtennisklubben Clipper",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,

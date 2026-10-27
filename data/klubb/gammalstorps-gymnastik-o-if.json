@@ -4,7 +4,7 @@
   "namn": "Gammalstorps Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-25T08:55:40Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Gammalstorps GOIF A",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-26",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 12",
-   "hemma": "Kullåkra BTK A",
-   "borta": "Gammalstorps GOIF A",
-   "hemma_klubb": "Kullåkra Bordtennisklubb",
-   "borta_klubb": "Gammalstorps Gymnastik O IF",
-   "plats": "Bräne-Hoby Idrottshall",
-   "arrangor": "Kullåkra Bordtennisklubb",
-   "arrangorer": [
-    "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "13:00",
@@ -181,6 +163,26 @@
  ],
  "resultat": [
   {
+   "datum": "2026-09-21",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Kullåkra BTK B",
+   "borta": "Gammalstorps GOIF A",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Gammalstorps Gymnastik O IF",
+   "plats": "Bräne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-10-08",
    "tid": "19:30",
    "serie_id": "372-6772-0",
@@ -195,6 +197,26 @@
    "arrangor": "Listerby Idrottsklubb",
    "arrangorer": [
     "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-26",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 12",
+   "hemma": "Kullåkra BTK A",
+   "borta": "Gammalstorps GOIF A",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Gammalstorps Gymnastik O IF",
+   "plats": "Bräne-Hoby Idrottshall",
+   "arrangor": "Kullåkra Bordtennisklubb",
+   "arrangorer": [
+    "Kullåkra Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "hemma_poang": 2,
@@ -445,6 +467,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kullåkra BTK A",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 3,
@@ -455,24 +488,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Kullåkra BTK A",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
      "lag": "Listerby IK A",
      "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -489,6 +511,17 @@
     },
     {
      "placering": 5,
+     "lag": "Gammalstorps GOIF A",
+     "klubb": "Gammalstorps Gymnastik O IF",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kullåkra BTK C",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
@@ -499,7 +532,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
      "spelade": 1,
@@ -510,24 +543,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Gammalstorps GOIF A",
-     "klubb": "Gammalstorps Gymnastik O IF",
+     "placering": 8,
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

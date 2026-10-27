@@ -4,7 +4,7 @@
   "namn": "Kättilsmåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-23T09:02:06Z",
+ "uppdaterad": "2026-10-27T09:32:39Z",
  "lag": [
   {
    "namn": "Kättilsmåla BTK",
@@ -781,6 +781,26 @@
   {
    "datum": "2026-10-18",
    "tid": "13:00",
+   "serie_id": "372-6740-0",
+   "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Kättilsmåla BTK B",
+   "borta": "Listerby IK C",
+   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+   "borta_klubb": "Listerby Idrottsklubb",
+   "plats": "kättilsmåla skola",
+   "arrangor": "Kättilsmåla Bordtennisklubb",
+   "arrangorer": [
+    "Kättilsmåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "13:00",
    "serie_id": "372-6735-0",
    "serie": "Div 6 Syd/ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1337,6 +1357,17 @@
     },
     {
      "placering": 3,
+     "lag": "Listerby IK C",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Kyrkhults BTK B",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 4,
@@ -1347,7 +1378,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Jämjö BTK C",
      "klubb": "Jämjö Bordtennisklubb",
      "spelade": 4,
@@ -1355,17 +1386,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Listerby IK C",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1394,10 +1414,10 @@
      "placering": 8,
      "lag": "Kättilsmåla BTK B",
      "klubb": "Kättilsmåla Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1509,6 +1529,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kullåkra BTK A",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kyrkhults BTK A",
      "klubb": "Kyrkhults Bordtennisklubb",
      "spelade": 3,
@@ -1519,24 +1550,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Kullåkra BTK A",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
      "lag": "Listerby IK A",
      "klubb": "Listerby Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1553,6 +1573,17 @@
     },
     {
      "placering": 5,
+     "lag": "Gammalstorps GOIF A",
+     "klubb": "Gammalstorps Gymnastik O IF",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kullåkra BTK C",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 0,
@@ -1563,7 +1594,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
      "spelade": 1,
@@ -1574,24 +1605,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Gammalstorps GOIF A",
-     "klubb": "Gammalstorps Gymnastik O IF",
+     "placering": 8,
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
