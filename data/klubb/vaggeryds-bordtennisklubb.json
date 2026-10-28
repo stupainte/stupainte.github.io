@@ -4,7 +4,7 @@
   "namn": "Vaggeryds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-24T08:36:32Z",
+ "uppdaterad": "2026-10-28T10:13:48Z",
  "lag": [
   {
    "namn": "Vaggeryds BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-27",
-   "tid": "13:00",
-   "serie_id": "372-6633-0",
-   "serie": "DIV 4 NORRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Bruzaholms SK A",
-   "borta": "Vaggeryds BTK B",
-   "hemma_klubb": "Bruzaholms Sportklubb",
-   "borta_klubb": "Vaggeryds Bordtennisklubb",
-   "plats": "folketshus Bruzaholm",
-   "arrangor": "Bruzaholms Sportklubb",
-   "arrangorer": [
-    "Bruzaholms Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7"
-  },
   {
    "datum": "2026-10-30",
    "tid": "14:00",
@@ -969,6 +951,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-27",
+   "tid": "13:00",
+   "serie_id": "372-6633-0",
+   "serie": "DIV 4 NORRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Bruzaholms SK A",
+   "borta": "Vaggeryds BTK B",
+   "hemma_klubb": "Bruzaholms Sportklubb",
+   "borta_klubb": "Vaggeryds Bordtennisklubb",
+   "plats": "folketshus Bruzaholm",
+   "arrangor": "Bruzaholms Sportklubb",
+   "arrangorer": [
+    "Bruzaholms Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1543,11 +1545,11 @@
      "placering": 6,
      "lag": "Bruzaholms SK A",
      "klubb": "Bruzaholms Sportklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1565,10 +1567,10 @@
      "placering": 8,
      "lag": "Vaggeryds BTK B",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

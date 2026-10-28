@@ -4,7 +4,7 @@
   "namn": "Motionsklubben Veteranen"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-27T09:32:39Z",
+ "uppdaterad": "2026-10-28T10:13:48Z",
  "lag": [
   {
    "namn": "MK Veteranen A",
@@ -24,42 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-27",
-   "tid": "12:00",
-   "serie_id": "372-6764-0",
-   "serie": "Veteran Norra C",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "KFUM Jönköping IA E",
-   "borta": "MK Veteranen A",
-   "hemma_klubb": "KFUM Jönköping",
-   "borta_klubb": "Motionsklubben Veteranen",
-   "plats": "Ungdomens Hus",
-   "arrangor": "KFUM Jönköping",
-   "arrangorer": [
-    "KFUM Jönköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
-  },
-  {
-   "datum": "2026-10-27",
-   "tid": "13:00",
-   "serie_id": "372-6763-0",
-   "serie": "Veteran Norra D",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Tranås BTK D",
-   "borta": "MK Veteranen B",
-   "hemma_klubb": "Tranås Bordtennisklubb",
-   "borta_klubb": "Motionsklubben Veteranen",
-   "plats": "Floragatan",
-   "arrangor": "Tranås Bordtennisklubb",
-   "arrangorer": [
-    "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-  },
   {
    "datum": "2026-11-09",
    "tid": "13:00",
@@ -465,6 +429,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-27",
+   "tid": "12:00",
+   "serie_id": "372-6764-0",
+   "serie": "Veteran Norra C",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "KFUM Jönköping IA E",
+   "borta": "MK Veteranen A",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Motionsklubben Veteranen",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -746,6 +730,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "MK Veteranen A",
+     "klubb": "Motionsklubben Veteranen",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Vetlanda BTK D",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 3,
@@ -756,20 +751,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "BTK Clipper C",
      "klubb": "Bordtennisklubben Clipper",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "MK Veteranen A",
-     "klubb": "Motionsklubben Veteranen",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -781,10 +765,10 @@
      "placering": 4,
      "lag": "KFUM Jönköping IA E",
      "klubb": "KFUM Jönköping",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
