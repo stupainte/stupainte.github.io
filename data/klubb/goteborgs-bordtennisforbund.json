@@ -4,7 +4,7 @@
   "namn": "Göteborgs Bordtennisförbund"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-27T09:32:39Z",
+ "uppdaterad": "2026-10-29T10:38:44Z",
  "lag": [],
  "kommande": [],
  "resultat": [],
@@ -391,13 +391,34 @@
   {
    "datum": "2026-11-21",
    "platser": [
-    "Almåshallen"
+    "Almåshallen",
+    "Vinstahallen"
    ],
    "serier": [
+    "Division 4 (2)",
     "Division 6"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-21",
+     "tid": "11:00",
+     "serie_id": "371-6457-0",
+     "serie": "Division 4 (2)",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 4",
+     "hemma": "TopSpeed BTK B",
+     "borta": "BTK Linné E",
+     "hemma_klubb": "TopSpeed Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Vinstahallen",
+     "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
+     "arrangorer": [
+      "Göteborgs Bordtennisförbund",
+      "TopSpeed Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
+    },
     {
      "datum": "2026-11-21",
      "tid": "12:00",
@@ -639,37 +660,6 @@
       "Torslanda Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-    }
-   ]
-  },
-  {
-   "datum": "2026-11-28",
-   "platser": [
-    "Vinstahallen"
-   ],
-   "serier": [
-    "Division 4 (2)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-28",
-     "tid": "11:00",
-     "serie_id": "371-6457-0",
-     "serie": "Division 4 (2)",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 4",
-     "hemma": "TopSpeed BTK B",
-     "borta": "BTK Linné E",
-     "hemma_klubb": "TopSpeed Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Linné",
-     "plats": "Vinstahallen",
-     "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund",
-      "TopSpeed Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
     }
    ]
   },

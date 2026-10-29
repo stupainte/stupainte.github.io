@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Linné"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-28T10:13:48Z",
+ "uppdaterad": "2026-10-29T10:38:44Z",
  "lag": [
   {
    "namn": "BTK Linné",
@@ -532,6 +532,25 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
   },
   {
+   "datum": "2026-11-21",
+   "tid": "11:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 4",
+   "hemma": "TopSpeed BTK B",
+   "borta": "BTK Linné E",
+   "hemma_klubb": "TopSpeed Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "TopSpeed Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
+  },
+  {
    "datum": "2026-11-22",
    "tid": "09:00",
    "serie_id": "493-7486-0",
@@ -830,25 +849,6 @@
     "Bordtennisklubben Linné"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-  },
-  {
-   "datum": "2026-11-28",
-   "tid": "11:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (2)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "TopSpeed BTK B",
-   "borta": "BTK Linné E",
-   "hemma_klubb": "TopSpeed Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Linné",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "TopSpeed Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -3569,6 +3569,24 @@
   {
    "datum": "2026-10-11",
    "tid": "16:00",
+   "serie_id": "493-7509-0",
+   "serie": "Höst Ungd Äldre 6",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 1",
+   "hemma": "BTK Linné Orange",
+   "borta": "Lindome Dragons",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1500/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "16:00",
    "serie_id": "493-7489-0",
    "serie": "Höst Ungd Äldre 5",
    "evenemang": "Göteborgs Ungdomsserie Äldre",
@@ -3635,6 +3653,24 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-11",
+   "tid": "17:45",
+   "serie_id": "493-7509-0",
+   "serie": "Höst Ungd Äldre 6",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 2",
+   "hemma": "Mölndal Smash Attack",
+   "borta": "BTK Linné Orange",
+   "hemma_klubb": "Mölndals Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1500/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -7027,26 +7063,37 @@
      "placering": 1,
      "lag": "Kungälv Vikings",
      "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Mölndal Smash Attack",
      "klubb": "Mölndals Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "BTK Linné Orange",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Mölndal Fantastic Four",
      "klubb": "Mölndals Bordtennisklubb",
      "spelade": 2,
@@ -7057,24 +7104,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "BTK Linné Orange",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Kungälv Panthers",
      "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -7082,10 +7118,10 @@
      "placering": 6,
      "lag": "Lindome Dragons",
      "klubb": "Lindome Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

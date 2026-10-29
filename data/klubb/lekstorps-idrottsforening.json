@@ -4,7 +4,7 @@
   "namn": "Lekstorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-21T09:05:10Z",
+ "uppdaterad": "2026-10-29T10:38:44Z",
  "lag": [
   {
    "namn": "Lekstorp Green Giants",
@@ -2090,6 +2090,24 @@
   },
   {
    "datum": "2026-10-11",
+   "tid": "12:30",
+   "serie_id": "493-7492-0",
+   "serie": "Höst Ungd Äldre 8",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 1",
+   "hemma": "Kungälv Titans",
+   "borta": "Lekstorp Smash Squad",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1502/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-11",
    "tid": "14:15",
    "serie_id": "493-7491-0",
    "serie": "Höst Ungd Äldre 7",
@@ -2411,6 +2429,24 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1503/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "14:15",
+   "serie_id": "493-7492-0",
+   "serie": "Höst Ungd Äldre 8",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 4",
+   "hemma": "Lindome Dolphins",
+   "borta": "Lekstorp Smash Squad",
+   "hemma_klubb": "Lindome Bordtennisklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1502/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -4273,11 +4309,11 @@
      "placering": 2,
      "lag": "Torslanda Brothers",
      "klubb": "Torslanda Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -4306,10 +4342,10 @@
      "placering": 5,
      "lag": "Torslanda IK Grön Äldre",
      "klubb": "Torslanda Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–99"
     },
@@ -4496,39 +4532,50 @@
     },
     {
      "placering": 2,
-     "lag": "Lindome Dolphins",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Lekstorp Smash Squad",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "198–0"
     },
     {
      "placering": 3,
-     "lag": "Lekstorp Smash Squad",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Lindome Dolphins",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–198"
     },
     {
      "placering": 4,
      "lag": "Rudalen Vit Äldre",
      "klubb": "Rudalens Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
+     "matchpoang": 4,
+     "setdiff": "99–0"
     },
     {
      "placering": 5,
+     "lag": "Kungälv Titans",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "99–198"
+    },
+    {
+     "placering": 6,
      "lag": "Torslanda BTK Katter",
      "klubb": "Torslanda Bordtennisklubb",
      "spelade": 4,
@@ -4536,17 +4583,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Kungälv Titans",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
