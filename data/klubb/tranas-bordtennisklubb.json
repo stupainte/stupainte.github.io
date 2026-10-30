@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-10-30T10:39:42Z",
  "lag": [
   {
    "namn": "Tranås BTK A",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-10-29",
-   "tid": "13:00",
-   "serie_id": "372-6765-0",
-   "serie": "Veteran Norra B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Tranås BTK B",
-   "borta": "Huskvarna Södra IS C",
-   "hemma_klubb": "Tranås Bordtennisklubb",
-   "borta_klubb": "Huskvarna Södra Idrottssällskap",
-   "plats": "Floragatan",
-   "arrangor": "Tranås Bordtennisklubb",
-   "arrangorer": [
-    "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7"
-  },
   {
    "datum": "2026-10-30",
    "tid": "14:00",
@@ -1905,6 +1887,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-29",
+   "tid": "13:00",
+   "serie_id": "372-6765-0",
+   "serie": "Veteran Norra B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Tranås BTK B",
+   "borta": "Huskvarna Södra IS C",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Huskvarna Södra Idrottssällskap",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6760-0",
@@ -1966,36 +1968,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-10-29",
-   "platser": [
-    "Floragatan"
-   ],
-   "serier": [
-    "Veteran Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-10-29",
-     "tid": "13:00",
-     "serie_id": "372-6765-0",
-     "serie": "Veteran Norra B",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Tranås BTK B",
-     "borta": "Huskvarna Södra IS C",
-     "hemma_klubb": "Tranås Bordtennisklubb",
-     "borta_klubb": "Huskvarna Södra Idrottssällskap",
-     "plats": "Floragatan",
-     "arrangor": "Tranås Bordtennisklubb",
-     "arrangorer": [
-      "Tranås Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -3245,34 +3217,34 @@
     },
     {
      "placering": 2,
-     "lag": "Huskvarna Södra IS C",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Tranås BTK B",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "Huskvarna Södra IS C",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "KFUM Jönköping IA B",
      "klubb": "KFUM Jönköping",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tranås BTK B",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

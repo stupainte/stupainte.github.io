@@ -4,7 +4,7 @@
   "namn": "Mariedals Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-10-30T10:39:42Z",
  "lag": [
   {
    "namn": "Mariedals IK",
@@ -1909,26 +1909,6 @@
    "borta_poang": 2
   },
   {
-   "datum": "2026-09-30",
-   "tid": "10:00",
-   "serie_id": "367-6956-0",
-   "serie": "Pensionärsserier",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Mariedals IK",
-   "borta": "Kinna BTK",
-   "hemma_klubb": "Mariedals Idrottsklubb",
-   "borta_klubb": "Kinna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Mariedals Idrottsklubb",
-   "arrangorer": [
-    "Mariedals Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
-   "hemma_poang": 2,
-   "borta_poang": 0
-  },
-  {
    "datum": "2026-10-01",
    "tid": "10:00",
    "serie_id": "367-6454-0",
@@ -2325,6 +2305,46 @@
     "Mariedals Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-22",
+   "tid": "10:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Mariedals IK",
+   "borta": "Kinna BTK",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "11:00",
+   "serie_id": "367-7473-0",
+   "serie": "Div 7 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Sjömarkens BTK D1",
+   "borta": "Mariedals IK E1",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   }
@@ -3809,13 +3829,13 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Mariedals IK E1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 2,
+     "lag": "Sjömarkens BTK D1",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3831,6 +3851,17 @@
     },
     {
      "placering": 3,
+     "lag": "Mariedals IK E1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Sandareds BTK D",
      "klubb": "Sandareds Bordtennisklubb",
      "spelade": 3,
@@ -3841,24 +3872,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Mariedals IK E2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Sjömarkens BTK D1",
-     "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

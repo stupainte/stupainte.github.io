@@ -4,7 +4,7 @@
   "namn": "Tibble-Kungsängen Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-10-30T10:39:42Z",
  "lag": [
   {
    "namn": "Tibble Backhand Bandits",
@@ -641,6 +641,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7919-0",
+   "serie": "Div 6 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Rotebro BTK B",
+   "borta": "Tibble Kungsängen BTK D",
+   "hemma_klubb": "Rotebro Bordtennisklubb",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Rotebro Bordtennisklubb",
+   "arrangorer": [
+    "Rotebro Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1585/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -2361,6 +2381,17 @@
     },
     {
      "placering": 4,
+     "lag": "Rotebro BTK B",
+     "klubb": "Rotebro Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Spånga TBK B",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 3,
@@ -2368,17 +2399,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Rotebro BTK B",
-     "klubb": "Rotebro Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2407,10 +2427,10 @@
      "placering": 8,
      "lag": "Tibble Kungsängen BTK D",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

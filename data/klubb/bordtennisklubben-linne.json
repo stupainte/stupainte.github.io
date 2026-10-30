@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Linné"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-10-30T10:39:42Z",
  "lag": [
   {
    "namn": "BTK Linné",
@@ -4199,6 +4199,42 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-10-25",
+   "tid": "17:00",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 1",
+   "hemma": "Stenungsunds BTF",
+   "borta": "BTK Linné B",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-25",
+   "tid": "18:45",
+   "serie_id": "537-7546-0",
+   "serie": "Division 3 Damer",
+   "evenemang": "Göteborgs Lokala Damserie",
+   "omgang": "Round 2",
+   "hemma": "Varbergs BTK Violett",
+   "borta": "BTK Linné B",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "15:00",
    "serie_id": "417-5771-0",
@@ -4221,6 +4257,36 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-11-04",
+   "platser": [
+    "A-hallen"
+   ],
+   "serier": [
+    "Div 1 V Dam"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-04",
+     "tid": "18:30",
+     "serie_id": "417-5740-0",
+     "serie": "Div 1 V Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
+     "omgang": "Round 6",
+     "hemma": "Kågeröds BTK: A1",
+     "borta": "Kågeröds BTK: A2",
+     "hemma_klubb": "Kågeröds Bordtennisklubb",
+     "borta_klubb": "Kågeröds Bordtennisklubb",
+     "plats": "A-hallen",
+     "arrangor": "Bordtennisklubben Linné",
+     "arrangorer": [
+      "Bordtennisklubben Linné"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2026-11-14",
    "platser": [
     "A-hallen"
@@ -4228,7 +4294,7 @@
    "serier": [
     "Div 1 V Dam"
    ],
-   "antal": 6,
+   "antal": 5,
    "matcher": [
     {
      "datum": "2026-11-14",
@@ -4313,24 +4379,6 @@
      "borta": "Kungälvs BTK",
      "hemma_klubb": "Rudalens Idrottsförening",
      "borta_klubb": "Kungälvs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Linné",
-     "arrangorer": [
-      "Bordtennisklubben Linné"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-    },
-    {
-     "datum": "2026-11-14",
-     "tid": "15:00",
-     "serie_id": "417-5740-0",
-     "serie": "Div 1 V Dam",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 6",
-     "hemma": "Kågeröds BTK: A1",
-     "borta": "Kågeröds BTK: A2",
-     "hemma_klubb": "Kågeröds Bordtennisklubb",
-     "borta_klubb": "Kågeröds Bordtennisklubb",
      "plats": "A-hallen",
      "arrangor": "Bordtennisklubben Linné",
      "arrangorer": [
@@ -6638,82 +6686,82 @@
    "serie": "Division 3 Damer",
    "evenemang": "Göteborgs Lokala Damserie",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Torslanda IK ",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Lindome BTK 1 Dam",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Varberg Vit",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Torslanda IK ",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Askims BTK",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Lindome BTK 1 Dam",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Stenungsunds BTF",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Stenungsunds BTF",
-     "klubb": "Stenungsunds Bordtennisförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "BTK Linné B",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Linné B",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Varberg Vit",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Lindome BTK 3 Dam",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Varberg Röd",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -6721,21 +6769,21 @@
      "placering": 8,
      "lag": "Lindome BTK 2 Dam",
      "klubb": "Lindome Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 9,
-     "lag": "Varberg Röd",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Lindome BTK 3 Dam",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -6743,10 +6791,10 @@
      "placering": 10,
      "lag": "Varbergs BTK Violett",
      "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

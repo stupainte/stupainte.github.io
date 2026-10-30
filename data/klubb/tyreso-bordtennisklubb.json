@@ -4,7 +4,7 @@
   "namn": "Tyresö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-28T10:13:48Z",
+ "uppdaterad": "2026-10-30T10:39:42Z",
  "lag": [
   {
    "namn": "Tyresö BTK",
@@ -1446,6 +1446,26 @@
    "serie_id": "464-7936-0",
    "serie": "Div 7 Mellersta B",
    "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Jarlabergs BTK B3",
+   "borta": "Tyresö BTK E1",
+   "hemma_klubb": "Jarlabergs Bordtennisklubb",
+   "borta_klubb": "Tyresö Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Jarlabergs Bordtennisklubb",
+   "arrangorer": [
+    "Jarlabergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1592/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7936-0",
+   "serie": "Div 7 Mellersta B",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Tyresö BTK E1",
    "borta": "Spårvägens BTK I",
@@ -2368,19 +2388,19 @@
     },
     {
      "placering": 3,
-     "lag": "Spårvägens BTK I",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Tyresö BTK E1",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Tyresö BTK E1",
-     "klubb": "Tyresö Bordtennisklubb",
+     "lag": "Spårvägens BTK I",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2401,8 +2421,8 @@
     },
     {
      "placering": 6,
-     "lag": "Jarlabergs BTK B3",
-     "klubb": "Jarlabergs Bordtennisklubb",
+     "lag": "Djurgårdens IF BTF C3",
+     "klubb": "Djurgårdens IF BTF",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2412,12 +2432,12 @@
     },
     {
      "placering": 7,
-     "lag": "Djurgårdens IF BTF C3",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "lag": "Jarlabergs BTK B3",
+     "klubb": "Jarlabergs Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
