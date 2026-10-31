@@ -4,7 +4,7 @@
   "namn": "Värmskogs Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-28T10:13:48Z",
+ "uppdaterad": "2026-10-31T10:10:52Z",
  "lag": [
   {
    "namn": "Värmskog",
@@ -60,6 +60,26 @@
    "arrangor": "Värmskogs Sportklubb",
    "arrangorer": [
     "Värmskogs Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7281-0",
+   "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 3",
+   "hemma": "Värmskog",
+   "borta": "Munkfors",
+   "hemma_klubb": "Värmskogs Sportklubb",
+   "borta_klubb": "Munkfors Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Munkfors Bordtennisklubb",
+   "arrangorer": [
+    "Munkfors Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
    "hemma_poang": 2,
@@ -237,6 +257,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Molkom",
+     "klubb": "Molkoms Racketklubb",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kristinehamn 3",
      "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 4,
@@ -247,7 +278,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Storfors",
      "klubb": "Storfors Bordtennisklubb",
      "spelade": 4,
@@ -258,7 +289,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Hööken",
      "klubb": "Höökens Bordtennisklubb",
      "spelade": 4,
@@ -269,7 +300,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Arvika 2",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 4,
@@ -277,17 +308,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Molkom",
-     "klubb": "Molkoms Racketklubb",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -327,10 +347,10 @@
      "placering": 9,
      "lag": "Sunne",
      "klubb": "Sunne Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -349,26 +369,15 @@
      "placering": 11,
      "lag": "Värmskog",
      "klubb": "Värmskogs Sportklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 12,
-     "lag": "Munkfors",
-     "klubb": "Munkfors Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 13,
      "lag": "Kristinehamn 1",
      "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 3,
@@ -379,13 +388,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 14,
+     "placering": 13,
      "lag": "Carlstad 2",
      "klubb": "Carlstads Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 14,
+     "lag": "Munkfors",
+     "klubb": "Munkfors Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
