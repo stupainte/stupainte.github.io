@@ -4,7 +4,7 @@
   "namn": "Ekeby Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-01T10:59:42Z",
  "lag": [
   {
    "namn": "Ekeby IF-A",
@@ -279,90 +279,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-10-31",
-   "platser": [
-    "Ekeby"
-   ],
-   "serier": [
-    "Division 4"
-   ],
-   "antal": 4,
-   "matcher": [
-    {
-     "datum": "2026-10-31",
-     "tid": "10:00",
-     "serie_id": "460-8011-0",
-     "serie": "Division 4",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 3",
-     "hemma": "Östansjö IF-A",
-     "borta": "BTK Safir-C1",
-     "hemma_klubb": "Östansjö Idrottsförening",
-     "borta_klubb": "Bordtennisklubben Safir",
-     "plats": "Ekeby",
-     "arrangor": "Ekeby Idrottsförening",
-     "arrangorer": [
-      "Ekeby Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-    },
-    {
-     "datum": "2026-10-31",
-     "tid": "10:00",
-     "serie_id": "460-8011-0",
-     "serie": "Division 4",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 3",
-     "hemma": "Storå BTK-B",
-     "borta": "Gropens IF-A",
-     "hemma_klubb": "Storå Bordtennisklubb",
-     "borta_klubb": "Gropens Idrottsförening",
-     "plats": "Ekeby",
-     "arrangor": "Ekeby Idrottsförening",
-     "arrangorer": [
-      "Ekeby Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-    },
-    {
-     "datum": "2026-10-31",
-     "tid": "14:00",
-     "serie_id": "460-8011-0",
-     "serie": "Division 4",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 4",
-     "hemma": "Östansjö IF-A",
-     "borta": "Gropens IF-A",
-     "hemma_klubb": "Östansjö Idrottsförening",
-     "borta_klubb": "Gropens Idrottsförening",
-     "plats": "Ekeby",
-     "arrangor": "Ekeby Idrottsförening",
-     "arrangorer": [
-      "Ekeby Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-    },
-    {
-     "datum": "2026-10-31",
-     "tid": "14:00",
-     "serie_id": "460-8011-0",
-     "serie": "Division 4",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 4",
-     "hemma": "Storå BTK-B",
-     "borta": "BTK Safir-C1",
-     "hemma_klubb": "Storå Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Safir",
-     "plats": "Ekeby",
-     "arrangor": "Ekeby Idrottsförening",
-     "arrangorer": [
-      "Ekeby Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-01",
    "platser": [
     "Ekeby"
@@ -459,33 +375,33 @@
      "placering": 1,
      "lag": "BTK Safir-C1",
      "klubb": "Bordtennisklubben Safir",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Storå BTK-B",
-     "klubb": "Storå Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Gropens IF-A",
+     "klubb": "Gropens Idrottsförening",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Gropens IF-A",
-     "klubb": "Gropens Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Storå BTK-B",
+     "klubb": "Storå Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -536,10 +452,10 @@
      "placering": 8,
      "lag": "Östansjö IF-A",
      "klubb": "Östansjö Idrottsförening",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Västerås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-27T09:32:39Z",
+ "uppdaterad": "2026-11-01T10:59:42Z",
  "lag": [
   {
    "namn": "Västerås 1",
@@ -1689,6 +1689,42 @@
    "omgang": "Round 2",
    "hemma": "Västerås 3",
    "borta": "Västerås 8",
+   "hemma_klubb": "Västerås Bordtennisklubb",
+   "borta_klubb": "Västerås Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "482-7764-0",
+   "serie": "Division 5",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Västerås 5",
+   "borta": "Västerås 1",
+   "hemma_klubb": "Västerås Bordtennisklubb",
+   "borta_klubb": "Västerås Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "482-7764-0",
+   "serie": "Division 5",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Västerås 5",
+   "borta": "Västerås 1",
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": null,
@@ -4214,11 +4250,11 @@
      "placering": 2,
      "lag": "Västerås 1",
      "klubb": "Västerås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -4289,17 +4325,6 @@
     },
     {
      "placering": 9,
-     "lag": "Västerås 5",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 10,
      "lag": "Hallstahammar",
      "klubb": "Hallstahammars Bordtennisklubb",
      "spelade": 1,
@@ -4310,13 +4335,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 11,
+     "placering": 10,
      "lag": "Västerås 6",
      "klubb": "Västerås Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 11,
+     "lag": "Västerås 5",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
