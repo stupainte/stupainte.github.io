@@ -4,7 +4,7 @@
   "namn": "Skövde Pingisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-11-02T11:54:19Z",
  "lag": [
   {
    "namn": "Skövde PK",
@@ -67,6 +67,24 @@
   {
    "datum": "2026-11-04",
    "tid": "19:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Skövde PK C",
+   "borta": "Karlsborgs BTK B1",
+   "hemma_klubb": "Skövde Pingisklubb",
+   "borta_klubb": "Karlsborgs Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Skövde Pingisklubb",
+   "arrangorer": [
+    "Skövde Pingisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "19:00",
    "serie_id": "367-7428-0",
    "serie": "Div 6 Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
@@ -99,24 +117,6 @@
     "Varnhems Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7"
-  },
-  {
-   "datum": "2026-11-06",
-   "tid": "18:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Skövde PK C",
-   "borta": "Karlsborgs BTK B1",
-   "hemma_klubb": "Skövde Pingisklubb",
-   "borta_klubb": "Karlsborgs Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Skövde Pingisklubb",
-   "arrangorer": [
-    "Skövde Pingisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
   },
   {
    "datum": "2026-11-10",
@@ -1294,10 +1294,29 @@
     "-"
    ],
    "serier": [
+    "Div 5 Nordöstra",
     "Div 6 Nordöstra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-04",
+     "tid": "19:00",
+     "serie_id": "367-6442-0",
+     "serie": "Div 5 Nordöstra",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Skövde PK C",
+     "borta": "Karlsborgs BTK B1",
+     "hemma_klubb": "Skövde Pingisklubb",
+     "borta_klubb": "Karlsborgs Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Skövde Pingisklubb",
+     "arrangorer": [
+      "Skövde Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
+    },
     {
      "datum": "2026-11-04",
      "tid": "19:00",
@@ -1315,36 +1334,6 @@
       "Skövde Pingisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
-  {
-   "datum": "2026-11-06",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-06",
-     "tid": "18:00",
-     "serie_id": "367-6442-0",
-     "serie": "Div 5 Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Skövde PK C",
-     "borta": "Karlsborgs BTK B1",
-     "hemma_klubb": "Skövde Pingisklubb",
-     "borta_klubb": "Karlsborgs Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Skövde Pingisklubb",
-     "arrangorer": [
-      "Skövde Pingisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
     }
    ]
   },

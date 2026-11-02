@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-02T11:54:19Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -1711,6 +1711,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7935-0",
+   "serie": "div 7 Mellersta A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Hammarby IF BTF F3",
+   "borta": "Djurgårdens IF BTF C2",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1591/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -5497,6 +5517,17 @@
     },
     {
      "placering": 2,
+     "lag": "Hammarby IF BTF F3",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Spånga TBK C",
      "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 3,
@@ -5507,7 +5538,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Solna BTK D3",
      "klubb": "Solna Bordtennisklubb",
      "spelade": 3,
@@ -5515,17 +5546,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Hammarby IF BTF F3",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -5552,19 +5572,19 @@
     },
     {
      "placering": 7,
-     "lag": "Djurgårdens IF BTF C2",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "lag": "IFK Täby BTK D3",
+     "klubb": "IFK Täby Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IFK Täby BTK D3",
-     "klubb": "IFK Täby Bordtennisklubb",
+     "lag": "Djurgårdens IF BTF C2",
+     "klubb": "Djurgårdens IF BTF",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
