@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-31T10:10:52Z",
+ "uppdaterad": "2026-11-03T11:35:09Z",
  "lag": [
   {
    "namn": "Tranås BTK A",
@@ -177,24 +177,6 @@
    "arrangor": "Tranås Bordtennisklubb",
    "arrangorer": [
     "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6760-0",
-   "serie": "Div 6 Norra A ",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "KFUM Jönköping IA F",
-   "borta": "Tranås BTK D",
-   "hemma_klubb": "KFUM Jönköping",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Ungdomens Hus",
-   "arrangor": "KFUM Jönköping",
-   "arrangorer": [
-    "KFUM Jönköping"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
   },
@@ -1889,6 +1871,46 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-30",
+   "tid": "14:00",
+   "serie_id": "372-6766-0",
+   "serie": "Veteran Norra A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Vaggeryds BTK A",
+   "borta": "Tranås BTK A",
+   "hemma_klubb": "Vaggeryds Bordtennisklubb",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Vaggeryds Idrottshall",
+   "arrangor": "Vaggeryds Bordtennisklubb",
+   "arrangorer": [
+    "Vaggeryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "372-6760-0",
+   "serie": "Div 6 Norra A ",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "KFUM Jönköping IA F",
+   "borta": "Tranås BTK D",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6760-0",
@@ -3016,6 +3038,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK D",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": "Huskvarna Södra IS E",
      "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 4,
@@ -3026,7 +3059,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Tabergs SK A",
      "klubb": "Tabergs Sportklubb",
      "spelade": 5,
@@ -3034,17 +3067,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 6,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tranås BTK D",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
      "setdiff": "264–0"
     },
     {
@@ -3062,10 +3084,10 @@
      "placering": 6,
      "lag": "KFUM Jönköping IA F",
      "klubb": "KFUM Jönköping",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -3104,11 +3126,11 @@
      "placering": 1,
      "lag": "Tranås BTK A",
      "klubb": "Tranås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -3126,10 +3148,10 @@
      "placering": 3,
      "lag": "Vaggeryds BTK A",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

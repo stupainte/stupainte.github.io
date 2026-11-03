@@ -4,12 +4,12 @@
   "namn": "Kvillebyns Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-11-03T11:35:09Z",
  "lag": [
   {
    "namn": "Kvillebyns SK",
    "serie": {
-    "namn": "Div 4 Nordvästra"
+    "namn": "4-Nordvästra"
    },
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -17,7 +17,7 @@
   {
    "namn": "Kvillebyns SK B",
    "serie": {
-    "namn": "Div 6 Nordvästra"
+    "namn": "6-Nordvästra"
    },
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -25,7 +25,7 @@
   {
    "namn": "Kvillebyns SK C",
    "serie": {
-    "namn": "Div 7 Nordvästra"
+    "namn": "7-Nordvästra"
    },
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -36,7 +36,7 @@
    "datum": "2026-11-08",
    "tid": "19:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Kvillebyns SK B",
@@ -54,7 +54,7 @@
    "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Trollhättans BTK A2",
@@ -72,7 +72,7 @@
    "datum": "2026-11-14",
    "tid": "14:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Eds FF A1",
@@ -90,7 +90,7 @@
    "datum": "2026-11-28",
    "tid": "10:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Kvillebyns SK B",
@@ -108,7 +108,7 @@
    "datum": "2026-11-28",
    "tid": "14:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Kvillebyns SK B",
@@ -125,26 +125,8 @@
   {
    "datum": "2026-12-12",
    "tid": "10:00",
-   "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Kvillebyns SK",
-   "borta": "Eds FF A2",
-   "hemma_klubb": "Kvillebyns Sportklubb",
-   "borta_klubb": "Eds Fotbollsförening",
-   "plats": "Uddevalla",
-   "arrangor": "Uddevalla Bordtennisklubb",
-   "arrangorer": [
-    "Uddevalla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-  },
-  {
-   "datum": "2026-12-12",
-   "tid": "10:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Kvillebyns SK C",
@@ -160,15 +142,15 @@
   },
   {
    "datum": "2026-12-12",
-   "tid": "14:00",
+   "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 8",
+   "omgang": "Round 7",
    "hemma": "Kvillebyns SK",
-   "borta": "Bullarens GoIF",
+   "borta": "Eds FF A2",
    "hemma_klubb": "Kvillebyns Sportklubb",
-   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "borta_klubb": "Eds Fotbollsförening",
    "plats": "Uddevalla",
    "arrangor": "Uddevalla Bordtennisklubb",
    "arrangorer": [
@@ -180,7 +162,7 @@
    "datum": "2026-12-12",
    "tid": "14:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Uddevalla BTK C",
@@ -195,10 +177,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7"
   },
   {
+   "datum": "2026-12-12",
+   "tid": "14:00",
+   "serie_id": "367-6342-0",
+   "serie": "4-Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 8",
+   "hemma": "Kvillebyns SK",
+   "borta": "Bullarens GoIF",
+   "hemma_klubb": "Kvillebyns Sportklubb",
+   "borta_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "plats": "Uddevalla",
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
+  },
+  {
    "datum": "2026-12-13",
    "tid": "10:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Trollhättans BTK D",
@@ -216,7 +216,7 @@
    "datum": "2026-12-13",
    "tid": "14:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Varekils IF",
@@ -234,7 +234,7 @@
    "datum": "2027-01-10",
    "tid": "19:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Kvillebyns SK B",
@@ -252,7 +252,7 @@
    "datum": "2027-01-11",
    "tid": "19:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 5",
    "hemma": "Bullarens GoIF C",
@@ -270,7 +270,7 @@
    "datum": "2027-01-16",
    "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Kvillebyns SK",
@@ -288,7 +288,7 @@
    "datum": "2027-01-16",
    "tid": "14:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Kvillebyns SK",
@@ -306,7 +306,7 @@
    "datum": "2027-01-17",
    "tid": "19:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Uddevalla BTK B2",
@@ -324,7 +324,7 @@
    "datum": "2027-01-25",
    "tid": "19:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 6",
    "hemma": "Grästorps BTK C",
@@ -341,26 +341,8 @@
   {
    "datum": "2027-02-13",
    "tid": "10:00",
-   "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 11",
-   "hemma": "Kvillebyns SK",
-   "borta": "Trollhättans BTK A2",
-   "hemma_klubb": "Kvillebyns Sportklubb",
-   "borta_klubb": "Trollhättans Bordtennisklubb",
-   "plats": "Kvillebyn",
-   "arrangor": "Kvillebyns Sportklubb",
-   "arrangorer": [
-    "Kvillebyns Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-  },
-  {
-   "datum": "2027-02-13",
-   "tid": "10:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 11",
    "hemma": "Uddevalla BTK B1",
@@ -378,7 +360,7 @@
    "datum": "2027-02-13",
    "tid": "10:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 7",
    "hemma": "Kvillebyns SK C",
@@ -394,15 +376,15 @@
   },
   {
    "datum": "2027-02-13",
-   "tid": "14:00",
+   "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 12",
-   "hemma": "Eds FF A2",
-   "borta": "Kvillebyns SK",
-   "hemma_klubb": "Eds Fotbollsförening",
-   "borta_klubb": "Kvillebyns Sportklubb",
+   "omgang": "Round 11",
+   "hemma": "Kvillebyns SK",
+   "borta": "Trollhättans BTK A2",
+   "hemma_klubb": "Kvillebyns Sportklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
    "plats": "Kvillebyn",
    "arrangor": "Kvillebyns Sportklubb",
    "arrangorer": [
@@ -414,7 +396,7 @@
    "datum": "2027-02-13",
    "tid": "14:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 12",
    "hemma": "Skee IF",
@@ -432,7 +414,7 @@
    "datum": "2027-02-13",
    "tid": "14:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 8",
    "hemma": "Stenungsunds BTF D2",
@@ -447,10 +429,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7"
   },
   {
+   "datum": "2027-02-13",
+   "tid": "14:00",
+   "serie_id": "367-6342-0",
+   "serie": "4-Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 12",
+   "hemma": "Eds FF A2",
+   "borta": "Kvillebyns SK",
+   "hemma_klubb": "Eds Fotbollsförening",
+   "borta_klubb": "Kvillebyns Sportklubb",
+   "plats": "Kvillebyn",
+   "arrangor": "Kvillebyns Sportklubb",
+   "arrangorer": [
+    "Kvillebyns Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
+  },
+  {
    "datum": "2027-02-22",
    "tid": "19:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 9",
    "hemma": "Kvillebyns SK C",
@@ -468,7 +468,7 @@
    "datum": "2027-03-01",
    "tid": "19:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 10",
    "hemma": "Kvillebyns SK C",
@@ -485,26 +485,8 @@
   {
    "datum": "2027-03-13",
    "tid": "10:00",
-   "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 13",
-   "hemma": "Kvillebyns SK",
-   "borta": "Uddevalla BTK A2",
-   "hemma_klubb": "Kvillebyns Sportklubb",
-   "borta_klubb": "Uddevalla Bordtennisklubb",
-   "plats": "Ed",
-   "arrangor": "Eds Fotbollsförening",
-   "arrangorer": [
-    "Eds Fotbollsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
-  },
-  {
-   "datum": "2027-03-13",
-   "tid": "10:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 13",
    "hemma": "Stenungsunds BTF C",
@@ -520,13 +502,13 @@
   },
   {
    "datum": "2027-03-13",
-   "tid": "14:00",
+   "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 14",
+   "omgang": "Round 13",
    "hemma": "Kvillebyns SK",
-   "borta": "Uddevalla BTK A1",
+   "borta": "Uddevalla BTK A2",
    "hemma_klubb": "Kvillebyns Sportklubb",
    "borta_klubb": "Uddevalla Bordtennisklubb",
    "plats": "Ed",
@@ -540,7 +522,7 @@
    "datum": "2027-03-13",
    "tid": "14:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 14",
    "hemma": "Kvillebyns SK B",
@@ -553,6 +535,24 @@
     "Kvillebyns Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "14:00",
+   "serie_id": "367-6342-0",
+   "serie": "4-Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 14",
+   "hemma": "Kvillebyns SK",
+   "borta": "Uddevalla BTK A1",
+   "hemma_klubb": "Kvillebyns Sportklubb",
+   "borta_klubb": "Uddevalla Bordtennisklubb",
+   "plats": "Ed",
+   "arrangor": "Eds Fotbollsförening",
+   "arrangorer": [
+    "Eds Fotbollsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7"
   }
  ],
  "resultat": [
@@ -560,7 +560,7 @@
    "datum": "2026-09-19",
    "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Bullarens GoIF",
@@ -580,7 +580,7 @@
    "datum": "2026-09-19",
    "tid": "14:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Trollhättans BTK A1",
@@ -600,7 +600,7 @@
    "datum": "2026-10-11",
    "tid": "19:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Kvillebyns SK B",
@@ -619,28 +619,8 @@
   {
    "datum": "2026-10-17",
    "tid": "10:00",
-   "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Uddevalla BTK A2",
-   "borta": "Kvillebyns SK",
-   "hemma_klubb": "Uddevalla Bordtennisklubb",
-   "borta_klubb": "Kvillebyns Sportklubb",
-   "plats": "Uddevalla",
-   "arrangor": "Uddevalla Bordtennisklubb",
-   "arrangorer": [
-    "Uddevalla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
-   "hemma_poang": 0,
-   "borta_poang": 2
-  },
-  {
-   "datum": "2026-10-17",
-   "tid": "10:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 1",
    "hemma": "Kvillebyns SK C",
@@ -658,12 +638,12 @@
   },
   {
    "datum": "2026-10-17",
-   "tid": "14:00",
+   "tid": "10:00",
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Uddevalla BTK A1",
+   "omgang": "Round 3",
+   "hemma": "Uddevalla BTK A2",
    "borta": "Kvillebyns SK",
    "hemma_klubb": "Uddevalla Bordtennisklubb",
    "borta_klubb": "Kvillebyns Sportklubb",
@@ -673,14 +653,14 @@
     "Uddevalla Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
-   "hemma_poang": 2,
-   "borta_poang": 0
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2026-10-17",
    "tid": "14:00",
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "Stenungsunds BTF D1",
@@ -697,10 +677,30 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-10-17",
+   "tid": "14:00",
+   "serie_id": "367-6342-0",
+   "serie": "4-Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Uddevalla BTK A1",
+   "borta": "Kvillebyns SK",
+   "hemma_klubb": "Uddevalla Bordtennisklubb",
+   "borta_klubb": "Kvillebyns Sportklubb",
+   "plats": "Uddevalla",
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-10-18",
    "tid": "10:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 2",
    "hemma": "BTK Dalen C",
@@ -720,7 +720,7 @@
    "datum": "2026-10-18",
    "tid": "14:00",
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 3",
    "hemma": "Kvillebyns SK B",
@@ -744,7 +744,7 @@
     "-"
    ],
    "serier": [
-    "Div 6 Nordvästra"
+    "6-Nordvästra"
    ],
    "antal": 1,
    "matcher": [
@@ -752,7 +752,7 @@
      "datum": "2026-11-08",
      "tid": "19:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 4",
      "hemma": "Kvillebyns SK B",
@@ -774,7 +774,7 @@
     "-"
    ],
    "serier": [
-    "Div 6 Nordvästra"
+    "6-Nordvästra"
    ],
    "antal": 4,
    "matcher": [
@@ -782,7 +782,7 @@
      "datum": "2026-11-28",
      "tid": "10:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Kvillebyns SK B",
@@ -800,7 +800,7 @@
      "datum": "2026-11-28",
      "tid": "10:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 5",
      "hemma": "Varekils IF",
@@ -818,7 +818,7 @@
      "datum": "2026-11-28",
      "tid": "14:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Varekils IF",
@@ -836,7 +836,7 @@
      "datum": "2026-11-28",
      "tid": "14:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 6",
      "hemma": "Kvillebyns SK B",
@@ -858,7 +858,7 @@
     "-"
    ],
    "serier": [
-    "Div 6 Nordvästra"
+    "6-Nordvästra"
    ],
    "antal": 1,
    "matcher": [
@@ -866,7 +866,7 @@
      "datum": "2027-01-10",
      "tid": "19:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Kvillebyns SK B",
@@ -888,7 +888,7 @@
     "Kvillebyn"
    ],
    "serier": [
-    "Div 4 Nordvästra"
+    "4-Nordvästra"
    ],
    "antal": 4,
    "matcher": [
@@ -896,7 +896,7 @@
      "datum": "2027-01-16",
      "tid": "10:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Uddevalla BTK A1",
@@ -914,7 +914,7 @@
      "datum": "2027-01-16",
      "tid": "10:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Kvillebyns SK",
@@ -932,7 +932,7 @@
      "datum": "2027-01-16",
      "tid": "14:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Kvillebyns SK",
@@ -950,7 +950,7 @@
      "datum": "2027-01-16",
      "tid": "14:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Trollhättans BTK A1",
@@ -972,7 +972,7 @@
     "Kvillebyn"
    ],
    "serier": [
-    "Div 4 Nordvästra"
+    "4-Nordvästra"
    ],
    "antal": 4,
    "matcher": [
@@ -980,7 +980,7 @@
      "datum": "2027-02-13",
      "tid": "10:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Kvillebyns SK",
@@ -998,7 +998,7 @@
      "datum": "2027-02-13",
      "tid": "10:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 11",
      "hemma": "Eds FF A2",
@@ -1016,7 +1016,7 @@
      "datum": "2027-02-13",
      "tid": "14:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Trollhättans BTK A2",
@@ -1034,7 +1034,7 @@
      "datum": "2027-02-13",
      "tid": "14:00",
      "serie_id": "367-6342-0",
-     "serie": "Div 4 Nordvästra",
+     "serie": "4-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 12",
      "hemma": "Eds FF A2",
@@ -1056,7 +1056,7 @@
     "-"
    ],
    "serier": [
-    "Div 7 Nordvästra"
+    "7-Nordvästra"
    ],
    "antal": 1,
    "matcher": [
@@ -1064,7 +1064,7 @@
      "datum": "2027-02-22",
      "tid": "19:00",
      "serie_id": "367-7535-0",
-     "serie": "Div 7 Nordvästra",
+     "serie": "7-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 9",
      "hemma": "Kvillebyns SK C",
@@ -1086,7 +1086,7 @@
     "-"
    ],
    "serier": [
-    "Div 7 Nordvästra"
+    "7-Nordvästra"
    ],
    "antal": 1,
    "matcher": [
@@ -1094,7 +1094,7 @@
      "datum": "2027-03-01",
      "tid": "19:00",
      "serie_id": "367-7535-0",
-     "serie": "Div 7 Nordvästra",
+     "serie": "7-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 10",
      "hemma": "Kvillebyns SK C",
@@ -1116,7 +1116,7 @@
     "-"
    ],
    "serier": [
-    "Div 6 Nordvästra"
+    "6-Nordvästra"
    ],
    "antal": 4,
    "matcher": [
@@ -1124,7 +1124,7 @@
      "datum": "2027-03-13",
      "tid": "10:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Uddevalla BTK B2",
@@ -1142,7 +1142,7 @@
      "datum": "2027-03-13",
      "tid": "10:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 13",
      "hemma": "Stenungsunds BTF C",
@@ -1160,7 +1160,7 @@
      "datum": "2027-03-13",
      "tid": "14:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Kvillebyns SK B",
@@ -1178,7 +1178,7 @@
      "datum": "2027-03-13",
      "tid": "14:00",
      "serie_id": "367-7463-0",
-     "serie": "Div 6 Nordvästra",
+     "serie": "6-Nordvästra",
      "evenemang": "Nordvästra Götalands BTF 26/27",
      "omgang": "Round 14",
      "hemma": "Stenungsunds BTF C",
@@ -1198,7 +1198,7 @@
  "tabeller": [
   {
    "serie_id": "367-6342-0",
-   "serie": "Div 4 Nordvästra",
+   "serie": "4-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
    "startad": true,
@@ -1295,15 +1295,15 @@
   },
   {
    "serie_id": "367-7463-0",
-   "serie": "Div 6 Nordvästra",
+   "serie": "6-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1365/2/7/7",
    "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Trollhättans BTK D",
-     "klubb": "Trollhättans Bordtennisklubb",
+     "lag": "Uddevalla BTK B1",
+     "klubb": "Uddevalla Bordtennisklubb",
      "spelade": 3,
      "vunna": 3,
      "oavgjorda": 0,
@@ -1313,8 +1313,8 @@
     },
     {
      "placering": 2,
-     "lag": "Uddevalla BTK B1",
-     "klubb": "Uddevalla Bordtennisklubb",
+     "lag": "Trollhättans BTK D",
+     "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 3,
      "vunna": 3,
      "oavgjorda": 0,
@@ -1326,11 +1326,11 @@
      "placering": 3,
      "lag": "Uddevalla BTK B2",
      "klubb": "Uddevalla Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1368,8 +1368,8 @@
     },
     {
      "placering": 7,
-     "lag": "Varekils IF",
-     "klubb": "Varekils Idrottsförening",
+     "lag": "BTK Dalen C",
+     "klubb": "Bordtennisklubben Dalen",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1379,12 +1379,12 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Dalen C",
-     "klubb": "Bordtennisklubben Dalen",
-     "spelade": 3,
+     "lag": "Varekils IF",
+     "klubb": "Varekils Idrottsförening",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1392,7 +1392,7 @@
   },
   {
    "serie_id": "367-7535-0",
-   "serie": "Div 7 Nordvästra",
+   "serie": "7-Nordvästra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
    "startad": true,

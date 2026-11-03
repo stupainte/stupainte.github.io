@@ -4,7 +4,7 @@
   "namn": "IFK Visby"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-11-03T11:35:09Z",
  "lag": [
   {
    "namn": "IFK Visby",
@@ -40,42 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-08",
-   "tid": "18:00",
-   "serie_id": "505-7514-0",
-   "serie": "Division 4",
-   "evenemang": "Distriktsserier Gotland",
-   "omgang": "Round 4",
-   "hemma": "IFK Visby B 1",
-   "borta": "IFK Visby B 3",
-   "hemma_klubb": "IFK Visby",
-   "borta_klubb": "IFK Visby",
-   "plats": "Södervärns B-hall",
-   "arrangor": "IFK Visby",
-   "arrangorer": [
-    "IFK Visby"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7"
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "18:00",
-   "serie_id": "505-7514-0",
-   "serie": "Division 4",
-   "evenemang": "Distriktsserier Gotland",
-   "omgang": "Round 4",
-   "hemma": "IFK Visby B 1",
-   "borta": "IFK Visby B 3",
-   "hemma_klubb": "IFK Visby",
-   "borta_klubb": "IFK Visby",
-   "plats": "Södervärns B-hall",
-   "arrangor": "IFK Visby",
-   "arrangorer": [
-    "IFK Visby"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "18:00",
@@ -955,6 +919,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "18:00",
+   "serie_id": "505-7514-0",
+   "serie": "Division 4",
+   "evenemang": "Distriktsserier Gotland",
+   "omgang": "Round 4",
+   "hemma": "IFK Visby B 1",
+   "borta": "IFK Visby B 3",
+   "hemma_klubb": "IFK Visby",
+   "borta_klubb": "IFK Visby",
+   "plats": "Södervärns B-hall",
+   "arrangor": "IFK Visby",
+   "arrangorer": [
+    "IFK Visby"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "18:00",
+   "serie_id": "505-7514-0",
+   "serie": "Division 4",
+   "evenemang": "Distriktsserier Gotland",
+   "omgang": "Round 4",
+   "hemma": "IFK Visby B 1",
+   "borta": "IFK Visby B 3",
+   "hemma_klubb": "IFK Visby",
+   "borta_klubb": "IFK Visby",
+   "plats": "Södervärns B-hall",
+   "arrangor": "IFK Visby",
+   "arrangorer": [
+    "IFK Visby"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -984,7 +988,9 @@
      "arrangorer": [
       "IFK Visby"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/505/1059/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1341,24 +1347,24 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "IFK Visby B 3",
+     "lag": "IFK Visby B 1",
      "klubb": "IFK Visby",
      "spelade": 3,
-     "vunna": 2,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 0,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Visby B 1",
+     "lag": "IFK Visby B 3",
      "klubb": "IFK Visby",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
