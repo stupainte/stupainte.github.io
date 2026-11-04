@@ -4,7 +4,7 @@
   "namn": "IFK Lidköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-03T11:35:09Z",
+ "uppdaterad": "2026-11-04T11:49:26Z",
  "lag": [
   {
    "namn": "IFK Lidköping B1",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-03",
-   "tid": "19:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Mariestads BTK B",
-   "borta": "IFK Lidköping B1",
-   "hemma_klubb": "Mariestads Bordtennisklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Mariestads Bordtennisklubb",
-   "arrangorer": [
-    "Mariestads Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-04",
    "tid": "18:00",
@@ -1855,6 +1837,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "19:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Mariestads BTK B",
+   "borta": "IFK Lidköping B1",
+   "hemma_klubb": "Mariestads Bordtennisklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Mariestads Bordtennisklubb",
+   "arrangorer": [
+    "Mariestads Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2882,6 +2884,17 @@
     },
     {
      "placering": 5,
+     "lag": "IFK Falköping BTK C2",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
      "spelade": 4,
@@ -2892,7 +2905,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "IFK Lidköping BTK C2",
      "klubb": "IFK Lidköping",
      "spelade": 4,
@@ -2903,24 +2916,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "IFK Falköping BTK C2",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 8,
      "lag": "Vårgårda IK B",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3012,11 +3014,11 @@
      "placering": 1,
      "lag": "Örslösa-Söne IK",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3076,8 +3078,8 @@
     },
     {
      "placering": 7,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
+     "lag": "Herrljunga BTK",
+     "klubb": "Herrljunga Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -3087,12 +3089,12 @@
     },
     {
      "placering": 8,
-     "lag": "Herrljunga BTK",
-     "klubb": "Herrljunga Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     }
@@ -3109,11 +3111,11 @@
      "placering": 1,
      "lag": "IFK Lidköping B1",
      "klubb": "IFK Lidköping",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3140,8 +3142,8 @@
     },
     {
      "placering": 4,
-     "lag": "Mariestads BTK B",
-     "klubb": "Mariestads Bordtennisklubb",
+     "lag": "Karlsborgs BTK B1",
+     "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -3151,12 +3153,12 @@
     },
     {
      "placering": 5,
-     "lag": "Karlsborgs BTK B1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Mariestads BTK B",
+     "klubb": "Mariestads Bordtennisklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

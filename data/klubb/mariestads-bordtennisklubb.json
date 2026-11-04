@@ -4,7 +4,7 @@
   "namn": "Mariestads Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-11-04T11:49:26Z",
  "lag": [
   {
    "namn": "Mariestads BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-03",
-   "tid": "19:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Mariestads BTK B",
-   "borta": "IFK Lidköping B1",
-   "hemma_klubb": "Mariestads Bordtennisklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Mariestads Bordtennisklubb",
-   "arrangorer": [
-    "Mariestads Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "18:00",
@@ -543,39 +525,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "19:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Mariestads BTK B",
+   "borta": "IFK Lidköping B1",
+   "hemma_klubb": "Mariestads Bordtennisklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Mariestads Bordtennisklubb",
+   "arrangorer": [
+    "Mariestads Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-03",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-03",
-     "tid": "19:00",
-     "serie_id": "367-6442-0",
-     "serie": "Div 5 Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Mariestads BTK B",
-     "borta": "IFK Lidköping B1",
-     "hemma_klubb": "Mariestads Bordtennisklubb",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Mariestads Bordtennisklubb",
-     "arrangorer": [
-      "Mariestads Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-24",
    "platser": [
@@ -992,11 +964,11 @@
      "placering": 1,
      "lag": "IFK Lidköping B1",
      "klubb": "IFK Lidköping",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1023,8 +995,8 @@
     },
     {
      "placering": 4,
-     "lag": "Mariestads BTK B",
-     "klubb": "Mariestads Bordtennisklubb",
+     "lag": "Karlsborgs BTK B1",
+     "klubb": "Karlsborgs Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1034,12 +1006,12 @@
     },
     {
      "placering": 5,
-     "lag": "Karlsborgs BTK B1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Mariestads BTK B",
+     "klubb": "Mariestads Bordtennisklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

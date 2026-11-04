@@ -4,7 +4,7 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-03T11:35:09Z",
+ "uppdaterad": "2026-11-04T11:49:26Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-03",
-   "tid": "18:00",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Sandareds BTK",
-   "borta": "Mariedals IK C",
-   "hemma_klubb": "Sandareds Bordtennisklubb",
-   "borta_klubb": "Mariedals Idrottsklubb",
-   "plats": "-",
-   "arrangor": "Sandareds Bordtennisklubb",
-   "arrangorer": [
-    "Sandareds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "11:00",
@@ -317,6 +299,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
   },
   {
+   "datum": "2026-11-27",
+   "tid": "17:30",
+   "serie_id": "367-7473-0",
+   "serie": "7-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Sjömarkens BTK D2",
+   "borta": "Sandareds BTK D",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
+  },
+  {
    "datum": "2026-11-29",
    "tid": "10:00",
    "serie_id": "367-6345-0",
@@ -333,24 +333,6 @@
     "Byttorps Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "11:00",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Sjömarkens BTK D2",
-   "borta": "Sandareds BTK D",
-   "hemma_klubb": "Sjömarkens Bordtennisklubb",
-   "borta_klubb": "Sandareds Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Sjömarkens Bordtennisklubb",
-   "arrangorer": [
-    "Sjömarkens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -1467,36 +1449,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-03",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "4-Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-03",
-     "tid": "18:00",
-     "serie_id": "367-6345-0",
-     "serie": "4-Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Sandareds BTK",
-     "borta": "Mariedals IK C",
-     "hemma_klubb": "Sandareds Bordtennisklubb",
-     "borta_klubb": "Mariedals Idrottsklubb",
-     "plats": "-",
-     "arrangor": "Sandareds Bordtennisklubb",
-     "arrangorer": [
-      "Sandareds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-08",
    "platser": [
     "-"
@@ -2460,23 +2412,23 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Alingsås PK C",
-     "klubb": "Alingsås Pingis Klubb",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Sjömarkens BTK B1",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Sjömarkens BTK B1",
-     "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Alingsås PK C",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2751,6 +2703,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Mariedals IK D1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "ÖSTK",
      "klubb": "Östra Stadsgränsen Tennisklubb",
      "spelade": 4,
@@ -2761,29 +2724,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Mariedals IK D1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 3,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Byttorps IF B2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Mariedals IK D2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 3,
@@ -2791,6 +2732,17 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Byttorps IF B2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Skedala Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-03T11:35:09Z",
+ "uppdaterad": "2026-11-04T11:49:26Z",
  "lag": [
   {
    "namn": "Skedala BTK A",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-08",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Skedala BTK B",
-   "borta": "BTK Ratic D",
-   "hemma_klubb": "Skedala Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Ratic",
-   "plats": "Skedala",
-   "arrangor": "Skedala Bordtennisklubb",
-   "arrangorer": [
-    "Skedala Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "19:00",
@@ -299,39 +281,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 4",
+   "hemma": "Skedala BTK B",
+   "borta": "BTK Ratic D",
+   "hemma_klubb": "Skedala Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Skedala",
+   "arrangor": "Skedala Bordtennisklubb",
+   "arrangorer": [
+    "Skedala Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-08",
-   "platser": [
-    "Skedala"
-   ],
-   "serier": [
-    "Division 7 Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-08",
-     "tid": "19:00",
-     "serie_id": "411-7479-0",
-     "serie": "Division 7 Södra",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 4",
-     "hemma": "Skedala BTK B",
-     "borta": "BTK Ratic D",
-     "hemma_klubb": "Skedala Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Ratic",
-     "plats": "Skedala",
-     "arrangor": "Skedala Bordtennisklubb",
-     "arrangorer": [
-      "Skedala Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -556,13 +528,13 @@
     },
     {
      "placering": 4,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "BTK Ratic D",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -578,13 +550,13 @@
     },
     {
      "placering": 6,
-     "lag": "BTK Ratic D",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 3,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

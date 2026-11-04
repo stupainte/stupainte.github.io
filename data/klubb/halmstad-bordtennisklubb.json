@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-03T11:35:09Z",
+ "uppdaterad": "2026-11-04T11:49:26Z",
  "lag": [
   {
    "namn": "HBTKG3/Oskarström",
@@ -257,24 +257,6 @@
    "borta": "Markaryds BTK A ",
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Markaryds Bordtennisklubb",
-   "plats": "Halmstad Arena",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Halmstad BTK E1",
-   "borta": "Simlångsdalens IF A",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Simlångsdalens Idrottsförening",
    "plats": "Halmstad Arena",
    "arrangor": "Halmstad Bordtennisklubb",
    "arrangorer": [
@@ -2661,6 +2643,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 4",
+   "hemma": "Halmstad BTK E1",
+   "borta": "Simlångsdalens IF A",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Simlångsdalens Idrottsförening",
+   "plats": "Halmstad Arena",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2710,7 +2712,9 @@
      "arrangorer": [
       "Halmstad Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-08",
@@ -4208,24 +4212,24 @@
     },
     {
      "placering": 2,
-     "lag": "Simlångsdalens IF A",
-     "klubb": "Simlångsdalens Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "Halmstad BTK E1",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Halmstad BTK E1",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Simlångsdalens IF A",
+     "klubb": "Simlångsdalens Idrottsförening",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -4680,13 +4684,13 @@
     },
     {
      "placering": 4,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "BTK Ratic D",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -4702,13 +4706,13 @@
     },
     {
      "placering": 6,
-     "lag": "BTK Ratic D",
-     "klubb": "Bordtennisklubben Ratic",
-     "spelade": 3,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
