@@ -4,7 +4,7 @@
   "namn": "Essunga Södra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-04T11:49:26Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "Essunga S BTK",
@@ -449,6 +449,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-03",
+   "tid": "19:00",
+   "serie_id": "367-7536-0",
+   "serie": "7-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "IFK Falköping BTK D1",
+   "borta": "Essunga S:a BTK B",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Essunga Södra Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -785,23 +805,23 @@
     },
     {
      "placering": 3,
-     "lag": "Mariedals IK C",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Mariedals IK C",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -871,6 +891,17 @@
     },
     {
      "placering": 2,
+     "lag": "Essunga S:a BTK B",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IFK Falköping BTK D2",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 2,
@@ -878,17 +909,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Essunga S:a BTK B",
-     "klubb": "Essunga Södra Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -917,10 +937,10 @@
      "placering": 6,
      "lag": "IFK Falköping BTK D1",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Kågeröds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "Kågeröds BTK",
@@ -80,42 +80,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-04",
-   "tid": "18:30",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Kågeröds BTK: A1",
-   "borta": "Kågeröds BTK: A2",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "Kågeröds Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
-  {
-   "datum": "2026-11-04",
-   "tid": "18:30",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Kågeröds BTK: A1",
-   "borta": "Kågeröds BTK: A2",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "Kågeröds Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
   {
    "datum": "2026-11-10",
    "tid": "19:00",
@@ -2219,6 +2183,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "18:30",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Kågeröds BTK: A1",
+   "borta": "Kågeröds BTK: A2",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "18:30",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Kågeröds BTK: A1",
+   "borta": "Kågeröds BTK: A2",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3179,6 +3183,17 @@
     },
     {
      "placering": 2,
+     "lag": "Kågeröds BTK: A1",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Linné",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 3,
@@ -3189,7 +3204,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Sandareds BTK",
      "klubb": "Sandareds Bordtennisklubb",
      "spelade": 3,
@@ -3200,24 +3215,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Kågeröds BTK: A1",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Kågeröds BTK: A2",
      "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

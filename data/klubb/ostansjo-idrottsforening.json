@@ -4,7 +4,7 @@
   "namn": "Östansjö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-02T11:54:19Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "Östansjö IF-A",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 4",
-   "hemma": "BTK Safir-D2",
-   "borta": "Östansjö IF-B",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Östansjö Idrottsförening",
-   "plats": "BTK Safir",
-   "arrangor": "Örebro Läns Bordtennisförbund / Bordtennisklubben Safir",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Bordtennisklubben Safir"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "18:00",
@@ -618,6 +599,27 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-05",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "BTK Safir-D2",
+   "borta": "Östansjö IF-B",
+   "hemma_klubb": "Bordtennisklubben Safir",
+   "borta_klubb": "Östansjö Idrottsförening",
+   "plats": "BTK Safir",
+   "arrangor": "Örebro Läns Bordtennisförbund / Bordtennisklubben Safir",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Bordtennisklubben Safir"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-03",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -1188,17 +1190,28 @@
     },
     {
      "placering": 3,
-     "lag": "Östansjö IF-B",
-     "klubb": "Östansjö Idrottsförening",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "BTK Safir-D2",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Östansjö IF-B",
+     "klubb": "Östansjö Idrottsförening",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Ålsta BTK-B1",
      "klubb": "Ålsta Bordtennisklubb",
      "spelade": 3,
@@ -1206,17 +1219,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "BTK Safir-D2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

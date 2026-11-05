@@ -4,7 +4,7 @@
   "namn": "Grästorps Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-04T11:49:26Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "Grästorps BTK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-04",
-   "tid": "18:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Grästorps BTK B",
-   "borta": "IFK Lidköping B2",
-   "hemma_klubb": "Grästorps Bordtennisklubb",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Grästorps Bordtennisklubb",
-   "arrangorer": [
-    "Grästorps Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "18:00",
@@ -735,39 +717,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "18:00",
+   "serie_id": "367-6439-0",
+   "serie": "Div 5 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Grästorps BTK B",
+   "borta": "IFK Lidköping B2",
+   "hemma_klubb": "Grästorps Bordtennisklubb",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-04",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-04",
-     "tid": "18:00",
-     "serie_id": "367-6439-0",
-     "serie": "Div 5 Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Grästorps BTK B",
-     "borta": "IFK Lidköping B2",
-     "hemma_klubb": "Grästorps Bordtennisklubb",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Grästorps Bordtennisklubb",
-     "arrangorer": [
-      "Grästorps Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-18",
    "platser": [
@@ -1339,30 +1311,30 @@
     },
     {
      "placering": 3,
-     "lag": "IFK Lidköping B2",
-     "klubb": "IFK Lidköping",
-     "spelade": 3,
+     "lag": "Grästorps BTK B",
+     "klubb": "Grästorps Bordtennisklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Trollhättans BTK B",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "IFK Lidköping B2",
+     "klubb": "IFK Lidköping",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Grästorps BTK B",
-     "klubb": "Grästorps Bordtennisklubb",
+     "lag": "Trollhättans BTK B",
+     "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-04T11:49:26Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "HBTKG3/Oskarström",
@@ -192,42 +192,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-08",
-   "tid": "19:00",
-   "serie_id": "411-7533-0",
-   "serie": "Division 5 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Rydöbruks IF A",
-   "borta": "Halmstad BTK E2",
-   "hemma_klubb": "Rydöbruks Idrottsförening",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Rydöbruk",
-   "arrangor": "Rydöbruks Idrottsförening",
-   "arrangorer": [
-    "Rydöbruks Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Sibbarps GoIF C",
-   "borta": "Halmstad BTK G2",
-   "hemma_klubb": "Sibbarps Gymnastik O IF",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Sibbarp",
-   "arrangor": "Sibbarps Gymnastik O IF",
-   "arrangorer": [
-    "Sibbarps Gymnastik O IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "19:00",
@@ -2605,6 +2569,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-04",
+   "tid": "19:00",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 4",
+   "hemma": "Rydöbruks IF A",
+   "borta": "Halmstad BTK E2",
+   "hemma_klubb": "Rydöbruks Idrottsförening",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Rydöbruk",
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-08",
    "tid": "19:00",
    "serie_id": "411-7479-0",
@@ -2623,6 +2607,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 4",
+   "hemma": "Sibbarps GoIF C",
+   "borta": "Halmstad BTK G2",
+   "hemma_klubb": "Sibbarps Gymnastik O IF",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Sibbarp",
+   "arrangor": "Sibbarps Gymnastik O IF",
+   "arrangorer": [
+    "Sibbarps Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "2026-11-08",
@@ -4053,26 +4057,15 @@
      "placering": 1,
      "lag": "Falkenbergs BTK C",
      "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Sibbarps GoIF B",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "BTK Ratic C1",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 3,
@@ -4083,14 +4076,25 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 3,
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 4,
      "lag": "Halmstad BTK E2",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -4108,11 +4112,11 @@
      "placering": 6,
      "lag": "Rydöbruks IF A",
      "klubb": "Rydöbruks Idrottsförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -4662,6 +4666,17 @@
     },
     {
      "placering": 2,
+     "lag": "Sibbarps GoIF C",
+     "klubb": "Sibbarps Gymnastik O IF",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "HBTKG3/Oskarström",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 4,
@@ -4669,17 +4684,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Sibbarps GoIF C",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -4695,19 +4699,19 @@
     },
     {
      "placering": 5,
-     "lag": "Halmstad BTK G2",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
+     "lag": "Halmstad BTK G2",
+     "klubb": "Halmstad Bordtennisklubb",
      "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,

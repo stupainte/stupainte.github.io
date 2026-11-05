@@ -4,7 +4,7 @@
   "namn": "Kungsgårdens Idrottssällskap"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-27T09:32:39Z",
+ "uppdaterad": "2026-11-05T11:50:34Z",
  "lag": [
   {
    "namn": "Kungsgårdens IS A",
@@ -1006,10 +1006,21 @@
    "serie": "Div 5 Mellersta A",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Docksta BTK B",
+     "klubb": "Docksta Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Höga Kusten AIF B",
      "klubb": "Höga Kusten Allmänna Idrottsförening",
      "spelade": 0,
@@ -1020,9 +1031,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Docksta BTK A",
-     "klubb": "Docksta Bordtennisklubb",
+     "placering": 3,
+     "lag": "Höga Kusten AIF C",
+     "klubb": "Höga Kusten Allmänna Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1031,7 +1042,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kungsgårdens IS B",
      "klubb": "Kungsgårdens Idrottssällskap",
      "spelade": 0,
@@ -1042,7 +1053,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Norra BTK A",
      "klubb": "Norra Bordtennisklubb",
      "spelade": 0,
@@ -1053,24 +1064,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Docksta BTK B",
-     "klubb": "Docksta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
-     "lag": "Höga Kusten AIF C",
-     "klubb": "Höga Kusten Allmänna Idrottsförening",
-     "spelade": 0,
+     "lag": "Docksta BTK A",
+     "klubb": "Docksta Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
