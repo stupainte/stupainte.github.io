@@ -4,7 +4,7 @@
   "namn": "Borgstena IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-03T11:35:09Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Borgstena IF",
@@ -48,42 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "19:00",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Hyssna BTK B",
-   "borta": "Borgstena IF C",
-   "hemma_klubb": "Hyssna Bordtennisklubb",
-   "borta_klubb": "Borgstena IF",
-   "plats": "-",
-   "arrangor": "Hyssna Bordtennisklubb",
-   "arrangorer": [
-    "Hyssna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-  },
-  {
-   "datum": "2026-11-05",
-   "tid": "19:00",
-   "serie_id": "367-7457-0",
-   "serie": "6-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Kinna BTK B2",
-   "borta": "Borgstena IF B",
-   "hemma_klubb": "Kinna Bordtennisklubb",
-   "borta_klubb": "Borgstena IF",
-   "plats": "-",
-   "arrangor": "Kinna Bordtennisklubb",
-   "arrangorer": [
-    "Kinna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
   {
    "datum": "2026-11-10",
    "tid": "19:00",
@@ -965,6 +929,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "19:00",
+   "serie_id": "367-7473-0",
+   "serie": "7-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Hyssna BTK B",
+   "borta": "Borgstena IF C",
+   "hemma_klubb": "Hyssna Bordtennisklubb",
+   "borta_klubb": "Borgstena IF",
+   "plats": "-",
+   "arrangor": "Hyssna Bordtennisklubb",
+   "arrangorer": [
+    "Hyssna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "19:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Kinna BTK B2",
+   "borta": "Borgstena IF B",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Borgstena IF",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -1417,11 +1421,11 @@
      "placering": 1,
      "lag": "Borgstena IF B",
      "klubb": "Borgstena IF",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -1450,11 +1454,11 @@
      "placering": 4,
      "lag": "Kinna BTK B2",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -1512,6 +1516,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Borgstena IF C",
+     "klubb": "Borgstena IF",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Sjömarkens BTK D1",
      "klubb": "Sjömarkens Bordtennisklubb",
      "spelade": 3,
@@ -1519,17 +1534,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Borgstena IF C",
-     "klubb": "Borgstena IF",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1569,10 +1573,10 @@
      "placering": 6,
      "lag": "Hyssna BTK B",
      "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

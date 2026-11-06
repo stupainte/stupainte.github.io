@@ -4,7 +4,7 @@
   "namn": "Götene/Tor Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Götene Tor BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "19:00",
-   "serie_id": "367-7540-0",
-   "serie": "7-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Vedum AIS E1",
-   "borta": "Götene Tor BTK D",
-   "hemma_klubb": "Vedums Allmänna IS",
-   "borta_klubb": "Götene/Tor Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Vedums Allmänna IS",
-   "arrangorer": [
-    "Vedums Allmänna IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7"
-  },
   {
    "datum": "2026-11-10",
    "tid": "19:00",
@@ -827,6 +809,26 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-05",
+   "tid": "19:00",
+   "serie_id": "367-7540-0",
+   "serie": "7-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Vedum AIS E1",
+   "borta": "Götene Tor BTK D",
+   "hemma_klubb": "Vedums Allmänna IS",
+   "borta_klubb": "Götene/Tor Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-12",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1028,38 +1030,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "4-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-05",
-     "tid": "18:00",
-     "serie_id": "367-6440-0",
-     "serie": "4-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Götene Tor BTK",
-     "borta": "Blikstorps AIK B",
-     "hemma_klubb": "Götene/Tor Bordtennisklubb",
-     "borta_klubb": "Blikstorps Allmänna IK",
-     "plats": "-",
-     "arrangor": "Götene/Tor Bordtennisklubb",
-     "arrangorer": [
-      "Götene/Tor Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
-     "hemma_poang": 0,
-     "borta_poang": 2
-    }
-   ]
-  },
   {
    "datum": "2026-11-10",
    "platser": [
@@ -1715,11 +1685,11 @@
      "placering": 2,
      "lag": "Vedums AIS B",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "264–0"
     },
     {
@@ -1735,17 +1705,6 @@
     },
     {
      "placering": 4,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
      "lag": "IFK Falköping BTK B",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 4,
@@ -1756,9 +1715,20 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Skagersviks BTK",
      "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1810,35 +1780,35 @@
     },
     {
      "placering": 2,
-     "lag": "Vedum AIS E1",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Örslösa - Söne IK C",
-     "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 2,
+     "lag": "Götene Tor BTK D",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 0,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Götene Tor BTK D",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "placering": 3,
+     "lag": "Vedum AIS E1",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Örslösa - Söne IK C",
+     "klubb": "Örslösa-Söne Idrottsklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1856,10 +1826,10 @@
      "placering": 6,
      "lag": "Lidan BTK C",
      "klubb": "Lidan Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1940,24 +1910,24 @@
     },
     {
      "placering": 7,
-     "lag": "Istrums SK",
-     "klubb": "Istrums Skidklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Karlsborgs BTK B2",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Karlsborgs BTK B2",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Istrums SK",
+     "klubb": "Istrums Skidklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

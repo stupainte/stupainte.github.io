@@ -4,7 +4,7 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Ulricehamns IF",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "20:00",
-   "serie_id": "367-7536-0",
-   "serie": "7-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Alingsås PK E",
-   "borta": "Ulricehamns IF D",
-   "hemma_klubb": "Alingsås Pingis Klubb",
-   "borta_klubb": "Ulricehamns Idrottsförening",
-   "plats": "-",
-   "arrangor": "Alingsås Pingis Klubb",
-   "arrangorer": [
-    "Alingsås Pingis Klubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "11:00",
@@ -1200,9 +1182,9 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "-",
-   "arrangor": "Mariedals Idrottsklubb",
+   "arrangor": "Ulricehamns Idrottsförening",
    "arrangorer": [
-    "Mariedals Idrottsklubb"
+    "Ulricehamns Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
   },
@@ -1585,6 +1567,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-03",
+   "tid": "18:00",
+   "serie_id": "367-6454-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Kinna BTK",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-04",
    "tid": "10:00",
    "serie_id": "367-6956-0",
@@ -1603,6 +1605,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "20:00",
+   "serie_id": "367-7536-0",
+   "serie": "7-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Alingsås PK E",
+   "borta": "Ulricehamns IF D",
+   "hemma_klubb": "Alingsås Pingis Klubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2467,8 +2489,44 @@
    "serier": [
     "Pensionärsserier"
    ],
-   "antal": 1,
+   "antal": 8,
    "matcher": [
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 13",
+     "hemma": "Byttorps IF 2",
+     "borta": "IFK Falköping BTK",
+     "hemma_klubb": "Byttorps Idrottsförening",
+     "borta_klubb": "IFK Falköping Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 13",
+     "hemma": "Kinna BTK",
+     "borta": "Ödenäs IF",
+     "hemma_klubb": "Kinna Bordtennisklubb",
+     "borta_klubb": "Ödenäs Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
     {
      "datum": "2027-03-10",
      "tid": "10:00",
@@ -2479,6 +2537,96 @@
      "hemma": "Ulricehamns IF",
      "borta": "Byttorps IF 1",
      "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "10:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 13",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 14",
+     "hemma": "IFK Falköping BTK",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "IFK Falköping Bordtennisklubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 14",
+     "hemma": "Mariedals IK",
+     "borta": "Ulricehamns IF",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 14",
+     "hemma": "Byttorps IF 1",
+     "borta": "Kinna BTK",
+     "hemma_klubb": "Byttorps Idrottsförening",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Ulricehamns Idrottsförening",
+     "arrangorer": [
+      "Ulricehamns Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    },
+    {
+     "datum": "2027-03-10",
+     "tid": "14:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 14",
+     "hemma": "Ödenäs IF",
+     "borta": "Byttorps IF 2",
+     "hemma_klubb": "Ödenäs Idrottsförening",
      "borta_klubb": "Byttorps Idrottsförening",
      "plats": "-",
      "arrangor": "Ulricehamns Idrottsförening",
@@ -2755,11 +2903,11 @@
      "placering": 1,
      "lag": "Borgstena IF B",
      "klubb": "Borgstena IF",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -2788,11 +2936,11 @@
      "placering": 4,
      "lag": "Kinna BTK B2",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2872,6 +3020,17 @@
     },
     {
      "placering": 3,
+     "lag": "Ulricehamns IF D",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "IFK Falköping BTK D2",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 2,
@@ -2882,24 +3041,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ulricehamns IF D",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Alingsås PK E",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -2971,22 +3119,22 @@
      "placering": 5,
      "lag": "Ulricehamns IF B",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Kinna BTK",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 2,
+     "forlorade": 4,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -3046,17 +3194,17 @@
      "placering": 3,
      "lag": "Alingsås PK Grön",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Herrljunga BTK",
-     "klubb": "Herrljunga Bordtennisklubb",
+     "lag": "Alingsås PK Lila",
+     "klubb": "Alingsås Pingis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3066,12 +3214,12 @@
     },
     {
      "placering": 5,
-     "lag": "Alingsås PK Lila",
-     "klubb": "Alingsås Pingis Klubb",
-     "spelade": 0,
+     "lag": "Herrljunga BTK",
+     "klubb": "Herrljunga Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -3110,11 +3258,11 @@
      "placering": 1,
      "lag": "Mariedals IK",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3141,23 +3289,23 @@
     },
     {
      "placering": 4,
-     "lag": "Byttorps IF 1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Ödenäs IF",
      "klubb": "Ödenäs Idrottsförening",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Byttorps IF 1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

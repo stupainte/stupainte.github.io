@@ -4,7 +4,7 @@
   "namn": "Blikstorps Allmänna IK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Blikstorps AIK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Blikstorps AIK C",
-   "borta": "IFK Falköping BTK C1",
-   "hemma_klubb": "Blikstorps Allmänna IK",
-   "borta_klubb": "IFK Falköping Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Blikstorps Allmänna IK",
-   "arrangorer": [
-    "Blikstorps Allmänna IK"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
   {
    "datum": "2026-11-09",
    "tid": "19:00",
@@ -795,6 +777,26 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-05",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Blikstorps AIK C",
+   "borta": "IFK Falköping BTK C1",
+   "hemma_klubb": "Blikstorps Allmänna IK",
+   "borta_klubb": "IFK Falköping Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Blikstorps Allmänna IK",
+   "arrangorer": [
+    "Blikstorps Allmänna IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-01-28",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -816,36 +818,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-05",
-     "tid": "19:00",
-     "serie_id": "367-7428-0",
-     "serie": "6-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Blikstorps AIK C",
-     "borta": "IFK Falköping BTK C1",
-     "hemma_klubb": "Blikstorps Allmänna IK",
-     "borta_klubb": "IFK Falköping Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Blikstorps Allmänna IK",
-     "arrangorer": [
-      "Blikstorps Allmänna IK"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-12",
    "platser": [
@@ -1258,11 +1230,11 @@
      "placering": 2,
      "lag": "Vedums AIS B",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "264–0"
     },
     {
@@ -1278,17 +1250,6 @@
     },
     {
      "placering": 4,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 5,
      "lag": "IFK Falköping BTK B",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 4,
@@ -1299,9 +1260,20 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "Skagersviks BTK",
      "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1344,11 +1316,11 @@
      "placering": 1,
      "lag": "IFK Falköping BTK C1",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "198–0"
     },
     {
@@ -1408,8 +1380,8 @@
     },
     {
      "placering": 7,
-     "lag": "Blikstorps AIK C",
-     "klubb": "Blikstorps Allmänna IK",
+     "lag": "Hova BTK B",
+     "klubb": "Hova Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1419,12 +1391,12 @@
     },
     {
      "placering": 8,
-     "lag": "Hova BTK B",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Blikstorps AIK C",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

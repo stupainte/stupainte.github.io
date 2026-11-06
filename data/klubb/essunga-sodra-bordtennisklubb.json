@@ -4,7 +4,7 @@
   "namn": "Essunga Södra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Essunga S BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "18:00",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Hyssna BTK",
-   "borta": "Essunga S BTK",
-   "hemma_klubb": "Hyssna Bordtennisklubb",
-   "borta_klubb": "Essunga Södra Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Hyssna Bordtennisklubb",
-   "arrangorer": [
-    "Hyssna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "18:00",
@@ -469,6 +451,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "18:00",
+   "serie_id": "367-6345-0",
+   "serie": "4-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Hyssna BTK",
+   "borta": "Essunga S BTK",
+   "hemma_klubb": "Hyssna Bordtennisklubb",
+   "borta_klubb": "Essunga Södra Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Hyssna Bordtennisklubb",
+   "arrangorer": [
+    "Hyssna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -827,46 +829,46 @@
     },
     {
      "placering": 5,
-     "lag": "Sjömarkens BTK B2",
-     "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Byttorps IF",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Byttorps IF",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Essunga S BTK",
-     "klubb": "Essunga Södra Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Sjömarkens BTK B2",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Hyssna BTK",
-     "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Essunga S BTK",
+     "klubb": "Essunga Södra Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -902,6 +904,17 @@
     },
     {
      "placering": 3,
+     "lag": "Ulricehamns IF D",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "IFK Falköping BTK D2",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 2,
@@ -912,24 +925,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Ulricehamns IF D",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Alingsås PK E",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Istrums Skidklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "Istrums SK",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-05",
-   "tid": "18:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Istrums SK",
-   "borta": "Karlsborgs BTK B2",
-   "hemma_klubb": "Istrums Skidklubb",
-   "borta_klubb": "Karlsborgs Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Istrums Skidklubb",
-   "arrangorer": [
-    "Istrums Skidklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "18:00",
@@ -275,39 +257,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "18:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Istrums SK",
+   "borta": "Karlsborgs BTK B2",
+   "hemma_klubb": "Istrums Skidklubb",
+   "borta_klubb": "Karlsborgs Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Istrums Skidklubb",
+   "arrangorer": [
+    "Istrums Skidklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-05",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-05",
-     "tid": "18:00",
-     "serie_id": "367-6442-0",
-     "serie": "Div 5 Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Istrums SK",
-     "borta": "Karlsborgs BTK B2",
-     "hemma_klubb": "Istrums Skidklubb",
-     "borta_klubb": "Karlsborgs Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Istrums Skidklubb",
-     "arrangorer": [
-      "Istrums Skidklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -535,24 +507,24 @@
     },
     {
      "placering": 7,
-     "lag": "Istrums SK",
-     "klubb": "Istrums Skidklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Karlsborgs BTK B2",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Karlsborgs BTK B2",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Istrums SK",
+     "klubb": "Istrums Skidklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

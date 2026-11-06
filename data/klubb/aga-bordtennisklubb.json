@@ -4,7 +4,7 @@
   "namn": "Aga Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-06T11:47:38Z",
  "lag": [
   {
    "namn": "AGA BTK-B",
@@ -41,25 +41,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-05",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 4",
-   "hemma": "Storå BTK-C",
-   "borta": "AGA BTK-C",
-   "hemma_klubb": "Storå Bordtennisklubb",
-   "borta_klubb": "Aga Bordtennisklubb",
-   "plats": "Storå",
-   "arrangor": "Örebro Läns Bordtennisförbund / Storå Bordtennisklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
-  {
    "datum": "2026-11-12",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -80,7 +61,7 @@
   },
   {
    "datum": "2026-11-14",
-   "tid": "11:00",
+   "tid": "10:00",
    "serie_id": "417-5769-0",
    "serie": "Div 3 ÖSSV",
    "evenemang": "Nationellt seriespel 2026-2027",
@@ -98,7 +79,7 @@
   },
   {
    "datum": "2026-11-14",
-   "tid": "15:00",
+   "tid": "14:00",
    "serie_id": "417-5769-0",
    "serie": "Div 3 ÖSSV",
    "evenemang": "Nationellt seriespel 2026-2027",
@@ -1173,6 +1154,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1059/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Storå BTK-C",
+   "borta": "AGA BTK-C",
+   "hemma_klubb": "Storå Bordtennisklubb",
+   "borta_klubb": "Aga Bordtennisklubb",
+   "plats": "Storå",
+   "arrangor": "Örebro Läns Bordtennisförbund / Storå Bordtennisklubb",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Storå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2096,17 +2098,28 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Safir-D1",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Simon SK-A2",
+     "klubb": "Simon Sportklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 9,
+     "lag": "BTK Safir-D1",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
      "lag": "Ålsta BTK-B2",
      "klubb": "Ålsta Bordtennisklubb",
      "spelade": 3,
@@ -2114,17 +2127,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 10,
-     "lag": "Simon SK-A2",
-     "klubb": "Simon Sportklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
