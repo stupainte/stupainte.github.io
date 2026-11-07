@@ -4,7 +4,7 @@
   "namn": "Gropens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-06T11:47:38Z",
+ "uppdaterad": "2026-11-07T10:53:47Z",
  "lag": [
   {
    "namn": "Gropens IF-A",
@@ -787,6 +787,27 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-05",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Gropens IF-B",
+   "borta": "Ålsta BTK-B1",
+   "hemma_klubb": "Gropens Idrottsförening",
+   "borta_klubb": "Ålsta Bordtennisklubb",
+   "plats": "Gropen",
+   "arrangor": "Örebro Läns Bordtennisförbund / Gropens Idrottsförening",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Gropens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-02-11",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -1434,17 +1455,39 @@
     },
     {
      "placering": 2,
-     "lag": "Gropens IF-B",
-     "klubb": "Gropens Idrottsförening",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Ålsta BTK-B1",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "Gropens IF-B",
+     "klubb": "Gropens Idrottsförening",
+     "spelade": 3,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Simon SK-A1",
+     "klubb": "Simon Sportklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "BTK Safir-D2",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 2,
@@ -1455,7 +1498,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 6,
      "lag": "Östansjö IF-B",
      "klubb": "Östansjö Idrottsförening",
      "spelade": 5,
@@ -1463,28 +1506,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Ålsta BTK-B1",
-     "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Simon SK-A1",
-     "klubb": "Simon Sportklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Malmö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-07T10:53:47Z",
  "lag": [
   {
    "namn": "Malmö IF",
@@ -2733,6 +2733,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-04",
+   "tid": "18:30",
+   "serie_id": "513-7452-0",
+   "serie": "Division 4 Södra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "FIFH Malmö A",
+   "borta": "Malmö IF C",
+   "hemma_klubb": "FIFH Malmö Parasportförening",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "FIFH Hallen, Pildammsvägen 26",
+   "arrangor": "FIFH Malmö Parasportförening",
+   "arrangorer": [
+    "FIFH Malmö Parasportförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3547,11 +3567,11 @@
      "placering": 1,
      "lag": "FIFH Malmö A",
      "klubb": "FIFH Malmö Parasportförening",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -3567,17 +3587,6 @@
     },
     {
      "placering": 3,
-     "lag": "Malmö IF C",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Trelleborgs BTK D",
      "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 2,
@@ -3588,9 +3597,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "IF Ale B",
      "klubb": "Idrottsföreningen Ale",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Malmö IF C",
+     "klubb": "Malmö Idrottsförening",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
