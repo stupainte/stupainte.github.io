@@ -4,7 +4,7 @@
   "namn": "Lidan Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-06T11:47:38Z",
+ "uppdaterad": "2026-11-08T11:00:12Z",
  "lag": [
   {
    "namn": "Lidan BTK",
@@ -64,42 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-08",
-   "tid": "10:00",
-   "serie_id": "367-7708-0",
-   "serie": "Höst Ungd U-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Lidan BTK Gul",
-   "borta": "Lidan BTK Röd",
-   "hemma_klubb": "Lidan Bordtennisklubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Lidan Bordtennisklubb",
-   "arrangorer": [
-    "Lidan Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7"
-  },
-  {
-   "datum": "2026-11-08",
-   "tid": "10:00",
-   "serie_id": "367-7708-0",
-   "serie": "Höst Ungd U-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Lidan BTK Gul",
-   "borta": "Lidan BTK Röd",
-   "hemma_klubb": "Lidan Bordtennisklubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Lidan Bordtennisklubb",
-   "arrangorer": [
-    "Lidan Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7"
-  },
   {
    "datum": "2026-11-08",
    "tid": "10:00",
@@ -1097,6 +1061,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-08",
+   "tid": "10:00",
+   "serie_id": "367-7708-0",
+   "serie": "Höst Ungd U-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Lidan BTK Gul",
+   "borta": "Lidan BTK Röd",
+   "hemma_klubb": "Lidan Bordtennisklubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Lidan Bordtennisklubb",
+   "arrangorer": [
+    "Lidan Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-08",
+   "tid": "10:00",
+   "serie_id": "367-7708-0",
+   "serie": "Höst Ungd U-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Lidan BTK Gul",
+   "borta": "Lidan BTK Röd",
+   "hemma_klubb": "Lidan Bordtennisklubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Lidan Bordtennisklubb",
+   "arrangorer": [
+    "Lidan Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-11-25",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1183,7 +1187,9 @@
      "arrangorer": [
       "Lidan Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1939,6 +1945,17 @@
     },
     {
      "placering": 2,
+     "lag": "Lidan BTK Gul",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IFK Falköping BTK",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 1,
@@ -1949,31 +1966,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Lidan BTK Gul",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Lidan BTK Röd",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Karlsborgs BTK",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Karlsborgs BTK",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "Lidan BTK Röd",
+     "klubb": "Lidan Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

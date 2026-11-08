@@ -4,7 +4,7 @@
   "namn": "Karlsborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-07T10:53:47Z",
+ "uppdaterad": "2026-11-08T11:00:12Z",
  "lag": [
   {
    "namn": "Karlsborgs BTK",
@@ -1429,6 +1429,26 @@
    "serie": "6-Nordöstra",
    "evenemang": "Nordvästra Götalands BTF 26/27",
    "omgang": "Round 4",
+   "hemma": "Karlsborgs BTK C2",
+   "borta": "Hova BTK B",
+   "hemma_klubb": "Karlsborgs Bordtennisklubb",
+   "borta_klubb": "Hova Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-05",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
    "hemma": "Karlsborgs BTK C1",
    "borta": "Hangelösa IF",
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
@@ -2288,23 +2308,23 @@
     },
     {
      "placering": 6,
-     "lag": "Karlsborgs BTK C2",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Hova BTK B",
+     "klubb": "Hova Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Hova BTK B",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Karlsborgs BTK C2",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2491,6 +2511,17 @@
     },
     {
      "placering": 2,
+     "lag": "Lidan BTK Gul",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IFK Falköping BTK",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 1,
@@ -2501,31 +2532,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Lidan BTK Gul",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Lidan BTK Röd",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Karlsborgs BTK",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Karlsborgs BTK",
-     "klubb": "Karlsborgs Bordtennisklubb",
+     "lag": "Lidan BTK Röd",
+     "klubb": "Lidan Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
