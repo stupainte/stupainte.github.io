@@ -4,7 +4,7 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
@@ -44,8 +44,10 @@
    "hemma_klubb": "Arkelstorps Bordtennisklubb",
    "borta_klubb": "Degeberga Gymnastik O IF",
    "plats": "Spängerskolans sporthall. Ekbacken 8, 291 55 Arkelstorp",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Arkelstorps Bordtennisklubb",
+   "arrangorer": [
+    "Arkelstorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -96,8 +98,10 @@
    "hemma_klubb": "Degeberga Gymnastik O IF",
    "borta_klubb": "Hässleholms Bordtennisklubb",
    "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Degeberga Gymnastik O IF",
+   "arrangorer": [
+    "Degeberga Gymnastik O IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -544,6 +548,36 @@
   }
  ],
  "arrangerar": [
+  {
+   "datum": "2026-11-19",
+   "platser": [
+    "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga"
+   ],
+   "serier": [
+    "Division 4 Nordöstra (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-19",
+     "tid": "19:00",
+     "serie_id": "513-7451-0",
+     "serie": "Division 4 Nordöstra (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 4",
+     "hemma": "Degeberga GoIF B",
+     "borta": "Hässleholms BTK A",
+     "hemma_klubb": "Degeberga Gymnastik O IF",
+     "borta_klubb": "Hässleholms Bordtennisklubb",
+     "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
+    }
+   ]
+  },
   {
    "datum": "2027-02-14",
    "platser": [

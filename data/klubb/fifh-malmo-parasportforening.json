@@ -4,7 +4,7 @@
   "namn": "FIFH Malmö Parasportförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-07T10:53:47Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "FIFH Malmö A",
@@ -36,8 +36,10 @@
    "hemma_klubb": "FIFH Malmö Parasportförening",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "FIFH Hallen, Pildammsvägen 26",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "FIFH Malmö Parasportförening",
+   "arrangorer": [
+    "FIFH Malmö Parasportförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -52,8 +54,10 @@
    "hemma_klubb": "Trelleborgs Bordtennisklubb",
    "borta_klubb": "FIFH Malmö Parasportförening",
    "plats": "Söderslättshallen, Trelleborg",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
@@ -68,8 +72,10 @@
    "hemma_klubb": "Limhamns Bordtennisklubb",
    "borta_klubb": "FIFH Malmö Parasportförening",
    "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Limhamns Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -464,7 +470,38 @@
    "borta_poang": 0
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-13",
+   "platser": [
+    "FIFH Hallen, Pildammsvägen 26"
+   ],
+   "serier": [
+    "Division 5 Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-13",
+     "tid": "18:00",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 3",
+     "hemma": "FIFH Malmö B",
+     "borta": "Malmö IF E",
+     "hemma_klubb": "FIFH Malmö Parasportförening",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "FIFH Hallen, Pildammsvägen 26",
+     "arrangor": "FIFH Malmö Parasportförening",
+     "arrangorer": [
+      "FIFH Malmö Parasportförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "513-7452-0",

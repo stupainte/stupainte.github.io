@@ -4,7 +4,7 @@
   "namn": "IFK Lund Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "IFK Lund Bordtennis",
@@ -278,8 +278,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Kvarnby Atletklubb",
    "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -726,8 +728,10 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -742,8 +746,10 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
   },
   {
@@ -848,8 +854,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Trelleborgs Bordtennisklubb",
    "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
@@ -4873,10 +4881,29 @@
     "IFK-hallen, Centrala IP, Lund"
    ],
    "serier": [
+    "Division 5 Södra 1",
     "Division 5 Södra 2"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-12",
+     "tid": "19:15",
+     "serie_id": "513-7447-0",
+     "serie": "Division 5 Södra 1",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 3",
+     "hemma": "IFK Lund E3",
+     "borta": "Kvarnby AK B",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Kvarnby Atletklubb",
+     "plats": "IFK-hallen, Centrala IP, Lund",
+     "arrangor": "IFK Lund Bordtennis",
+     "arrangorer": [
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+    },
     {
      "datum": "2026-11-12",
      "tid": "19:15",
@@ -5228,10 +5255,29 @@
     "IFK-hallen, Centrala IP, Lund"
    ],
    "serier": [
+    "Division 5 Södra 2",
     "Division 5 Västra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-27",
+     "tid": "19:15",
+     "serie_id": "513-7450-0",
+     "serie": "Division 5 Södra 2",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 5",
+     "hemma": "IFK Lund E4",
+     "borta": "Trelleborgs BTK E",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Trelleborgs Bordtennisklubb",
+     "plats": "IFK-hallen, Centrala IP, Lund",
+     "arrangor": "IFK Lund Bordtennis",
+     "arrangorer": [
+      "IFK Lund Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
+    },
     {
      "datum": "2026-11-27",
      "tid": "19:15",

@@ -4,7 +4,7 @@
   "namn": "Sunne Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-31T10:10:52Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "Sunne",
@@ -68,6 +68,26 @@
    "borta": "Sunne",
    "hemma_klubb": "Molkoms Racketklubb",
    "borta_klubb": "Sunne Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Munkfors Bordtennisklubb",
+   "arrangorer": [
+    "Munkfors Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7281-0",
+   "serie": "Division 6",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 4",
+   "hemma": "Sunne",
+   "borta": "Värmskog",
+   "hemma_klubb": "Sunne Bordtennisklubb",
+   "borta_klubb": "Värmskogs Sportklubb",
    "plats": null,
    "arrangor": "Munkfors Bordtennisklubb",
    "arrangorer": [
@@ -144,6 +164,17 @@
     },
     {
      "placering": 6,
+     "lag": "Sunne",
+     "klubb": "Sunne Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Kristinehamn 2",
      "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 3,
@@ -154,7 +185,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Arvika 1",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 4,
@@ -165,7 +196,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 9,
      "lag": "Hööken Rocky",
      "klubb": "Höökens Bordtennisklubb",
      "spelade": 4,
@@ -173,17 +204,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 9,
-     "lag": "Sunne",
-     "klubb": "Sunne Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -201,10 +221,10 @@
      "placering": 11,
      "lag": "Värmskog",
      "klubb": "Värmskogs Sportklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

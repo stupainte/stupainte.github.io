@@ -4,7 +4,7 @@
   "namn": "KFUM Kristianstad Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "KFUM Kristianstad BTF",
@@ -86,8 +86,10 @@
    "hemma_klubb": "Hässleholms Bordtennisklubb",
    "borta_klubb": "KFUM Kristianstad Bordtennisförening",
    "plats": "Björklundahallen, Hövdingegatan 17, Hässleholm",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Hässleholms Bordtennisklubb",
+   "arrangorer": [
+    "Hässleholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -102,8 +104,10 @@
    "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
    "borta_klubb": "Winnö Idrottsförening",
    "plats": "Bordtennishallen i Kristianstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "KFUM Kristianstad Bordtennisförening",
+   "arrangorer": [
+    "KFUM Kristianstad Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -154,8 +158,10 @@
    "hemma_klubb": "Winnö Idrottsförening",
    "borta_klubb": "KFUM Kristianstad Bordtennisförening",
    "plats": "Färlövs skola",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Winnö Idrottsförening",
+   "arrangorer": [
+    "Winnö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -188,8 +194,10 @@
    "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
    "borta_klubb": "Arkelstorps Bordtennisklubb",
    "plats": "Bordtennishallen i Kristianstad Arena",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "KFUM Kristianstad Bordtennisförening",
+   "arrangorer": [
+    "KFUM Kristianstad Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
   },
   {
@@ -1073,15 +1081,64 @@
  ],
  "arrangerar": [
   {
+   "datum": "2026-11-13",
+   "platser": [
+    "Bordtennishallen i Kristianstad Arena"
+   ],
+   "serier": [
+    "Division 4 Nordöstra (1)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-13",
+     "tid": "19:00",
+     "serie_id": "513-7451-0",
+     "serie": "Division 4 Nordöstra (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 3",
+     "hemma": "KFUM Kristianstad BTF B",
+     "borta": "Winnö IF A",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Winnö Idrottsförening",
+     "plats": "Bordtennishallen i Kristianstad Arena",
+     "arrangor": "KFUM Kristianstad Bordtennisförening",
+     "arrangorer": [
+      "KFUM Kristianstad Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2026-11-20",
    "platser": [
     "Bordtennishallen i Kristianstad Arena"
    ],
    "serier": [
+    "Division 4 Nordöstra (1)",
     "Division 5 Nordöstra"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-20",
+     "tid": "19:00",
+     "serie_id": "513-7451-0",
+     "serie": "Division 4 Nordöstra (1)",
+     "evenemang": "Skåneserier Senior herr/dam",
+     "omgang": "Round 4",
+     "hemma": "KFUM Kristianstad BTF B",
+     "borta": "Arkelstorps BTK A",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Arkelstorps Bordtennisklubb",
+     "plats": "Bordtennishallen i Kristianstad Arena",
+     "arrangor": "KFUM Kristianstad Bordtennisförening",
+     "arrangorer": [
+      "KFUM Kristianstad Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
+    },
     {
      "datum": "2026-11-20",
      "tid": "19:00",

@@ -4,7 +4,7 @@
   "namn": "Nynäshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-08T11:00:12Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "NBTK Juniorer",
@@ -686,6 +686,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1594/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7938-0",
+   "serie": "Div 7 Södra B",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Nynäshamns BTK B1",
+   "borta": "Djurgårdens IF BTF C5",
+   "hemma_klubb": "Nynäshamns Bordtennisklubb",
+   "borta_klubb": "Djurgårdens IF BTF",
+   "plats": null,
+   "arrangor": "Nynäshamns Bordtennisklubb",
+   "arrangorer": [
+    "Nynäshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1594/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -893,6 +913,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Nynäshamns BTK B1",
+     "klubb": "Nynäshamns Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Ingarö IF C2",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 2,
@@ -903,7 +934,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Tullinge TP BTK E",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
      "spelade": 2,
@@ -911,17 +942,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Nynäshamns BTK B1",
-     "klubb": "Nynäshamns Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -950,10 +970,10 @@
      "placering": 6,
      "lag": "Djurgårdens IF BTF C5",
      "klubb": "Djurgårdens IF BTF",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

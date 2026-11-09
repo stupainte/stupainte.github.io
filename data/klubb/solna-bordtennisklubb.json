@@ -4,7 +4,7 @@
   "namn": "Solna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "Silly Smashers",
@@ -933,6 +933,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7927-0",
+   "serie": "Div 6 Södra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Solna BTK C",
+   "borta": "Tyresö BTK D",
+   "hemma_klubb": "Solna Bordtennisklubb",
+   "borta_klubb": "Tyresö Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Solna Bordtennisklubb",
+   "arrangorer": [
+    "Solna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1587/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -2037,6 +2057,17 @@
     },
     {
      "placering": 2,
+     "lag": "Solna BTK C",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Hammarby IF BTF E3",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 3,
@@ -2047,7 +2078,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Boo RK E2",
      "klubb": "Boo Racketklubb",
      "spelade": 3,
@@ -2058,24 +2089,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Solna BTK C",
-     "klubb": "Solna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Tyresö BTK D",
      "klubb": "Tyresö Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

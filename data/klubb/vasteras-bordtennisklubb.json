@@ -4,7 +4,7 @@
   "namn": "Västerås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-06T11:47:38Z",
+ "uppdaterad": "2026-11-09T12:23:57Z",
  "lag": [
   {
    "namn": "Västerås 1",
@@ -87,9 +87,25 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
+   "namn": "Västerås BTK 1",
+   "serie": {
+    "namn": "Pensionärsserier"
+   },
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
    "namn": "Västerås BTK 11-",
    "serie": {
     "namn": "Grupp 1"
+   },
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Västerås BTK 2",
+   "serie": {
+    "namn": "Pensionärsserier"
    },
    "evenemang": "Västmanlands Distriktsserier 2026-2027",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -4785,6 +4801,81 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "482-10383-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Västmanlands Distriktsserier 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/482/1072/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Köpings BTK 2",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Västerås BTK 1",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Köpings BTK 3",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Köpings BTK 1",
+     "klubb": "Köpings Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Västerås BTK 2",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Arboga BTK",
+     "klubb": "Arboga Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
