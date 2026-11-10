@@ -4,7 +4,7 @@
   "namn": "Vårgårda IK Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-07T10:53:47Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Vårgårda IK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "18:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "IFK Lidköping B2",
-   "borta": "Vårgårda IK",
-   "hemma_klubb": "IFK Lidköping",
-   "borta_klubb": "Vårgårda IK Bordtennis",
-   "plats": "-",
-   "arrangor": "IFK Lidköping",
-   "arrangorer": [
-    "IFK Lidköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "19:00",
@@ -545,6 +527,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "18:00",
+   "serie_id": "367-6439-0",
+   "serie": "Div 5 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "IFK Lidköping B2",
+   "borta": "Vårgårda IK",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Vårgårda IK Bordtennis",
+   "plats": "-",
+   "arrangor": "IFK Lidköping",
+   "arrangorer": [
+    "IFK Lidköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -978,19 +980,19 @@
     },
     {
      "placering": 3,
-     "lag": "Grästorps BTK B",
-     "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "IFK Lidköping B2",
+     "klubb": "IFK Lidköping",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IFK Lidköping B2",
-     "klubb": "IFK Lidköping",
+     "lag": "Grästorps BTK B",
+     "klubb": "Grästorps Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1002,10 +1004,10 @@
      "placering": 5,
      "lag": "Vårgårda IK",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

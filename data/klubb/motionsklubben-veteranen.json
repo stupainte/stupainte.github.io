@@ -4,7 +4,7 @@
   "namn": "Motionsklubben Veteranen"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-29T10:38:44Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "MK Veteranen A",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "13:00",
-   "serie_id": "372-6764-0",
-   "serie": "Veteran Norra C",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "MK Veteranen A",
-   "borta": "Vetlanda BTK G",
-   "hemma_klubb": "Motionsklubben Veteranen",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "I12 hallen",
-   "arrangor": "Motionsklubben Veteranen",
-   "arrangorer": [
-    "Motionsklubben Veteranen"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "13:00",
@@ -469,39 +451,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "13:00",
+   "serie_id": "372-6764-0",
+   "serie": "Veteran Norra C",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "MK Veteranen A",
+   "borta": "Vetlanda BTK G",
+   "hemma_klubb": "Motionsklubben Veteranen",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "I12 hallen",
+   "arrangor": "Motionsklubben Veteranen",
+   "arrangorer": [
+    "Motionsklubben Veteranen"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-09",
-   "platser": [
-    "I12 hallen"
-   ],
-   "serier": [
-    "Veteran Norra C"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-09",
-     "tid": "13:00",
-     "serie_id": "372-6764-0",
-     "serie": "Veteran Norra C",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "MK Veteranen A",
-     "borta": "Vetlanda BTK G",
-     "hemma_klubb": "Motionsklubben Veteranen",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "I12 hallen",
-     "arrangor": "Motionsklubben Veteranen",
-     "arrangorer": [
-      "Motionsklubben Veteranen"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-12",
    "platser": [
@@ -752,11 +724,11 @@
      "placering": 1,
      "lag": "MK Veteranen A",
      "klubb": "Motionsklubben Veteranen",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -805,19 +777,19 @@
     },
     {
      "placering": 6,
-     "lag": "Vetlanda BTK G",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Huskvarna Södra IS D",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Huskvarna Södra IS D",
-     "klubb": "Huskvarna Södra Idrottssällskap",
+     "lag": "Vetlanda BTK G",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,

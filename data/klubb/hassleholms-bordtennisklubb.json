@@ -4,7 +4,7 @@
   "namn": "Hässleholms Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-09T12:23:57Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Hässleholms BTK A",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "19:00",
-   "serie_id": "513-7449-0",
-   "serie": "Division 5 Nordöstra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Bjärnums BTK",
-   "borta": "Hässleholms BTK B1",
-   "hemma_klubb": "Bjärnums Bordtennisklubb",
-   "borta_klubb": "Hässleholms Bordtennisklubb",
-   "plats": "Gamla Gymnastiksalen på Bjärnums Skola",
-   "arrangor": "Bjärnums Bordtennisklubb",
-   "arrangorer": [
-    "Bjärnums Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-  },
   {
    "datum": "2026-11-11",
    "tid": "19:00",
@@ -1334,6 +1316,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie_id": "513-7449-0",
+   "serie": "Division 5 Nordöstra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Bjärnums BTK",
+   "borta": "Hässleholms BTK B1",
+   "hemma_klubb": "Bjärnums Bordtennisklubb",
+   "borta_klubb": "Hässleholms Bordtennisklubb",
+   "plats": "Gamla Gymnastiksalen på Bjärnums Skola",
+   "arrangor": "Bjärnums Bordtennisklubb",
+   "arrangorer": [
+    "Bjärnums Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1882,6 +1884,17 @@
     },
     {
      "placering": 3,
+     "lag": "Arkelstorps BTK A",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Winnö IF A",
      "klubb": "Winnö Idrottsförening",
      "spelade": 2,
@@ -1892,20 +1905,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Arkelstorps BTK A",
-     "klubb": "Arkelstorps Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Degeberga GoIF B",
-     "klubb": "Degeberga Gymnastik O IF",
+     "lag": "KFUM Kristianstad BTF C",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1915,12 +1917,12 @@
     },
     {
      "placering": 6,
-     "lag": "KFUM Kristianstad BTF C",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 2,
+     "lag": "Degeberga GoIF B",
+     "klubb": "Degeberga Gymnastik O IF",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2012,11 +2014,11 @@
      "placering": 1,
      "lag": "Hässleholms BTK B1",
      "klubb": "Hässleholms Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -2056,10 +2058,10 @@
      "placering": 5,
      "lag": "Bjärnums BTK",
      "klubb": "Bjärnums Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

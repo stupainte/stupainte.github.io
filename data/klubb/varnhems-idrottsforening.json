@@ -4,7 +4,7 @@
   "namn": "Varnhems Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-08T11:00:12Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Varnhems IF",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Varnhems IF",
-   "borta": "Karlsborgs BTK C2",
-   "hemma_klubb": "Varnhems Idrottsförening",
-   "borta_klubb": "Karlsborgs Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Varnhems Idrottsförening",
-   "arrangorer": [
-    "Varnhems Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
   {
    "datum": "2026-11-16",
    "tid": "19:00",
@@ -571,39 +553,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Varnhems IF",
+   "borta": "Karlsborgs BTK C2",
+   "hemma_klubb": "Varnhems Idrottsförening",
+   "borta_klubb": "Karlsborgs Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Varnhems Idrottsförening",
+   "arrangorer": [
+    "Varnhems Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-09",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-09",
-     "tid": "19:00",
-     "serie_id": "367-7428-0",
-     "serie": "6-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Varnhems IF",
-     "borta": "Karlsborgs BTK C2",
-     "hemma_klubb": "Varnhems Idrottsförening",
-     "borta_klubb": "Karlsborgs Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Varnhems Idrottsförening",
-     "arrangorer": [
-      "Varnhems Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-16",
    "platser": [
@@ -877,6 +849,17 @@
     },
     {
      "placering": 3,
+     "lag": "Varnhems IF",
+     "klubb": "Varnhems Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 4,
      "lag": "Skövde PK D",
      "klubb": "Skövde Pingisklubb",
      "spelade": 4,
@@ -885,17 +868,6 @@
      "forlorade": 1,
      "matchpoang": 6,
      "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Varnhems IF",
-     "klubb": "Varnhems Idrottsförening",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–198"
     },
     {
      "placering": 5,
@@ -912,21 +884,21 @@
      "placering": 6,
      "lag": "Hova BTK B",
      "klubb": "Hova Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Karlsborgs BTK C2",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -934,10 +906,10 @@
      "placering": 8,
      "lag": "Blikstorps AIK C",
      "klubb": "Blikstorps Allmänna IK",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

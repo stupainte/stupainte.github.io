@@ -4,7 +4,7 @@
   "namn": "Bullarens Gymnastik o Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-09T12:23:57Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Bullarens GoIF",
@@ -795,6 +795,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1081/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-10-19",
+   "tid": "19:00",
+   "serie_id": "367-7535-0",
+   "serie": "7-Nordvästra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Bullarens GoIF C",
+   "borta": "Stenungsunds BTF D2",
+   "hemma_klubb": "Bullarens Gymnastik o Idrottsförening",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "-",
+   "arrangor": "Bullarens Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Bullarens Gymnastik o Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1369/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1663,6 +1683,17 @@
     },
     {
      "placering": 2,
+     "lag": "Stenungsunds BTF D2",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Uddevalla BTK C",
      "klubb": "Uddevalla Bordtennisklubb",
      "spelade": 1,
@@ -1673,7 +1704,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kvillebyns SK C",
      "klubb": "Kvillebyns Sportklubb",
      "spelade": 2,
@@ -1684,35 +1715,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Stenungsunds BTF D2",
-     "klubb": "Stenungsunds Bordtennisförening",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Bullarens GoIF C",
-     "klubb": "Bullarens Gymnastik o Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Grästorps BTK C",
      "klubb": "Grästorps Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Bullarens GoIF C",
+     "klubb": "Bullarens Gymnastik o Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

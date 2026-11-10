@@ -4,7 +4,7 @@
   "namn": "Lindome Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-30T10:39:42Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Lindome BTK",
@@ -152,25 +152,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "19:00",
-   "serie_id": "371-7238-0",
-   "serie": "Division 6",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "BTK Warta D",
-   "borta": "Lindome BTK B",
-   "hemma_klubb": "Bordtennisklubben Warta",
-   "borta_klubb": "Lindome Bordtennisklubb",
-   "plats": "Wartagården",
-   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Bordtennisklubben Warta"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
@@ -2327,6 +2308,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/537/1073/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "19:00",
+   "serie_id": "371-7238-0",
+   "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "BTK Warta D",
+   "borta": "Lindome BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lindome Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2873,8 +2875,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Warta D",
-     "klubb": "Bordtennisklubben Warta",
+     "lag": "Lindome BTK B",
+     "klubb": "Lindome Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2895,24 +2897,24 @@
     },
     {
      "placering": 3,
-     "lag": "Lindome BTK B",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "IF IFO C",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 2,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IF IFO C",
-     "klubb": "Idrottsföreningen Ifo",
+     "lag": "BTK Warta D",
+     "klubb": "Bordtennisklubben Warta",
      "spelade": 1,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2930,11 +2932,11 @@
      "placering": 6,
      "lag": "Lekstorps IF E",
      "klubb": "Lekstorps Idrottsförening",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-09T12:23:57Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Kinna BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-09",
-   "tid": "11:00",
-   "serie_id": "367-6956-0",
-   "serie": "Pensionärsserier",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Kinna BTK",
-   "borta": "Sjömarkens BTK",
-   "hemma_klubb": "Kinna Bordtennisklubb",
-   "borta_klubb": "Sjömarkens Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Kinna Bordtennisklubb",
-   "arrangorer": [
-    "Kinna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
-  },
   {
    "datum": "2026-11-11",
    "tid": "18:30",
@@ -1424,39 +1406,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-09",
+   "tid": "11:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Kinna BTK",
+   "borta": "Sjömarkens BTK",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-09",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Pensionärsserier"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-09",
-     "tid": "11:00",
-     "serie_id": "367-6956-0",
-     "serie": "Pensionärsserier",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 2",
-     "hemma": "Kinna BTK",
-     "borta": "Sjömarkens BTK",
-     "hemma_klubb": "Kinna Bordtennisklubb",
-     "borta_klubb": "Sjömarkens Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Kinna Bordtennisklubb",
-     "arrangorer": [
-      "Kinna Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-12",
    "platser": [
@@ -2580,6 +2552,17 @@
     },
     {
      "placering": 4,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Ödenäs IF",
      "klubb": "Ödenäs Idrottsförening",
      "spelade": 3,
@@ -2590,7 +2573,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 4,
@@ -2601,25 +2584,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Sjömarkens BTK",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

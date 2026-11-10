@@ -4,7 +4,7 @@
   "namn": "Huskvarna Södra Idrottssällskap"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-08T11:00:12Z",
+ "uppdaterad": "2026-11-10T12:04:29Z",
  "lag": [
   {
    "namn": "Huskvarna Södra IS",
@@ -120,24 +120,6 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "10:00",
-   "serie_id": "372-6765-0",
-   "serie": "Veteran Norra B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Vetlanda BTK B",
-   "borta": "Huskvarna Södra IS C",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Huskvarna Södra Idrottssällskap",
-   "plats": "Vetlanda BT-hall",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
    "tid": "11:00",
    "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
@@ -207,6 +189,24 @@
     "Bordtennisklubben Clipper"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "10:00",
+   "serie_id": "372-6765-0",
+   "serie": "Veteran Norra B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Vetlanda BTK B",
+   "borta": "Huskvarna Södra IS C",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Huskvarna Södra Idrottssällskap",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7"
   },
   {
    "datum": "2026-11-19",
@@ -355,24 +355,6 @@
   {
    "datum": "2026-12-09",
    "tid": "10:00",
-   "serie_id": "372-6764-0",
-   "serie": "Veteran Norra C",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Vetlanda BTK G",
-   "borta": "Huskvarna Södra IS D",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Huskvarna Södra Idrottssällskap",
-   "plats": "Vetlanda BT-hall",
-   "arrangor": "Vetlanda Bordtennisklubb",
-   "arrangorer": [
-    "Vetlanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
-  },
-  {
-   "datum": "2026-12-09",
-   "tid": "10:00",
    "serie_id": "372-6765-0",
    "serie": "Veteran Norra B",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -387,6 +369,24 @@
     "Huskvarna Södra Idrottssällskap"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7"
+  },
+  {
+   "datum": "2026-12-09",
+   "tid": "14:00",
+   "serie_id": "372-6764-0",
+   "serie": "Veteran Norra C",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Vetlanda BTK G",
+   "borta": "Huskvarna Södra IS D",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Huskvarna Södra Idrottssällskap",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7"
   },
   {
    "datum": "2026-12-11",
@@ -2885,32 +2885,32 @@
      "placering": 3,
      "lag": "Vaggeryds BTK A",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Vetlanda BTK A",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Huskvarna Södra IS B",
      "klubb": "Huskvarna Södra Idrottssällskap",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Vetlanda BTK A",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3035,11 +3035,11 @@
      "placering": 1,
      "lag": "MK Veteranen A",
      "klubb": "Motionsklubben Veteranen",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3088,19 +3088,19 @@
     },
     {
      "placering": 6,
-     "lag": "Vetlanda BTK G",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Huskvarna Södra IS D",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Huskvarna Södra IS D",
-     "klubb": "Huskvarna Södra Idrottssällskap",
+     "lag": "Vetlanda BTK G",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
