@@ -4,7 +4,7 @@
   "namn": "Skagersviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-11T11:40:56Z",
  "lag": [
   {
    "namn": "Skagersviks BTK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-10",
-   "tid": "18:00",
-   "serie_id": "367-6440-0",
-   "serie": "4-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "IFK Falköping BTK B",
-   "borta": "Skagersviks BTK",
-   "hemma_klubb": "IFK Falköping Bordtennisklubb",
-   "borta_klubb": "Skagersviks Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "IFK Falköping Bordtennisklubb",
-   "arrangorer": [
-    "IFK Falköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "11:00",
@@ -799,6 +781,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-10",
+   "tid": "18:00",
+   "serie_id": "367-6440-0",
+   "serie": "4-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "IFK Falköping BTK B",
+   "borta": "Skagersviks BTK",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Skagersviks Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-03",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1314,6 +1316,17 @@
     },
     {
      "placering": 3,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
      "lag": "Blikstorps AIK B",
      "klubb": "Blikstorps Allmänna IK",
      "spelade": 4,
@@ -1324,20 +1337,9 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 4,
-     "lag": "IFK Falköping BTK B",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 5,
-     "lag": "Skagersviks BTK",
-     "klubb": "Skagersviks Bordtennisklubb",
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1347,12 +1349,12 @@
     },
     {
      "placering": 6,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Skagersviks BTK",
+     "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -1411,24 +1413,24 @@
     },
     {
      "placering": 3,
-     "lag": "Götene Tor BTK C",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Skövde PK C",
+     "klubb": "Skövde Pingisklubb",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 5,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Skövde PK C",
-     "klubb": "Skövde Pingisklubb",
-     "spelade": 4,
+     "lag": "Götene Tor BTK C",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {

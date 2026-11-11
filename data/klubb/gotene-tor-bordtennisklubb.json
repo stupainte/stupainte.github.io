@@ -4,7 +4,7 @@
   "namn": "Götene/Tor Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-11T11:40:56Z",
  "lag": [
   {
    "namn": "Götene Tor BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-10",
-   "tid": "19:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Götene Tor BTK C",
-   "borta": "Skövde PK C",
-   "hemma_klubb": "Götene/Tor Bordtennisklubb",
-   "borta_klubb": "Skövde Pingisklubb",
-   "plats": "Olinsgymnasiet Götene",
-   "arrangor": "Götene/Tor Bordtennisklubb",
-   "arrangorer": [
-    "Götene/Tor Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "11:00",
@@ -829,6 +811,26 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-10",
+   "tid": "19:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Götene Tor BTK C",
+   "borta": "Skövde PK C",
+   "hemma_klubb": "Götene/Tor Bordtennisklubb",
+   "borta_klubb": "Skövde Pingisklubb",
+   "plats": "Olinsgymnasiet Götene",
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-12",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1030,36 +1032,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-10",
-   "platser": [
-    "Olinsgymnasiet Götene"
-   ],
-   "serier": [
-    "Div 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-10",
-     "tid": "19:00",
-     "serie_id": "367-6442-0",
-     "serie": "Div 5 Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Götene Tor BTK C",
-     "borta": "Skövde PK C",
-     "hemma_klubb": "Götene/Tor Bordtennisklubb",
-     "borta_klubb": "Skövde Pingisklubb",
-     "plats": "Olinsgymnasiet Götene",
-     "arrangor": "Götene/Tor Bordtennisklubb",
-     "arrangorer": [
-      "Götene/Tor Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-14",
    "platser": [
@@ -1694,6 +1666,17 @@
     },
     {
      "placering": 3,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
      "lag": "Blikstorps AIK B",
      "klubb": "Blikstorps Allmänna IK",
      "spelade": 4,
@@ -1704,20 +1687,9 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 4,
-     "lag": "IFK Falköping BTK B",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 5,
-     "lag": "Skagersviks BTK",
-     "klubb": "Skagersviks Bordtennisklubb",
+     "lag": "Hova BTK",
+     "klubb": "Hova Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -1727,12 +1699,12 @@
     },
     {
      "placering": 6,
-     "lag": "Hova BTK",
-     "klubb": "Hova Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Skagersviks BTK",
+     "klubb": "Skagersviks Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -1866,24 +1838,24 @@
     },
     {
      "placering": 3,
-     "lag": "Götene Tor BTK C",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Skövde PK C",
+     "klubb": "Skövde Pingisklubb",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 5,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Skövde PK C",
-     "klubb": "Skövde Pingisklubb",
-     "spelade": 4,
+     "lag": "Götene Tor BTK C",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {

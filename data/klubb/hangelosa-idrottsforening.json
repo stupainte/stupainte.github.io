@@ -4,7 +4,7 @@
   "namn": "Hangelösa Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-11T11:40:56Z",
  "lag": [
   {
    "namn": "Hangelösa IF",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-10",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Hangelösa IF",
-   "borta": "Skövde PK D",
-   "hemma_klubb": "Hangelösa Idrottsförening",
-   "borta_klubb": "Skövde Pingisklubb",
-   "plats": "-",
-   "arrangor": "Hangelösa Idrottsförening",
-   "arrangorer": [
-    "Hangelösa Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
   {
    "datum": "2026-11-17",
    "tid": "19:00",
@@ -277,39 +259,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-10",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Hangelösa IF",
+   "borta": "Skövde PK D",
+   "hemma_klubb": "Hangelösa Idrottsförening",
+   "borta_klubb": "Skövde Pingisklubb",
+   "plats": "-",
+   "arrangor": "Hangelösa Idrottsförening",
+   "arrangorer": [
+    "Hangelösa Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-10",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-10",
-     "tid": "19:00",
-     "serie_id": "367-7428-0",
-     "serie": "6-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Hangelösa IF",
-     "borta": "Skövde PK D",
-     "hemma_klubb": "Hangelösa Idrottsförening",
-     "borta_klubb": "Skövde Pingisklubb",
-     "plats": "-",
-     "arrangor": "Hangelösa Idrottsförening",
-     "arrangorer": [
-      "Hangelösa Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-17",
    "platser": [
@@ -443,22 +415,22 @@
      "placering": 1,
      "lag": "IFK Falköping BTK C1",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "198–0"
     },
     {
      "placering": 2,
      "lag": "Hangelösa IF",
      "klubb": "Hangelösa Idrottsförening",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
@@ -476,10 +448,10 @@
      "placering": 4,
      "lag": "Skövde PK D",
      "klubb": "Skövde Pingisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -487,10 +459,10 @@
      "placering": 5,
      "lag": "Karlsborgs BTK C1",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
