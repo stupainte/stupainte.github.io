@@ -4,8 +4,16 @@
   "namn": "Kullåkra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
+  {
+   "namn": "Kullåkra BTK",
+   "serie": {
+    "namn": "U4 Syd B"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Kullåkra BTK A",
    "serie": {
@@ -119,6 +127,44 @@
     "Kullåkra Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "BTK Frej 2",
+   "borta": "Kullåkra BTK",
+   "hemma_klubb": "Bordtennisklubben Frej",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "KFUM Jönköping / Listerby Idrottsklubb",
+   "arrangorer": [
+    "KFUM Jönköping",
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:30",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Listerby IK 1",
+   "borta": "Kullåkra BTK",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "KFUM Jönköping / Listerby Idrottsklubb",
+   "arrangorer": [
+    "KFUM Jönköping",
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -333,24 +379,6 @@
    "arrangor": "Kullåkra Bordtennisklubb",
    "arrangorer": [
     "Kullåkra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
-  {
-   "datum": "2027-01-17",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 8",
-   "hemma": "Ihre BTK A",
-   "borta": "Kullåkra BTK A",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
   },
@@ -1141,6 +1169,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 8",
+   "hemma": "Ihre BTK A",
+   "borta": "Kullåkra BTK A",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2027-02-28",
@@ -2017,6 +2065,70 @@
    ]
   },
   {
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Listerby IK 1",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Frej 2",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ljungby BTK",
+     "klubb": "Ljungby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Dänningelanda BTK 2",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kullåkra BTK",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
    "serie_id": "372-6772-0",
    "serie": "Veteran Södra",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -2091,8 +2203,8 @@
     },
     {
      "placering": 7,
-     "lag": "Ihre BTK A",
-     "klubb": "Ihre Bordtennisklubb",
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2102,8 +2214,8 @@
     },
     {
      "placering": 8,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
+     "lag": "Ihre BTK A",
+     "klubb": "Ihre Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,

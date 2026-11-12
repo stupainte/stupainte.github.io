@@ -4,7 +4,7 @@
   "namn": "Oskarshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-22T09:07:21Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Oskarshamns BTK",
@@ -34,7 +34,7 @@
  "kommande": [
   {
    "datum": "2026-11-15",
-   "tid": "10:00",
+   "tid": "10:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -52,7 +52,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "10:00",
+   "tid": "10:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -61,7 +61,7 @@
    "borta": "Oskarshamns BTK C",
    "hemma_klubb": "Västerviks Bordtennisklubb",
    "borta_klubb": "Oskarshamns Bordtennisklubb",
-   "plats": "Västervik",
+   "plats": "Parkskolan",
    "arrangor": "Västerviks Bordtennisklubb",
    "arrangorer": [
     "Västerviks Bordtennisklubb"
@@ -70,7 +70,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "14:00",
+   "tid": "14:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -79,7 +79,7 @@
    "borta": "Oskarshamns BTK B",
    "hemma_klubb": "Kalmar Bordtennisklubb",
    "borta_klubb": "Oskarshamns Bordtennisklubb",
-   "plats": "Arrangörens",
+   "plats": "Parkskolan",
    "arrangor": "Oskarshamns Bordtennisklubb",
    "arrangorer": [
     "Oskarshamns Bordtennisklubb"
@@ -88,7 +88,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "14:00",
+   "tid": "14:31",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -97,7 +97,7 @@
    "borta": "Damsnäs IF A",
    "hemma_klubb": "Oskarshamns Bordtennisklubb",
    "borta_klubb": "Damsnäs Idrottsförening",
-   "plats": "Arrangörens",
+   "plats": "Parkskolan",
    "arrangor": "Västerviks Bordtennisklubb",
    "arrangorer": [
     "Västerviks Bordtennisklubb"
@@ -832,7 +832,7 @@
   {
    "datum": "2026-11-15",
    "platser": [
-    "Arrangörens",
+    "ArrangörenPARs",
     "Parkskolan"
    ],
    "serier": [
@@ -842,7 +842,7 @@
    "matcher": [
     {
      "datum": "2026-11-15",
-     "tid": "10:00",
+     "tid": "10:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -860,7 +860,7 @@
     },
     {
      "datum": "2026-11-15",
-     "tid": "10:00",
+     "tid": "10:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -878,7 +878,7 @@
     },
     {
      "datum": "2026-11-15",
-     "tid": "14:00",
+     "tid": "14:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -887,7 +887,7 @@
      "borta": "Oskarshamns BTK B",
      "hemma_klubb": "Kalmar Bordtennisklubb",
      "borta_klubb": "Oskarshamns Bordtennisklubb",
-     "plats": "Arrangörens",
+     "plats": "Parkskolan",
      "arrangor": "Oskarshamns Bordtennisklubb",
      "arrangorer": [
       "Oskarshamns Bordtennisklubb"
@@ -896,7 +896,7 @@
     },
     {
      "datum": "2026-11-15",
-     "tid": "14:00",
+     "tid": "14:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -905,7 +905,7 @@
      "borta": "Högsby BTK B",
      "hemma_klubb": "Nickebo Idrottsklubb",
      "borta_klubb": "Högsby Bordtennisklubb",
-     "plats": "Arrangörens",
+     "plats": "ArrangörenPARs",
      "arrangor": "Oskarshamns Bordtennisklubb",
      "arrangorer": [
       "Oskarshamns Bordtennisklubb"

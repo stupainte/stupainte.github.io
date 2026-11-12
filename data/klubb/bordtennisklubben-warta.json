@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Warta"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "BTK Warta",
@@ -97,25 +97,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-11",
-   "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (2)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "IF IFO B1",
-   "borta": "BTK Warta B",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Bordtennisklubben Warta",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
    "datum": "2026-11-12",
    "tid": "19:00",
    "serie_id": "371-7375-0",
@@ -134,7 +115,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
   },
   {
-   "datum": "2026-11-15",
+   "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "417-5758-0",
    "serie": "Div 2 VSS",
@@ -143,6 +124,24 @@
    "hemma": "Kungälvs BTK: A1",
    "borta": "BTK Warta",
    "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "A-hallen",
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "14:00",
+   "serie_id": "417-5758-0",
+   "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Lekstorps IF: B",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Warta",
    "plats": "A-hallen",
    "arrangor": "Kungälvs Bordtennisklubb",
@@ -169,24 +168,6 @@
     "Bordtennisklubben Warta"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "14:00",
-   "serie_id": "417-5758-0",
-   "serie": "Div 2 VSS",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Lekstorps IF: B",
-   "borta": "BTK Warta",
-   "hemma_klubb": "Lekstorps Idrottsförening",
-   "borta_klubb": "Bordtennisklubben Warta",
-   "plats": "A-hallen",
-   "arrangor": "Kungälvs Bordtennisklubb",
-   "arrangorer": [
-    "Kungälvs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
    "datum": "2026-11-18",
@@ -1849,6 +1830,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "IF IFO B1",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3007,23 +3009,23 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Warta B",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IF IFO B1",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IF IFO B1",
-     "klubb": "Idrottsföreningen Ifo",
-     "spelade": 0,
+     "lag": "BTK Warta B",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Trelleborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-09T12:23:57Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Trelleborgs BTK",
@@ -20,6 +20,14 @@
     "namn": "Div 2 SSÖ Dam"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Trelleborgs BTK Blå",
+   "serie": {
+    "namn": "Ungdom B"
+   },
+   "evenemang": "Skånes ungdomsserier",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -55,6 +63,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
+   "namn": "Trelleborgs BTK Grön",
+   "serie": {
+    "namn": "Ungdom F"
+   },
+   "evenemang": "Skånes ungdomsserier",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Trelleborgs BTK Svart",
+   "serie": {
+    "namn": "Ungdom C"
+   },
+   "evenemang": "Skånes ungdomsserier",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
    "namn": "Trelleborgs BTK: B",
    "serie": {
     "namn": "Div 2 SSS"
@@ -64,42 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-11",
-   "tid": "19:00",
-   "serie_id": "513-7450-0",
-   "serie": "Division 5 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Skurups BTK C",
-   "borta": "Trelleborgs BTK E",
-   "hemma_klubb": "Skurups Bordtennisklubb",
-   "borta_klubb": "Trelleborgs Bordtennisklubb",
-   "plats": "Skurups Sparbank Arena",
-   "arrangor": "Skurups Bordtennisklubb",
-   "arrangorer": [
-    "Skurups Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-  },
-  {
-   "datum": "2026-11-11",
-   "tid": "19:00",
-   "serie_id": "513-7452-0",
-   "serie": "Division 4 Södra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Limhamns BTK A",
-   "borta": "Trelleborgs BTK D",
-   "hemma_klubb": "Limhamns Bordtennisklubb",
-   "borta_klubb": "Trelleborgs Bordtennisklubb",
-   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
-   "arrangor": "Limhamns Bordtennisklubb",
-   "arrangorer": [
-    "Limhamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "19:00",
@@ -329,6 +317,150 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "10:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 1",
+   "hemma": "Trelleborgs BTK Svart",
+   "borta": "KFUM Kristianstad U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "10:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 1",
+   "hemma": "Trelleborgs BTK Grön",
+   "borta": "Bjärreds BTK U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "10:00",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 1",
+   "hemma": "Trelleborgs BTK Blå",
+   "borta": "Eslövs AI BTK U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Eslövs AI Bordtennisklubb",
+   "plats": "Blomstersbergshallen Eslöv.",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "11:30",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 2",
+   "hemma": "Malmö IF U3",
+   "borta": "Trelleborgs BTK Svart",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "11:30",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 2",
+   "hemma": "IFK Lund U6",
+   "borta": "Trelleborgs BTK Grön",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "11:30",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 2",
+   "hemma": "Limhamns BTK U1",
+   "borta": "Trelleborgs BTK Blå",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Blomstersbergshallen Eslöv.",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "13:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 3",
+   "hemma": "Trelleborgs BTK Svart",
+   "borta": "BTK Rekord U3",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2026-11-28",
+   "tid": "13:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 3",
+   "hemma": "Trelleborgs BTK Grön",
+   "borta": "Vellinge Näset BTK U1",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+   "plats": "Löddesnäshallen, Apotekarvägen 4, 237 32 Bjärred",
+   "arrangor": "Bjärreds Bordtennisklubb",
+   "arrangorer": [
+    "Bjärreds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
   },
   {
    "datum": "2026-12-08",
@@ -796,6 +928,168 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
+   "datum": "2027-01-23",
+   "tid": "10:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 4",
+   "hemma": "Malmö IF U2",
+   "borta": "Trelleborgs BTK Svart",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-01-23",
+   "tid": "10:00",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 4",
+   "hemma": "Trelleborgs BTK Blå",
+   "borta": "IFK Lund U3",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2027-01-23",
+   "tid": "11:30",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 5",
+   "hemma": "Trelleborgs BTK Svart",
+   "borta": "BTK Rekord U4",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-01-23",
+   "tid": "11:30",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 5",
+   "hemma": "BTK Rekord U2",
+   "borta": "Trelleborgs BTK Blå",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2027-01-23",
+   "tid": "13:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 6",
+   "hemma": "KFUM Kristianstad U2",
+   "borta": "Trelleborgs BTK Svart",
+   "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-01-23",
+   "tid": "13:00",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 6",
+   "hemma": "Eslövs AI BTK U2",
+   "borta": "Trelleborgs BTK Blå",
+   "hemma_klubb": "Eslövs AI Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2027-01-24",
+   "tid": "10:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 4",
+   "hemma": "IFK Klagshamn Gul",
+   "borta": "Trelleborgs BTK Grön",
+   "hemma_klubb": "IFK Klagshamn",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-01-24",
+   "tid": "11:30",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 5",
+   "hemma": "Trelleborgs BTK Grön",
+   "borta": "Vellinge Näset BTK U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Vellinge Näsets Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-01-24",
+   "tid": "13:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 6",
+   "hemma": "Bjärreds BTK U2",
+   "borta": "Trelleborgs BTK Grön",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Vanningen Sporthall, Vellinge",
+   "arrangor": "Vellinge Näsets Bordtennisklubb",
+   "arrangorer": [
+    "Vellinge Näsets Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
    "datum": "2027-01-26",
    "tid": "19:00",
    "serie_id": "513-7450-0",
@@ -1096,6 +1390,96 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
+   "datum": "2027-03-06",
+   "tid": "10:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 7",
+   "hemma": "Trelleborgs BTK Grön",
+   "borta": "IFK Lund U6",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Klagshamns sporthall, Kamratvägen 1, 218 53 Klagshamn.",
+   "arrangor": "IFK Klagshamn",
+   "arrangorer": [
+    "IFK Klagshamn"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-03-06",
+   "tid": "11:30",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 8",
+   "hemma": "Vellinge Näset BTK U1",
+   "borta": "Trelleborgs BTK Grön",
+   "hemma_klubb": "Vellinge Näsets Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Klagshamns sporthall, Kamratvägen 1, 218 53 Klagshamn.",
+   "arrangor": "IFK Klagshamn",
+   "arrangorer": [
+    "IFK Klagshamn"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-03-07",
+   "tid": "10:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 7",
+   "hemma": "Trelleborgs BTK Svart",
+   "borta": "Malmö IF U3",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-03-07",
+   "tid": "10:00",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 7",
+   "hemma": "Trelleborgs BTK Blå",
+   "borta": "Limhamns BTK U1",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Limhamns Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2027-03-07",
+   "tid": "11:30",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 8",
+   "hemma": "BTK Rekord U3",
+   "borta": "Trelleborgs BTK Svart",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Söderslättshallen, Trelleborg",
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
    "datum": "2027-03-09",
    "tid": "19:00",
    "serie_id": "513-7450-0",
@@ -1323,6 +1707,114 @@
     "Kosta Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "10:00",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 9",
+   "hemma": "Trelleborgs BTK Svart",
+   "borta": "Malmö IF U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "10:00",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 9",
+   "hemma": "Trelleborgs BTK Grön",
+   "borta": "IFK Klagshamn Gul",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "IFK Klagshamn",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "10:00",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 9",
+   "hemma": "IFK Lund U3",
+   "borta": "Trelleborgs BTK Blå",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "11:30",
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 10",
+   "hemma": "BTK Rekord U4",
+   "borta": "Trelleborgs BTK Svart",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "11:30",
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 10",
+   "hemma": "Vellinge Näset BTK U2",
+   "borta": "Trelleborgs BTK Grön",
+   "hemma_klubb": "Vellinge Näsets Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "11:30",
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "omgang": "Round 10",
+   "hemma": "Trelleborgs BTK Blå",
+   "borta": "BTK Rekord U2",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Idrottenshus Helsingborg",
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
   },
   {
    "datum": "2027-04-17",
@@ -2396,6 +2888,199 @@
    ]
   },
   {
+   "datum": "2027-03-07",
+   "platser": [
+    "Söderslättshallen, Trelleborg"
+   ],
+   "serier": [
+    "Ungdom B",
+    "Ungdom C"
+   ],
+   "antal": 10,
+   "matcher": [
+    {
+     "datum": "2027-03-07",
+     "tid": "10:00",
+     "serie_id": "605-10416-0",
+     "serie": "Ungdom B",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 7",
+     "hemma": "IFK Lund U3",
+     "borta": "Eslövs AI BTK U2",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "10:00",
+     "serie_id": "605-10416-0",
+     "serie": "Ungdom B",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 7",
+     "hemma": "Trelleborgs BTK Blå",
+     "borta": "Limhamns BTK U1",
+     "hemma_klubb": "Trelleborgs Bordtennisklubb",
+     "borta_klubb": "Limhamns Bordtennisklubb",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "10:00",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 7",
+     "hemma": "KFUM Kristianstad U2",
+     "borta": "BTK Rekord U4",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "10:00",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 7",
+     "hemma": "Trelleborgs BTK Svart",
+     "borta": "Malmö IF U3",
+     "hemma_klubb": "Trelleborgs Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "10:00",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 7",
+     "hemma": "Malmö IF U2",
+     "borta": "BTK Rekord U3",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "11:30",
+     "serie_id": "605-10416-0",
+     "serie": "Ungdom B",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 8",
+     "hemma": "Limhamns BTK U1",
+     "borta": "IFK Lund U3",
+     "hemma_klubb": "Limhamns Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "11:30",
+     "serie_id": "605-10416-0",
+     "serie": "Ungdom B",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 8",
+     "hemma": "Eslövs AI BTK U2",
+     "borta": "BTK Rekord U2",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "11:30",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 8",
+     "hemma": "BTK Rekord U4",
+     "borta": "Malmö IF U2",
+     "hemma_klubb": "Bordtennisklubben Rekord",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "11:30",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 8",
+     "hemma": "BTK Rekord U3",
+     "borta": "Trelleborgs BTK Svart",
+     "hemma_klubb": "Bordtennisklubben Rekord",
+     "borta_klubb": "Trelleborgs Bordtennisklubb",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    },
+    {
+     "datum": "2027-03-07",
+     "tid": "11:30",
+     "serie_id": "605-10417-0",
+     "serie": "Ungdom C",
+     "evenemang": "Skånes ungdomsserier",
+     "omgang": "Round 8",
+     "hemma": "Malmö IF U3",
+     "borta": "KFUM Kristianstad U2",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "KFUM Kristianstad Bordtennisförening",
+     "plats": "Söderslättshallen, Trelleborg",
+     "arrangor": "Trelleborgs Bordtennisklubb",
+     "arrangorer": [
+      "Trelleborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2027-03-14",
    "platser": [
     "A-hallen"
@@ -2959,6 +3644,220 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "605-10416-0",
+   "serie": "Ungdom B",
+   "evenemang": "Skånes ungdomsserier",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1853/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Limhamns BTK U1",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Trelleborgs BTK Blå",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Lund U3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "BTK Rekord U2",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Eslövs AI BTK U2",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "605-10417-0",
+   "serie": "Ungdom C",
+   "evenemang": "Skånes ungdomsserier",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1854/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Rekord U3",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Malmö IF U2",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Trelleborgs BTK Svart",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "KFUM Kristianstad U2",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Malmö IF U3",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Rekord U4",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "605-10421-0",
+   "serie": "Ungdom F",
+   "evenemang": "Skånes ungdomsserier",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1857/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Vellinge Näset BTK U1",
+     "klubb": "Vellinge Näsets Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Klagshamn Gul",
+     "klubb": "IFK Klagshamn",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Trelleborgs BTK Grön",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Bjärreds BTK U2",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IFK Lund U6",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Vellinge Näset BTK U2",
+     "klubb": "Vellinge Näsets Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

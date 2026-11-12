@@ -4,7 +4,7 @@
   "namn": "Ihre Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Ihre BTK A",
@@ -175,24 +175,6 @@
     "Senorens Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
-  {
-   "datum": "2027-01-17",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 8",
-   "hemma": "Ihre BTK A",
-   "borta": "Kullåkra BTK A",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
   },
   {
    "datum": "2027-01-17",
@@ -757,6 +739,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 8",
+   "hemma": "Ihre BTK A",
+   "borta": "Kullåkra BTK A",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -924,7 +926,9 @@
      "arrangorer": [
       "Ihre Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -1425,8 +1429,8 @@
     },
     {
      "placering": 7,
-     "lag": "Ihre BTK A",
-     "klubb": "Ihre Bordtennisklubb",
+     "lag": "Kullåkra BTK B",
+     "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1436,8 +1440,8 @@
     },
     {
      "placering": 8,
-     "lag": "Kullåkra BTK B",
-     "klubb": "Kullåkra Bordtennisklubb",
+     "lag": "Ihre BTK A",
+     "klubb": "Ihre Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,

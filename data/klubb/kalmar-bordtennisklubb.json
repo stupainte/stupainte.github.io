@@ -4,7 +4,7 @@
   "namn": "Kalmar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Kalmar BTK",
@@ -18,6 +18,30 @@
    "namn": "Kalmar BTK 1",
    "serie": {
     "namn": "Höst Ungd U3 Syd"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Kalmar BTK 2",
+   "serie": {
+    "namn": "U4 Syd A"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Kalmar BTK 3",
+   "serie": {
+    "namn": "U5 Syd B"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Kalmar BTK 4",
+   "serie": {
+    "namn": "U5 Syd B"
    },
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
@@ -86,7 +110,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "10:00",
+   "tid": "10:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -122,7 +146,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "14:00",
+   "tid": "14:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -131,12 +155,30 @@
    "borta": "Oskarshamns BTK B",
    "hemma_klubb": "Kalmar Bordtennisklubb",
    "borta_klubb": "Oskarshamns Bordtennisklubb",
-   "plats": "Arrangörens",
+   "plats": "Parkskolan",
    "arrangor": "Oskarshamns Bordtennisklubb",
    "arrangorer": [
     "Oskarshamns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "10:00",
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Kalmar BTK 3",
+   "borta": "Carlshamn BTK 2",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Carlshamns Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
   },
   {
    "datum": "2026-11-21",
@@ -158,6 +200,60 @@
   },
   {
    "datum": "2026-11-21",
+   "tid": "11:30",
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Kalmar BTK 4",
+   "borta": "Carlshamn BTK 2",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Carlshamns Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "11:30",
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Kalmar BTK 3",
+   "borta": "Listerby IK 2",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Listerby Idrottsklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "13:00",
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Kalmar BTK 4",
+   "borta": "Kättilsmåla BTK 2",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Kättilsmåla Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+  },
+  {
+   "datum": "2026-11-21",
    "tid": "13:00",
    "serie_id": "372-10407-0",
    "serie": "Höst Ungd U3 Syd",
@@ -173,6 +269,42 @@
     "Faggemåla Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Kalmar BTK 2",
+   "borta": "Vetlanda BTK 2",
+   "hemma_klubb": "Kalmar Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:30",
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "BTK Näcken",
+   "borta": "Kalmar BTK 2",
+   "hemma_klubb": "Bordtennisklubben Näcken",
+   "borta_klubb": "Kalmar Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -1196,6 +1328,210 @@
    ]
   },
   {
+   "datum": "2026-11-21",
+   "platser": [
+    "J-O Waldnerhallen"
+   ],
+   "serier": [
+    "U5 Syd B"
+   ],
+   "antal": 5,
+   "matcher": [
+    {
+     "datum": "2026-11-21",
+     "tid": "10:00",
+     "serie_id": "372-10443-0",
+     "serie": "U5 Syd B",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Kalmar BTK 3",
+     "borta": "Carlshamn BTK 2",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+    },
+    {
+     "datum": "2026-11-21",
+     "tid": "10:00",
+     "serie_id": "372-10443-0",
+     "serie": "U5 Syd B",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Listerby IK 2",
+     "borta": "Kättilsmåla BTK 2",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Kättilsmåla Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+    },
+    {
+     "datum": "2026-11-21",
+     "tid": "11:30",
+     "serie_id": "372-10443-0",
+     "serie": "U5 Syd B",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 2",
+     "hemma": "Kalmar BTK 4",
+     "borta": "Carlshamn BTK 2",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+    },
+    {
+     "datum": "2026-11-21",
+     "tid": "11:30",
+     "serie_id": "372-10443-0",
+     "serie": "U5 Syd B",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 2",
+     "hemma": "Kalmar BTK 3",
+     "borta": "Listerby IK 2",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Listerby Idrottsklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+    },
+    {
+     "datum": "2026-11-21",
+     "tid": "13:00",
+     "serie_id": "372-10443-0",
+     "serie": "U5 Syd B",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 3",
+     "hemma": "Kalmar BTK 4",
+     "borta": "Kättilsmåla BTK 2",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Kättilsmåla Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-22",
+   "platser": [
+    "J-O Waldnerhallen"
+   ],
+   "serier": [
+    "U4 Syd A"
+   ],
+   "antal": 5,
+   "matcher": [
+    {
+     "datum": "2026-11-22",
+     "tid": "10:00",
+     "serie_id": "372-10437-0",
+     "serie": "U4 Syd A",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Kalmar BTK 2",
+     "borta": "Vetlanda BTK 2",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Vetlanda Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+    },
+    {
+     "datum": "2026-11-22",
+     "tid": "10:00",
+     "serie_id": "372-10437-0",
+     "serie": "U4 Syd A",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 1",
+     "hemma": "Örjansklubben/Ramkvilla",
+     "borta": "Västervik BTK",
+     "hemma_klubb": "Örjansklubben/Ramkvilla IF",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+    },
+    {
+     "datum": "2026-11-22",
+     "tid": "11:30",
+     "serie_id": "372-10437-0",
+     "serie": "U4 Syd A",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 2",
+     "hemma": "Vetlanda BTK 2",
+     "borta": "Örjansklubben/Ramkvilla",
+     "hemma_klubb": "Vetlanda Bordtennisklubb",
+     "borta_klubb": "Örjansklubben/Ramkvilla IF",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+    },
+    {
+     "datum": "2026-11-22",
+     "tid": "11:30",
+     "serie_id": "372-10437-0",
+     "serie": "U4 Syd A",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 2",
+     "hemma": "BTK Näcken",
+     "borta": "Kalmar BTK 2",
+     "hemma_klubb": "Bordtennisklubben Näcken",
+     "borta_klubb": "Kalmar Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+    },
+    {
+     "datum": "2026-11-22",
+     "tid": "13:00",
+     "serie_id": "372-10437-0",
+     "serie": "U4 Syd A",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "BTK Näcken",
+     "borta": "Västervik BTK",
+     "hemma_klubb": "Bordtennisklubben Näcken",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "J-O Waldnerhallen",
+     "arrangor": "Kalmar Bordtennisklubb",
+     "arrangorer": [
+      "Kalmar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2026-12-12",
    "platser": [
     "A-hallen"
@@ -1993,6 +2329,17 @@
     },
     {
      "placering": 2,
+     "lag": "BTK Enig A",
+     "klubb": "Bordtennisklubben Enig",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kalmar BTK A",
      "klubb": "Kalmar Bordtennisklubb",
      "spelade": 5,
@@ -2003,24 +2350,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "BTK Enig A",
-     "klubb": "Bordtennisklubben Enig",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "BTK Arsenal Nybro A",
      "klubb": "Bordtennisklubben Arsenal Nybro",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2125,6 +2461,134 @@
      "placering": 5,
      "lag": "BTK Frej 1",
      "klubb": "Bordtennisklubben Frej",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Näcken",
+     "klubb": "Bordtennisklubben Näcken",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kalmar BTK 2",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Örjansklubben/Ramkvilla",
+     "klubb": "Örjansklubben/Ramkvilla IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Västervik BTK",
+     "klubb": "Västerviks Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vetlanda BTK 2",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kalmar BTK 4",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kalmar BTK 3",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Listerby IK 2",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kättilsmåla BTK 2",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Carlshamn BTK 2",
+     "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

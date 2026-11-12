@@ -4,7 +4,7 @@
   "namn": "Sjömarkens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Sjömarkens BTK",
@@ -1839,6 +1839,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-04",
+   "tid": "10:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Ödenäs IF",
+   "borta": "Sjömarkens BTK",
+   "hemma_klubb": "Ödenäs Idrottsförening",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ödenäs Idrottsförening",
+   "arrangorer": [
+    "Ödenäs Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-11-05",
    "tid": "19:45",
    "serie_id": "367-6345-0",
@@ -3069,21 +3089,21 @@
      "placering": 2,
      "lag": "Alingsås PK C",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Sandareds BTK",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -3175,6 +3195,17 @@
     },
     {
      "placering": 3,
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Kinna BTK B1",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 4,
@@ -3185,24 +3216,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Ulricehamns IF C",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -3221,21 +3241,21 @@
      "placering": 7,
      "lag": "Byttorps IF C1",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 4,
-     "vunna": 0,
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Sandareds BTK C",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3435,15 +3455,26 @@
      "placering": 1,
      "lag": "Mariedals IK",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Ödenäs IF",
+     "klubb": "Ödenäs Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Byttorps IF 2",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 5,
@@ -3451,17 +3482,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -3477,17 +3497,6 @@
     },
     {
      "placering": 5,
-     "lag": "Ödenäs IF",
-     "klubb": "Ödenäs Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 4,
@@ -3498,13 +3507,24 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
      "lag": "Sjömarkens BTK",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3512,10 +3532,10 @@
      "placering": 8,
      "lag": "Ulricehamns IF",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

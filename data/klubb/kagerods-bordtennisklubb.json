@@ -4,7 +4,7 @@
   "namn": "Kågeröds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Kågeröds BTK",
@@ -80,24 +80,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-11",
-   "tid": "19:00",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Kågeröds BTK C",
-   "borta": "Åstorps BTK D",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "Åstorps Bordtennisklubb",
-   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
-   "arrangor": "Kågeröds Bordtennisklubb",
-   "arrangorer": [
-    "Kågeröds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -2205,39 +2187,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-10",
+   "tid": "19:00",
+   "serie_id": "513-7446-0",
+   "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "BTK Scania C",
+   "borta": "Kågeröds BTK D",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": "Bordtennisklubben Scania",
+   "arrangorer": [
+    "Bordtennisklubben Scania"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Kågeröds BTK C",
+   "borta": "Åstorps BTK D",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-11",
-   "platser": [
-    "Böketoftavägen 5, 268 77 Kågeröd"
-   ],
-   "serier": [
-    "Division 4 Västra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-11",
-     "tid": "19:00",
-     "serie_id": "513-7453-0",
-     "serie": "Division 4 Västra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 3",
-     "hemma": "Kågeröds BTK C",
-     "borta": "Åstorps BTK D",
-     "hemma_klubb": "Kågeröds Bordtennisklubb",
-     "borta_klubb": "Åstorps Bordtennisklubb",
-     "plats": "Böketoftavägen 5, 268 77 Kågeröd",
-     "arrangor": "Kågeröds Bordtennisklubb",
-     "arrangorer": [
-      "Kågeröds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-14",
    "platser": [
@@ -3467,13 +3459,13 @@
     },
     {
      "placering": 4,
-     "lag": "Åstorps BTK D",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Kågeröds BTK C",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -3489,8 +3481,8 @@
     },
     {
      "placering": 6,
-     "lag": "BTK Scania B",
-     "klubb": "Bordtennisklubben Scania",
+     "lag": "Åstorps BTK D",
+     "klubb": "Åstorps Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -3500,13 +3492,13 @@
     },
     {
      "placering": 7,
-     "lag": "Kågeröds BTK C",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "BTK Scania B",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3533,11 +3525,11 @@
      "placering": 1,
      "lag": "Kågeröds BTK D",
      "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -3564,23 +3556,23 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Scania C",
-     "klubb": "Bordtennisklubben Scania",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "IFK Lund E1",
      "klubb": "IFK Lund Bordtennis",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "BTK Scania C",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

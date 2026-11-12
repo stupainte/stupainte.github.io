@@ -4,7 +4,7 @@
   "namn": "Simlångsdalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Simlångsdalens IF",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "Simlångsdalens IF A",
-   "borta": "Halmstad BTK E 3",
-   "hemma_klubb": "Simlångsdalens Idrottsförening",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Simlångsdalen",
-   "arrangor": "Simlångsdalens Idrottsförening",
-   "arrangorer": [
-    "Simlångsdalens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "09:30",
@@ -239,39 +221,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "Simlångsdalens IF A",
+   "borta": "Halmstad BTK E 3",
+   "hemma_klubb": "Simlångsdalens Idrottsförening",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Simlångsdalen",
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "Simlångsdalen"
-   ],
-   "serier": [
-    "Division 5 Södra (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "19:00",
-     "serie_id": "411-7590-0",
-     "serie": "Division 5 Södra (1)",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 5",
-     "hemma": "Simlångsdalens IF A",
-     "borta": "Halmstad BTK E 3",
-     "hemma_klubb": "Simlångsdalens Idrottsförening",
-     "borta_klubb": "Halmstad Bordtennisklubb",
-     "plats": "Simlångsdalen",
-     "arrangor": "Simlångsdalens Idrottsförening",
-     "arrangorer": [
-      "Simlångsdalens Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-06",
    "platser": [
@@ -324,6 +296,17 @@
     },
     {
      "placering": 2,
+     "lag": "Simlångsdalens IF A",
+     "klubb": "Simlångsdalens Idrottsförening",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
      "spelade": 4,
@@ -334,7 +317,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Markaryds BTK A ",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 4,
@@ -345,24 +328,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Simlångsdalens IF A",
-     "klubb": "Simlångsdalens Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Halmstad BTK E 3",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

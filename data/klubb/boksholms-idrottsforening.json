@@ -4,8 +4,16 @@
   "namn": "Böksholms Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-28T10:13:48Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
+  {
+   "namn": "Böksholm IF",
+   "serie": {
+    "namn": "U4 Norr A"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Böksholms IF A",
    "serie": {
@@ -17,22 +25,36 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-11",
-   "tid": "19:00",
-   "serie_id": "372-6757-0",
-   "serie": "DIV 5 Mellersta",
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "372-10440-0",
+   "serie": "U4 Norr A",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "BTK Näcken A",
-   "borta": "Böksholms IF A",
-   "hemma_klubb": "Bordtennisklubben Näcken",
+   "omgang": "Round 1",
+   "hemma": "KFUM Jönköping 2",
+   "borta": "Böksholm IF",
+   "hemma_klubb": "KFUM Jönköping",
    "borta_klubb": "Böksholms Idrottsförening",
-   "plats": "Sparbankshallen virserum",
-   "arrangor": "Bordtennisklubben Näcken",
-   "arrangorer": [
-    "Bordtennisklubben Näcken"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "plats": "KFUM Jönköping",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1965/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:30",
+   "serie_id": "372-10440-0",
+   "serie": "U4 Norr A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "KFUM Jönköping 4",
+   "borta": "Böksholm IF",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Böksholms Idrottsförening",
+   "plats": "KFUM Jönköping",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1965/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -494,6 +516,70 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 4,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-10440-0",
+   "serie": "U4 Norr A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1965/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "KFUM Jönköping 4",
+     "klubb": "KFUM Jönköping",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "KFUM Jönköping 2",
+     "klubb": "KFUM Jönköping",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Taberg SK 1",
+     "klubb": "Tabergs Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "BTK Final 2",
+     "klubb": "Bordtennisklubben Final",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Böksholm IF",
+     "klubb": "Böksholms Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

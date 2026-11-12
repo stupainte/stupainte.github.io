@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
   {
    "namn": "Kinna BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-11",
-   "tid": "18:30",
-   "serie_id": "367-7457-0",
-   "serie": "6-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Ulricehamns IF C",
-   "borta": "Kinna BTK B2",
-   "hemma_klubb": "Ulricehamns Idrottsförening",
-   "borta_klubb": "Kinna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Ulricehamns Idrottsförening",
-   "arrangorer": [
-    "Ulricehamns Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
   {
    "datum": "2026-11-12",
    "tid": "19:00",
@@ -1426,6 +1408,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "18:30",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Kinna BTK B2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2250,6 +2252,17 @@
     },
     {
      "placering": 3,
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Kinna BTK B1",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 4,
@@ -2260,24 +2273,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Ulricehamns IF C",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2296,21 +2298,21 @@
      "placering": 7,
      "lag": "Byttorps IF C1",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 4,
-     "vunna": 0,
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Sandareds BTK C",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2444,6 +2446,17 @@
     },
     {
      "placering": 3,
+     "lag": "Ulricehamns IF B",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Mariedals IK D2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 3,
@@ -2454,25 +2467,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Byttorps IF B2",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Ulricehamns IF B",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -2521,15 +2523,26 @@
      "placering": 1,
      "lag": "Mariedals IK",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Ödenäs IF",
+     "klubb": "Ödenäs Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Byttorps IF 2",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 5,
@@ -2537,17 +2550,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -2563,17 +2565,6 @@
     },
     {
      "placering": 5,
-     "lag": "Ödenäs IF",
-     "klubb": "Ödenäs Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 4,
@@ -2584,13 +2575,24 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
      "lag": "Sjömarkens BTK",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -2598,10 +2600,10 @@
      "placering": 8,
      "lag": "Ulricehamns IF",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

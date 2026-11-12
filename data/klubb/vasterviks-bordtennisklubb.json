@@ -4,8 +4,16 @@
   "namn": "Västerviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-06T11:47:38Z",
+ "uppdaterad": "2026-11-12T12:07:06Z",
  "lag": [
+  {
+   "namn": "Västervik BTK",
+   "serie": {
+    "namn": "U4 Syd A"
+   },
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Västerviks BTK",
    "serie": {
@@ -34,7 +42,7 @@
  "kommande": [
   {
    "datum": "2026-11-15",
-   "tid": "10:00",
+   "tid": "10:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -43,7 +51,7 @@
    "borta": "Oskarshamns BTK C",
    "hemma_klubb": "Västerviks Bordtennisklubb",
    "borta_klubb": "Oskarshamns Bordtennisklubb",
-   "plats": "Västervik",
+   "plats": "Parkskolan",
    "arrangor": "Västerviks Bordtennisklubb",
    "arrangorer": [
     "Västerviks Bordtennisklubb"
@@ -52,7 +60,7 @@
   },
   {
    "datum": "2026-11-15",
-   "tid": "14:00",
+   "tid": "14:30",
    "serie_id": "372-6771-0",
    "serie": "DIV 4 ÖSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -61,12 +69,48 @@
    "borta": "Västerviks BTK B",
    "hemma_klubb": "Långemåla Bordtennisklubb",
    "borta_klubb": "Västerviks Bordtennisklubb",
-   "plats": "Arrangörens",
+   "plats": "Parkskolan",
    "arrangor": "Västerviks Bordtennisklubb",
    "arrangorer": [
     "Västerviks Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Örjansklubben/Ramkvilla",
+   "borta": "Västervik BTK",
+   "hemma_klubb": "Örjansklubben/Ramkvilla IF",
+   "borta_klubb": "Västerviks Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "13:00",
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "BTK Näcken",
+   "borta": "Västervik BTK",
+   "hemma_klubb": "Bordtennisklubben Näcken",
+   "borta_klubb": "Västerviks Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
   },
   {
    "datum": "2026-12-12",
@@ -103,6 +147,24 @@
     "Västerviks Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Västervik BTK",
+   "borta": "Vetlanda BTK 2",
+   "hemma_klubb": "Västerviks Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Vetlanda BT-hall",
+   "arrangor": "Vetlanda Bordtennisklubb",
+   "arrangorer": [
+    "Vetlanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -613,8 +675,7 @@
   {
    "datum": "2026-11-15",
    "platser": [
-    "Arrangörens",
-    "Västervik"
+    "Parkskolan"
    ],
    "serier": [
     "DIV 4 ÖSTRA"
@@ -623,7 +684,7 @@
    "matcher": [
     {
      "datum": "2026-11-15",
-     "tid": "10:00",
+     "tid": "10:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -632,7 +693,7 @@
      "borta": "Oskarshamns BTK C",
      "hemma_klubb": "Västerviks Bordtennisklubb",
      "borta_klubb": "Oskarshamns Bordtennisklubb",
-     "plats": "Västervik",
+     "plats": "Parkskolan",
      "arrangor": "Västerviks Bordtennisklubb",
      "arrangorer": [
       "Västerviks Bordtennisklubb"
@@ -641,25 +702,7 @@
     },
     {
      "datum": "2026-11-15",
-     "tid": "14:00",
-     "serie_id": "372-6771-0",
-     "serie": "DIV 4 ÖSTRA",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Oskarshamns BTK C",
-     "borta": "Damsnäs IF A",
-     "hemma_klubb": "Oskarshamns Bordtennisklubb",
-     "borta_klubb": "Damsnäs Idrottsförening",
-     "plats": "Arrangörens",
-     "arrangor": "Västerviks Bordtennisklubb",
-     "arrangorer": [
-      "Västerviks Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "14:00",
+     "tid": "14:30",
      "serie_id": "372-6771-0",
      "serie": "DIV 4 ÖSTRA",
      "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -668,7 +711,25 @@
      "borta": "Västerviks BTK B",
      "hemma_klubb": "Långemåla Bordtennisklubb",
      "borta_klubb": "Västerviks Bordtennisklubb",
-     "plats": "Arrangörens",
+     "plats": "Parkskolan",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "14:31",
+     "serie_id": "372-6771-0",
+     "serie": "DIV 4 ÖSTRA",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 6",
+     "hemma": "Oskarshamns BTK C",
+     "borta": "Damsnäs IF A",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "Damsnäs Idrottsförening",
+     "plats": "Parkskolan",
      "arrangor": "Västerviks Bordtennisklubb",
      "arrangorer": [
       "Västerviks Bordtennisklubb"
@@ -1108,6 +1169,70 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "372-10437-0",
+   "serie": "U4 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1963/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Näcken",
+     "klubb": "Bordtennisklubben Näcken",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kalmar BTK 2",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Örjansklubben/Ramkvilla",
+     "klubb": "Örjansklubben/Ramkvilla IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Västervik BTK",
+     "klubb": "Västerviks Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Vetlanda BTK 2",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
