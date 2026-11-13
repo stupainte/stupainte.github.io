@@ -4,7 +4,7 @@
   "namn": "Järfälla Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Järfälla BTF",
@@ -456,6 +456,26 @@
    "serie_id": "464-7910-0",
    "serie": "Div 5 Norra",
    "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "IFK Österåkers BTK D",
+   "borta": "Järfälla BTF C",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Järfälla Bordtennisförening",
+   "plats": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1583/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7910-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Stockholms BTF 26/27",
    "omgang": "Round 4",
    "hemma": "Järfälla BTF C",
    "borta": "Ängby SK E",
@@ -841,6 +861,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "IFK Österåkers BTK D",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "IFK Täby BTK B",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 3,
@@ -848,17 +879,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "IFK Österåkers BTK D",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -909,10 +929,10 @@
      "placering": 7,
      "lag": "Järfälla BTF C",
      "klubb": "Järfälla Bordtennisförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

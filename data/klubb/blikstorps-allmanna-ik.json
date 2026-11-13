@@ -4,7 +4,7 @@
   "namn": "Blikstorps Allmänna IK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Blikstorps AIK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "367-6440-0",
-   "serie": "4-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Blikstorps AIK B",
-   "borta": "Töreboda BTK",
-   "hemma_klubb": "Blikstorps Allmänna IK",
-   "borta_klubb": "Töreboda Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Blikstorps Allmänna IK",
-   "arrangorer": [
-    "Blikstorps Allmänna IK"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "11:00",
@@ -799,6 +781,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie_id": "367-6440-0",
+   "serie": "4-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Blikstorps AIK B",
+   "borta": "Töreboda BTK",
+   "hemma_klubb": "Blikstorps Allmänna IK",
+   "borta_klubb": "Töreboda Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Blikstorps Allmänna IK",
+   "arrangorer": [
+    "Blikstorps Allmänna IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-01-28",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -820,36 +822,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "4-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "18:00",
-     "serie_id": "367-6440-0",
-     "serie": "4-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Blikstorps AIK B",
-     "borta": "Töreboda BTK",
-     "hemma_klubb": "Blikstorps Allmänna IK",
-     "borta_klubb": "Töreboda Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Blikstorps Allmänna IK",
-     "arrangorer": [
-      "Blikstorps Allmänna IK"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -1241,6 +1213,17 @@
     },
     {
      "placering": 3,
+     "lag": "Blikstorps AIK B",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
      "lag": "IFK Falköping BTK B",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 5,
@@ -1248,17 +1231,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 6,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Blikstorps AIK B",
-     "klubb": "Blikstorps Allmänna IK",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
      "setdiff": "264–0"
     },
     {
@@ -1287,10 +1259,10 @@
      "placering": 7,
      "lag": "Töreboda BTK",
      "klubb": "Töreboda Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "264–0"
     },

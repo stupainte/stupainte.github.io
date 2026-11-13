@@ -4,7 +4,7 @@
   "namn": "Linden Bordtennisklubb Eskilstuna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Eskilstuna by STIGA",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "417-5727-0",
-   "serie": "Pingisligan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "Eskilstuna by STIGA",
-   "borta": "BTK Rekord",
-   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
-   "borta_klubb": "Bordtennisklubben Rekord",
-   "plats": "A-hallen",
-   "arrangor": "Linden Bordtennisklubb Eskilstuna",
-   "arrangorer": [
-    "Linden Bordtennisklubb Eskilstuna"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
-  },
   {
    "datum": "2026-11-17",
    "tid": "18:00",
@@ -237,39 +219,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 3
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie_id": "417-5727-0",
+   "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "BTK Rekord",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "A-hallen",
+   "arrangor": "Linden Bordtennisklubb Eskilstuna",
+   "arrangorer": [
+    "Linden Bordtennisklubb Eskilstuna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "hemma_poang": 3,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "A-hallen"
-   ],
-   "serier": [
-    "Pingisligan (herr)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "18:00",
-     "serie_id": "417-5727-0",
-     "serie": "Pingisligan (herr)",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 4",
-     "hemma": "Eskilstuna by STIGA",
-     "borta": "BTK Rekord",
-     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
-     "borta_klubb": "Bordtennisklubben Rekord",
-     "plats": "A-hallen",
-     "arrangor": "Linden Bordtennisklubb Eskilstuna",
-     "arrangorer": [
-      "Linden Bordtennisklubb Eskilstuna"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-15",
    "platser": [
@@ -442,17 +414,6 @@
     },
     {
      "placering": 2,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Eskilstuna by STIGA",
      "klubb": "Linden Bordtennisklubb Eskilstuna",
      "spelade": 2,
@@ -460,6 +421,17 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

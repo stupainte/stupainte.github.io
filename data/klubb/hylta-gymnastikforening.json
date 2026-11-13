@@ -4,7 +4,7 @@
   "namn": "Hylta Gymnastikförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Hylta GF",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "19:00",
-   "serie_id": "513-7449-0",
-   "serie": "Division 5 Nordöstra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Hylta GF",
-   "borta": "Arkelstorps BTK B",
-   "hemma_klubb": "Hylta Gymnastikförening",
-   "borta_klubb": "Arkelstorps Bordtennisklubb",
-   "plats": "BT Hallen, Påarp",
-   "arrangor": "Hylta Gymnastikförening",
-   "arrangorer": [
-    "Hylta Gymnastikförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "19:00",
@@ -274,39 +256,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "19:00",
+   "serie_id": "513-7449-0",
+   "serie": "Division 5 Nordöstra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Hylta GF",
+   "borta": "Arkelstorps BTK B",
+   "hemma_klubb": "Hylta Gymnastikförening",
+   "borta_klubb": "Arkelstorps Bordtennisklubb",
+   "plats": "BT Hallen, Påarp",
+   "arrangor": "Hylta Gymnastikförening",
+   "arrangorer": [
+    "Hylta Gymnastikförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "BT Hallen, Påarp"
-   ],
-   "serier": [
-    "Division 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "19:00",
-     "serie_id": "513-7449-0",
-     "serie": "Division 5 Nordöstra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 3",
-     "hemma": "Hylta GF",
-     "borta": "Arkelstorps BTK B",
-     "hemma_klubb": "Hylta Gymnastikförening",
-     "borta_klubb": "Arkelstorps Bordtennisklubb",
-     "plats": "BT Hallen, Påarp",
-     "arrangor": "Hylta Gymnastikförening",
-     "arrangorer": [
-      "Hylta Gymnastikförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -554,13 +526,13 @@
     },
     {
      "placering": 6,
-     "lag": "Arkelstorps BTK B",
-     "klubb": "Arkelstorps Bordtennisklubb",
+     "lag": "Hylta GF",
+     "klubb": "Hylta Gymnastikförening",
      "spelade": 2,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -576,13 +548,13 @@
     },
     {
      "placering": 8,
-     "lag": "Hylta GF",
-     "klubb": "Hylta Gymnastikförening",
-     "spelade": 1,
+     "lag": "Arkelstorps BTK B",
+     "klubb": "Arkelstorps Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

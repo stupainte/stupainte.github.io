@@ -4,7 +4,7 @@
   "namn": "Högsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Högsby BTK",
@@ -103,24 +103,6 @@
     "Oskarshamns Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6741-0",
-   "serie": "DIV 5 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Kristvalla BTK A",
-   "borta": "Högsby BTK C",
-   "hemma_klubb": "Kristvalla Bordtennisklubb",
-   "borta_klubb": "Högsby Bordtennisklubb",
-   "plats": "Kristvala Brunns skola",
-   "arrangor": "Kristvalla Bordtennisklubb",
-   "arrangorer": [
-    "Kristvalla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
   },
   {
    "datum": "2026-12-12",
@@ -811,6 +793,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6741-0",
+   "serie": "DIV 5 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Kristvalla BTK A",
+   "borta": "Högsby BTK C",
+   "hemma_klubb": "Kristvalla Bordtennisklubb",
+   "borta_klubb": "Högsby Bordtennisklubb",
+   "plats": "Kristvala Brunns skola",
+   "arrangor": "Kristvalla Bordtennisklubb",
+   "arrangorer": [
+    "Kristvalla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1347,23 +1349,23 @@
     },
     {
      "placering": 5,
-     "lag": "Högsby BTK C",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
+     "lag": "Kristvalla BTK A",
+     "klubb": "Kristvalla Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Kristvalla BTK A",
-     "klubb": "Kristvalla Bordtennisklubb",
-     "spelade": 5,
+     "lag": "Högsby BTK C",
+     "klubb": "Högsby Bordtennisklubb",
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

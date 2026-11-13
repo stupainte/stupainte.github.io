@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "HBTKG3/Oskarström",
@@ -339,42 +339,6 @@
   {
    "datum": "2026-11-15",
    "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "Våxtorps BoIS A",
-   "borta": "Halmstad BTK E1",
-   "hemma_klubb": "Våxtorps Boll O IS",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Våxtorps Idrottshall",
-   "arrangor": "Våxtorps Boll O IS",
-   "arrangorer": [
-    "Våxtorps Boll O IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
-   "serie_id": "411-7479-0",
-   "serie": "Division 7 Södra",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "Sibbarps GoIF C",
-   "borta": "Halmstad BTK G1",
-   "hemma_klubb": "Sibbarps Gymnastik O IF",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Sibbarp",
-   "arrangor": "Sibbarps Gymnastik O IF",
-   "arrangorer": [
-    "Sibbarps Gymnastik O IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
    "serie_id": "411-7594-0",
    "serie": "Division 6 Mellersta (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -389,24 +353,6 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
-   "serie_id": "411-7596-0",
-   "serie": "Division 6 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "LBTK Serve C1",
-   "borta": "Halmstad BTK F2",
-   "hemma_klubb": "Laholms Bordtennisklubb Serve",
-   "borta_klubb": "Halmstad Bordtennisklubb",
-   "plats": "Servehallen",
-   "arrangor": "Laholms Bordtennisklubb Serve",
-   "arrangorer": [
-    "Laholms Bordtennisklubb Serve"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7"
   },
   {
    "datum": "2026-11-17",
@@ -2647,6 +2593,26 @@
   {
    "datum": "2026-11-15",
    "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "Våxtorps BoIS A",
+   "borta": "Halmstad BTK E1",
+   "hemma_klubb": "Våxtorps Boll O IS",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Våxtorps Idrottshall",
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -2683,6 +2649,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "19:00",
+   "serie_id": "411-7479-0",
+   "serie": "Division 7 Södra",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "Sibbarps GoIF C",
+   "borta": "Halmstad BTK G1",
+   "hemma_klubb": "Sibbarps Gymnastik O IF",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Sibbarp",
+   "arrangor": "Sibbarps Gymnastik O IF",
+   "arrangorer": [
+    "Sibbarps Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1262/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "19:00",
+   "serie_id": "411-7596-0",
+   "serie": "Division 6 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "LBTK Serve C1",
+   "borta": "Halmstad BTK F2",
+   "hemma_klubb": "Laholms Bordtennisklubb Serve",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Servehallen",
+   "arrangor": "Laholms Bordtennisklubb Serve",
+   "arrangorer": [
+    "Laholms Bordtennisklubb Serve"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1257/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -4139,15 +4145,26 @@
      "placering": 1,
      "lag": "Våxtorps BoIS A",
      "klubb": "Våxtorps Boll O IS",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Markaryds BTK A ",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Simlångsdalens IF A",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 5,
@@ -4158,24 +4175,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Markaryds BTK A ",
-     "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
@@ -4194,10 +4200,10 @@
      "placering": 6,
      "lag": "BTK Ratic C3",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -4448,6 +4454,17 @@
     },
     {
      "placering": 2,
+     "lag": "BTK-72 Trönninge A",
+     "klubb": "Bordtennisklubben-72 Trönninge",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Markaryds BTK B",
      "klubb": "Markaryds Bordtennisklubb",
      "spelade": 5,
@@ -4458,46 +4475,35 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "BTK-72 Trönninge A",
-     "klubb": "Bordtennisklubben-72 Trönninge",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "LBTK Serve C2",
-     "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 4,
+     "lag": "Halmstad BTK F2",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Halmstad BTK F2",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "LBTK Serve C2",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "LBTK Serve C1",
      "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -4589,17 +4595,17 @@
      "placering": 1,
      "lag": "Halmstad BTK G1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
+     "forlorade": 1,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "HBTKG3/Oskarström",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "Sibbarps GoIF C",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -4609,13 +4615,13 @@
     },
     {
      "placering": 3,
-     "lag": "Sibbarps GoIF C",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 4,
+     "lag": "HBTKG3/Oskarström",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -5061,17 +5067,6 @@
     },
     {
      "placering": 2,
-     "lag": "Söderhamns UIF",
-     "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Eskilstuna by STIGA",
      "klubb": "Linden Bordtennisklubb Eskilstuna",
      "spelade": 2,
@@ -5079,6 +5074,17 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

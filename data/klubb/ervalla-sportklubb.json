@@ -4,7 +4,7 @@
   "namn": "Ervalla Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-11T11:40:56Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Ervalla SK-A",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "460-8169-0",
-   "serie": "Division 6",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 1",
-   "hemma": "Storå BTK-D",
-   "borta": "Ervalla SK-A",
-   "hemma_klubb": "Storå Bordtennisklubb",
-   "borta_klubb": "Ervalla Sportklubb",
-   "plats": "Storå",
-   "arrangor": "Storå Bordtennisklubb",
-   "arrangorer": [
-    "Storå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "18:00",
@@ -197,7 +179,28 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7"
   }
  ],
- "resultat": [],
+ "resultat": [
+  {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie_id": "460-8169-0",
+   "serie": "Division 6",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 1",
+   "hemma": "Storå BTK-D",
+   "borta": "Ervalla SK-A",
+   "hemma_klubb": "Storå Bordtennisklubb",
+   "borta_klubb": "Ervalla Sportklubb",
+   "plats": "Storå",
+   "arrangor": "Storå Bordtennisklubb",
+   "arrangorer": [
+    "Storå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
  "arrangerar": [
   {
    "datum": "2026-11-26",
@@ -360,6 +363,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Storå BTK-D",
+     "klubb": "Storå Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Nerikes Kils SK-B",
      "klubb": "Nerikes Kils Sportklubb",
      "spelade": 1,
@@ -370,18 +384,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Ervalla SK-A",
-     "klubb": "Ervalla Sportklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
+     "placering": 3,
      "lag": "Gropens IF-C",
      "klubb": "Gropens Idrottsförening",
      "spelade": 0,
@@ -392,7 +395,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kopparberg BK-A",
      "klubb": "Kopparberg Bollklubb",
      "spelade": 0,
@@ -403,20 +406,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Storå BTK-D",
-     "klubb": "Storå Bordtennisklubb",
-     "spelade": 0,
+     "placering": 5,
+     "lag": "Åsbro GOIF-A",
+     "klubb": "Åsbro Gymnastik O IF",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Åsbro GOIF-A",
-     "klubb": "Åsbro Gymnastik O IF",
+     "lag": "Ervalla SK-A",
+     "klubb": "Ervalla Sportklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Örslösa-Söne Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Örslösa - Söne IK B",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Örslösa - Söne IK B",
-   "borta": "Vårgårda IK B",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "Vårgårda IK Bordtennis",
-   "plats": "-",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -739,39 +721,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Örslösa - Söne IK B",
+   "borta": "Vårgårda IK B",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "Vårgårda IK Bordtennis",
+   "plats": "-",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "19:00",
-     "serie_id": "367-7460-0",
-     "serie": "6-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Örslösa - Söne IK B",
-     "borta": "Vårgårda IK B",
-     "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-     "borta_klubb": "Vårgårda IK Bordtennis",
-     "plats": "-",
-     "arrangor": "Örslösa-Söne Idrottsklubb",
-     "arrangorer": [
-      "Örslösa-Söne Idrottsklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -1145,33 +1117,33 @@
      "placering": 2,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Vedums AIS D",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
+     "forlorade": 2,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Alingsås PK D",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1211,10 +1183,10 @@
      "placering": 8,
      "lag": "Vårgårda IK B",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1317,11 +1289,11 @@
      "placering": 2,
      "lag": "Vedums AIS C",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1383,10 +1355,10 @@
      "placering": 8,
      "lag": "Larvs FK B",
      "klubb": "Larvs Fotbollklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     }

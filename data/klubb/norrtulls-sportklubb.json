@@ -4,7 +4,7 @@
   "namn": "Norrtulls Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Norrtulls SK",
@@ -1093,6 +1093,26 @@
   {
    "datum": "",
    "tid": "",
+   "serie_id": "464-7911-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Tullinge TP BTK C",
+   "borta": "Norrtulls SK E",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Norrtulls Sportklubb",
+   "plats": null,
+   "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+   "arrangorer": [
+    "Tullinge Triangelpojkar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1584/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
    "serie_id": "464-7923-0",
    "serie": "Div 6 Norra B",
    "evenemang": "Stockholms BTF 26/27",
@@ -1472,6 +1492,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1581/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7789-0",
+   "serie": "Pensionär Serie D Södra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Spårvägens V. BTK D",
+   "borta": "Norrtulls SK A1",
+   "hemma_klubb": "Spårvägens Veteran Bordtennisklubb",
+   "borta_klubb": "Norrtulls Sportklubb",
+   "plats": null,
+   "arrangor": "Norrtulls Sportklubb / Spårvägens Veteran Bordtennisklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb",
+    "Spårvägens Veteran Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1581/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "",
@@ -2785,6 +2826,17 @@
     },
     {
      "placering": 2,
+     "lag": "Norrtulls SK E",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Ingarö IF B",
      "klubb": "Ingarö Idrottsförening",
      "spelade": 4,
@@ -2795,7 +2847,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Spårvägens BTK G",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 3,
@@ -2806,7 +2858,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Boo RK D",
      "klubb": "Boo Racketklubb",
      "spelade": 4,
@@ -2817,24 +2869,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Norrtulls SK E",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Tullinge TP BTK C",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3208,10 +3249,10 @@
      "placering": 5,
      "lag": "Norrtulls SK A1",
      "klubb": "Norrtulls Sportklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -3230,11 +3271,11 @@
      "placering": 7,
      "lag": "Spårvägens V. BTK D",
      "klubb": "Spårvägens Veteran Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3453,39 +3494,28 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Ängby SK",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Bro IK C1",
+     "klubb": "Bro Idrottsklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Hammarby IF BTF B2",
-     "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 3,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Bro IK C1",
-     "klubb": "Bro Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "IFK Österåkers BTK C",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 3,
@@ -3496,36 +3526,47 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 4,
+     "lag": "Hammarby IF BTF B2",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 5,
      "lag": "Tullinge TP BTK A1",
      "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
+     "forlorade": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Sundbybergs IK",
      "klubb": "Sundbybergs Idrottsklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 2,
+     "forlorade": 4,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "IFK Täby BTK B1",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

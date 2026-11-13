@@ -4,7 +4,7 @@
   "namn": "Östansjö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-07T10:53:47Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Östansjö IF-A",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 5",
-   "hemma": "Östansjö IF-B",
-   "borta": "Storå BTK-C",
-   "hemma_klubb": "Östansjö Idrottsförening",
-   "borta_klubb": "Storå Bordtennisklubb",
-   "plats": "Östansjö",
-   "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Östansjö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "18:00",
@@ -620,6 +601,27 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 5",
+   "hemma": "Östansjö IF-B",
+   "borta": "Storå BTK-C",
+   "hemma_klubb": "Östansjö Idrottsförening",
+   "borta_klubb": "Storå Bordtennisklubb",
+   "plats": "Östansjö",
+   "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Östansjö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-03",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -642,37 +644,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-12",
-   "platser": [
-    "Östansjö"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "18:00",
-     "serie_id": "460-8125-0",
-     "serie": "Division 5",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 5",
-     "hemma": "Östansjö IF-B",
-     "borta": "Storå BTK-C",
-     "hemma_klubb": "Östansjö Idrottsförening",
-     "borta_klubb": "Storå Bordtennisklubb",
-     "plats": "Östansjö",
-     "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
-     "arrangorer": [
-      "Örebro Läns Bordtennisförbund",
-      "Östansjö Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-26",
    "platser": [
@@ -1179,6 +1150,17 @@
     },
     {
      "placering": 2,
+     "lag": "BTK Safir-D2",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Ålsta BTK-B1",
      "klubb": "Ålsta Bordtennisklubb",
      "spelade": 4,
@@ -1189,7 +1171,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Gropens IF-B",
      "klubb": "Gropens Idrottsförening",
      "spelade": 3,
@@ -1200,24 +1182,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Simon SK-A1",
      "klubb": "Simon Sportklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "BTK Safir-D2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -1236,10 +1207,10 @@
      "placering": 7,
      "lag": "AGA BTK-C",
      "klubb": "Aga Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

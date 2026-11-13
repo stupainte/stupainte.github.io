@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Ratic"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "BTK Ratic",
@@ -167,24 +167,6 @@
     "Bordtennisklubben Ratic"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
-   "serie_id": "411-7590-0",
-   "serie": "Division 5 Södra (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "Markaryds BTK A ",
-   "borta": "BTK Ratic C3",
-   "hemma_klubb": "Markaryds Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Ratic",
-   "plats": "Sparbankshallen Markaryd",
-   "arrangor": "Markaryds Bordtennisklubb",
-   "arrangorer": [
-    "Markaryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7"
   },
   {
    "datum": "2026-11-22",
@@ -1295,6 +1277,26 @@
   {
    "datum": "2026-11-15",
    "tid": "19:00",
+   "serie_id": "411-7590-0",
+   "serie": "Division 5 Södra (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "Markaryds BTK A ",
+   "borta": "BTK Ratic C3",
+   "hemma_klubb": "Markaryds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Sparbankshallen Markaryd",
+   "arrangor": "Markaryds Bordtennisklubb",
+   "arrangorer": [
+    "Markaryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1247/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "19:00",
    "serie_id": "411-7479-0",
    "serie": "Division 7 Södra",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -1961,15 +1963,26 @@
      "placering": 1,
      "lag": "Våxtorps BoIS A",
      "klubb": "Våxtorps Boll O IS",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Markaryds BTK A ",
+     "klubb": "Markaryds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Simlångsdalens IF A",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 5,
@@ -1980,24 +1993,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Halmstad BTK E1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Markaryds BTK A ",
-     "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
@@ -2016,10 +2018,10 @@
      "placering": 6,
      "lag": "BTK Ratic C3",
      "klubb": "Bordtennisklubben Ratic",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -2111,17 +2113,17 @@
      "placering": 1,
      "lag": "Halmstad BTK G1",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
+     "forlorade": 1,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "HBTKG3/Oskarström",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "Sibbarps GoIF C",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -2131,13 +2133,13 @@
     },
     {
      "placering": 3,
-     "lag": "Sibbarps GoIF C",
-     "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 4,
+     "lag": "HBTKG3/Oskarström",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {

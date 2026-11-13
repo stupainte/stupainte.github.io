@@ -4,7 +4,7 @@
   "namn": "Ålsta Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-07T10:53:47Z",
+ "uppdaterad": "2026-11-13T11:49:54Z",
  "lag": [
   {
    "namn": "Ålsta BTK",
@@ -32,44 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 5",
-   "hemma": "Ålsta BTK-B1",
-   "borta": "Simon SK-A2",
-   "hemma_klubb": "Ålsta Bordtennisklubb",
-   "borta_klubb": "Simon Sportklubb",
-   "plats": "Ålsta BTK",
-   "arrangor": "Örebro Läns Bordtennisförbund / Ålsta Bordtennisklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Ålsta Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
-  {
-   "datum": "2026-11-12",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 5",
-   "hemma": "Ålsta BTK-B2",
-   "borta": "Gropens IF-B",
-   "hemma_klubb": "Ålsta Bordtennisklubb",
-   "borta_klubb": "Gropens Idrottsförening",
-   "plats": "Ålsta BTK",
-   "arrangor": "Örebro Läns Bordtennisförbund / Ålsta Bordtennisklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Ålsta Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -997,56 +959,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-12",
-   "platser": [
-    "Ålsta BTK"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-11-12",
-     "tid": "18:00",
-     "serie_id": "460-8125-0",
-     "serie": "Division 5",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 5",
-     "hemma": "Ålsta BTK-B1",
-     "borta": "Simon SK-A2",
-     "hemma_klubb": "Ålsta Bordtennisklubb",
-     "borta_klubb": "Simon Sportklubb",
-     "plats": "Ålsta BTK",
-     "arrangor": "Örebro Läns Bordtennisförbund / Ålsta Bordtennisklubb",
-     "arrangorer": [
-      "Örebro Läns Bordtennisförbund",
-      "Ålsta Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-    },
-    {
-     "datum": "2026-11-12",
-     "tid": "18:00",
-     "serie_id": "460-8125-0",
-     "serie": "Division 5",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 5",
-     "hemma": "Ålsta BTK-B2",
-     "borta": "Gropens IF-B",
-     "hemma_klubb": "Ålsta Bordtennisklubb",
-     "borta_klubb": "Gropens Idrottsförening",
-     "plats": "Ålsta BTK",
-     "arrangor": "Örebro Läns Bordtennisförbund / Ålsta Bordtennisklubb",
-     "arrangorer": [
-      "Örebro Läns Bordtennisförbund",
-      "Ålsta Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-19",
    "platser": [
     "Ålsta BTK"
@@ -1489,6 +1401,17 @@
     },
     {
      "placering": 2,
+     "lag": "BTK Safir-D2",
+     "klubb": "Bordtennisklubben Safir",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Ålsta BTK-B1",
      "klubb": "Ålsta Bordtennisklubb",
      "spelade": 4,
@@ -1499,7 +1422,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Gropens IF-B",
      "klubb": "Gropens Idrottsförening",
      "spelade": 3,
@@ -1510,24 +1433,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Simon SK-A1",
      "klubb": "Simon Sportklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "BTK Safir-D2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -1546,10 +1458,10 @@
      "placering": 7,
      "lag": "AGA BTK-C",
      "klubb": "Aga Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
