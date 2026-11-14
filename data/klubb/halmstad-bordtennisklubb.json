@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "HBTKG3/Oskarström",
@@ -335,24 +335,6 @@
     "Bordtennisklubben Frej"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "19:00",
-   "serie_id": "411-7594-0",
-   "serie": "Division 6 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 5",
-   "hemma": "Halmstad BTK F3",
-   "borta": "Asige BTK A",
-   "hemma_klubb": "Halmstad Bordtennisklubb",
-   "borta_klubb": "Asige Bordtennisklubb",
-   "plats": "Halmstad Arena",
-   "arrangor": "Halmstad Bordtennisklubb",
-   "arrangorer": [
-    "Halmstad Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
   },
   {
    "datum": "2026-11-17",
@@ -2673,6 +2655,26 @@
   {
    "datum": "2026-11-15",
    "tid": "19:00",
+   "serie_id": "411-7594-0",
+   "serie": "Division 6 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 5",
+   "hemma": "Halmstad BTK F3",
+   "borta": "Asige BTK A",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Asige Bordtennisklubb",
+   "plats": "Halmstad Arena",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "19:00",
    "serie_id": "411-7596-0",
    "serie": "Division 6 Södra (1)",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
@@ -2788,7 +2790,9 @@
      "arrangorer": [
       "Halmstad Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1260/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-11-15",
@@ -4295,11 +4299,11 @@
      "placering": 1,
      "lag": "Asige BTK A",
      "klubb": "Asige Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "198–0"
     },
     {
@@ -4317,10 +4321,10 @@
      "placering": 3,
      "lag": "Halmstad BTK F3",
      "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -4937,6 +4941,17 @@
     },
     {
      "placering": 2,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Köpings BTK Dam",
      "klubb": "Köpings BTK Dam",
      "spelade": 4,
@@ -4944,17 +4959,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Kosta SK",
-     "klubb": "Kosta Sportklubb",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -5027,10 +5031,10 @@
      "placering": 10,
      "lag": "Tibble-Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

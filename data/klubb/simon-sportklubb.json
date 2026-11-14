@@ -4,7 +4,7 @@
   "namn": "Simon Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Simon SK-A1",
@@ -590,6 +590,27 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-12",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 5",
+   "hemma": "Ålsta BTK-B1",
+   "borta": "Simon SK-A2",
+   "hemma_klubb": "Ålsta Bordtennisklubb",
+   "borta_klubb": "Simon Sportklubb",
+   "plats": "Ålsta BTK",
+   "arrangor": "Örebro Läns Bordtennisförbund / Ålsta Bordtennisklubb",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Ålsta Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-03",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -1043,6 +1064,17 @@
     },
     {
      "placering": 2,
+     "lag": "Ålsta BTK-B1",
+     "klubb": "Ålsta Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Safir-D2",
      "klubb": "Bordtennisklubben Safir",
      "spelade": 3,
@@ -1050,17 +1082,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Ålsta BTK-B1",
-     "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1111,10 +1132,10 @@
      "placering": 8,
      "lag": "Simon SK-A2",
      "klubb": "Simon Sportklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

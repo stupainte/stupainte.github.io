@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-12T12:07:06Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "376-7201-0",
-   "serie": "Div 5 Norra",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 5",
-   "hemma": "Umeå BTK G",
-   "borta": "Vindelns IF",
-   "hemma_klubb": "Umeå Bordtennisklubb",
-   "borta_klubb": "Vindelns Idrottsförening",
-   "plats": "Vinstahallen",
-   "arrangor": "Umeå Bordtennisklubb",
-   "arrangorer": [
-    "Umeå Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -2068,6 +2050,26 @@
   },
   {
    "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "376-7201-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 5",
+   "hemma": "Umeå BTK G",
+   "borta": "Vindelns IF",
+   "hemma_klubb": "Umeå Bordtennisklubb",
+   "borta_klubb": "Vindelns Idrottsförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-14",
    "tid": "19:00",
    "serie_id": "417-5762-0",
    "serie": "Div 3 NSNÖ",
@@ -2194,7 +2196,9 @@
      "arrangorer": [
       "Umeå Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-14",
@@ -3370,11 +3374,11 @@
      "placering": 1,
      "lag": "Umeå BTK G",
      "klubb": "Umeå Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3401,8 +3405,8 @@
     },
     {
      "placering": 4,
-     "lag": "Vindelns IF",
-     "klubb": "Vindelns Idrottsförening",
+     "lag": "Luleå PF D",
+     "klubb": "Luleå Pingisförening",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -3412,12 +3416,12 @@
     },
     {
      "placering": 5,
-     "lag": "Luleå PF D",
-     "klubb": "Luleå Pingisförening",
-     "spelade": 3,
+     "lag": "Vindelns IF",
+     "klubb": "Vindelns Idrottsförening",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

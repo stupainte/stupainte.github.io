@@ -4,7 +4,7 @@
   "namn": "Katrineholms Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-06T11:47:38Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Katrineholms BTK",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "417-5769-0",
-   "serie": "Div 3 ÖSSV",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "Katrineholms BTK: B2",
-   "borta": "Hallstahammars BTK",
-   "hemma_klubb": "Katrineholms Bordtennisklubb",
-   "borta_klubb": "Hallstahammars Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Västerås Bordtennisklubb",
-   "arrangorer": [
-    "Västerås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "14:00",
@@ -1140,6 +1122,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/519/1060/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "417-5769-0",
+   "serie": "Div 3 ÖSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "Katrineholms BTK: B2",
+   "borta": "Hallstahammars BTK",
+   "hemma_klubb": "Katrineholms Bordtennisklubb",
+   "borta_klubb": "Hallstahammars Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1792,6 +1794,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Västerås BTK: B",
+     "klubb": "Västerås Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 9,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Spårvägens BTK: D4",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 4,
@@ -1802,7 +1815,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Ålsta BTK",
      "klubb": "Ålsta Bordtennisklubb",
      "spelade": 4,
@@ -1813,18 +1826,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Västerås BTK: B",
-     "klubb": "Västerås Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "placering": 4,
+     "lag": "Hallstahammars BTK",
+     "klubb": "Hallstahammars Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Aga BTK: A2",
      "klubb": "Aga Bordtennisklubb",
      "spelade": 4,
@@ -1832,17 +1845,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Hallstahammars BTK",
-     "klubb": "Hallstahammars Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1858,23 +1860,23 @@
     },
     {
      "placering": 7,
-     "lag": "Katrineholms BTK: B2",
-     "klubb": "Katrineholms Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Nyköpings BTK",
+     "klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Nyköpings BTK",
-     "klubb": "Nyköping Oxelösund Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Katrineholms BTK: B2",
+     "klubb": "Katrineholms Bordtennisklubb",
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -84,6 +84,24 @@
   },
   {
    "datum": "2026-11-14",
+   "tid": "13:00",
+   "serie_id": "372-6762-0",
+   "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Listerby IK B",
+   "borta": "Lyckeby BTK D",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "Listerby BT-hallen",
+   "arrangor": "Listerby Idrottsklubb",
+   "arrangorer": [
+    "Listerby Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
    "tid": "15:00",
    "serie_id": "417-5778-0",
    "serie": "Div 3 SSNV",
@@ -117,24 +135,6 @@
     "Senorens Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6762-0",
-   "serie": "DIV 4 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Listerby IK B",
-   "borta": "Lyckeby BTK D",
-   "hemma_klubb": "Listerby Idrottsklubb",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "Listerby BT-hallen",
-   "arrangor": "Listerby Idrottsklubb",
-   "arrangorer": [
-    "Listerby Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7"
   },
   {
    "datum": "2026-11-15",
@@ -1401,18 +1401,17 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-15",
+   "datum": "2026-11-14",
    "platser": [
     "Listerby BT-hallen"
    ],
    "serier": [
-    "DIV 4 SÖDRA",
-    "DIV 5 SÖDRA"
+    "DIV 4 SÖDRA"
    ],
-   "antal": 2,
+   "antal": 1,
    "matcher": [
     {
-     "datum": "2026-11-15",
+     "datum": "2026-11-14",
      "tid": "13:00",
      "serie_id": "372-6762-0",
      "serie": "DIV 4 SÖDRA",
@@ -1428,7 +1427,19 @@
       "Listerby Idrottsklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7"
-    },
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Listerby BT-hallen"
+   ],
+   "serier": [
+    "DIV 5 SÖDRA"
+   ],
+   "antal": 1,
+   "matcher": [
     {
      "datum": "2026-11-15",
      "tid": "13:00",
@@ -2153,8 +2164,8 @@
     },
     {
      "placering": 7,
-     "lag": "Vetlanda BTK: B",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "Jämjö BTK: B",
+     "klubb": "Jämjö Bordtennisklubb",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2164,8 +2175,8 @@
     },
     {
      "placering": 8,
-     "lag": "Jämjö BTK: B",
-     "klubb": "Jämjö Bordtennisklubb",
+     "lag": "Vetlanda BTK: B",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Vikarby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-18T08:31:26Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Vikarby IK 1",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "523-7405-0",
-   "serie": "Division 4 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "omgang": "Round 4",
-   "hemma": "Falu BTK C",
-   "borta": "Vikarby IK 1",
-   "hemma_klubb": "Falu Bordtennisklubb",
-   "borta_klubb": "Vikarby Idrottsklubb",
-   "plats": "Hall 1Pingishallen Soldatvägen 10",
-   "arrangor": "Falu Bordtennisklubb",
-   "arrangorer": [
-    "Falu Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1255/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "12:00",
@@ -807,6 +789,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1255/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "523-7405-0",
+   "serie": "Division 4 Mellersta",
+   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "Falu BTK C",
+   "borta": "Vikarby IK 1",
+   "hemma_klubb": "Falu Bordtennisklubb",
+   "borta_klubb": "Vikarby Idrottsklubb",
+   "plats": "Hall 1Pingishallen Soldatvägen 10",
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1255/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1049,6 +1051,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Vikarby IK 1",
+     "klubb": "Vikarby Idrottsklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Jägarnäs Ludvika BTK 1",
      "klubb": "Jägarnäs/Ludvika BTK",
      "spelade": 3,
@@ -1059,19 +1072,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Vikarby IK 1",
-     "klubb": "Vikarby Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Falu BTK C",
+     "lag": "Falu BTK D",
      "klubb": "Falu Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
@@ -1082,12 +1084,12 @@
     },
     {
      "placering": 4,
-     "lag": "Falu BTK D",
+     "lag": "Falu BTK C",
      "klubb": "Falu Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -1104,10 +1106,10 @@
     },
     {
      "placering": 6,
-     "lag": "IK Juno",
-     "klubb": "Idrottsklubben Juno",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Dala-Järna IK 2",
+     "klubb": "Dala-Järna Idrottsklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 2,
@@ -1115,6 +1117,17 @@
     },
     {
      "placering": 7,
+     "lag": "IK Juno",
+     "klubb": "Idrottsklubben Juno",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
      "lag": "Borlänge BTK 1",
      "klubb": "Borlänge Bordtennisklubb",
      "spelade": 3,
@@ -1122,17 +1135,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Dala-Järna IK 2",
-     "klubb": "Dala-Järna Idrottsklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]

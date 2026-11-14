@@ -4,7 +4,7 @@
   "namn": "Idrottsklubben Juno"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-05T11:50:34Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "IK Juno",
@@ -56,42 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "417-5753-0",
-   "serie": "Div 2 NSN",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 4",
-   "hemma": "IK Juno: A1",
-   "borta": "Öråns SK",
-   "hemma_klubb": "Idrottsklubben Juno",
-   "borta_klubb": "Öråns Sportklubb",
-   "plats": "A-hallen",
-   "arrangor": "Öråns Sportklubb",
-   "arrangorer": [
-    "Öråns Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "523-7405-0",
-   "serie": "Division 4 Mellersta",
-   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
-   "omgang": "Round 4",
-   "hemma": "IK Juno",
-   "borta": "Dala-Järna IK 2",
-   "hemma_klubb": "Idrottsklubben Juno",
-   "borta_klubb": "Dala-Järna Idrottsklubb",
-   "plats": "Hall 1Pingishallen Soldatvägen 10",
-   "arrangor": "Falu Bordtennisklubb",
-   "arrangorer": [
-    "Falu Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1255/2/7/7"
-  },
   {
    "datum": "2026-11-14",
    "tid": "10:00",
@@ -1151,6 +1115,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1250/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "417-5753-0",
+   "serie": "Div 2 NSN",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "IK Juno: A1",
+   "borta": "Öråns SK",
+   "hemma_klubb": "Idrottsklubben Juno",
+   "borta_klubb": "Öråns Sportklubb",
+   "plats": "A-hallen",
+   "arrangor": "Öråns Sportklubb",
+   "arrangorer": [
+    "Öråns Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "523-7405-0",
+   "serie": "Division 4 Mellersta",
+   "evenemang": "Dalarnas Bordtennisförbund 2026/2027",
+   "omgang": "Round 4",
+   "hemma": "IK Juno",
+   "borta": "Dala-Järna IK 2",
+   "hemma_klubb": "Idrottsklubben Juno",
+   "borta_klubb": "Dala-Järna Idrottsklubb",
+   "plats": "Hall 1Pingishallen Soldatvägen 10",
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/523/1255/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1477,6 +1481,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Vikarby IK 1",
+     "klubb": "Vikarby Idrottsklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Jägarnäs Ludvika BTK 1",
      "klubb": "Jägarnäs/Ludvika BTK",
      "spelade": 3,
@@ -1487,19 +1502,8 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Vikarby IK 1",
-     "klubb": "Vikarby Idrottsklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Falu BTK C",
+     "lag": "Falu BTK D",
      "klubb": "Falu Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
@@ -1510,12 +1514,12 @@
     },
     {
      "placering": 4,
-     "lag": "Falu BTK D",
+     "lag": "Falu BTK C",
      "klubb": "Falu Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -1532,10 +1536,10 @@
     },
     {
      "placering": 6,
-     "lag": "IK Juno",
-     "klubb": "Idrottsklubben Juno",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Dala-Järna IK 2",
+     "klubb": "Dala-Järna Idrottsklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 2,
@@ -1543,6 +1547,17 @@
     },
     {
      "placering": 7,
+     "lag": "IK Juno",
+     "klubb": "Idrottsklubben Juno",
+     "spelade": 4,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
      "lag": "Borlänge BTK 1",
      "klubb": "Borlänge Bordtennisklubb",
      "spelade": 3,
@@ -1550,17 +1565,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Dala-Järna IK 2",
-     "klubb": "Dala-Järna Idrottsklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
@@ -1607,6 +1611,17 @@
     },
     {
      "placering": 4,
+     "lag": "Borlänge BTK 2",
+     "klubb": "Borlänge Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "IK Juno",
      "klubb": "Idrottsklubben Juno",
      "spelade": 3,
@@ -1617,20 +1632,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Dala-Järna IK 3",
      "klubb": "Dala-Järna Idrottsklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Borlänge BTK 2",
-     "klubb": "Borlänge Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1653,10 +1657,10 @@
      "placering": 8,
      "lag": "Borlänge BTK 3",
      "klubb": "Borlänge Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1744,19 +1748,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Ortvikens PK",
-     "klubb": "Ortvikens Pingisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Öråns SK",
+     "klubb": "Öråns Sportklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Öråns SK",
-     "klubb": "Öråns Sportklubb",
+     "lag": "Ortvikens PK",
+     "klubb": "Ortvikens Pingisklubb",
      "spelade": 3,
      "vunna": 3,
      "oavgjorda": 0,
@@ -1823,10 +1827,10 @@
      "placering": 8,
      "lag": "IK Juno: A1",
      "klubb": "Idrottsklubben Juno",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

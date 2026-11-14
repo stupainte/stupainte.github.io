@@ -4,7 +4,7 @@
   "namn": "Norrtälje Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Norrtälje BTK",
@@ -143,24 +143,6 @@
     "Sigtuna IF Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "435-6117-0",
-   "serie": "Division 6C",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Norrtälje BTK E2",
-   "borta": "Sandvikens BTK C",
-   "hemma_klubb": "Norrtälje Bordtennisklubb",
-   "borta_klubb": "Sandvikens Bordtennisklubb",
-   "plats": "Life Arena",
-   "arrangor": "Uppsala Life Idrottsförening",
-   "arrangorer": [
-    "Uppsala Life Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
    "datum": "2026-11-14",
@@ -1664,6 +1646,26 @@
   },
   {
    "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "435-6117-0",
+   "serie": "Division 6C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Norrtälje BTK E2",
+   "borta": "Sandvikens BTK C",
+   "hemma_klubb": "Norrtälje Bordtennisklubb",
+   "borta_klubb": "Sandvikens Bordtennisklubb",
+   "plats": "Life Arena",
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-14",
    "tid": "11:00",
    "serie_id": "417-5815-0",
    "serie": "Div 1 N Herr",
@@ -1970,7 +1972,9 @@
      "arrangorer": [
       "Norrtälje Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-11-14",
@@ -2006,7 +2010,9 @@
      "arrangorer": [
       "Norrtälje Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-14",
@@ -3115,15 +3121,26 @@
      "placering": 2,
      "lag": "Sunnersta AIF D",
      "klubb": "Sunnersta Allmänna IF",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 7,
-     "setdiff": "0–0"
+     "setdiff": "0–198"
     },
     {
      "placering": 3,
+     "lag": "IK Sirius BTK F2",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Norrtälje BTK E1",
      "klubb": "Norrtälje Bordtennisklubb",
      "spelade": 4,
@@ -3134,7 +3151,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Gefle PK E1",
      "klubb": "Gefle Pingisklubb",
      "spelade": 4,
@@ -3145,35 +3162,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "IK Sirius BTK F2",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Uppsala Life IF C1",
      "klubb": "Uppsala Life Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 2,
-     "setdiff": "0–0"
+     "setdiff": "198–0"
     },
     {
      "placering": 7,
      "lag": "IK Sirius BTK F3",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3201,15 +3207,26 @@
      "placering": 1,
      "lag": "Vassunda IF C3",
      "klubb": "Vassunda Idrottsförening",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "198–0"
     },
     {
      "placering": 2,
+     "lag": "Norrtälje BTK E2",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
      "lag": "IK Sirius BTK F5",
      "klubb": "IK Sirius Bordtennisklubb",
      "spelade": 5,
@@ -3217,17 +3234,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 8,
-     "setdiff": "198–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Norrtälje BTK E2",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
      "setdiff": "198–0"
     },
     {
@@ -3256,10 +3262,10 @@
      "placering": 6,
      "lag": "Uppsala Life IF C2",
      "klubb": "Uppsala Life Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "198–0"
     },
@@ -3267,10 +3273,10 @@
      "placering": 7,
      "lag": "Sandvikens BTK C",
      "klubb": "Sandvikens Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "198–0"
     },

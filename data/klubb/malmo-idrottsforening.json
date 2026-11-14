@@ -4,7 +4,7 @@
   "namn": "Malmö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-14T11:12:23Z",
  "lag": [
   {
    "namn": "Malmö IF",
@@ -137,24 +137,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-13",
-   "tid": "18:00",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "FIFH Malmö B",
-   "borta": "Malmö IF E",
-   "hemma_klubb": "FIFH Malmö Parasportförening",
-   "borta_klubb": "Malmö Idrottsförening",
-   "plats": "FIFH Hallen, Pildammsvägen 26",
-   "arrangor": "FIFH Malmö Parasportförening",
-   "arrangorer": [
-    "FIFH Malmö Parasportförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
-  {
    "datum": "2026-11-14",
    "tid": "10:00",
    "serie_id": "513-7450-0",
@@ -261,24 +243,6 @@
     "Kvarnby Atletklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5741-0",
-   "serie": "Div 1 S Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 3",
-   "hemma": "Malmö IF: A2",
-   "borta": "Lyckeby BTK",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "Lyckeby Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
    "datum": "2026-11-15",
@@ -1057,6 +1021,24 @@
     "Kvarnby Atletklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1475/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie_id": "417-5741-0",
+   "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 3",
+   "hemma": "Malmö IF: A2",
+   "borta": "Lyckeby BTK",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -3525,6 +3507,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-13",
+   "tid": "18:00",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "FIFH Malmö B",
+   "borta": "Malmö IF E",
+   "hemma_klubb": "FIFH Malmö Parasportförening",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "FIFH Hallen, Pildammsvägen 26",
+   "arrangor": "FIFH Malmö Parasportförening",
+   "arrangorer": [
+    "FIFH Malmö Parasportförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -3846,10 +3848,29 @@
     "A-hallen"
    ],
    "serier": [
+    "Div 1 S Dam",
     "Div 3 SSSÖ"
    ],
-   "antal": 8,
+   "antal": 9,
    "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie_id": "417-5741-0",
+     "serie": "Div 1 S Dam",
+     "evenemang": "Nationellt seriespel 2026-2027",
+     "omgang": "Round 3",
+     "hemma": "Malmö IF: A2",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "A-hallen",
+     "arrangor": "Malmö Idrottsförening",
+     "arrangorer": [
+      "Malmö Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
     {
      "datum": "2026-12-13",
      "tid": "11:00",
@@ -5385,8 +5406,8 @@
     },
     {
      "placering": 2,
-     "lag": "Bjärreds BTK B",
-     "klubb": "Bjärreds Bordtennisklubb",
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -5396,13 +5417,13 @@
     },
     {
      "placering": 3,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -5429,8 +5450,8 @@
     },
     {
      "placering": 6,
-     "lag": "FIFH Malmö B",
-     "klubb": "FIFH Malmö Parasportförening",
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -5440,12 +5461,12 @@
     },
     {
      "placering": 7,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 2,
+     "lag": "FIFH Malmö B",
+     "klubb": "FIFH Malmö Parasportförening",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
