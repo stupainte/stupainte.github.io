@@ -4,7 +4,7 @@
   "namn": "Kvarnby Atletklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Kvarnby AK A",
@@ -96,42 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "513-7452-0",
-   "serie": "Division 4 Södra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Kvarnby AK A",
-   "borta": "IF Ale B",
-   "hemma_klubb": "Kvarnby Atletklubb",
-   "borta_klubb": "Idrottsföreningen Ale",
-   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": "Kvarnby Atletklubb",
-   "arrangorer": [
-    "Kvarnby Atletklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "10:00",
-   "serie_id": "513-7444-0",
-   "serie": "Division 7",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "Kvarnby AK E",
-   "borta": "Malmö IF I",
-   "hemma_klubb": "Kvarnby Atletklubb",
-   "borta_klubb": "Malmö Idrottsförening",
-   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-   "arrangor": "Kvarnby Atletklubb",
-   "arrangorer": [
-    "Kvarnby Atletklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "12:30",
@@ -2118,39 +2082,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "513-7452-0",
+   "serie": "Division 4 Södra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Kvarnby AK A",
+   "borta": "IF Ale B",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "10:00",
+   "serie_id": "513-7444-0",
+   "serie": "Division 7",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Kvarnby AK E",
+   "borta": "Malmö IF I",
+   "hemma_klubb": "Kvarnby Atletklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
+   "arrangor": "Kvarnby Atletklubb",
+   "arrangorer": [
+    "Kvarnby Atletklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-14",
-   "platser": [
-    "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö"
-   ],
-   "serier": [
-    "Division 4 Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-14",
-     "tid": "10:00",
-     "serie_id": "513-7452-0",
-     "serie": "Division 4 Södra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 3",
-     "hemma": "Kvarnby AK A",
-     "borta": "IF Ale B",
-     "hemma_klubb": "Kvarnby Atletklubb",
-     "borta_klubb": "Idrottsföreningen Ale",
-     "plats": "Husiegårds Idrottshus, Vån 2, Husie kyrkoväg 92, 212 38 Malmö",
-     "arrangor": "Kvarnby Atletklubb",
-     "arrangorer": [
-      "Kvarnby Atletklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-15",
    "platser": [
@@ -2177,7 +2151,9 @@
      "arrangorer": [
       "Kvarnby Atletklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-15",
@@ -2195,7 +2171,9 @@
      "arrangorer": [
       "Kvarnby Atletklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-15",
@@ -2213,7 +2191,9 @@
      "arrangorer": [
       "Kvarnby Atletklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1062/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-11-15",
@@ -3514,22 +3494,22 @@
      "placering": 3,
      "lag": "Trelleborgs BTK D",
      "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "IF Ale B",
      "klubb": "Idrottsföreningen Ale",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3545,17 +3525,6 @@
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK A",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Malmö IF D",
      "klubb": "Malmö Idrottsförening",
      "spelade": 2,
@@ -3566,13 +3535,24 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 7,
+     "lag": "Limhamns BTK A",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 8,
      "lag": "Kvarnby AK A",
      "klubb": "Kvarnby Atletklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3706,23 +3686,23 @@
     },
     {
      "placering": 4,
-     "lag": "Malmö IF G",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "IF Ale C ",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "IF Ale C ",
-     "klubb": "Idrottsföreningen Ale",
-     "spelade": 2,
+     "lag": "Malmö IF G",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3856,19 +3836,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Kågeröds BTK Youth",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Bjärreds BTK D",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Bjärreds BTK D",
-     "klubb": "Bjärreds Bordtennisklubb",
+     "lag": "Kågeröds BTK Youth",
+     "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -3880,32 +3860,32 @@
      "placering": 3,
      "lag": "Malmö IF I",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "BTK Scania E",
      "klubb": "Bordtennisklubben Scania",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Bjärnums BTK B",
      "klubb": "Bjärnums Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -3913,10 +3893,10 @@
      "placering": 6,
      "lag": "Kvarnby AK E",
      "klubb": "Kvarnby Atletklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -3924,10 +3904,10 @@
      "placering": 7,
      "lag": "Kullahalvöns BTK Blå",
      "klubb": "Kullahalvöns Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

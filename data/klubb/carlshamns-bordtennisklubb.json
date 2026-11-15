@@ -4,7 +4,7 @@
   "namn": "Carlshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Carlshamn BTK 1",
@@ -107,42 +107,6 @@
     "IFK Lund Bordtennis"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6758-0",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Ihre BTK B",
-   "borta": "Carlshamns BTK C",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Carlshamns Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6762-0",
-   "serie": "DIV 4 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Carlshamns BTK B",
-   "borta": "SK Frigg B",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Sportklubben Frigg",
-   "plats": "Väggahallen",
-   "arrangor": "Carlshamns Bordtennisklubb",
-   "arrangorer": [
-    "Carlshamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7"
   },
   {
    "datum": "2026-11-15",
@@ -1391,6 +1355,26 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Ihre BTK B",
+   "borta": "Carlshamns BTK C",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Carlshamns Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
    "serie_id": "372-6759-0",
    "serie": "Div 6 Syd/VÄSTRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1407,6 +1391,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "372-6762-0",
+   "serie": "DIV 4 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Carlshamns BTK B",
+   "borta": "SK Frigg B",
+   "hemma_klubb": "Carlshamns Bordtennisklubb",
+   "borta_klubb": "Sportklubben Frigg",
+   "plats": "Väggahallen",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1475,7 +1479,9 @@
      "arrangorer": [
       "Carlshamns Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1104/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-11-15",
@@ -2327,11 +2333,11 @@
      "placering": 1,
      "lag": "Lyckeby BTK D",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -2369,24 +2375,24 @@
     },
     {
      "placering": 5,
-     "lag": "Listerby IK B",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 4,
+     "lag": "SK Frigg B",
+     "klubb": "Sportklubben Frigg",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "SK Frigg B",
-     "klubb": "Sportklubben Frigg",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "Listerby IK B",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -2404,10 +2410,10 @@
      "placering": 8,
      "lag": "Carlshamns BTK B",
      "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2477,23 +2483,23 @@
     },
     {
      "placering": 6,
-     "lag": "Ihre BTK B",
-     "klubb": "Ihre Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "Carlshamns BTK C",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Carlshamns BTK C",
-     "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Ihre BTK B",
+     "klubb": "Ihre Bordtennisklubb",
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -2565,11 +2571,11 @@
      "placering": 5,
      "lag": "Damnäs IF B",
      "klubb": "Damsnäs Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -2587,10 +2593,10 @@
      "placering": 7,
      "lag": "Damsnäs IF C",
      "klubb": "Damsnäs Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

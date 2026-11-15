@@ -4,7 +4,7 @@
   "namn": "Rudalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-10T12:04:29Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Rudalen Blå Äldre",
@@ -128,42 +128,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "11:00",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "Kågeröds BTK: A2",
-   "borta": "Rudalens IF",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "Rudalens Idrottsförening",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "15:00",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Rudalens IF",
-   "borta": "Kungälvs BTK",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Kungälvs Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "10:30",
@@ -2211,6 +2175,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "Kågeröds BTK: A2",
+   "borta": "Rudalens IF",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Rudalens IF",
+   "borta": "Kungälvs BTK",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3805,15 +3809,26 @@
      "placering": 1,
      "lag": "Laholms BTK Serve",
      "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kågeröds BTK: A1",
      "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 5,
@@ -3824,31 +3839,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Linné",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 3,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Kågeröds BTK: A2",
      "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rudalens IF",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
@@ -3857,24 +3872,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Kungälvs BTK",
      "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Rudalens IF",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

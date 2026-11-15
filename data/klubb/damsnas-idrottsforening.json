@@ -4,7 +4,7 @@
   "namn": "Damsnäs Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Damnäs IF B",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6759-0",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Damnäs IF B",
-   "borta": "Damsnäs IF C",
-   "hemma_klubb": "Damsnäs Idrottsförening",
-   "borta_klubb": "Damsnäs Idrottsförening",
-   "plats": "Demohallen",
-   "arrangor": "Damsnäs Idrottsförening",
-   "arrangorer": [
-    "Damsnäs Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6759-0",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Damnäs IF B",
-   "borta": "Damsnäs IF C",
-   "hemma_klubb": "Damsnäs Idrottsförening",
-   "borta_klubb": "Damsnäs Idrottsförening",
-   "plats": "Demohallen",
-   "arrangor": "Damsnäs Idrottsförening",
-   "arrangorer": [
-    "Damsnäs Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "14:31",
@@ -797,6 +761,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Damnäs IF B",
+   "borta": "Damsnäs IF C",
+   "hemma_klubb": "Damsnäs Idrottsförening",
+   "borta_klubb": "Damsnäs Idrottsförening",
+   "plats": "Demohallen",
+   "arrangor": "Damsnäs Idrottsförening",
+   "arrangorer": [
+    "Damsnäs Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Damnäs IF B",
+   "borta": "Damsnäs IF C",
+   "hemma_klubb": "Damsnäs Idrottsförening",
+   "borta_klubb": "Damsnäs Idrottsförening",
+   "plats": "Demohallen",
+   "arrangor": "Damsnäs Idrottsförening",
+   "arrangorer": [
+    "Damsnäs Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -826,7 +830,9 @@
      "arrangorer": [
       "Damsnäs Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   },
@@ -1187,17 +1193,6 @@
     },
     {
      "placering": 5,
-     "lag": "Långemåla BTK B",
-     "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Oskarshamns BTK C",
      "klubb": "Oskarshamns Bordtennisklubb",
      "spelade": 2,
@@ -1205,6 +1200,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Långemåla BTK B",
+     "klubb": "Långemåla Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -1286,11 +1292,11 @@
      "placering": 5,
      "lag": "Damnäs IF B",
      "klubb": "Damsnäs Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -1308,10 +1314,10 @@
      "placering": 7,
      "lag": "Damsnäs IF C",
      "klubb": "Damsnäs Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     },

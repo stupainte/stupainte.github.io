@@ -4,7 +4,7 @@
   "namn": "Rimbo Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-10-20T09:07:46Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Rimbo IF A",
@@ -24,78 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "435-6115-0",
-   "serie": "Division 5B",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Sandvikens BTK B",
-   "borta": "Rimbo IF A",
-   "hemma_klubb": "Sandvikens Bordtennisklubb",
-   "borta_klubb": "Rimbo Idrottsförening",
-   "plats": "UTK-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "10:00",
-   "serie_id": "435-6123-0",
-   "serie": "Division 7C",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Sigtuna IF BTK B3",
-   "borta": "Rimbo IF B",
-   "hemma_klubb": "Sigtuna IF Bordtennisklubb",
-   "borta_klubb": "Rimbo Idrottsförening",
-   "plats": "Sigtuna",
-   "arrangor": "Sigtuna IF Bordtennisklubb",
-   "arrangorer": [
-    "Sigtuna IF Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "13:00",
-   "serie_id": "435-6123-0",
-   "serie": "Division 7C",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Stratos Enköping BTK F2",
-   "borta": "Rimbo IF B",
-   "hemma_klubb": "Stratos Enköping Bordtennisklubb",
-   "borta_klubb": "Rimbo Idrottsförening",
-   "plats": "Sigtuna",
-   "arrangor": "Sigtuna IF Bordtennisklubb",
-   "arrangorer": [
-    "Sigtuna IF Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "14:00",
-   "serie_id": "435-6115-0",
-   "serie": "Division 5B",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Norrtälje BTK D",
-   "borta": "Rimbo IF A",
-   "hemma_klubb": "Norrtälje Bordtennisklubb",
-   "borta_klubb": "Rimbo Idrottsförening",
-   "plats": "UTK-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
-   "arrangorer": [
-    "IK Sirius Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "10:00",
@@ -529,6 +457,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-14",
+   "tid": "10:00",
+   "serie_id": "435-6123-0",
+   "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Sigtuna IF BTK B3",
+   "borta": "Rimbo IF B",
+   "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+   "borta_klubb": "Rimbo Idrottsförening",
+   "plats": "Sigtuna",
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "13:00",
+   "serie_id": "435-6123-0",
+   "serie": "Division 7C",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Stratos Enköping BTK F2",
+   "borta": "Rimbo IF B",
+   "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+   "borta_klubb": "Rimbo Idrottsförening",
+   "plats": "Sigtuna",
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-01-16",
    "tid": "10:00",
    "serie_id": "435-6123-0",
@@ -828,65 +796,65 @@
      "placering": 1,
      "lag": "Rimbo IF B",
      "klubb": "Rimbo Idrottsförening",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 12,
      "setdiff": "396–0"
     },
     {
      "placering": 2,
      "lag": "IK Sirius BTK G3",
      "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 11,
      "setdiff": "396–0"
     },
     {
      "placering": 3,
      "lag": "Stratos Enköping BTK F2",
      "klubb": "Stratos Enköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 9,
      "setdiff": "198–0"
     },
     {
      "placering": 4,
-     "lag": "Norrtälje BTK F",
-     "klubb": "Norrtälje Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
+     "lag": "Upplands-Ekeby IF C",
+     "klubb": "Upplands-Ekeby Idrottsförening",
+     "spelade": 7,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 5,
-     "setdiff": "198–0"
+     "forlorade": 4,
+     "matchpoang": 7,
+     "setdiff": "198–396"
     },
     {
      "placering": 5,
-     "lag": "Upplands-Ekeby IF C",
-     "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 5,
+     "lag": "Norrtälje BTK F",
+     "klubb": "Norrtälje Bordtennisklubb",
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 5,
-     "setdiff": "198–396"
+     "setdiff": "198–0"
     },
     {
      "placering": 6,
      "lag": "Sigtuna IF BTK B3",
      "klubb": "Sigtuna IF Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "198–0"
     },
@@ -894,10 +862,10 @@
      "placering": 7,
      "lag": "Skyttorps IF C2",
      "klubb": "Skyttorps Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "198–0"
     },

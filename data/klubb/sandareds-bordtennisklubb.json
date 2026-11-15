@@ -4,7 +4,7 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
@@ -64,60 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-14",
-   "tid": "11:00",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "Kungälvs BTK",
-   "borta": "Sandareds BTK",
-   "hemma_klubb": "Kungälvs Bordtennisklubb",
-   "borta_klubb": "Sandareds Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "11:00",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Sandareds BTK D",
-   "borta": "Borgstena IF C",
-   "hemma_klubb": "Sandareds Bordtennisklubb",
-   "borta_klubb": "Borgstena IF",
-   "plats": "-",
-   "arrangor": "Sandareds Bordtennisklubb",
-   "arrangorer": [
-    "Sandareds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-  },
-  {
-   "datum": "2026-11-14",
-   "tid": "15:00",
-   "serie_id": "417-5740-0",
-   "serie": "Div 1 V Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Sandareds BTK",
-   "borta": "BTK Linné",
-   "hemma_klubb": "Sandareds Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Linné",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
-  },
   {
    "datum": "2026-11-16",
    "tid": "19:00",
@@ -1459,6 +1405,66 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "Kungälvs BTK",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie_id": "367-7473-0",
+   "serie": "7-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Sandareds BTK D",
+   "borta": "Borgstena IF C",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Borgstena IF",
+   "plats": "-",
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie_id": "417-5740-0",
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Sandareds BTK",
+   "borta": "BTK Linné",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-15",
    "tid": "11:00",
    "serie_id": "367-7457-0",
@@ -1480,36 +1486,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-14",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "7-Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-14",
-     "tid": "11:00",
-     "serie_id": "367-7473-0",
-     "serie": "7-Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Sandareds BTK D",
-     "borta": "Borgstena IF C",
-     "hemma_klubb": "Sandareds Bordtennisklubb",
-     "borta_klubb": "Borgstena IF",
-     "plats": "-",
-     "arrangor": "Sandareds Bordtennisklubb",
-     "arrangorer": [
-      "Sandareds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-17",
    "platser": [
@@ -2153,15 +2129,26 @@
      "placering": 1,
      "lag": "Laholms BTK Serve",
      "klubb": "Laholms Bordtennisklubb Serve",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 7,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kågeröds BTK: A1",
      "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 5,
@@ -2172,31 +2159,31 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "BTK Linné",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 3,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Kågeröds BTK: A2",
      "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rudalens IF",
+     "klubb": "Rudalens Idrottsförening",
      "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2205,24 +2192,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Kungälvs BTK",
      "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Rudalens IF",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2561,22 +2537,22 @@
      "placering": 1,
      "lag": "Borgstena IF C",
      "klubb": "Borgstena IF",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 8,
+     "forlorade": 2,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Sandareds BTK D",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
+     "forlorade": 3,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {

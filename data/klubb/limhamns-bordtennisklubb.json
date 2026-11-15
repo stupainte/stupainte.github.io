@@ -4,7 +4,7 @@
   "namn": "Limhamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Limhamns BTK A",
@@ -2339,6 +2339,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-11",
+   "tid": "19:00",
+   "serie_id": "513-7452-0",
+   "serie": "Division 4 Södra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Limhamns BTK A",
+   "borta": "Trelleborgs BTK D",
+   "hemma_klubb": "Limhamns Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Limhamns Sporthall, Grönalundsgatan 6",
+   "arrangor": "Limhamns Bordtennisklubb",
+   "arrangorer": [
+    "Limhamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -2857,22 +2877,22 @@
      "placering": 3,
      "lag": "Trelleborgs BTK D",
      "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "IF Ale B",
      "klubb": "Idrottsföreningen Ale",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2888,17 +2908,6 @@
     },
     {
      "placering": 6,
-     "lag": "Limhamns BTK A",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Malmö IF D",
      "klubb": "Malmö Idrottsförening",
      "spelade": 2,
@@ -2909,13 +2918,24 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 7,
+     "lag": "Limhamns BTK A",
+     "klubb": "Limhamns Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 8,
      "lag": "Kvarnby AK A",
      "klubb": "Kvarnby Atletklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

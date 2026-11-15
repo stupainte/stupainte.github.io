@@ -4,7 +4,7 @@
   "namn": "Hässleholms Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-14T11:12:23Z",
+ "uppdaterad": "2026-11-15T11:46:45Z",
  "lag": [
   {
    "namn": "Hässleholms BTK A",
@@ -96,24 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "10:00",
-   "serie_id": "513-7445-0",
-   "serie": "Division 6 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 3",
-   "hemma": "IFK Lund F1",
-   "borta": "Hässleholms BTK C1",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Hässleholms Bordtennisklubb",
-   "plats": "Böketoftavägen 5 ,Kågeröd",
-   "arrangor": "Kågeröds Bordtennisklubb",
-   "arrangorer": [
-    "Kågeröds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1474/2/7/7"
-  },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
@@ -2280,6 +2262,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "10:00",
+   "serie_id": "513-7445-0",
+   "serie": "Division 6 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "IFK Lund F1",
+   "borta": "Hässleholms BTK C1",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Hässleholms Bordtennisklubb",
+   "plats": "Böketoftavägen 5 ,Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1474/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3763,32 +3765,32 @@
      "placering": 1,
      "lag": "Kågeröds BTK F",
      "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kullahalvöns BTK Röd",
-     "klubb": "Kullahalvöns Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "IFK Lund F1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "IFK Lund F1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 2,
+     "lag": "Kullahalvöns BTK Röd",
+     "klubb": "Kullahalvöns Bordtennisklubb",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -3840,10 +3842,10 @@
      "placering": 8,
      "lag": "Hässleholms BTK C1",
      "klubb": "Hässleholms Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
