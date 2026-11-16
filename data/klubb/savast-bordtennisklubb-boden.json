@@ -4,7 +4,7 @@
   "namn": "Sävast Bordtennisklubb Boden"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Sävast BTK",
@@ -246,23 +246,43 @@
   },
   {
    "datum": "2026-11-14",
-   "tid": "16:00",
+   "tid": "13:00",
    "serie_id": "376-7201-0",
    "serie": "Div 5 Norra",
    "evenemang": "Norrlands BTF",
-   "omgang": "Round 7",
-   "hemma": "Luleå PF D",
-   "borta": "Sävast BTK",
-   "hemma_klubb": "Luleå Pingisförening",
-   "borta_klubb": "Sävast Bordtennisklubb Boden",
+   "omgang": "Round 6",
+   "hemma": "Sävast BTK",
+   "borta": "Skellefteå AIK BTF E",
+   "hemma_klubb": "Sävast Bordtennisklubb Boden",
+   "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Vinstahallen",
    "arrangor": "Luleå Pingisförening",
    "arrangorer": [
     "Luleå Pingisförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
-   "hemma_poang": 2,
-   "borta_poang": 0
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "16:00",
+   "serie_id": "376-7201-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 7",
+   "hemma": "Sävast BTK",
+   "borta": "Luleå PF D",
+   "hemma_klubb": "Sävast Bordtennisklubb Boden",
+   "borta_klubb": "Luleå Pingisförening",
+   "plats": "Vinstahallen",
+   "arrangor": "Luleå Pingisförening",
+   "arrangorer": [
+    "Luleå Pingisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [],
@@ -289,11 +309,11 @@
      "placering": 2,
      "lag": "Skellefteå AIK BTF E",
      "klubb": "Skellefteå AIK BTF",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
@@ -355,10 +375,10 @@
      "placering": 8,
      "lag": "Sävast BTK",
      "klubb": "Sävast Bordtennisklubb Boden",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -72,60 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5738-0",
-   "serie": "Div 1 N Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "Spårvägens BTK: C3",
-   "borta": "Umeå BTK",
-   "hemma_klubb": "Spårvägens Bordtennisklubb",
-   "borta_klubb": "Umeå Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Djurgårdens IF BTF",
-   "arrangorer": [
-    "Djurgårdens IF BTF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5762-0",
-   "serie": "Div 3 NSNÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Umeå BTK: A1",
-   "borta": "PK Sundsvall",
-   "hemma_klubb": "Umeå Bordtennisklubb",
-   "borta_klubb": "Pingisklubben Sundsvall",
-   "plats": "A-hallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "15:00",
-   "serie_id": "417-5738-0",
-   "serie": "Div 1 N Dam",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Umeå BTK",
-   "borta": "Stratos Enköping BTK: A2",
-   "hemma_klubb": "Umeå Bordtennisklubb",
-   "borta_klubb": "Stratos Enköping Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Djurgårdens IF BTF",
-   "arrangorer": [
-    "Djurgårdens IF BTF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "11:00",
@@ -2067,6 +2013,66 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie_id": "417-5738-0",
+   "serie": "Div 1 N Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "Spårvägens BTK: C3",
+   "borta": "Umeå BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Umeå Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie_id": "417-5762-0",
+   "serie": "Div 3 NSNÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Umeå BTK: A1",
+   "borta": "PK Sundsvall",
+   "hemma_klubb": "Umeå Bordtennisklubb",
+   "borta_klubb": "Pingisklubben Sundsvall",
+   "plats": "A-hallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie_id": "417-5738-0",
+   "serie": "Div 1 N Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Umeå BTK",
+   "borta": "Stratos Enköping BTK: A2",
+   "hemma_klubb": "Umeå Bordtennisklubb",
+   "borta_klubb": "Stratos Enköping Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-01-16",
    "tid": "10:00",
    "serie_id": "376-6931-0",
@@ -2939,88 +2945,88 @@
      "placering": 1,
      "lag": "Ängby SK: C1",
      "klubb": "Ängby Sportklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Stratos Enköping BTK: A2",
      "klubb": "Stratos Enköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 6,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Djurgårdens IF BTF: A1",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 4,
-     "vunna": 3,
+     "lag": "IK Sirius/SUIF: B",
+     "klubb": "IK Sirius Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
+     "forlorade": 2,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IK Sirius/SUIF: B",
-     "klubb": "IK Sirius Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Djurgårdens IF BTF: A1",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "IFK Täby BTK",
      "klubb": "IFK Täby Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Umeå BTK",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Spårvägens BTK: C3",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 2,
+     "forlorade": 5,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Spårvägens BTK: C3",
-     "klubb": "Spårvägens Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "IFK Österåkers BTK",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 1,
+     "forlorade": 5,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "IFK Österåkers BTK",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "Umeå BTK",
+     "klubb": "Umeå Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 0,
+     "forlorade": 5,
+     "matchpoang": 2,
      "setdiff": "0–0"
     }
    ]
@@ -3034,6 +3040,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Umeå BTK: A1",
+     "klubb": "Umeå Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 11,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Alfta BTK",
      "klubb": "Alfta Bordtennisklubb",
      "spelade": 7,
@@ -3044,25 +3061,14 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 2,
-     "lag": "Umeå BTK: A1",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 9,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
      "lag": "Ås IF: A2",
      "klubb": "Ås Idrottsförening",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "264–0"
     },
     {
@@ -3091,10 +3097,10 @@
      "placering": 6,
      "lag": "PK Sundsvall",
      "klubb": "Pingisklubben Sundsvall",
-     "spelade": 4,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -3241,11 +3247,11 @@
      "placering": 2,
      "lag": "Skellefteå AIK BTF E",
      "klubb": "Skellefteå AIK BTF",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
@@ -3307,10 +3313,10 @@
      "placering": 8,
      "lag": "Sävast BTK",
      "klubb": "Sävast Bordtennisklubb Boden",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

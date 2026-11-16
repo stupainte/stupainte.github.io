@@ -4,7 +4,7 @@
   "namn": "Strömsunds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Strömsunds BTK A",
@@ -32,60 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "376-6945-0",
-   "serie": "Div 5 Mellersta B",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 5",
-   "hemma": "Sollefteå BTK B",
-   "borta": "Strömsunds BTK B",
-   "hemma_klubb": "Sollefteå Bordtennisklubb",
-   "borta_klubb": "Strömsunds Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "376-6945-0",
-   "serie": "Div 5 Mellersta B",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 5",
-   "hemma": "Östersunds GIF E",
-   "borta": "Strömsunds BTK C",
-   "hemma_klubb": "Östersunds GIF",
-   "borta_klubb": "Strömsunds Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "16:00",
-   "serie_id": "376-6945-0",
-   "serie": "Div 5 Mellersta B",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 6",
-   "hemma": "Strömsunds BTK B",
-   "borta": "Sollefteå BTK C",
-   "hemma_klubb": "Strömsunds Bordtennisklubb",
-   "borta_klubb": "Sollefteå Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Ås Idrottsförening",
-   "arrangorer": [
-    "Ås Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7"
-  },
   {
    "datum": "2026-12-13",
    "tid": "10:00",
@@ -703,6 +649,66 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "376-6945-0",
+   "serie": "Div 5 Mellersta B",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 5",
+   "hemma": "Sollefteå BTK B",
+   "borta": "Strömsunds BTK B",
+   "hemma_klubb": "Sollefteå Bordtennisklubb",
+   "borta_klubb": "Strömsunds Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "376-6945-0",
+   "serie": "Div 5 Mellersta B",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 5",
+   "hemma": "Östersunds GIF E",
+   "borta": "Strömsunds BTK C",
+   "hemma_klubb": "Östersunds GIF",
+   "borta_klubb": "Strömsunds Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "16:00",
+   "serie_id": "376-6945-0",
+   "serie": "Div 5 Mellersta B",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 6",
+   "hemma": "Strömsunds BTK B",
+   "borta": "Sollefteå BTK C",
+   "hemma_klubb": "Strömsunds Bordtennisklubb",
+   "borta_klubb": "Sollefteå Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1357/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-13",
    "tid": "10:00",
    "serie_id": "376-6932-0",
@@ -853,74 +859,74 @@
      "placering": 1,
      "lag": "Strömsunds BTK B",
      "klubb": "Strömsunds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Östersunds GIF D",
      "klubb": "Östersunds GIF",
-     "spelade": 4,
-     "vunna": 2,
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Östersunds GIF E",
-     "klubb": "Östersunds GIF",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Ås IF F",
+     "klubb": "Ås Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sollefteå BTK B",
-     "klubb": "Sollefteå Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "Östersunds GIF E",
+     "klubb": "Östersunds GIF",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Ås IF F",
-     "klubb": "Ås Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "Strömsunds BTK C",
+     "klubb": "Strömsunds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 5,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Sollefteå BTK C",
+     "lag": "Sollefteå BTK B",
      "klubb": "Sollefteå Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 5,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Strömsunds BTK C",
-     "klubb": "Strömsunds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "Sollefteå BTK C",
+     "klubb": "Sollefteå Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 2,

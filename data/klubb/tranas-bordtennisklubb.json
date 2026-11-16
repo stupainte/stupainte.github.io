@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Tranås BTK 1",
@@ -96,42 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6633-0",
-   "serie": "DIV 4 NORRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Vaggeryds BTK B",
-   "borta": "Tranås BTK A",
-   "hemma_klubb": "Vaggeryds Bordtennisklubb",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Vaggeryds Idrottshall",
-   "arrangor": "Vaggeryds Bordtennisklubb",
-   "arrangorer": [
-    "Vaggeryds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "372-6760-0",
-   "serie": "Div 6 Norra A ",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Tranås BTK C",
-   "borta": "Tabergs SK A",
-   "hemma_klubb": "Tranås Bordtennisklubb",
-   "borta_klubb": "Tabergs Sportklubb",
-   "plats": "Floragatan",
-   "arrangor": "Tranås Bordtennisklubb",
-   "arrangorer": [
-    "Tranås Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-  },
   {
    "datum": "2026-11-16",
    "tid": "12:00",
@@ -2015,6 +1979,26 @@
   {
    "datum": "2026-11-15",
    "tid": "13:00",
+   "serie_id": "372-6633-0",
+   "serie": "DIV 4 NORRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Vaggeryds BTK B",
+   "borta": "Tranås BTK A",
+   "hemma_klubb": "Vaggeryds Bordtennisklubb",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Vaggeryds Idrottshall",
+   "arrangor": "Vaggeryds Bordtennisklubb",
+   "arrangorer": [
+    "Vaggeryds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
    "serie_id": "372-6760-0",
    "serie": "Div 6 Norra A ",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -2114,36 +2098,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "Floragatan"
-   ],
-   "serier": [
-    "Div 6 Norra A "
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "13:00",
-     "serie_id": "372-6760-0",
-     "serie": "Div 6 Norra A ",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Tranås BTK C",
-     "borta": "Tabergs SK A",
-     "hemma_klubb": "Tranås Bordtennisklubb",
-     "borta_klubb": "Tabergs Sportklubb",
-     "plats": "Floragatan",
-     "arrangor": "Tranås Bordtennisklubb",
-     "arrangorer": [
-      "Tranås Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-16",
    "platser": [
@@ -2999,6 +2953,17 @@
     },
     {
      "placering": 2,
+     "lag": "Tranås BTK A",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "KFUM Jönköping IA D",
      "klubb": "KFUM Jönköping",
      "spelade": 5,
@@ -3009,7 +2974,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Sävsjö BTK A",
      "klubb": "Sävsjö Bordtennisklubb",
      "spelade": 4,
@@ -3017,17 +2982,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tranås BTK A",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3067,10 +3021,10 @@
      "placering": 8,
      "lag": "Vaggeryds BTK B",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

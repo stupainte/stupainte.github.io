@@ -4,7 +4,7 @@
   "namn": "Skellefteå AIK BTF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Skellefteå AIK BTF",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5815-0",
-   "serie": "Div 1 N Herr",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 7",
-   "hemma": "Söderhamns UIF: C",
-   "borta": "Skellefteå AIK BTF",
-   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
-   "borta_klubb": "Skellefteå AIK BTF",
-   "plats": "A-hallen",
-   "arrangor": "Skellefteå AIK BTF",
-   "arrangorer": [
-    "Skellefteå AIK BTF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "11:00",
@@ -1428,6 +1410,26 @@
   },
   {
    "datum": "2026-11-14",
+   "tid": "13:00",
+   "serie_id": "376-7201-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 6",
+   "hemma": "Sävast BTK",
+   "borta": "Skellefteå AIK BTF E",
+   "hemma_klubb": "Sävast Bordtennisklubb Boden",
+   "borta_klubb": "Skellefteå AIK BTF",
+   "plats": "Vinstahallen",
+   "arrangor": "Luleå Pingisförening",
+   "arrangorer": [
+    "Luleå Pingisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1355/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-14",
    "tid": "15:00",
    "serie_id": "417-5762-0",
    "serie": "Div 3 NSNÖ",
@@ -1528,54 +1530,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "A-hallen"
-   ],
-   "serier": [
-    "Div 1 N Herr"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5815-0",
-     "serie": "Div 1 N Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 7",
-     "hemma": "Söderhamns UIF: C",
-     "borta": "Skellefteå AIK BTF",
-     "hemma_klubb": "Söderhamns Ungdomsgårds IF",
-     "borta_klubb": "Skellefteå AIK BTF",
-     "plats": "A-hallen",
-     "arrangor": "Skellefteå AIK BTF",
-     "arrangorer": [
-      "Skellefteå AIK BTF"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5815-0",
-     "serie": "Div 1 N Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 7",
-     "hemma": "IK Sirius BTK",
-     "borta": "Haparanda SKT",
-     "hemma_klubb": "IK Sirius Bordtennisklubb",
-     "borta_klubb": "Haparanda Sportklubb Taktik",
-     "plats": "A-hallen",
-     "arrangor": "Skellefteå AIK BTF",
-     "arrangorer": [
-      "Skellefteå AIK BTF"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-01-12",
    "platser": [
@@ -2219,6 +2173,17 @@
     },
     {
      "placering": 5,
+     "lag": "Ängby SK: B2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 6,
      "lag": "Tibble-Kungsängen BTK",
      "klubb": "Tibble-Kungsängen Bordtennisklubb",
      "spelade": 6,
@@ -2229,7 +2194,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "IFK Österåkers BTK",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 5,
@@ -2237,17 +2202,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 4,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Ängby SK: B2",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
      "setdiff": "264–0"
     },
     {
@@ -2272,6 +2226,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Umeå BTK: A1",
+     "klubb": "Umeå Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 11,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Alfta BTK",
      "klubb": "Alfta Bordtennisklubb",
      "spelade": 7,
@@ -2282,25 +2247,14 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 2,
-     "lag": "Umeå BTK: A1",
-     "klubb": "Umeå Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 9,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
      "lag": "Ås IF: A2",
      "klubb": "Ås Idrottsförening",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "264–0"
     },
     {
@@ -2329,10 +2283,10 @@
      "placering": 6,
      "lag": "PK Sundsvall",
      "klubb": "Pingisklubben Sundsvall",
-     "spelade": 4,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -2479,11 +2433,11 @@
      "placering": 2,
      "lag": "Skellefteå AIK BTF E",
      "klubb": "Skellefteå AIK BTF",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
@@ -2545,10 +2499,10 @@
      "placering": 8,
      "lag": "Sävast BTK",
      "klubb": "Sävast Bordtennisklubb Boden",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Nerikes Kils Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Nerikes Kils SK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5759-0",
-   "serie": "Superettan (herr)",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 7",
-   "hemma": "Nerikes Kils SK",
-   "borta": "Västers BTK",
-   "hemma_klubb": "Nerikes Kils Sportklubb",
-   "borta_klubb": "Västers Bordtennisklubb",
-   "plats": "Västers BTK",
-   "arrangor": "Västers Bordtennisklubb",
-   "arrangorer": [
-    "Västers Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "18:00",
@@ -579,6 +561,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 3
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie_id": "417-5759-0",
+   "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 7",
+   "hemma": "Nerikes Kils SK",
+   "borta": "Västers BTK",
+   "hemma_klubb": "Nerikes Kils Sportklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Västers BTK",
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 3
   }
  ],
  "arrangerar": [
@@ -1055,33 +1057,33 @@
      "placering": 2,
      "lag": "BTK Kävlinge",
      "klubb": "Bordtennisklubben Kävlinge",
-     "spelade": 5,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 11,
+     "matchpoang": 14,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Lyckeby BTK",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Nerikes Kils SK",
-     "klubb": "Nerikes Kils Sportklubb",
-     "spelade": 5,
-     "vunna": 3,
+     "lag": "Västers BTK",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -1097,13 +1099,13 @@
     },
     {
      "placering": 6,
-     "lag": "Västers BTK",
-     "klubb": "Västers Bordtennisklubb",
-     "spelade": 5,
+     "lag": "Nerikes Kils SK",
+     "klubb": "Nerikes Kils Sportklubb",
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
+     "forlorade": 3,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1119,24 +1121,24 @@
     },
     {
      "placering": 8,
-     "lag": "Norrtulls SK",
-     "klubb": "Norrtulls Sportklubb",
-     "spelade": 5,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 3,
+     "forlorade": 5,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 9,
-     "lag": "Ängby SK",
-     "klubb": "Ängby Sportklubb",
-     "spelade": 5,
-     "vunna": 0,
+     "lag": "Norrtulls SK",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 6,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 5,
-     "matchpoang": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     }
    ]

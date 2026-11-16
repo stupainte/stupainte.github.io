@@ -4,7 +4,7 @@
   "namn": "Damsnäs Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Damnäs IF B",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "14:31",
-   "serie_id": "372-6771-0",
-   "serie": "DIV 4 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Oskarshamns BTK C",
-   "borta": "Damsnäs IF A",
-   "hemma_klubb": "Oskarshamns Bordtennisklubb",
-   "borta_klubb": "Damsnäs Idrottsförening",
-   "plats": "Parkskolan",
-   "arrangor": "Västerviks Bordtennisklubb",
-   "arrangorer": [
-    "Västerviks Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "13:00",
@@ -763,6 +745,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-05",
+   "tid": "10:00",
+   "serie_id": "372-6771-0",
+   "serie": "DIV 4 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Damsnäs IF A",
+   "borta": "Långemåla BTK B",
+   "hemma_klubb": "Damsnäs Idrottsförening",
+   "borta_klubb": "Långemåla Bordtennisklubb",
+   "plats": "Västervik",
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-11-15",
    "tid": "13:00",
    "serie_id": "372-6759-0",
@@ -799,43 +801,31 @@
     "Damsnäs Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "14:31",
+   "serie_id": "372-6771-0",
+   "serie": "DIV 4 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Oskarshamns BTK C",
+   "borta": "Damsnäs IF A",
+   "hemma_klubb": "Oskarshamns Bordtennisklubb",
+   "borta_klubb": "Damsnäs Idrottsförening",
+   "plats": "Parkskolan",
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "Demohallen"
-   ],
-   "serier": [
-    "Div 6 Syd/VÄSTRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "13:00",
-     "serie_id": "372-6759-0",
-     "serie": "Div 6 Syd/VÄSTRA",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Damnäs IF B",
-     "borta": "Damsnäs IF C",
-     "hemma_klubb": "Damsnäs Idrottsförening",
-     "borta_klubb": "Damsnäs Idrottsförening",
-     "plats": "Demohallen",
-     "arrangor": "Damsnäs Idrottsförening",
-     "arrangorer": [
-      "Damsnäs Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -1149,35 +1139,35 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Damsnäs IF A",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Kalmar BTK B",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Högsby BTK B",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Damsnäs IF A",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Kalmar BTK B",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "Högsby BTK B",
+     "klubb": "Högsby Bordtennisklubb",
      "spelade": 3,
-     "vunna": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1206,21 +1196,21 @@
      "placering": 6,
      "lag": "Långemåla BTK B",
      "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Oskarshamns BTK B",
      "klubb": "Oskarshamns Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1228,10 +1218,10 @@
      "placering": 8,
      "lag": "Västerviks BTK B",
      "klubb": "Västerviks Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1248,28 +1238,28 @@
      "placering": 1,
      "lag": "Dänningelanda BTK F",
      "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Lyckeby BTK H",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Carlshamns BTK D",
+     "klubb": "Carlshamns Bordtennisklubb",
+     "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Carlshamns BTK D",
-     "klubb": "Carlshamns Bordtennisklubb",
+     "lag": "Lyckeby BTK H",
+     "klubb": "Lyckeby Bordtennisklubb",
      "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
@@ -1281,11 +1271,11 @@
      "placering": 4,
      "lag": "Lyckeby BTK K",
      "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1303,10 +1293,10 @@
      "placering": 6,
      "lag": "Kyrkhults BTK C",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

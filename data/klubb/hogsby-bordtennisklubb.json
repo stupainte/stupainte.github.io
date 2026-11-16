@@ -4,7 +4,7 @@
   "namn": "Högsby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Högsby BTK",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "10:30",
-   "serie_id": "372-6771-0",
-   "serie": "DIV 4 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Högsby BTK B",
-   "borta": "Kalmar BTK B",
-   "hemma_klubb": "Högsby Bordtennisklubb",
-   "borta_klubb": "Kalmar Bordtennisklubb",
-   "plats": "Parkskolan",
-   "arrangor": "Oskarshamns Bordtennisklubb",
-   "arrangorer": [
-    "Oskarshamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "14:30",
-   "serie_id": "372-6771-0",
-   "serie": "DIV 4 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Nickebo IK A",
-   "borta": "Högsby BTK B",
-   "hemma_klubb": "Nickebo Idrottsklubb",
-   "borta_klubb": "Högsby Bordtennisklubb",
-   "plats": "ArrangörenPARs",
-   "arrangor": "Oskarshamns Bordtennisklubb",
-   "arrangorer": [
-    "Oskarshamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "11:00",
@@ -780,6 +744,26 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "10:30",
+   "serie_id": "372-6771-0",
+   "serie": "DIV 4 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Högsby BTK B",
+   "borta": "Kalmar BTK B",
+   "hemma_klubb": "Högsby Bordtennisklubb",
+   "borta_klubb": "Kalmar Bordtennisklubb",
+   "plats": "Parkskolan",
+   "arrangor": "Oskarshamns Bordtennisklubb",
+   "arrangorer": [
+    "Oskarshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "13:00",
    "serie_id": "372-6741-0",
    "serie": "DIV 5 ÖSTRA",
@@ -797,6 +781,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "14:30",
+   "serie_id": "372-6771-0",
+   "serie": "DIV 4 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Nickebo IK A",
+   "borta": "Högsby BTK B",
+   "hemma_klubb": "Nickebo Idrottsklubb",
+   "borta_klubb": "Högsby Bordtennisklubb",
+   "plats": "ArrangörenPARs",
+   "arrangor": "Oskarshamns Bordtennisklubb",
+   "arrangorer": [
+    "Oskarshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1106/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   },
   {
    "datum": "2026-11-29",
@@ -820,38 +824,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "Berga Sporthall"
-   ],
-   "serier": [
-    "DIV 5 ÖSTRA"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "13:00",
-     "serie_id": "372-6741-0",
-     "serie": "DIV 5 ÖSTRA",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Högsby BTK C",
-     "borta": "Kalmar BTK A",
-     "hemma_klubb": "Högsby Bordtennisklubb",
-     "borta_klubb": "Kalmar Bordtennisklubb",
-     "plats": "Berga Sporthall",
-     "arrangor": "Högsby Bordtennisklubb",
-     "arrangorer": [
-      "Högsby Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
-     "hemma_poang": 0,
-     "borta_poang": 2
-    }
-   ]
-  },
   {
    "datum": "2026-12-13",
    "platser": [
@@ -1212,35 +1184,35 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Damsnäs IF A",
-     "klubb": "Damsnäs Idrottsförening",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Kalmar BTK B",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Högsby BTK B",
-     "klubb": "Högsby Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Damsnäs IF A",
+     "klubb": "Damsnäs Idrottsförening",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 0,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Kalmar BTK B",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "Högsby BTK B",
+     "klubb": "Högsby Bordtennisklubb",
      "spelade": 3,
-     "vunna": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1269,21 +1241,21 @@
      "placering": 6,
      "lag": "Långemåla BTK B",
      "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Oskarshamns BTK B",
      "klubb": "Oskarshamns Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1291,10 +1263,10 @@
      "placering": 8,
      "lag": "Västerviks BTK B",
      "klubb": "Västerviks Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1311,11 +1283,11 @@
      "placering": 1,
      "lag": "Kalmar BTK C",
      "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 5,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -1377,10 +1349,10 @@
      "placering": 7,
      "lag": "BTK Arsenal Nybro B",
      "klubb": "Bordtennisklubben Arsenal Nybro",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

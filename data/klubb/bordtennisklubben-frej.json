@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Frej"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "BTK Frej",
@@ -64,60 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "11:00",
-   "serie_id": "417-5747-0",
-   "serie": "Div 1 S Herr",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 5",
-   "hemma": "BTK Frej",
-   "borta": "Vetlanda BTK",
-   "hemma_klubb": "Bordtennisklubben Frej",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Frej",
-   "arrangorer": [
-    "Bordtennisklubben Frej"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "14:00",
-   "serie_id": "372-6740-0",
-   "serie": "DIV 5 SÖDRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Lyckeby BTK E",
-   "borta": "BTK Frej D",
-   "hemma_klubb": "Lyckeby Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Frej",
-   "plats": "Aktivitetshusets BT-hall",
-   "arrangor": "Lyckeby Bordtennisklubb",
-   "arrangorer": [
-    "Lyckeby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "15:00",
-   "serie_id": "417-5747-0",
-   "serie": "Div 1 S Herr",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "IFK Lund Bordtennis",
-   "borta": "BTK Frej",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Bordtennisklubben Frej",
-   "plats": "A-hallen",
-   "arrangor": "Bordtennisklubben Frej",
-   "arrangorer": [
-    "Bordtennisklubben Frej"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-  },
   {
    "datum": "2026-11-21",
    "tid": "10:00",
@@ -1400,6 +1346,26 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie_id": "417-5747-0",
+   "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 5",
+   "hemma": "BTK Frej",
+   "borta": "Vetlanda BTK",
+   "hemma_klubb": "Bordtennisklubben Frej",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "13:00",
    "serie_id": "372-6761-0",
    "serie": "Div 6 Norra B",
@@ -1437,208 +1403,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "14:00",
+   "serie_id": "372-6740-0",
+   "serie": "DIV 5 SÖDRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Lyckeby BTK E",
+   "borta": "BTK Frej D",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Aktivitetshusets BT-hall",
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie_id": "417-5747-0",
+   "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "IFK Lund Bordtennis",
+   "borta": "BTK Frej",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "A-hallen",
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "A-hallen",
-    "Fläktgruppens Arena"
-   ],
-   "serier": [
-    "DIV 5 Mellersta",
-    "Div 1 S Herr",
-    "Div 6 Norra B"
-   ],
-   "antal": 10,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 5",
-     "hemma": "Åstorps BTK",
-     "borta": "Bjärreds BTK",
-     "hemma_klubb": "Åstorps Bordtennisklubb",
-     "borta_klubb": "Bjärreds Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 5",
-     "hemma": "Trelleborgs BTK",
-     "borta": "IFK Lund Bordtennis",
-     "hemma_klubb": "Trelleborgs Bordtennisklubb",
-     "borta_klubb": "IFK Lund Bordtennis",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 5",
-     "hemma": "BTK Frej",
-     "borta": "Vetlanda BTK",
-     "hemma_klubb": "Bordtennisklubben Frej",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "11:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 5",
-     "hemma": "Halmstad BTK: B",
-     "borta": "Falkenbergs BTK: B",
-     "hemma_klubb": "Halmstad Bordtennisklubb",
-     "borta_klubb": "Falkenbergs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "13:00",
-     "serie_id": "372-6757-0",
-     "serie": "DIV 5 Mellersta",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "BTK Frej C",
-     "borta": "Dänningelanda BTK D",
-     "hemma_klubb": "Bordtennisklubben Frej",
-     "borta_klubb": "Dänningelanda Bordtennisklubb",
-     "plats": "Fläktgruppens Arena",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "13:00",
-     "serie_id": "372-6761-0",
-     "serie": "Div 6 Norra B",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "BTK Frej E",
-     "borta": "Bruzaholms SK B",
-     "hemma_klubb": "Bordtennisklubben Frej",
-     "borta_klubb": "Bruzaholms Sportklubb",
-     "plats": "Fläktgruppens Arena",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "15:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 6",
-     "hemma": "Bjärreds BTK",
-     "borta": "Falkenbergs BTK: B",
-     "hemma_klubb": "Bjärreds Bordtennisklubb",
-     "borta_klubb": "Falkenbergs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "15:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 6",
-     "hemma": "Vetlanda BTK",
-     "borta": "Halmstad BTK: B",
-     "hemma_klubb": "Vetlanda Bordtennisklubb",
-     "borta_klubb": "Halmstad Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "15:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 6",
-     "hemma": "IFK Lund Bordtennis",
-     "borta": "BTK Frej",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "Bordtennisklubben Frej",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    },
-    {
-     "datum": "2026-11-15",
-     "tid": "15:00",
-     "serie_id": "417-5747-0",
-     "serie": "Div 1 S Herr",
-     "evenemang": "Nationellt seriespel 2026-2027",
-     "omgang": "Round 6",
-     "hemma": "Åstorps BTK",
-     "borta": "Trelleborgs BTK",
-     "hemma_klubb": "Åstorps Bordtennisklubb",
-     "borta_klubb": "Trelleborgs Bordtennisklubb",
-     "plats": "A-hallen",
-     "arrangor": "Bordtennisklubben Frej",
-     "arrangorer": [
-      "Bordtennisklubben Frej"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -2116,87 +1923,87 @@
      "placering": 1,
      "lag": "IFK Lund Bordtennis",
      "klubb": "IFK Lund Bordtennis",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 8,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Trelleborgs BTK",
      "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
+     "forlorade": 1,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Halmstad BTK: B",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Vetlanda BTK",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Åstorps BTK",
      "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 6,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 4,
+     "forlorade": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Vetlanda BTK",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "Falkenbergs BTK: B",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
+     "forlorade": 4,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Frej",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "Halmstad BTK: B",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Falkenbergs BTK: B",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 4,
+     "lag": "BTK Frej",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 1,
+     "forlorade": 6,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Bjärreds BTK",
      "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 6,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -2416,67 +2223,67 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Frej D",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Kyrkhults BTK B",
+     "klubb": "Kyrkhults Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Listerby IK C",
      "klubb": "Listerby Idrottsklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kyrkhults BTK B",
-     "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 4,
+     "lag": "BTK Frej D",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
+     "forlorade": 3,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Jämjö BTK C",
-     "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "Lyckeby BTK E",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Lyckeby BTK E",
-     "klubb": "Lyckeby Bordtennisklubb",
-     "spelade": 4,
+     "lag": "Jämjö BTK C",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
+     "forlorade": 4,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -2515,10 +2322,10 @@
      "placering": 2,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2546,6 +2353,17 @@
     },
     {
      "placering": 5,
+     "lag": "Lessebo BTK C",
+     "klubb": "Lessebo Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kännestubba BTK A",
      "klubb": "Kännestubba Bordtennisklubb",
      "spelade": 4,
@@ -2556,7 +2374,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 7,
      "lag": "Vaggeryds BTK C",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 2,
@@ -2565,17 +2383,6 @@
      "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–264"
-    },
-    {
-     "placering": 7,
-     "lag": "Lessebo BTK C",
-     "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
-     "setdiff": "0–0"
     }
    ]
   },

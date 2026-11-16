@@ -4,7 +4,7 @@
   "namn": "Norra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Norra BTK A",
@@ -16,42 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "13:00",
-   "serie_id": "376-6944-0",
-   "serie": "Div 5 Mellersta A",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 3",
-   "hemma": "Norra BTK A",
-   "borta": "Docksta BTK B",
-   "hemma_klubb": "Norra Bordtennisklubb",
-   "borta_klubb": "Docksta Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Höga Kusten Allmänna Idrottsförening",
-   "arrangorer": [
-    "Höga Kusten Allmänna Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "16:00",
-   "serie_id": "376-6944-0",
-   "serie": "Div 5 Mellersta A",
-   "evenemang": "Norrlands BTF",
-   "omgang": "Round 4",
-   "hemma": "Höga Kusten AIF B",
-   "borta": "Norra BTK A",
-   "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
-   "borta_klubb": "Norra Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Höga Kusten Allmänna Idrottsförening",
-   "arrangorer": [
-    "Höga Kusten Allmänna Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7"
-  },
   {
    "datum": "2027-01-17",
    "tid": "10:00",
@@ -181,6 +145,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "376-6944-0",
+   "serie": "Div 5 Mellersta A",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 3",
+   "hemma": "Norra BTK A",
+   "borta": "Docksta BTK B",
+   "hemma_klubb": "Norra Bordtennisklubb",
+   "borta_klubb": "Docksta Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Höga Kusten Allmänna Idrottsförening",
+   "arrangorer": [
+    "Höga Kusten Allmänna Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "16:00",
+   "serie_id": "376-6944-0",
+   "serie": "Div 5 Mellersta A",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 4",
+   "hemma": "Höga Kusten AIF B",
+   "borta": "Norra BTK A",
+   "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
+   "borta_klubb": "Norra Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Höga Kusten Allmänna Idrottsförening",
+   "arrangorer": [
+    "Höga Kusten Allmänna Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -371,66 +375,66 @@
      "placering": 1,
      "lag": "Docksta BTK B",
      "klubb": "Docksta Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Norra BTK A",
-     "klubb": "Norra Bordtennisklubb",
-     "spelade": 1,
+     "lag": "Höga Kusten AIF B",
+     "klubb": "Höga Kusten Allmänna Idrottsförening",
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Höga Kusten AIF B",
-     "klubb": "Höga Kusten Allmänna Idrottsförening",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Kungsgårdens IS B",
+     "klubb": "Kungsgårdens Idrottssällskap",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Docksta BTK A",
-     "klubb": "Docksta Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
+     "lag": "Norra BTK A",
+     "klubb": "Norra Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Kungsgårdens IS B",
-     "klubb": "Kungsgårdens Idrottssällskap",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Docksta BTK A",
+     "klubb": "Docksta Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Höga Kusten AIF C",
      "klubb": "Höga Kusten Allmänna Idrottsförening",
-     "spelade": 1,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

@@ -4,7 +4,7 @@
   "namn": "Hyssna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Hyssna BTK",
@@ -32,42 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "10:00",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Byttorps IF",
-   "borta": "Hyssna BTK",
-   "hemma_klubb": "Byttorps Idrottsförening",
-   "borta_klubb": "Hyssna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Byttorps Idrottsförening",
-   "arrangorer": [
-    "Byttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "17:30",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Sjömarkens BTK D2",
-   "borta": "Hyssna BTK B",
-   "hemma_klubb": "Sjömarkens Bordtennisklubb",
-   "borta_klubb": "Hyssna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Sjömarkens Bordtennisklubb",
-   "arrangorer": [
-    "Sjömarkens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "19:45",
@@ -613,6 +577,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "17:30",
+   "serie_id": "367-7473-0",
+   "serie": "7-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Sjömarkens BTK D2",
+   "borta": "Hyssna BTK B",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Hyssna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -958,8 +942,8 @@
     },
     {
      "placering": 3,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
+     "lag": "Mariedals IK C",
+     "klubb": "Mariedals Idrottsklubb",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -969,13 +953,13 @@
     },
     {
      "placering": 4,
-     "lag": "Mariedals IK C",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 4,
-     "vunna": 2,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1004,10 +988,10 @@
      "placering": 7,
      "lag": "Sjömarkens BTK B2",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -1055,6 +1039,17 @@
     },
     {
      "placering": 3,
+     "lag": "Hyssna BTK B",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Sjömarkens BTK D1",
      "klubb": "Sjömarkens Bordtennisklubb",
      "spelade": 4,
@@ -1065,7 +1060,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Mariedals IK E2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 4,
@@ -1076,7 +1071,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Mariedals IK E1",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 4,
@@ -1084,17 +1079,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Hyssna BTK B",
-     "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1112,10 +1096,10 @@
      "placering": 8,
      "lag": "Sjömarkens BTK D2",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

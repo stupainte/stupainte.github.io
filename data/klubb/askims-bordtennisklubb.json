@@ -4,7 +4,7 @@
   "namn": "Askims Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Askims BTK",
@@ -104,78 +104,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-15",
-   "tid": "12:30",
-   "serie_id": "371-7264-0",
-   "serie": "Division 10",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "Rudalens IF D",
-   "borta": "Askims BTK E",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Askims Bordtennisklubb",
-   "plats": "Frölunda Kulturhus, lilla hallen",
-   "arrangor": "Rudalens Idrottsförening",
-   "arrangorer": [
-    "Rudalens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "15:00",
-   "serie_id": "417-5771-0",
-   "serie": "Div 3 VSSÖ",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Askims BTK: B",
-   "borta": "Backa BTK",
-   "hemma_klubb": "Askims Bordtennisklubb",
-   "borta_klubb": "Backa Bordtennis Klubb",
-   "plats": "A-hallen",
-   "arrangor": "Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "17:00",
-   "serie_id": "371-7239-0",
-   "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "Askims BTK D",
-   "borta": "BTK Linné H",
-   "hemma_klubb": "Askims Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Linné",
-   "plats": "Askims BTK:s träningshall",
-   "arrangor": "Askims Bordtennisklubb",
-   "arrangorer": [
-    "Askims Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-  },
-  {
-   "datum": "2026-11-15",
-   "tid": "17:00",
-   "serie_id": "371-7375-0",
-   "serie": "Division 9",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 2",
-   "hemma": "BTK Linné K",
-   "borta": "Askims BTK F",
-   "hemma_klubb": "Bordtennisklubben Linné",
-   "borta_klubb": "Askims Bordtennisklubb",
-   "plats": "Dunrosshallen",
-   "arrangor": "Bordtennisklubben Linné",
-   "arrangorer": [
-    "Bordtennisklubben Linné"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-  },
   {
    "datum": "2026-11-21",
    "tid": "15:30",
@@ -2035,6 +1963,46 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie_id": "417-5771-0",
+   "serie": "Div 3 VSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Askims BTK: B",
+   "borta": "Backa BTK",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Backa Bordtennis Klubb",
+   "plats": "A-hallen",
+   "arrangor": "Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "17:00",
+   "serie_id": "371-7239-0",
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "Askims BTK D",
+   "borta": "BTK Linné H",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Askims BTK:s träningshall",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2027-02-14",
    "tid": "15:00",
    "serie_id": "417-5771-0",
@@ -2056,36 +2024,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-15",
-   "platser": [
-    "Askims BTK:s träningshall"
-   ],
-   "serier": [
-    "Division 7"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-15",
-     "tid": "17:00",
-     "serie_id": "371-7239-0",
-     "serie": "Division 7",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 2",
-     "hemma": "Askims BTK D",
-     "borta": "BTK Linné H",
-     "hemma_klubb": "Askims Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Linné",
-     "plats": "Askims BTK:s träningshall",
-     "arrangor": "Askims Bordtennisklubb",
-     "arrangorer": [
-      "Askims Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-22",
    "platser": [
@@ -3082,11 +3020,11 @@
      "placering": 1,
      "lag": "BTK Linné H",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -3104,10 +3042,10 @@
      "placering": 3,
      "lag": "Lindome BTK C",
      "klubb": "Lindome Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3124,17 +3062,6 @@
     },
     {
      "placering": 5,
-     "lag": "Romelanda UF",
-     "klubb": "Romelanda Ungdomsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Kungälvs BTK E",
      "klubb": "Kungälvs Bordtennisklubb",
      "spelade": 1,
@@ -3145,20 +3072,31 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "BTK Linné I",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
      "lag": "Askims BTK D",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "BTK Linné I",
-     "klubb": "Bordtennisklubben Linné",
+     "lag": "Romelanda UF",
+     "klubb": "Romelanda Ungdomsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3190,11 +3128,11 @@
      "placering": 2,
      "lag": "Lekstorps IF G",
      "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -3221,13 +3159,13 @@
     },
     {
      "placering": 5,
-     "lag": "BTK Linné K",
-     "klubb": "Bordtennisklubben Linné",
+     "lag": "Kungälvs BTK F",
+     "klubb": "Kungälvs Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
@@ -3243,8 +3181,8 @@
     },
     {
      "placering": 7,
-     "lag": "Kungälvs BTK F",
-     "klubb": "Kungälvs Bordtennisklubb",
+     "lag": "Lekstorp IF H",
+     "klubb": "Lekstorps Idrottsförening",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3254,12 +3192,12 @@
     },
     {
      "placering": 8,
-     "lag": "Lekstorp IF H",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
+     "lag": "BTK Linné K",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3790,44 +3728,44 @@
      "placering": 1,
      "lag": "TopSpeed BTK",
      "klubb": "TopSpeed Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
+     "forlorade": 1,
+     "matchpoang": 10,
      "setdiff": "264–0"
     },
     {
      "placering": 2,
      "lag": "Askims BTK: B",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 8,
+     "forlorade": 2,
+     "matchpoang": 9,
      "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "BTK Linné: C1",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
+     "forlorade": 2,
+     "matchpoang": 9,
      "setdiff": "264–0"
     },
     {
      "placering": 4,
      "lag": "IF Ifo",
      "klubb": "Idrottsföreningen Ifo",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
+     "forlorade": 2,
+     "matchpoang": 8,
      "setdiff": "264–0"
     },
     {
@@ -3843,24 +3781,24 @@
     },
     {
      "placering": 6,
-     "lag": "Lekstorps IF: C",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 5,
+     "lag": "Backa BTK",
+     "klubb": "Backa Bordtennis Klubb",
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 3,
+     "forlorade": 5,
+     "matchpoang": 4,
      "setdiff": "264–0"
     },
     {
      "placering": 7,
-     "lag": "Backa BTK",
-     "klubb": "Backa Bordtennis Klubb",
-     "spelade": 5,
+     "lag": "Lekstorps IF: C",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 3,
+     "forlorade": 6,
+     "matchpoang": 4,
      "setdiff": "264–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Höökens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-16T12:20:52Z",
  "lag": [
   {
    "namn": "Hööken",
@@ -584,6 +584,48 @@
    "borta_poang": 4
   },
   {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7746-0",
+   "serie": "Ungdomsserie grupp 1",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 5",
+   "hemma": "Hööken 1",
+   "borta": "Kil 1",
+   "hemma_klubb": "Höökens Bordtennisklubb",
+   "borta_klubb": "Kils Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Höökens Bordtennisklubb / Kils Bordtennisklubb",
+   "arrangorer": [
+    "Höökens Bordtennisklubb",
+    "Kils Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1534/2/7/7",
+   "hemma_poang": 7,
+   "borta_poang": 3
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "501-7746-0",
+   "serie": "Ungdomsserie grupp 1",
+   "evenemang": "Värmlands BTF",
+   "omgang": "Round 6",
+   "hemma": "Skoghall",
+   "borta": "Hööken 1",
+   "hemma_klubb": "Skoghalls Bordtennisklubb",
+   "borta_klubb": "Höökens Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Skoghalls Bordtennisklubb / Kils Bordtennisklubb",
+   "arrangorer": [
+    "Skoghalls Bordtennisklubb",
+    "Kils Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/501/1534/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 10
+  },
+  {
    "datum": "2026-09-19",
    "tid": "00:00",
    "serie_id": "501-7231-0",
@@ -855,15 +897,26 @@
      "placering": 5,
      "lag": "Arvika 2",
      "klubb": "Arvika Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
+     "lag": "Carlstad 1",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Sunne",
      "klubb": "Sunne Bordtennisklubb",
      "spelade": 5,
@@ -874,7 +927,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
+     "placering": 8,
      "lag": "Kristinehamn 1",
      "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 5,
@@ -885,7 +938,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 9,
      "lag": "Kristinehamn 2",
      "klubb": "Kristinehamns Bordtennisförening",
      "spelade": 3,
@@ -896,7 +949,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 9,
+     "placering": 10,
      "lag": "Arvika 1",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 4,
@@ -907,7 +960,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 10,
+     "placering": 11,
      "lag": "Hööken Rocky",
      "klubb": "Höökens Bordtennisklubb",
      "spelade": 5,
@@ -915,17 +968,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 11,
-     "lag": "Carlstad 1",
-     "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -972,50 +1014,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Carlstad 2",
-     "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 14,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Kristinehamn 1",
-     "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 10,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Carlstad 1",
-     "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 19,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kil 1",
-     "klubb": "Kils Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Hööken 1",
      "klubb": "Höökens Bordtennisklubb",
      "spelade": 1,
@@ -1026,7 +1024,40 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 2,
+     "lag": "Kristinehamn 1",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 14,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Carlstad 1",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 25,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Carlstad 2",
+     "klubb": "Carlstads Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 14,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Arvika 1",
      "klubb": "Arvika Bordtennisklubb",
      "spelade": 1,
@@ -1034,6 +1065,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Kil 1",
+     "klubb": "Kils Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -1069,6 +1111,17 @@
     },
     {
      "placering": 2,
+     "lag": "Arvika 2",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kil 2",
      "klubb": "Kils Bordtennisklubb",
      "spelade": 1,
@@ -1079,46 +1132,35 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Arvika 2",
-     "klubb": "Arvika Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Kristinehamn 2",
-     "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 3,
+     "lag": "Arvika 3",
+     "klubb": "Arvika Bordtennisklubb",
+     "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 0,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Kristinehamn 2",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Munkfors",
      "klubb": "Munkfors Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Arvika 3",
-     "klubb": "Arvika Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1137,10 +1179,10 @@
      "placering": 8,
      "lag": "Carlstad 3",
      "klubb": "Carlstads Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
