@@ -4,7 +4,7 @@
   "namn": "Ekerö Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-15T11:46:45Z",
+ "uppdaterad": "2026-11-17T12:44:50Z",
  "lag": [
   {
    "namn": "Ekerö IK",
@@ -72,6 +72,26 @@
    "arrangor": "Ekerö Idrottsklubb",
    "arrangorer": [
     "Ekerö Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1063/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8168-0",
+   "serie": "Division 8",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Djurgårdens IF BTF D",
+   "borta": "Ekerö IK",
+   "hemma_klubb": "Djurgårdens IF BTF",
+   "borta_klubb": "Ekerö Idrottsklubb",
+   "plats": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1063/2/7/7",
    "hemma_poang": 0,
@@ -144,12 +164,12 @@
     },
     {
      "placering": 6,
-     "lag": "Djurgårdens IF BTF D",
-     "klubb": "Djurgårdens IF BTF",
-     "spelade": 3,
+     "lag": "Ekerö IK",
+     "klubb": "Ekerö Idrottsklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -166,13 +186,13 @@
     },
     {
      "placering": 8,
-     "lag": "Ekerö IK",
-     "klubb": "Ekerö Idrottsklubb",
-     "spelade": 3,
-     "vunna": 0,
+     "lag": "Djurgårdens IF BTF D",
+     "klubb": "Djurgårdens IF BTF",
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     }
    ]

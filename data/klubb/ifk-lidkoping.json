@@ -4,7 +4,7 @@
   "namn": "IFK Lidköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-17T12:44:50Z",
  "lag": [
   {
    "namn": "IFK Lidköping B1",
@@ -72,42 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-16",
-   "tid": "19:00",
-   "serie_id": "367-7540-0",
-   "serie": "7-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "IFK Lidköping D",
-   "borta": "Örslösa - Söne IK C",
-   "hemma_klubb": "IFK Lidköping",
-   "borta_klubb": "Örslösa-Söne Idrottsklubb",
-   "plats": "-",
-   "arrangor": "IFK Lidköping",
-   "arrangorer": [
-    "IFK Lidköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7"
-  },
-  {
-   "datum": "2026-11-16",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "IFK Lidköping BTK C2",
-   "borta": "Vedums AIS D",
-   "hemma_klubb": "IFK Lidköping",
-   "borta_klubb": "Vedums Allmänna IS",
-   "plats": "-",
-   "arrangor": "IFK Lidköping",
-   "arrangorer": [
-    "IFK Lidköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-11-17",
    "tid": "19:00",
@@ -1875,58 +1839,49 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie_id": "367-7540-0",
+   "serie": "7-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "IFK Lidköping D",
+   "borta": "Örslösa - Söne IK C",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Örslösa-Söne Idrottsklubb",
+   "plats": "-",
+   "arrangor": "IFK Lidköping",
+   "arrangorer": [
+    "IFK Lidköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "IFK Lidköping BTK C2",
+   "borta": "Vedums AIS D",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Vedums Allmänna IS",
+   "plats": "-",
+   "arrangor": "IFK Lidköping",
+   "arrangorer": [
+    "IFK Lidköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-16",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Mellersta",
-    "7-Nordöstra"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-11-16",
-     "tid": "19:00",
-     "serie_id": "367-7460-0",
-     "serie": "6-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "IFK Lidköping BTK C2",
-     "borta": "Vedums AIS D",
-     "hemma_klubb": "IFK Lidköping",
-     "borta_klubb": "Vedums Allmänna IS",
-     "plats": "-",
-     "arrangor": "IFK Lidköping",
-     "arrangorer": [
-      "IFK Lidköping"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-    },
-    {
-     "datum": "2026-11-16",
-     "tid": "19:00",
-     "serie_id": "367-7540-0",
-     "serie": "7-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "IFK Lidköping D",
-     "borta": "Örslösa - Söne IK C",
-     "hemma_klubb": "IFK Lidköping",
-     "borta_klubb": "Örslösa-Söne Idrottsklubb",
-     "plats": "-",
-     "arrangor": "IFK Lidköping",
-     "arrangorer": [
-      "IFK Lidköping"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-23",
    "platser": [
@@ -2736,6 +2691,17 @@
     },
     {
      "placering": 2,
+     "lag": "Vedums AIS D",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
      "spelade": 5,
@@ -2743,17 +2709,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Vedums AIS D",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -2793,10 +2748,10 @@
      "placering": 7,
      "lag": "IFK Lidköping BTK C2",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -2824,15 +2779,26 @@
      "placering": 1,
      "lag": "IFK Lidköping D",
      "klubb": "IFK Lidköping",
-     "spelade": 2,
-     "vunna": 2,
+     "spelade": 3,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Vedum AIS E1",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Götene Tor BTK D",
      "klubb": "Götene/Tor Bordtennisklubb",
      "spelade": 1,
@@ -2843,24 +2809,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Vedum AIS E1",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Örslösa - Söne IK C",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2868,11 +2823,11 @@
      "placering": 5,
      "lag": "Varnhems IF B",
      "klubb": "Varnhems Idrottsförening",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
