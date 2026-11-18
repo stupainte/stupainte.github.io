@@ -4,7 +4,7 @@
   "namn": "Torslanda Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Team Tors-Björ",
@@ -275,8 +275,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -365,8 +366,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1220,8 +1222,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Backa Bordtennis Klubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1330,8 +1333,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1422,8 +1426,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1761,6 +1766,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-14",
+   "tid": "15:30",
+   "serie_id": "371-7375-0",
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "Torslanda IK D",
+   "borta": "Lekstorp IF H",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-15",
    "tid": "14:00",
    "serie_id": "371-7240-0",
@@ -1779,6 +1804,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1063/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "14:00",
+   "serie_id": "371-7264-0",
+   "serie": "Division 10",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 2",
+   "hemma": "Torslanda IK E",
+   "borta": "Bohus IF A",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bohus Idrottsförening",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+   "arrangorer": [
+    "Torslanda Idrottsklubb",
+    "Torslanda Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2026-11-15",
@@ -1860,10 +1906,30 @@
     "Aktivitetshallen/klubbhuset Torslanda"
    ],
    "serier": [
+    "Division 10",
     "Division 6"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-22",
+     "tid": "14:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 3",
+     "hemma": "Torslanda IK E",
+     "borta": "Kungälvs BTK G",
+     "hemma_klubb": "Torslanda Idrottsklubb",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Aktivitetshallen/klubbhuset Torslanda",
+     "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+     "arrangorer": [
+      "Torslanda Idrottsklubb",
+      "Torslanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2026-11-22",
      "tid": "17:30",
@@ -1921,10 +1987,30 @@
     "Aktivitetshallen/klubbhuset Torslanda"
    ],
    "serier": [
+    "Division 10",
     "Division 6"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-11-29",
+     "tid": "14:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 4",
+     "hemma": "Torslanda IK E",
+     "borta": "Rudalens IF D",
+     "hemma_klubb": "Torslanda Idrottsklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Aktivitetshallen/klubbhuset Torslanda",
+     "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+     "arrangorer": [
+      "Torslanda Idrottsklubb",
+      "Torslanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2026-11-29",
      "tid": "17:30",
@@ -2412,10 +2498,30 @@
     "Aktivitetshallen/klubbhuset Torslanda"
    ],
    "serier": [
+    "Division 10",
     "Division 8"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "14:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 12",
+     "hemma": "Torslanda IK E",
+     "borta": "Backa BTK C",
+     "hemma_klubb": "Torslanda Idrottsklubb",
+     "borta_klubb": "Backa Bordtennis Klubb",
+     "plats": "Aktivitetshallen/klubbhuset Torslanda",
+     "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+     "arrangorer": [
+      "Torslanda Idrottsklubb",
+      "Torslanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2027-03-14",
      "tid": "18:00",
@@ -2442,10 +2548,30 @@
     "Aktivitetshallen/klubbhuset Torslanda"
    ],
    "serier": [
+    "Division 10",
     "Division 8"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2027-04-11",
+     "tid": "14:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 13",
+     "hemma": "Torslanda IK E",
+     "borta": "Rudalens IF E",
+     "hemma_klubb": "Torslanda Idrottsklubb",
+     "borta_klubb": "Rudalens Idrottsförening",
+     "plats": "Aktivitetshallen/klubbhuset Torslanda",
+     "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+     "arrangorer": [
+      "Torslanda Idrottsklubb",
+      "Torslanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2027-04-11",
      "tid": "18:00",
@@ -2472,10 +2598,30 @@
     "Aktivitetshallen/klubbhuset Torslanda"
    ],
    "serier": [
+    "Division 10",
     "Division 8"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2027-04-18",
+     "tid": "14:00",
+     "serie_id": "371-7264-0",
+     "serie": "Division 10",
+     "evenemang": " Göteborgs Distriktserie",
+     "omgang": "Round 14",
+     "hemma": "Torslanda IK E",
+     "borta": "Askims BTK E",
+     "hemma_klubb": "Torslanda Idrottsklubb",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Aktivitetshallen/klubbhuset Torslanda",
+     "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
+     "arrangorer": [
+      "Torslanda Idrottsklubb",
+      "Torslanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
+    },
     {
      "datum": "2027-04-18",
      "tid": "18:00",
@@ -2509,11 +2655,11 @@
      "placering": 1,
      "lag": "Askims BTK E",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2540,8 +2686,8 @@
     },
     {
      "placering": 4,
-     "lag": "Torslanda IK E",
-     "klubb": "Torslanda Idrottsklubb",
+     "lag": "Backa BTK C",
+     "klubb": "Backa Bordtennis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2551,8 +2697,8 @@
     },
     {
      "placering": 5,
-     "lag": "Backa BTK C",
-     "klubb": "Backa Bordtennis Klubb",
+     "lag": "Torslanda IK E",
+     "klubb": "Torslanda Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2575,10 +2721,10 @@
      "placering": 7,
      "lag": "Rudalens IF D",
      "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2886,11 +3032,11 @@
      "placering": 3,
      "lag": "Torslanda IK D",
      "klubb": "Torslanda Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -2941,11 +3087,11 @@
      "placering": 8,
      "lag": "Lekstorp IF H",
      "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

@@ -4,7 +4,7 @@
   "namn": "IFK Falköping Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "IFK Falköping BTK",
@@ -72,60 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "367-7536-0",
-   "serie": "7-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "IFK Falköping BTK D1",
-   "borta": "Alingsås PK E",
-   "hemma_klubb": "IFK Falköping Bordtennisklubb",
-   "borta_klubb": "Alingsås Pingis Klubb",
-   "plats": "-",
-   "arrangor": "IFK Falköping Bordtennisklubb",
-   "arrangorer": [
-    "IFK Falköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7"
-  },
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Hangelösa IF",
-   "borta": "IFK Falköping BTK C1",
-   "hemma_klubb": "Hangelösa Idrottsförening",
-   "borta_klubb": "IFK Falköping Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Hangelösa Idrottsförening",
-   "arrangorer": [
-    "Hangelösa Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
-  {
-   "datum": "2026-11-18",
-   "tid": "10:00",
-   "serie_id": "367-6956-0",
-   "serie": "Pensionärsserier",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "IFK Falköping BTK",
-   "borta": "Byttorps IF 2",
-   "hemma_klubb": "IFK Falköping Bordtennisklubb",
-   "borta_klubb": "Byttorps Idrottsförening",
-   "plats": "-",
-   "arrangor": "IFK Falköping Bordtennisklubb",
-   "arrangorer": [
-    "IFK Falköping Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
-  },
   {
    "datum": "2026-11-18",
    "tid": "19:00",
@@ -1813,6 +1759,66 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "367-7536-0",
+   "serie": "7-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "IFK Falköping BTK D1",
+   "borta": "Alingsås PK E",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Alingsås Pingis Klubb",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Hangelösa IF",
+   "borta": "IFK Falköping BTK C1",
+   "hemma_klubb": "Hangelösa Idrottsförening",
+   "borta_klubb": "IFK Falköping Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Hangelösa Idrottsförening",
+   "arrangorer": [
+    "Hangelösa Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "10:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "IFK Falköping BTK",
+   "borta": "Byttorps IF 2",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2027-01-05",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1834,36 +1840,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-17",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "7-Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-17",
-     "tid": "19:00",
-     "serie_id": "367-7536-0",
-     "serie": "7-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "IFK Falköping BTK D1",
-     "borta": "Alingsås PK E",
-     "hemma_klubb": "IFK Falköping Bordtennisklubb",
-     "borta_klubb": "Alingsås Pingis Klubb",
-     "plats": "-",
-     "arrangor": "IFK Falköping Bordtennisklubb",
-     "arrangorer": [
-      "IFK Falköping Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-18",
    "platser": [
@@ -1890,7 +1866,9 @@
      "arrangorer": [
       "IFK Falköping Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "hemma_poang": 1,
+     "borta_poang": 1
     }
    ]
   },
@@ -2883,11 +2861,11 @@
      "placering": 5,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -2916,10 +2894,10 @@
      "placering": 8,
      "lag": "Vårgårda IK B",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2936,21 +2914,21 @@
      "placering": 1,
      "lag": "IFK Falköping BTK C1",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "198–0"
     },
     {
      "placering": 2,
      "lag": "Hangelösa IF",
      "klubb": "Hangelösa Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 9,
      "setdiff": "0–0"
     },
@@ -3077,21 +3055,21 @@
      "placering": 5,
      "lag": "Alingsås PK E",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 3,
-     "vunna": 0,
+     "spelade": 4,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "IFK Falköping BTK D1",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3205,15 +3183,26 @@
      "placering": 3,
      "lag": "Byttorps IF 2",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 6,
+     "forlorade": 4,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Kinna BTK",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 3,
@@ -3224,24 +3213,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

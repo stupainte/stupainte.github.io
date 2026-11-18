@@ -4,7 +4,7 @@
   "namn": "Vårgårda IK Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Vårgårda IK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Vårgårda IK B",
-   "borta": "IFK Lidköping C1",
-   "hemma_klubb": "Vårgårda IK Bordtennis",
-   "borta_klubb": "IFK Lidköping",
-   "plats": "-",
-   "arrangor": "Vårgårda IK Bordtennis",
-   "arrangorer": [
-    "Vårgårda IK Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-11-18",
    "tid": "18:00",
@@ -549,39 +531,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Vårgårda IK B",
+   "borta": "IFK Lidköping C1",
+   "hemma_klubb": "Vårgårda IK Bordtennis",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "-",
+   "arrangor": "Vårgårda IK Bordtennis",
+   "arrangorer": [
+    "Vårgårda IK Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-17",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-17",
-     "tid": "19:00",
-     "serie_id": "367-7460-0",
-     "serie": "6-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Vårgårda IK B",
-     "borta": "IFK Lidköping C1",
-     "hemma_klubb": "Vårgårda IK Bordtennis",
-     "borta_klubb": "IFK Lidköping",
-     "plats": "-",
-     "arrangor": "Vårgårda IK Bordtennis",
-     "arrangorer": [
-      "Vårgårda IK Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-24",
    "platser": [
@@ -909,11 +881,11 @@
      "placering": 5,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -942,10 +914,10 @@
      "placering": 8,
      "lag": "Vårgårda IK B",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -962,11 +934,11 @@
      "placering": 1,
      "lag": "Örslösa-Söne IK",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
@@ -995,10 +967,10 @@
      "placering": 4,
      "lag": "IFK Lidköping B2",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 6,
      "setdiff": "0–0"
     },

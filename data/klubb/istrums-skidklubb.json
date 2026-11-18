@@ -4,7 +4,7 @@
   "namn": "Istrums Skidklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-13T11:49:54Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Istrums SK",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "18:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 5",
-   "hemma": "Karlsborgs BTK B1",
-   "borta": "Istrums SK",
-   "hemma_klubb": "Karlsborgs Bordtennisklubb",
-   "borta_klubb": "Istrums Skidklubb",
-   "plats": "-",
-   "arrangor": "Karlsborgs Bordtennisklubb",
-   "arrangorer": [
-    "Karlsborgs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "18:00",
@@ -53,7 +35,7 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
   },
   {
-   "datum": "2026-11-24",
+   "datum": "2026-11-26",
    "tid": "19:00",
    "serie_id": "367-6442-0",
    "serie": "Div 5 Nordöstra",
@@ -277,6 +259,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "18:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Karlsborgs BTK B1",
+   "borta": "Istrums SK",
+   "hemma_klubb": "Karlsborgs Bordtennisklubb",
+   "borta_klubb": "Istrums Skidklubb",
+   "plats": "-",
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -454,11 +456,11 @@
      "placering": 2,
      "lag": "Karlsborgs BTK B1",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 3,
+     "spelade": 5,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -520,10 +522,10 @@
      "placering": 8,
      "lag": "Istrums SK",
      "klubb": "Istrums Skidklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 1,
      "setdiff": "0–0"
     }

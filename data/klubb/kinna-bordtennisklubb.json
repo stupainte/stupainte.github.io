@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Kinna BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "18:00",
-   "serie_id": "367-6454-0",
-   "serie": "Div 5 Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Kinna BTK",
-   "borta": "Mariedals IK D2",
-   "hemma_klubb": "Kinna Bordtennisklubb",
-   "borta_klubb": "Mariedals Idrottsklubb",
-   "plats": "-",
-   "arrangor": "Kinna Bordtennisklubb",
-   "arrangorer": [
-    "Kinna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
-  },
   {
    "datum": "2026-11-19",
    "tid": "19:00",
@@ -1416,39 +1398,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Kinna BTK B1",
+   "borta": "Sandareds BTK C",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-17",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-17",
-     "tid": "18:00",
-     "serie_id": "367-6454-0",
-     "serie": "Div 5 Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Kinna BTK",
-     "borta": "Mariedals IK D2",
-     "hemma_klubb": "Kinna Bordtennisklubb",
-     "borta_klubb": "Mariedals Idrottsklubb",
-     "plats": "-",
-     "arrangor": "Kinna Bordtennisklubb",
-     "arrangorer": [
-      "Kinna Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -2158,12 +2130,12 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Borgstena IF B",
-     "klubb": "Borgstena IF",
-     "spelade": 5,
+     "lag": "Kinna BTK B1",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 9,
      "setdiff": "0–0"
     },
@@ -2180,18 +2152,18 @@
     },
     {
      "placering": 3,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
      "spelade": 5,
-     "vunna": 3,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
+     "forlorade": 1,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kinna BTK B1",
+     "lag": "Kinna BTK B2",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 5,
      "vunna": 3,
@@ -2237,10 +2209,10 @@
      "placering": 8,
      "lag": "Sandareds BTK C",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2473,15 +2445,26 @@
      "placering": 3,
      "lag": "Byttorps IF 2",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 6,
+     "forlorade": 4,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "IFK Falköping BTK",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Kinna BTK",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 3,
@@ -2492,24 +2475,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IFK Falköping BTK",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

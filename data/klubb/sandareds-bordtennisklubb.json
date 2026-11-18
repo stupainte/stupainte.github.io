@@ -4,7 +4,7 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "18:00",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Sandareds BTK",
-   "borta": "Essunga S BTK",
-   "hemma_klubb": "Sandareds Bordtennisklubb",
-   "borta_klubb": "Essunga Södra Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Sandareds Bordtennisklubb",
-   "arrangorer": [
-    "Sandareds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "11:00",
@@ -1465,39 +1447,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-16",
+   "tid": "19:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Kinna BTK B1",
+   "borta": "Sandareds BTK C",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-17",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "4-Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-17",
-     "tid": "18:00",
-     "serie_id": "367-6345-0",
-     "serie": "4-Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Sandareds BTK",
-     "borta": "Essunga S BTK",
-     "hemma_klubb": "Sandareds Bordtennisklubb",
-     "borta_klubb": "Essunga Södra Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Sandareds Bordtennisklubb",
-     "arrangorer": [
-      "Sandareds Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-24",
    "platser": [
@@ -2420,12 +2392,12 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Borgstena IF B",
-     "klubb": "Borgstena IF",
-     "spelade": 5,
+     "lag": "Kinna BTK B1",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 9,
      "setdiff": "0–0"
     },
@@ -2442,18 +2414,18 @@
     },
     {
      "placering": 3,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
      "spelade": 5,
-     "vunna": 3,
+     "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
+     "forlorade": 1,
+     "matchpoang": 9,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kinna BTK B1",
+     "lag": "Kinna BTK B2",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 5,
      "vunna": 3,
@@ -2499,10 +2471,10 @@
      "placering": 8,
      "lag": "Sandareds BTK C",
      "klubb": "Sandareds Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

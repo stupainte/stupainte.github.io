@@ -4,7 +4,7 @@
   "namn": "Backa Bordtennis Klubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Backa BTK",
@@ -524,8 +524,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Backa Bordtennis Klubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1371,11 +1372,11 @@
      "placering": 1,
      "lag": "Askims BTK E",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1402,8 +1403,8 @@
     },
     {
      "placering": 4,
-     "lag": "Torslanda IK E",
-     "klubb": "Torslanda Idrottsklubb",
+     "lag": "Backa BTK C",
+     "klubb": "Backa Bordtennis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1413,8 +1414,8 @@
     },
     {
      "placering": 5,
-     "lag": "Backa BTK C",
-     "klubb": "Backa Bordtennis Klubb",
+     "lag": "Torslanda IK E",
+     "klubb": "Torslanda Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1437,10 +1438,10 @@
      "placering": 7,
      "lag": "Rudalens IF D",
      "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

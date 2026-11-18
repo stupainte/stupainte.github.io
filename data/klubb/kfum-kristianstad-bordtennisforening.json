@@ -4,7 +4,7 @@
   "namn": "KFUM Kristianstad Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "KFUM Kristianstad BTF",
@@ -88,24 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "513-7451-0",
-   "serie": "Division 4 Nordöstra (1)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Winnö IF A",
-   "borta": "KFUM Kristianstad BTF C",
-   "hemma_klubb": "Winnö Idrottsförening",
-   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
-   "plats": "Färlövs skola",
-   "arrangor": "Winnö Idrottsförening",
-   "arrangorer": [
-    "Winnö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
-  },
   {
    "datum": "2026-11-20",
    "tid": "19:00",
@@ -1839,6 +1821,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Winnö IF A",
+   "borta": "KFUM Kristianstad BTF C",
+   "hemma_klubb": "Winnö Idrottsförening",
+   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
+   "plats": "Färlövs skola",
+   "arrangor": "Winnö Idrottsförening",
+   "arrangorer": [
+    "Winnö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3062,11 +3064,11 @@
      "placering": 4,
      "lag": "Winnö IF A",
      "klubb": "Winnö Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -3084,10 +3086,10 @@
      "placering": 6,
      "lag": "KFUM Kristianstad BTF C",
      "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

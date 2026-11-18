@@ -4,7 +4,7 @@
   "namn": "Bjärreds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Bjärreds BTK",
@@ -1618,6 +1618,26 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 3",
+   "hemma": "Skurups BTK B",
+   "borta": "Bjärreds BTK B",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Skurups Sparbank Arena",
+   "arrangor": "Skurups Bordtennisklubb",
+   "arrangorer": [
+    "Skurups Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "12:30",
    "serie_id": "513-7444-0",
    "serie": "Division 7",
@@ -2860,6 +2880,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Bjärreds BTK B",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Kvarnby AK B",
      "klubb": "Kvarnby Atletklubb",
      "spelade": 3,
@@ -2870,20 +2901,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Malmö IF E",
      "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Bjärreds BTK B",
-     "klubb": "Bjärreds Bordtennisklubb",
      "spelade": 2,
      "vunna": 2,
      "oavgjorda": 0,
@@ -2895,10 +2915,10 @@
      "placering": 4,
      "lag": "Skurups BTK B",
      "klubb": "Skurups Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

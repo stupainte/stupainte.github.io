@@ -4,7 +4,7 @@
   "namn": "Lidan Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Lidan BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "367-7540-0",
-   "serie": "7-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Götene Tor BTK D",
-   "borta": "Lidan BTK C",
-   "hemma_klubb": "Götene/Tor Bordtennisklubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Götene/Tor Bordtennisklubb",
-   "arrangorer": [
-    "Götene/Tor Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7"
-  },
   {
    "datum": "2026-11-18",
    "tid": "17:30",
@@ -1109,6 +1091,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "367-7540-0",
+   "serie": "7-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Götene Tor BTK D",
+   "borta": "Lidan BTK C",
+   "hemma_klubb": "Götene/Tor Bordtennisklubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1368/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-11-25",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -1641,11 +1643,11 @@
      "placering": 5,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1674,10 +1676,10 @@
      "placering": 8,
      "lag": "Vårgårda IK B",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1703,6 +1705,17 @@
     },
     {
      "placering": 2,
+     "lag": "Götene Tor BTK D",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Vedum AIS E1",
      "klubb": "Vedums Allmänna IS",
      "spelade": 4,
@@ -1710,17 +1723,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Götene Tor BTK D",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1749,10 +1751,10 @@
      "placering": 6,
      "lag": "Lidan BTK C",
      "klubb": "Lidan Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

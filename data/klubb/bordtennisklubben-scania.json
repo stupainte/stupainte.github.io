@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "BTK Scania",
@@ -88,24 +88,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-17",
-   "tid": "19:00",
-   "serie_id": "513-7446-0",
-   "serie": "Division 5 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Åstorps BTK E",
-   "borta": "BTK Scania C",
-   "hemma_klubb": "Åstorps Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Scania",
-   "plats": "Rågenhallen, Hagagatan 1, Åstorp",
-   "arrangor": "Åstorps Bordtennisklubb",
-   "arrangorer": [
-    "Åstorps Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7"
-  },
   {
    "datum": "2026-11-18",
    "tid": "18:30",
@@ -1973,6 +1955,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "19:00",
+   "serie_id": "513-7446-0",
+   "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Åstorps BTK E",
+   "borta": "BTK Scania C",
+   "hemma_klubb": "Åstorps Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Scania",
+   "plats": "Rågenhallen, Hagagatan 1, Åstorp",
+   "arrangor": "Åstorps Bordtennisklubb",
+   "arrangorer": [
+    "Åstorps Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3462,11 +3464,11 @@
      "placering": 3,
      "lag": "Åstorps BTK E",
      "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3484,10 +3486,10 @@
      "placering": 5,
      "lag": "BTK Scania C",
      "klubb": "Bordtennisklubben Scania",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

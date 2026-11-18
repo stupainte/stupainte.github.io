@@ -4,7 +4,7 @@
   "namn": "Kungälvs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-18T12:33:01Z",
  "lag": [
   {
    "namn": "Kungälv Cobras",
@@ -145,24 +145,6 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-17",
-   "tid": "18:30",
-   "serie_id": "371-7239-0",
-   "serie": "Division 7",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 3",
-   "hemma": "Romelanda UF",
-   "borta": "Kungälvs BTK E",
-   "hemma_klubb": "Romelanda Ungdomsförening",
-   "borta_klubb": "Kungälvs Bordtennisklubb",
-   "plats": "Romevi",
-   "arrangor": "Romelanda Ungdomsförening",
-   "arrangorer": [
-    "Romelanda Ungdomsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7"
-  },
-  {
    "datum": "2026-11-22",
    "tid": "09:00",
    "serie_id": "493-7486-0",
@@ -257,8 +239,9 @@
    "hemma_klubb": "Torslanda Idrottsklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Aktivitetshallen/klubbhuset Torslanda",
-   "arrangor": "Torslanda Bordtennisklubb",
+   "arrangor": "Torslanda Idrottsklubb / Torslanda Bordtennisklubb",
    "arrangorer": [
+    "Torslanda Idrottsklubb",
     "Torslanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1471/2/7/7"
@@ -1749,7 +1732,7 @@
   },
   {
    "datum": "2027-04-18",
-   "tid": "15:00",
+   "tid": "16:00",
    "serie_id": "371-6457-0",
    "serie": "Division 4 (2)",
    "evenemang": " Göteborgs Distriktserie",
@@ -3650,11 +3633,11 @@
      "placering": 1,
      "lag": "Askims BTK E",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3681,8 +3664,8 @@
     },
     {
      "placering": 4,
-     "lag": "Torslanda IK E",
-     "klubb": "Torslanda Idrottsklubb",
+     "lag": "Backa BTK C",
+     "klubb": "Backa Bordtennis Klubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3692,8 +3675,8 @@
     },
     {
      "placering": 5,
-     "lag": "Backa BTK C",
-     "klubb": "Backa Bordtennis Klubb",
+     "lag": "Torslanda IK E",
+     "klubb": "Torslanda Idrottsklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -3716,10 +3699,10 @@
      "placering": 7,
      "lag": "Rudalens IF D",
      "klubb": "Rudalens Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -3952,11 +3935,11 @@
      "placering": 3,
      "lag": "Torslanda IK D",
      "klubb": "Torslanda Idrottsklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -4007,11 +3990,11 @@
      "placering": 8,
      "lag": "Lekstorp IF H",
      "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
