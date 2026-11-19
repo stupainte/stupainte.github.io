@@ -4,7 +4,7 @@
   "namn": "Öregrunds Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Öregrunds IK A",
@@ -34,24 +34,6 @@
    "hemma": "Rimbo IF A",
    "borta": "Öregrunds IK B",
    "hemma_klubb": "Rimbo Idrottsförening",
-   "borta_klubb": "Öregrunds Idrottsklubb",
-   "plats": "Sven-Persson Hallen",
-   "arrangor": "Öregrunds Idrottsklubb",
-   "arrangorer": [
-    "Öregrunds Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
-  },
-  {
-   "datum": "2026-12-12",
-   "tid": "14:00",
-   "serie_id": "435-6115-0",
-   "serie": "Division 5B",
-   "evenemang": "Nordöstra Svealands BTF 26/27",
-   "omgang": "Round 8",
-   "hemma": "Sunnersta AIF C2",
-   "borta": "Öregrunds IK B",
-   "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Sven-Persson Hallen",
    "arrangor": "Öregrunds Idrottsklubb",
@@ -187,8 +169,8 @@
     "Öregrunds Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
-   "hemma_poang": 0,
-   "borta_poang": 2
+   "hemma_poang": 2,
+   "borta_poang": 0
   },
   {
    "datum": "2026-09-19",
@@ -411,6 +393,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-12-12",
+   "tid": "14:00",
+   "serie_id": "435-6115-0",
+   "serie": "Division 5B",
+   "evenemang": "Nordöstra Svealands BTF 26/27",
+   "omgang": "Round 8",
+   "hemma": "Sunnersta AIF C2",
+   "borta": "Öregrunds IK B",
+   "hemma_klubb": "Sunnersta Allmänna IF",
+   "borta_klubb": "Öregrunds Idrottsklubb",
+   "plats": "Sven-Persson Hallen",
+   "arrangor": "Öregrunds Idrottsklubb",
+   "arrangorer": [
+    "Öregrunds Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "10:00",
    "serie_id": "435-6137-0",
@@ -598,7 +600,9 @@
      "arrangorer": [
       "Öregrunds Idrottsklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     },
     {
      "datum": "2026-12-12",
@@ -652,7 +656,9 @@
      "arrangorer": [
       "Öregrunds Idrottsklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   }
@@ -700,19 +706,19 @@
     },
     {
      "placering": 4,
-     "lag": "Upplands-Ekeby IF B",
-     "klubb": "Upplands-Ekeby Idrottsförening",
-     "spelade": 6,
-     "vunna": 2,
+     "lag": "Sandvikens BTK A",
+     "klubb": "Sandvikens Bordtennisklubb",
+     "spelade": 7,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "264–0"
     },
     {
      "placering": 5,
-     "lag": "Sandvikens BTK A",
-     "klubb": "Sandvikens Bordtennisklubb",
+     "lag": "Upplands-Ekeby IF B",
+     "klubb": "Upplands-Ekeby Idrottsförening",
      "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
@@ -735,10 +741,10 @@
      "placering": 7,
      "lag": "Örbyhus IF",
      "klubb": "Örbyhus Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "264–0"
     },
@@ -770,7 +776,7 @@
      "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "264–0"
     },
     {
@@ -782,10 +788,21 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 9,
-     "setdiff": "0–0"
+     "setdiff": "264–0"
     },
     {
      "placering": 3,
+     "lag": "Skuttunge SK",
+     "klubb": "Skuttunge Sportklubb",
+     "spelade": 7,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 9,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 4,
      "lag": "Rimbo IF A",
      "klubb": "Rimbo Idrottsförening",
      "spelade": 6,
@@ -793,62 +810,51 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 7,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Skuttunge SK",
-     "klubb": "Skuttunge Sportklubb",
-     "spelade": 6,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 7,
-     "setdiff": "0–0"
+     "setdiff": "264–0"
     },
     {
      "placering": 5,
      "lag": "Öregrunds IK B",
      "klubb": "Öregrunds Idrottsklubb",
      "spelade": 6,
-     "vunna": 2,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 4,
-     "setdiff": "0–0"
+     "forlorade": 3,
+     "matchpoang": 6,
+     "setdiff": "264–0"
     },
     {
      "placering": 6,
      "lag": "Sandvikens BTK B",
      "klubb": "Sandvikens Bordtennisklubb",
      "spelade": 6,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 6,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Sunnersta AIF C2",
-     "klubb": "Sunnersta Allmänna IF",
-     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 5,
-     "matchpoang": 3,
-     "setdiff": "0–528"
+     "matchpoang": 4,
+     "setdiff": "264–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Gefle PK D2",
      "klubb": "Gefle Pingisklubb",
      "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 5,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "264–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Sunnersta AIF C2",
+     "klubb": "Sunnersta Allmänna IF",
+     "spelade": 7,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 7,
+     "matchpoang": 0,
+     "setdiff": "0–1848"
     }
    ]
   }

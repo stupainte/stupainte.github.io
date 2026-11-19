@@ -4,7 +4,7 @@
   "namn": "Essunga Södra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Essunga S BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-18",
-   "tid": "19:00",
-   "serie_id": "367-7536-0",
-   "serie": "7-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Essunga S:a BTK B",
-   "borta": "IFK Falköping BTK D2",
-   "hemma_klubb": "Essunga Södra Bordtennisklubb",
-   "borta_klubb": "IFK Falköping Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Essunga Södra Bordtennisklubb",
-   "arrangorer": [
-    "Essunga Södra Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -455,39 +437,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "18:00",
+   "serie_id": "367-6345-0",
+   "serie": "4-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Sandareds BTK",
+   "borta": "Essunga S BTK",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Essunga Södra Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-18",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "7-Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-18",
-     "tid": "19:00",
-     "serie_id": "367-7536-0",
-     "serie": "7-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 4",
-     "hemma": "Essunga S:a BTK B",
-     "borta": "IFK Falköping BTK D2",
-     "hemma_klubb": "Essunga Södra Bordtennisklubb",
-     "borta_klubb": "IFK Falköping Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Essunga Södra Bordtennisklubb",
-     "arrangorer": [
-      "Essunga Södra Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1370/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-26",
    "platser": [
@@ -761,19 +733,19 @@
     },
     {
      "placering": 3,
-     "lag": "Mariedals IK C",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 5,
-     "vunna": 3,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Sandareds BTK",
-     "klubb": "Sandareds Bordtennisklubb",
+     "lag": "Mariedals IK C",
+     "klubb": "Mariedals Idrottsklubb",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -818,10 +790,10 @@
      "placering": 8,
      "lag": "Essunga S BTK",
      "klubb": "Essunga Södra Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 1,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Grästorps Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Grästorps BTK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-18",
-   "tid": "18:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Grästorps BTK B",
-   "borta": "Vårgårda IK",
-   "hemma_klubb": "Grästorps Bordtennisklubb",
-   "borta_klubb": "Vårgårda IK Bordtennis",
-   "plats": "-",
-   "arrangor": "Grästorps Bordtennisklubb",
-   "arrangorer": [
-    "Grästorps Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -743,39 +725,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "18:00",
+   "serie_id": "367-6439-0",
+   "serie": "Div 5 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Grästorps BTK B",
+   "borta": "Vårgårda IK",
+   "hemma_klubb": "Grästorps Bordtennisklubb",
+   "borta_klubb": "Vårgårda IK Bordtennis",
+   "plats": "-",
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-18",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-18",
-     "tid": "18:00",
-     "serie_id": "367-6439-0",
-     "serie": "Div 5 Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Grästorps BTK B",
-     "borta": "Vårgårda IK",
-     "hemma_klubb": "Grästorps Bordtennisklubb",
-     "borta_klubb": "Vårgårda IK Bordtennis",
-     "plats": "-",
-     "arrangor": "Grästorps Bordtennisklubb",
-     "arrangorer": [
-      "Grästorps Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-02",
    "platser": [
@@ -1319,11 +1291,11 @@
      "placering": 3,
      "lag": "Grästorps BTK B",
      "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1341,10 +1313,10 @@
      "placering": 5,
      "lag": "Vårgårda IK",
      "klubb": "Vårgårda IK Bordtennis",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Kungälvs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Kungälv Cobras",
@@ -2878,6 +2878,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "18:30",
+   "serie_id": "371-7239-0",
+   "serie": "Division 7",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 3",
+   "hemma": "Romelanda UF",
+   "borta": "Kungälvs BTK E",
+   "hemma_klubb": "Romelanda Ungdomsförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Romevi",
+   "arrangor": "Romelanda Ungdomsförening",
+   "arrangorer": [
+    "Romelanda Ungdomsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1062/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -3717,17 +3737,6 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Linné D",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
      "lag": "IF IFO B1",
      "klubb": "Idrottsföreningen Ifo",
      "spelade": 1,
@@ -3735,6 +3744,17 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Linné D",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -3858,17 +3878,6 @@
     },
     {
      "placering": 5,
-     "lag": "Kungälvs BTK E",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "BTK Linné I",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
@@ -3879,18 +3888,18 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Askims BTK D",
-     "klubb": "Askims Bordtennisklubb",
-     "spelade": 2,
+     "placering": 6,
+     "lag": "Kungälvs BTK E",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 1,
+     "forlorade": 1,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
-     "placering": 8,
+     "placering": 7,
      "lag": "Romelanda UF",
      "klubb": "Romelanda Ungdomsförening",
      "spelade": 0,
@@ -3898,6 +3907,17 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Askims BTK D",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

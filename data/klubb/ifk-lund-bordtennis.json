@@ -4,7 +4,7 @@
   "namn": "IFK Lund Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "IFK Lund Bordtennis",
@@ -240,78 +240,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-18",
-   "tid": "18:30",
-   "serie_id": "513-7447-0",
-   "serie": "Division 5 Södra 1",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Malmö IF E",
-   "borta": "IFK Lund E3",
-   "hemma_klubb": "Malmö Idrottsförening",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
-   "arrangor": "Malmö Idrottsförening",
-   "arrangorer": [
-    "Malmö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
-  },
-  {
-   "datum": "2026-11-18",
-   "tid": "19:00",
-   "serie_id": "513-7446-0",
-   "serie": "Division 5 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Kågeröds BTK E",
-   "borta": "IFK Lund E1",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "IFK Lund Bordtennis",
-   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
-   "arrangor": "Kågeröds Bordtennisklubb",
-   "arrangorer": [
-    "Kågeröds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7"
-  },
-  {
-   "datum": "2026-11-18",
-   "tid": "19:15",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "IFK Lund D2",
-   "borta": "Kågeröds BTK C",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Kågeröds Bordtennisklubb",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
-  {
-   "datum": "2026-11-18",
-   "tid": "19:15",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "IFK Lund D1",
-   "borta": "Klippans BTK A",
-   "hemma_klubb": "IFK Lund Bordtennis",
-   "borta_klubb": "Klippans Bordtennisklubb",
-   "plats": "IFK-hallen, Centrala IP, Lund",
-   "arrangor": "IFK Lund Bordtennis",
-   "arrangorer": [
-    "IFK Lund Bordtennis"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
   {
    "datum": "2026-11-24",
    "tid": "19:00",
@@ -6262,57 +6190,69 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "18:30",
+   "serie_id": "513-7447-0",
+   "serie": "Division 5 Södra 1",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Malmö IF E",
+   "borta": "IFK Lund E3",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Sofielunds Idrottshus, Lantmannagatan 22",
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "19:15",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "IFK Lund D2",
+   "borta": "Kågeröds BTK C",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "19:15",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "IFK Lund D1",
+   "borta": "Klippans BTK A",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Klippans Bordtennisklubb",
+   "plats": "IFK-hallen, Centrala IP, Lund",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-18",
-   "platser": [
-    "IFK-hallen, Centrala IP, Lund"
-   ],
-   "serier": [
-    "Division 4 Västra"
-   ],
-   "antal": 2,
-   "matcher": [
-    {
-     "datum": "2026-11-18",
-     "tid": "19:15",
-     "serie_id": "513-7453-0",
-     "serie": "Division 4 Västra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 4",
-     "hemma": "IFK Lund D2",
-     "borta": "Kågeröds BTK C",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "Kågeröds Bordtennisklubb",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-    },
-    {
-     "datum": "2026-11-18",
-     "tid": "19:15",
-     "serie_id": "513-7453-0",
-     "serie": "Division 4 Västra",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 4",
-     "hemma": "IFK Lund D1",
-     "borta": "Klippans BTK A",
-     "hemma_klubb": "IFK Lund Bordtennis",
-     "borta_klubb": "Klippans Bordtennisklubb",
-     "plats": "IFK-hallen, Centrala IP, Lund",
-     "arrangor": "IFK Lund Bordtennis",
-     "arrangorer": [
-      "IFK Lund Bordtennis"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-27",
    "platser": [
@@ -9073,78 +9013,78 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Klippans BTK A",
-     "klubb": "Klippans Bordtennisklubb",
-     "spelade": 3,
+     "lag": "IFK Lund D1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "IFK Lund D1",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "Klippans BTK A",
+     "klubb": "Klippans Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "IFK Lund D2",
      "klubb": "IFK Lund Bordtennis",
-     "spelade": 3,
-     "vunna": 1,
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kågeröds BTK C",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "Åstorps BTK D",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Åstorps BTK D",
-     "klubb": "Åstorps Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
+     "lag": "BTK Rekord D",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "BTK Rekord D",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 3,
+     "lag": "Kågeröds BTK C",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "BTK Scania B",
      "klubb": "Bordtennisklubben Scania",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -9152,10 +9092,10 @@
      "placering": 8,
      "lag": "BTK Rekord C",
      "klubb": "Bordtennisklubben Rekord",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -9170,6 +9110,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Malmö IF E",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 3,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Bjärreds BTK B",
      "klubb": "Bjärreds Bordtennisklubb",
      "spelade": 3,
@@ -9180,7 +9131,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Kvarnby AK B",
      "klubb": "Kvarnby Atletklubb",
      "spelade": 3,
@@ -9188,17 +9139,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Malmö IF E",
-     "klubb": "Malmö Idrottsförening",
-     "spelade": 2,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -9216,10 +9156,10 @@
      "placering": 5,
      "lag": "IFK Lund E3",
      "klubb": "IFK Lund Bordtennis",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 1,
      "setdiff": "0–0"
     },
@@ -9344,11 +9284,11 @@
      "placering": 1,
      "lag": "Kågeröds BTK D",
      "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -9397,8 +9337,8 @@
     },
     {
      "placering": 6,
-     "lag": "Klippans BTK B",
-     "klubb": "Klippans Bordtennisklubb",
+     "lag": "Kågeröds BTK E",
+     "klubb": "Kågeröds Bordtennisklubb",
      "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
@@ -9408,12 +9348,12 @@
     },
     {
      "placering": 7,
-     "lag": "Kågeröds BTK E",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 2,
+     "lag": "Klippans BTK B",
+     "klubb": "Klippans Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

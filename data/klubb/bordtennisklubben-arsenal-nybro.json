@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Arsenal Nybro"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "BTK Arsenal Nybro A",
@@ -33,24 +33,6 @@
    "omgang": "Round 6",
    "hemma": "BTK Arsenal Nybro A",
    "borta": "Kalmar BTK C",
-   "hemma_klubb": "Bordtennisklubben Arsenal Nybro",
-   "borta_klubb": "Kalmar Bordtennisklubb",
-   "plats": "Vilohallen Nybro",
-   "arrangor": "Bordtennisklubben Arsenal Nybro",
-   "arrangorer": [
-    "Bordtennisklubben Arsenal Nybro"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6741-0",
-   "serie": "DIV 5 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "BTK Arsenal Nybro B",
-   "borta": "Kalmar BTK A",
    "hemma_klubb": "Bordtennisklubben Arsenal Nybro",
    "borta_klubb": "Kalmar Bordtennisklubb",
    "plats": "Vilohallen Nybro",
@@ -549,6 +531,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6741-0",
+   "serie": "DIV 5 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "BTK Arsenal Nybro B",
+   "borta": "Kalmar BTK A",
+   "hemma_klubb": "Bordtennisklubben Arsenal Nybro",
+   "borta_klubb": "Kalmar Bordtennisklubb",
+   "plats": "Vilohallen Nybro",
+   "arrangor": "Bordtennisklubben Arsenal Nybro",
+   "arrangorer": [
+    "Bordtennisklubben Arsenal Nybro"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -596,7 +598,9 @@
      "arrangorer": [
       "Bordtennisklubben Arsenal Nybro"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -808,19 +812,19 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Enig A",
-     "klubb": "Bordtennisklubben Enig",
-     "spelade": 5,
-     "vunna": 4,
+     "lag": "Kalmar BTK A",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Kalmar BTK A",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "BTK Enig A",
+     "klubb": "Bordtennisklubben Enig",
      "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
@@ -863,8 +867,8 @@
     },
     {
      "placering": 7,
-     "lag": "BTK Arsenal Nybro B",
-     "klubb": "Bordtennisklubben Arsenal Nybro",
+     "lag": "Långemåla BTK C",
+     "klubb": "Långemåla Bordtennisklubb",
      "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
@@ -874,12 +878,12 @@
     },
     {
      "placering": 8,
-     "lag": "Långemåla BTK C",
-     "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 5,
+     "lag": "BTK Arsenal Nybro B",
+     "klubb": "Bordtennisklubben Arsenal Nybro",
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

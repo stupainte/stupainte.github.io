@@ -4,7 +4,7 @@
   "namn": "Borgstena IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Borgstena IF",
@@ -48,24 +48,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-18",
-   "tid": "19:00",
-   "serie_id": "367-7457-0",
-   "serie": "6-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Byttorps IF C2",
-   "borta": "Borgstena IF B",
-   "hemma_klubb": "Byttorps Idrottsförening",
-   "borta_klubb": "Borgstena IF",
-   "plats": "-",
-   "arrangor": "Byttorps Idrottsförening",
-   "arrangorer": [
-    "Byttorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
   {
    "datum": "2026-11-24",
    "tid": "19:00",
@@ -979,6 +961,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "19:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Byttorps IF C2",
+   "borta": "Borgstena IF B",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Borgstena IF",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1380,8 +1382,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Kinna BTK B1",
-     "klubb": "Kinna Bordtennisklubb",
+     "lag": "Byttorps IF C2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 6,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 11,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
      "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
@@ -1390,24 +1403,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Byttorps IF C2",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 9,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
-     "lag": "Borgstena IF B",
-     "klubb": "Borgstena IF",
-     "spelade": 5,
+     "lag": "Kinna BTK B1",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 9,
      "setdiff": "0–0"
     },

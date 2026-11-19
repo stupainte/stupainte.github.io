@@ -4,7 +4,7 @@
   "namn": "Tranås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-19T12:28:15Z",
  "lag": [
   {
    "namn": "Tranås BTK 1",
@@ -2021,6 +2021,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-17",
+   "tid": "13:00",
+   "serie_id": "372-6766-0",
+   "serie": "Veteran Norra A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Tranås BTK A",
+   "borta": "Vetlanda BTK A",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
    "datum": "2026-11-18",
    "tid": "09:00",
    "serie_id": "372-6765-0",
@@ -2102,38 +2122,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-18",
-   "platser": [
-    "Floragatan"
-   ],
-   "serier": [
-    "Veteran Norra B"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-18",
-     "tid": "09:00",
-     "serie_id": "372-6765-0",
-     "serie": "Veteran Norra B",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 5",
-     "hemma": "Tranås BTK B",
-     "borta": "Vetlanda BTK C",
-     "hemma_klubb": "Tranås Bordtennisklubb",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "Floragatan",
-     "arrangor": "Tranås Bordtennisklubb",
-     "arrangorer": [
-      "Tranås Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1308/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 0
-    }
-   ]
-  },
   {
    "datum": "2026-11-19",
    "platser": [
@@ -3296,11 +3284,11 @@
      "placering": 1,
      "lag": "Tranås BTK A",
      "klubb": "Tranås Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
+     "forlorade": 1,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -3327,23 +3315,23 @@
     },
     {
      "placering": 4,
+     "lag": "Vetlanda BTK A",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Vaggeryds BTK A",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Vetlanda BTK A",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -3477,8 +3465,8 @@
     },
     {
      "placering": 2,
-     "lag": "MK Veteranen B",
-     "klubb": "Motionsklubben Veteranen",
+     "lag": "Vetlanda BTK H",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
@@ -3488,18 +3476,18 @@
     },
     {
      "placering": 3,
-     "lag": "Vetlanda BTK E",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "lag": "MK Veteranen B",
+     "klubb": "Motionsklubben Veteranen",
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Vetlanda BTK H",
+     "lag": "Vetlanda BTK E",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 3,
      "vunna": 2,
