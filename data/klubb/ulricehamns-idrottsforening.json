@@ -4,7 +4,7 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Ulricehamns IF",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "10:00",
-   "serie_id": "367-6454-0",
-   "serie": "Div 5 Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Mariedals IK D1",
-   "borta": "Ulricehamns IF B",
-   "hemma_klubb": "Mariedals Idrottsklubb",
-   "borta_klubb": "Ulricehamns Idrottsförening",
-   "plats": "-",
-   "arrangor": "Mariedals Idrottsklubb",
-   "arrangorer": [
-    "Mariedals Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "11:00",
@@ -1577,6 +1559,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1514/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-18",
+   "tid": "10:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Byttorps IF 1",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "367-6454-0",
+   "serie": "Div 5 Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Mariedals IK D1",
+   "borta": "Ulricehamns IF B",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2854,11 +2876,11 @@
      "placering": 1,
      "lag": "IFK Falköping BTK D2",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -2876,10 +2898,10 @@
      "placering": 3,
      "lag": "Essunga S:a BTK B",
      "klubb": "Essunga Södra Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2927,6 +2949,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Mariedals IK D1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 5,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 10,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "ÖSTK",
      "klubb": "Östra Stadsgränsen Tennisklubb",
      "spelade": 6,
@@ -2934,17 +2967,6 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 11,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 2,
-     "lag": "Mariedals IK D1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 4,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -2960,23 +2982,23 @@
     },
     {
      "placering": 4,
-     "lag": "Ulricehamns IF B",
-     "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 5,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Byttorps IF B2",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 5,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ulricehamns IF B",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 6,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 4,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
@@ -3112,11 +3134,11 @@
      "placering": 1,
      "lag": "Mariedals IK",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
@@ -3143,6 +3165,17 @@
     },
     {
      "placering": 4,
+     "lag": "Byttorps IF 1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "IFK Falköping BTK",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 5,
@@ -3153,7 +3186,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Kinna BTK",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 3,
@@ -3164,24 +3197,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Byttorps IF 1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 4,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "Sjömarkens BTK",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3189,10 +3211,10 @@
      "placering": 8,
      "lag": "Ulricehamns IF",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

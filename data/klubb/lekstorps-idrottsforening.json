@@ -4,7 +4,7 @@
   "namn": "Lekstorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Lekstorp Green Giants",
@@ -120,43 +120,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "18:30",
-   "serie_id": "371-7232-0",
-   "serie": "Division 5",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 3",
-   "hemma": "Lekstorps IF D",
-   "borta": "Torslanda IK A",
-   "hemma_klubb": "Lekstorps Idrottsförening",
-   "borta_klubb": "Torslanda Idrottsklubb",
-   "plats": "Röselidsskolan",
-   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Lekstorps Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-  },
-  {
-   "datum": "2026-11-19",
-   "tid": "19:00",
-   "serie_id": "371-7375-0",
-   "serie": "Division 9",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 3",
-   "hemma": "Torslanda BTK B",
-   "borta": "Lekstorps IF G",
-   "hemma_klubb": "Torslanda Bordtennisklubb",
-   "borta_klubb": "Lekstorps Idrottsförening",
-   "plats": "Vinstahallen",
-   "arrangor": "Torslanda Bordtennisklubb",
-   "arrangorer": [
-    "Torslanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "09:00",
@@ -2587,6 +2550,27 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-19",
+   "tid": "18:30",
+   "serie_id": "371-7232-0",
+   "serie": "Division 5",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 3",
+   "hemma": "Lekstorps IF D",
+   "borta": "Torslanda IK A",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Röselidsskolan",
+   "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Lekstorps Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -2628,37 +2612,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "Röselidsskolan"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "18:30",
-     "serie_id": "371-7232-0",
-     "serie": "Division 5",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 3",
-     "hemma": "Lekstorps IF D",
-     "borta": "Torslanda IK A",
-     "hemma_klubb": "Lekstorps Idrottsförening",
-     "borta_klubb": "Torslanda Idrottsklubb",
-     "plats": "Röselidsskolan",
-     "arrangor": "Göteborgs Bordtennisförbund / Lekstorps Idrottsförening",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund",
-      "Lekstorps Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-22",
    "platser": [
@@ -3658,11 +3611,11 @@
      "placering": 1,
      "lag": "Torslanda IK A",
      "klubb": "Torslanda Idrottsklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -3678,17 +3631,6 @@
     },
     {
      "placering": 3,
-     "lag": "Lekstorps IF D",
-     "klubb": "Lekstorps Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "BTK Linné G",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
@@ -3699,7 +3641,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Torslanda BTK A",
      "klubb": "Torslanda Bordtennisklubb",
      "spelade": 1,
@@ -3710,13 +3652,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
+     "placering": 5,
      "lag": "BTK Linné F",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Lekstorps IF D",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -3883,23 +3836,23 @@
     },
     {
      "placering": 5,
-     "lag": "Torslanda IK C",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "IF IFO E",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IF IFO E",
-     "klubb": "Idrottsföreningen Ifo",
-     "spelade": 0,
+     "lag": "Torslanda IK C",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

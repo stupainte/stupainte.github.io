@@ -4,7 +4,7 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "19:00",
-   "serie_id": "513-7451-0",
-   "serie": "Division 4 Nordöstra (1)",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 4",
-   "hemma": "Degeberga GoIF B",
-   "borta": "Hässleholms BTK A",
-   "hemma_klubb": "Degeberga Gymnastik O IF",
-   "borta_klubb": "Hässleholms Bordtennisklubb",
-   "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-   "arrangor": "Degeberga Gymnastik O IF",
-   "arrangorer": [
-    "Degeberga Gymnastik O IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
-  },
   {
    "datum": "2026-11-27",
    "tid": "19:00",
@@ -551,39 +533,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:00",
+   "serie_id": "513-7451-0",
+   "serie": "Division 4 Nordöstra (1)",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Degeberga GoIF B",
+   "borta": "Hässleholms BTK A",
+   "hemma_klubb": "Degeberga Gymnastik O IF",
+   "borta_klubb": "Hässleholms Bordtennisklubb",
+   "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
+   "arrangor": "Degeberga Gymnastik O IF",
+   "arrangorer": [
+    "Degeberga Gymnastik O IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga"
-   ],
-   "serier": [
-    "Division 4 Nordöstra (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "19:00",
-     "serie_id": "513-7451-0",
-     "serie": "Division 4 Nordöstra (1)",
-     "evenemang": "Skåneserier Senior herr/dam",
-     "omgang": "Round 4",
-     "hemma": "Degeberga GoIF B",
-     "borta": "Hässleholms BTK A",
-     "hemma_klubb": "Degeberga Gymnastik O IF",
-     "borta_klubb": "Hässleholms Bordtennisklubb",
-     "plats": "Sporthallen bredvid brandstationen, Tingsvägen 31, Degeberga",
-     "arrangor": "Degeberga Gymnastik O IF",
-     "arrangorer": [
-      "Degeberga Gymnastik O IF"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1477/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-02-14",
    "platser": [
@@ -776,19 +748,19 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "KFUM Kristianstad BTF B",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 3,
-     "vunna": 3,
+     "lag": "Hässleholms BTK A",
+     "klubb": "Hässleholms Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Hässleholms BTK A",
-     "klubb": "Hässleholms Bordtennisklubb",
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
      "spelade": 3,
      "vunna": 3,
      "oavgjorda": 0,
@@ -822,10 +794,10 @@
      "placering": 5,
      "lag": "Degeberga GoIF B",
      "klubb": "Degeberga Gymnastik O IF",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

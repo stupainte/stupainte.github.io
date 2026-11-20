@@ -4,7 +4,7 @@
   "namn": "Mariestads Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Mariestads BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "18:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Istrums SK",
-   "borta": "Mariestads BTK B",
-   "hemma_klubb": "Istrums Skidklubb",
-   "borta_klubb": "Mariestads Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Istrums Skidklubb",
-   "arrangorer": [
-    "Istrums Skidklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-11-24",
    "tid": "19:00",
@@ -551,6 +533,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "18:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Istrums SK",
+   "borta": "Mariestads BTK B",
+   "hemma_klubb": "Istrums Skidklubb",
+   "borta_klubb": "Mariestads Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Istrums Skidklubb",
+   "arrangorer": [
+    "Istrums Skidklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -970,55 +972,55 @@
      "placering": 1,
      "lag": "IFK Lidköping B1",
      "klubb": "IFK Lidköping",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Karlsborgs BTK B1",
-     "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 5,
+     "lag": "Mariestads BTK B",
+     "klubb": "Mariestads Bordtennisklubb",
+     "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Mariestads BTK B",
-     "klubb": "Mariestads Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 3,
+     "lag": "Karlsborgs BTK B1",
+     "klubb": "Karlsborgs Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Skövde PK C",
-     "klubb": "Skövde Pingisklubb",
-     "spelade": 5,
+     "lag": "Götene Tor BTK C",
+     "klubb": "Götene/Tor Bordtennisklubb",
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 6,
+     "forlorade": 3,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Götene Tor BTK C",
-     "klubb": "Götene/Tor Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
+     "lag": "Skövde PK C",
+     "klubb": "Skövde Pingisklubb",
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 5,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -1047,10 +1049,10 @@
      "placering": 8,
      "lag": "Istrums SK",
      "klubb": "Istrums Skidklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 1,
      "setdiff": "0–0"
     }

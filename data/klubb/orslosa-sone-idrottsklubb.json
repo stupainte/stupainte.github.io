@@ -4,7 +4,7 @@
   "namn": "Örslösa-Söne Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Örslösa - Söne IK B",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Örslösa - Söne IK B",
-   "borta": "Lidan BTK B",
-   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Örslösa-Söne Idrottsklubb",
-   "arrangorer": [
-    "Örslösa-Söne Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-11-24",
    "tid": "19:00",
@@ -729,6 +711,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-19",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Örslösa - Söne IK B",
+   "borta": "Lidan BTK B",
+   "hemma_klubb": "Örslösa-Söne Idrottsklubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Örslösa-Söne Idrottsklubb",
+   "arrangorer": [
+    "Örslösa-Söne Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-24",
    "tid": "19:00",
    "serie_id": "367-6439-0",
@@ -750,36 +752,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "19:00",
-     "serie_id": "367-7460-0",
-     "serie": "6-Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Örslösa - Söne IK B",
-     "borta": "Lidan BTK B",
-     "hemma_klubb": "Örslösa-Söne Idrottsklubb",
-     "borta_klubb": "Lidan Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Örslösa-Söne Idrottsklubb",
-     "arrangorer": [
-      "Örslösa-Söne Idrottsklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-24",
    "platser": [
@@ -1114,11 +1086,11 @@
      "placering": 1,
      "lag": "Lidan BTK B",
      "klubb": "Lidan Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
@@ -1136,10 +1108,10 @@
      "placering": 3,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 8,
      "setdiff": "0–0"
     },

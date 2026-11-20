@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "18:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Vedums AIS C",
-   "borta": "Trollhättans BTK B",
-   "hemma_klubb": "Vedums Allmänna IS",
-   "borta_klubb": "Trollhättans Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Vedums Allmänna IS",
-   "arrangorer": [
-    "Vedums Allmänna IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "19:00",
@@ -318,9 +300,10 @@
    "hemma_klubb": "Trollhättans Bordtennisklubb",
    "borta_klubb": "Lidan Bordtennisklubb",
    "plats": "-",
-   "arrangor": "Alingsås Pingis Klubb",
+   "arrangor": "Alingsås Pingis Klubb / Trollhättans Bordtennisklubb",
    "arrangorer": [
-    "Alingsås Pingis Klubb"
+    "Alingsås Pingis Klubb",
+    "Trollhättans Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7"
   },
@@ -1598,6 +1581,37 @@
       "Trollhättans Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Höst Ungd U-Mellersta"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "12:00",
+     "serie_id": "367-7710-0",
+     "serie": "Höst Ungd U-Mellersta",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 4",
+     "hemma": "Trollhättans BTK Röd",
+     "borta": "Lidan BTK Svart",
+     "hemma_klubb": "Trollhättans Bordtennisklubb",
+     "borta_klubb": "Lidan Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "Alingsås Pingis Klubb / Trollhättans Bordtennisklubb",
+     "arrangorer": [
+      "Alingsås Pingis Klubb",
+      "Trollhättans Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7"
     }
    ]
   },

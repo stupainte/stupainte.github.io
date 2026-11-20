@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -40,24 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6759-0",
-   "serie": "Div 6 Syd/VÄSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Carlshamns BTK D",
-   "borta": "Kyrkhults BTK C",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Kyrkhults Bordtennisklubb",
-   "plats": "Väggahallen",
-   "arrangor": "Carlshamns Bordtennisklubb",
-   "arrangorer": [
-    "Carlshamns Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "13:00",
@@ -1055,6 +1037,26 @@
   {
    "datum": "2026-11-29",
    "tid": "13:00",
+   "serie_id": "372-6759-0",
+   "serie": "Div 6 Syd/VÄSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Carlshamns BTK D",
+   "borta": "Kyrkhults BTK C",
+   "hemma_klubb": "Carlshamns Bordtennisklubb",
+   "borta_klubb": "Kyrkhults Bordtennisklubb",
+   "plats": "Väggahallen",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1183/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
    "serie_id": "372-6772-0",
    "serie": "Veteran Södra",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1714,11 +1716,11 @@
      "placering": 2,
      "lag": "Carlshamns BTK D",
      "klubb": "Carlshamns Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -1758,10 +1760,10 @@
      "placering": 6,
      "lag": "Kyrkhults BTK C",
      "klubb": "Kyrkhults Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

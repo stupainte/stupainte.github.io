@@ -4,7 +4,7 @@
   "namn": "Hyssna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Hyssna BTK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "19:45",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Sjömarkens BTK B2",
-   "borta": "Hyssna BTK",
-   "hemma_klubb": "Sjömarkens Bordtennisklubb",
-   "borta_klubb": "Hyssna Bordtennisklubb",
-   "plats": "Sjömarkens klubblokal",
-   "arrangor": "Sjömarkens Bordtennisklubb",
-   "arrangorer": [
-    "Sjömarkens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "11:00",
@@ -617,6 +599,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:45",
+   "serie_id": "367-6345-0",
+   "serie": "4-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Sjömarkens BTK B2",
+   "borta": "Hyssna BTK",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Hyssna Bordtennisklubb",
+   "plats": "Sjömarkens klubblokal",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -984,17 +986,28 @@
     },
     {
      "placering": 5,
-     "lag": "Hyssna BTK",
-     "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 5,
+     "lag": "Sjömarkens BTK B2",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Byttorps IF",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 5,
@@ -1002,17 +1015,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
-     "lag": "Sjömarkens BTK B2",
-     "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1059,6 +1061,17 @@
     },
     {
      "placering": 3,
+     "lag": "Mariedals IK E1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Hyssna BTK B",
      "klubb": "Hyssna Bordtennisklubb",
      "spelade": 5,
@@ -1069,7 +1082,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sjömarkens BTK D1",
      "klubb": "Sjömarkens Bordtennisklubb",
      "spelade": 4,
@@ -1080,7 +1093,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Mariedals IK E2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 4,
@@ -1091,24 +1104,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Mariedals IK E1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "Kinna BTK C",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

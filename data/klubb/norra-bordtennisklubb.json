@@ -4,7 +4,7 @@
   "namn": "Norra Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Norra BTK A",
@@ -126,6 +126,26 @@
   }
  ],
  "resultat": [
+  {
+   "datum": "2026-11-11",
+   "tid": "18:00",
+   "serie_id": "376-6944-0",
+   "serie": "Div 5 Mellersta A",
+   "evenemang": "Norrlands BTF",
+   "omgang": "Round 1",
+   "hemma": "Kungsgårdens IS B",
+   "borta": "Norra BTK A",
+   "hemma_klubb": "Kungsgårdens Idrottssällskap",
+   "borta_klubb": "Norra Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Kungsgårdens Idrottssällskap",
+   "arrangorer": [
+    "Kungsgårdens Idrottssällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1356/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
   {
    "datum": "2026-11-15",
    "tid": "10:00",
@@ -373,6 +393,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kungsgårdens IS B",
+     "klubb": "Kungsgårdens Idrottssällskap",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Docksta BTK B",
      "klubb": "Docksta Bordtennisklubb",
      "spelade": 4,
@@ -383,7 +414,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Höga Kusten AIF B",
      "klubb": "Höga Kusten Allmänna Idrottsförening",
      "spelade": 3,
@@ -394,31 +425,20 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Kungsgårdens IS B",
-     "klubb": "Kungsgårdens Idrottssällskap",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
-     "lag": "Norra BTK A",
-     "klubb": "Norra Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Docksta BTK A",
+     "klubb": "Docksta Bordtennisklubb",
+     "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Docksta BTK A",
-     "klubb": "Docksta Bordtennisklubb",
+     "lag": "Norra BTK A",
+     "klubb": "Norra Bordtennisklubb",
      "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,

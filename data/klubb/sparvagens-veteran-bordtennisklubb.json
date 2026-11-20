@@ -4,7 +4,7 @@
   "namn": "Spårvägens Veteran Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Spårvägens V BTK A2",
@@ -108,6 +108,26 @@
    "borta": "Hammarby IF BTF B",
    "hemma_klubb": "Spårvägens Veteran Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": null,
+   "arrangor": "Spårvägens Veteran Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Veteran Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1579/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7786-0",
+   "serie": "Pensionär Serie C",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Spårvägens V. BTK C",
+   "borta": "Ingarö IF",
+   "hemma_klubb": "Spårvägens Veteran Bordtennisklubb",
+   "borta_klubb": "Ingarö Idrottsförening",
    "plats": null,
    "arrangor": "Spårvägens Veteran Bordtennisklubb",
    "arrangorer": [
@@ -787,6 +807,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Ingarö IF",
+     "klubb": "Ingarö Idrottsförening",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 5,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 2,
      "lag": "Hammarby IF BTF B",
      "klubb": "Hammarby IF Bordtennisförening",
      "spelade": 4,
@@ -797,7 +828,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Ängby SK C2",
      "klubb": "Ängby Sportklubb",
      "spelade": 3,
@@ -808,7 +839,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Djurgårdens IF BTF ",
      "klubb": "Djurgårdens IF BTF",
      "spelade": 4,
@@ -817,17 +848,6 @@
      "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "198–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Spårvägens V. BTK C",
-     "klubb": "Spårvägens Veteran Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–0"
     },
     {
      "placering": 5,
@@ -842,23 +862,23 @@
     },
     {
      "placering": 6,
-     "lag": "Ingarö IF",
-     "klubb": "Ingarö Idrottsförening",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
-     "setdiff": "0–198"
-    },
-    {
-     "placering": 7,
      "lag": "Tyresö BTK",
      "klubb": "Tyresö Bordtennisklubb",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 4,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Spårvägens V. BTK C",
+     "klubb": "Spårvägens Veteran Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 3,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

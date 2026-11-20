@@ -4,7 +4,7 @@
   "namn": "Gropens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-18T12:33:01Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Gropens IF-A",
@@ -32,43 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 6",
-   "hemma": "Simon SK-A2",
-   "borta": "Gropens IF-B",
-   "hemma_klubb": "Simon Sportklubb",
-   "borta_klubb": "Gropens Idrottsförening",
-   "plats": "Simon SK",
-   "arrangor": "Örebro Läns Bordtennisförbund / Simon Sportklubb",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Simon Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
-  {
-   "datum": "2026-11-19",
-   "tid": "18:00",
-   "serie_id": "460-8169-0",
-   "serie": "Division 6",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 2",
-   "hemma": "Gropens IF-C",
-   "borta": "Åsbro GOIF-A",
-   "hemma_klubb": "Gropens Idrottsförening",
-   "borta_klubb": "Åsbro Gymnastik O IF",
-   "plats": "Gropen",
-   "arrangor": "Gropens Idrottsförening",
-   "arrangorer": [
-    "Gropens Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -812,6 +775,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-19",
+   "tid": "18:00",
+   "serie_id": "460-8169-0",
+   "serie": "Division 6",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 2",
+   "hemma": "Gropens IF-C",
+   "borta": "Åsbro GOIF-A",
+   "hemma_klubb": "Gropens Idrottsförening",
+   "borta_klubb": "Åsbro Gymnastik O IF",
+   "plats": "Gropen",
+   "arrangor": "Gropens Idrottsförening",
+   "arrangorer": [
+    "Gropens Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-02-11",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -834,36 +817,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "Gropen"
-   ],
-   "serier": [
-    "Division 6"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "18:00",
-     "serie_id": "460-8169-0",
-     "serie": "Division 6",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 2",
-     "hemma": "Gropens IF-C",
-     "borta": "Åsbro GOIF-A",
-     "hemma_klubb": "Gropens Idrottsförening",
-     "borta_klubb": "Åsbro Gymnastik O IF",
-     "plats": "Gropen",
-     "arrangor": "Gropens Idrottsförening",
-     "arrangorer": [
-      "Gropens Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-26",
    "platser": [
@@ -1420,11 +1373,11 @@
      "placering": 1,
      "lag": "Storå BTK-C",
      "klubb": "Storå Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1451,24 +1404,24 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Safir-D2",
-     "klubb": "Bordtennisklubben Safir",
-     "spelade": 3,
+     "lag": "Simon SK-A1",
+     "klubb": "Simon Sportklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 3,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Simon SK-A1",
-     "klubb": "Simon Sportklubb",
+     "lag": "BTK Safir-D2",
+     "klubb": "Bordtennisklubben Safir",
      "spelade": 4,
-     "vunna": 1,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 3,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -1497,10 +1450,10 @@
      "placering": 8,
      "lag": "BTK Safir-D1",
      "klubb": "Bordtennisklubben Safir",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -1537,6 +1490,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Gropens IF-C",
+     "klubb": "Gropens Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Storå BTK-D",
      "klubb": "Storå Bordtennisklubb",
      "spelade": 1,
@@ -1547,20 +1511,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Nerikes Kils SK-B",
      "klubb": "Nerikes Kils Sportklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Gropens IF-C",
-     "klubb": "Gropens Idrottsförening",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1581,8 +1534,8 @@
     },
     {
      "placering": 5,
-     "lag": "Åsbro GOIF-A",
-     "klubb": "Åsbro Gymnastik O IF",
+     "lag": "Ervalla SK-A",
+     "klubb": "Ervalla Sportklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1592,12 +1545,12 @@
     },
     {
      "placering": 6,
-     "lag": "Ervalla SK-A",
-     "klubb": "Ervalla Sportklubb",
-     "spelade": 1,
+     "lag": "Åsbro GOIF-A",
+     "klubb": "Åsbro Gymnastik O IF",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

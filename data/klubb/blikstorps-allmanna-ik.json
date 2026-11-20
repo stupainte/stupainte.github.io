@@ -4,7 +4,7 @@
   "namn": "Blikstorps Allmänna IK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-20T12:27:21Z",
  "lag": [
   {
    "namn": "Blikstorps AIK",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-19",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Blikstorps AIK C",
-   "borta": "Varnhems IF",
-   "hemma_klubb": "Blikstorps Allmänna IK",
-   "borta_klubb": "Varnhems Idrottsförening",
-   "plats": "-",
-   "arrangor": "Blikstorps Allmänna IK",
-   "arrangorer": [
-    "Blikstorps Allmänna IK"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -787,6 +769,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-18",
+   "tid": "19:00",
+   "serie_id": "367-6440-0",
+   "serie": "4-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Skagersviks BTK",
+   "borta": "Blikstorps AIK B",
+   "hemma_klubb": "Skagersviks Bordtennisklubb",
+   "borta_klubb": "Blikstorps Allmänna IK",
+   "plats": "-",
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Blikstorps AIK C",
+   "borta": "Varnhems IF",
+   "hemma_klubb": "Blikstorps Allmänna IK",
+   "borta_klubb": "Varnhems Idrottsförening",
+   "plats": "-",
+   "arrangor": "Blikstorps Allmänna IK",
+   "arrangorer": [
+    "Blikstorps Allmänna IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-01-28",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -808,36 +830,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-19",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-19",
-     "tid": "19:00",
-     "serie_id": "367-7428-0",
-     "serie": "6-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Blikstorps AIK C",
-     "borta": "Varnhems IF",
-     "hemma_klubb": "Blikstorps Allmänna IK",
-     "borta_klubb": "Varnhems Idrottsförening",
-     "plats": "-",
-     "arrangor": "Blikstorps Allmänna IK",
-     "arrangorer": [
-      "Blikstorps Allmänna IK"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-26",
    "platser": [
@@ -1199,45 +1191,45 @@
     },
     {
      "placering": 3,
-     "lag": "Blikstorps AIK B",
-     "klubb": "Blikstorps Allmänna IK",
-     "spelade": 5,
-     "vunna": 3,
+     "lag": "IFK Falköping BTK B",
+     "klubb": "IFK Falköping Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 7,
+     "matchpoang": 8,
      "setdiff": "264–0"
     },
     {
      "placering": 4,
-     "lag": "IFK Falköping BTK B",
-     "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 5,
+     "lag": "Blikstorps AIK B",
+     "klubb": "Blikstorps Allmänna IK",
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 6,
+     "forlorade": 3,
+     "matchpoang": 7,
      "setdiff": "264–0"
     },
     {
      "placering": 5,
      "lag": "Skagersviks BTK",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "264–0"
     },
     {
      "placering": 6,
      "lag": "Hova BTK",
      "klubb": "Hova Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -1285,6 +1277,17 @@
     },
     {
      "placering": 2,
+     "lag": "Varnhems IF",
+     "klubb": "Varnhems Idrottsförening",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "0–198"
+    },
+    {
+     "placering": 3,
      "lag": "Hangelösa IF",
      "klubb": "Hangelösa Idrottsförening",
      "spelade": 6,
@@ -1295,25 +1298,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Varnhems IF",
-     "klubb": "Varnhems Idrottsförening",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
-     "setdiff": "0–198"
-    },
-    {
      "placering": 4,
      "lag": "Skövde PK D",
      "klubb": "Skövde Pingisklubb",
-     "spelade": 5,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -1342,10 +1334,10 @@
      "placering": 7,
      "lag": "Karlsborgs BTK C2",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1353,10 +1345,10 @@
      "placering": 8,
      "lag": "Blikstorps AIK C",
      "klubb": "Blikstorps Allmänna IK",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
