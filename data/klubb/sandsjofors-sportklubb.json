@@ -4,7 +4,7 @@
   "namn": "Sandsjöfors Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Sandsjöfors SK",
@@ -49,24 +49,6 @@
     "Södra Vi Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1950/2/7/7"
-  },
-  {
-   "datum": "2026-11-21",
-   "tid": "10:00",
-   "serie_id": "372-10444-0",
-   "serie": "U5 Norr",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Sandsjöfors SK",
-   "borta": "Tranås BTK 3",
-   "hemma_klubb": "Sandsjöfors Sportklubb",
-   "borta_klubb": "Tranås Bordtennisklubb",
-   "plats": "Sandsjöfors Sporthall",
-   "arrangor": "Sandsjöfors Sportklubb",
-   "arrangorer": [
-    "Sandsjöfors Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7"
   },
   {
    "datum": "2026-11-21",
@@ -369,6 +351,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-21",
+   "tid": "10:00",
+   "serie_id": "372-10444-0",
+   "serie": "U5 Norr",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Sandsjöfors SK",
+   "borta": "Tranås BTK 3",
+   "hemma_klubb": "Sandsjöfors Sportklubb",
+   "borta_klubb": "Tranås Bordtennisklubb",
+   "plats": "Sandsjöfors Sporthall",
+   "arrangor": "Sandsjöfors Sportklubb",
+   "arrangorer": [
+    "Sandsjöfors Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-03-14",
    "tid": "13:00",
    "serie_id": "372-6760-0",
@@ -416,7 +418,9 @@
      "arrangorer": [
       "Sandsjöfors Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 0
     },
     {
      "datum": "2026-11-21",
@@ -746,10 +750,32 @@
    "serie": "U5 Norr",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Tranås BTK 3",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Sandsjöfors SK",
+     "klubb": "Sandsjöfors Sportklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "BTK Clipper 2",
      "klubb": "Bordtennisklubben Clipper",
      "spelade": 0,
@@ -760,9 +786,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Sandsjöfors SK",
-     "klubb": "Sandsjöfors Sportklubb",
+     "placering": 3,
+     "lag": "Vaggeryd BTK 2",
+     "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -774,28 +800,6 @@
      "placering": 3,
      "lag": "Vaggeryd BTK 3",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Vaggeryd BTK 2",
-     "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tranås BTK 3",
-     "klubb": "Tranås Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

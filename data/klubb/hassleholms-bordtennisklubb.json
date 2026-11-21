@@ -4,7 +4,7 @@
   "namn": "Hässleholms Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Hässleholms BTK A",
@@ -2257,6 +2257,27 @@
   {
    "datum": "2026-11-19",
    "tid": "19:00",
+   "serie_id": "513-7449-0",
+   "serie": "Division 5 Nordöstra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 4",
+   "hemma": "Hylta GF",
+   "borta": "Hässleholms BTK B2",
+   "hemma_klubb": "Hylta Gymnastikförening",
+   "borta_klubb": "Hässleholms Bordtennisklubb",
+   "plats": "BT Hallen, Påarp",
+   "arrangor": "Bjärnums Bordtennisklubb / Hylta Gymnastikförening",
+   "arrangorer": [
+    "Bjärnums Bordtennisklubb",
+    "Hylta Gymnastikförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1483/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:00",
    "serie_id": "513-7451-0",
    "serie": "Division 4 Nordöstra (1)",
    "evenemang": "Skåneserier Senior herr/dam",
@@ -3477,6 +3498,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "KFUM Kristianstad BTF B",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 4,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Hässleholms BTK A",
      "klubb": "Hässleholms Bordtennisklubb",
      "spelade": 4,
@@ -3487,24 +3519,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "KFUM Kristianstad BTF B",
-     "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 3,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 3,
      "lag": "Arkelstorps BTK A",
      "klubb": "Arkelstorps Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -3651,11 +3672,11 @@
      "placering": 3,
      "lag": "KFUM Kristianstad BTF D",
      "klubb": "KFUM Kristianstad Bordtennisförening",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3671,17 +3692,6 @@
     },
     {
      "placering": 5,
-     "lag": "Winnö IF B",
-     "klubb": "Winnö Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Hylta GF",
      "klubb": "Hylta Gymnastikförening",
      "spelade": 2,
@@ -3689,6 +3699,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Winnö IF B",
+     "klubb": "Winnö Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {

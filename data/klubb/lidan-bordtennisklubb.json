@@ -4,7 +4,7 @@
   "namn": "Lidan Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Lidan BTK",
@@ -297,25 +297,6 @@
     "Karlsborgs Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1512/2/7/7"
-  },
-  {
-   "datum": "2026-12-13",
-   "tid": "12:00",
-   "serie_id": "367-7710-0",
-   "serie": "Höst Ungd U-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 4",
-   "hemma": "Trollhättans BTK Röd",
-   "borta": "Lidan BTK Svart",
-   "hemma_klubb": "Trollhättans Bordtennisklubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Alingsås Pingis Klubb / Trollhättans Bordtennisklubb",
-   "arrangorer": [
-    "Alingsås Pingis Klubb",
-    "Trollhättans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -1079,6 +1060,26 @@
   },
   {
    "datum": "2026-11-19",
+   "tid": "18:00",
+   "serie_id": "367-6440-0",
+   "serie": "4-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Vedums AIS B",
+   "borta": "Lidan BTK",
+   "hemma_klubb": "Vedums Allmänna IS",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-19",
    "tid": "19:00",
    "serie_id": "367-7460-0",
    "serie": "6-Mellersta",
@@ -1116,6 +1117,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "12:00",
+   "serie_id": "367-7710-0",
+   "serie": "Höst Ungd U-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Trollhättans BTK Röd",
+   "borta": "Lidan BTK Svart",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Alingsås Pingis Klubb / Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb",
+    "Trollhättans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   },
   {
    "datum": "2027-03-04",
@@ -1489,10 +1511,10 @@
      "placering": 1,
      "lag": "Lidan BTK",
      "klubb": "Lidan Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 6,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 12,
      "setdiff": "264–0"
     },
@@ -1500,11 +1522,11 @@
      "placering": 2,
      "lag": "Vedums AIS B",
      "klubb": "Vedums Allmänna IS",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "264–0"
     },
     {
@@ -1789,6 +1811,17 @@
     },
     {
      "placering": 4,
+     "lag": "Lidan BTK Svart",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Alingsås PK Ultra",
      "klubb": "Alingsås Pingis Klubb",
      "spelade": 1,
@@ -1799,24 +1832,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Lidan BTK Svart",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Trollhättans BTK Röd",
      "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

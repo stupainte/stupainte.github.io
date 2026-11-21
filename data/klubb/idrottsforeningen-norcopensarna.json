@@ -4,7 +4,7 @@
   "namn": "Idrottsföreningen Norcopensarna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "IF Norcopensarna",
@@ -5705,6 +5705,26 @@
    "serie": "Veteran B",
    "evenemang": "Östergötlands BTF 2026/2027",
    "omgang": "Round 3",
+   "hemma": "IF Norcopensarna V5",
+   "borta": "Linköpings PK V4",
+   "hemma_klubb": "Idrottsföreningen Norcopensarna",
+   "borta_klubb": "Linköpings Pingisklubb",
+   "plats": "Norcohallen",
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1747/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "10:00",
+   "serie_id": "467-8463-0",
+   "serie": "Veteran B",
+   "evenemang": "Östergötlands BTF 2026/2027",
+   "omgang": "Round 3",
    "hemma": "IF Norcopensarna V4",
    "borta": "Västers BTK V2",
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
@@ -10001,15 +10021,26 @@
      "placering": 2,
      "lag": "Västers BTK V2",
      "klubb": "Västers Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "IF Norcopensarna V5",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Västers BTK V1",
      "klubb": "Västers Bordtennisklubb",
      "spelade": 4,
@@ -10017,17 +10048,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "IF Norcopensarna V5",
-     "klubb": "Idrottsföreningen Norcopensarna",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -10045,10 +10065,10 @@
      "placering": 6,
      "lag": "Linköpings PK V4",
      "klubb": "Linköpings Pingisklubb",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

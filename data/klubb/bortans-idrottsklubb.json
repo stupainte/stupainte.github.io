@@ -4,7 +4,7 @@
   "namn": "Bortans Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Bortans IK",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-21",
-   "tid": "11:00",
-   "serie_id": "417-5765-0",
-   "serie": "Div 3 NSSV",
-   "evenemang": "Nationellt seriespel 2026-2027",
-   "omgang": "Round 6",
-   "hemma": "Kristinehamns BTF: B1",
-   "borta": "Bortans IK",
-   "hemma_klubb": "Kristinehamns Bordtennisförening",
-   "borta_klubb": "Bortans Idrottsklubb",
-   "plats": "A-hallen",
-   "arrangor": "Kristinehamns Bordtennisförening",
-   "arrangorer": [
-    "Kristinehamns Bordtennisförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
-  },
   {
    "datum": "2026-12-13",
    "tid": "11:00",
@@ -281,6 +263,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "11:00",
+   "serie_id": "417-5765-0",
+   "serie": "Div 3 NSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 6",
+   "hemma": "Kristinehamns BTF: B1",
+   "borta": "Bortans IK",
+   "hemma_klubb": "Kristinehamns Bordtennisförening",
+   "borta_klubb": "Bortans Idrottsklubb",
+   "plats": "A-hallen",
+   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangorer": [
+    "Kristinehamns Bordtennisförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [],
@@ -305,6 +307,17 @@
     },
     {
      "placering": 2,
+     "lag": "Kristinehamns BTF: B1",
+     "klubb": "Kristinehamns Bordtennisförening",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Storå BTK",
      "klubb": "Storå Bordtennisklubb",
      "spelade": 6,
@@ -312,17 +325,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Kristinehamns BTF: B1",
-     "klubb": "Kristinehamns Bordtennisförening",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -362,10 +364,10 @@
      "placering": 7,
      "lag": "Bortans IK",
      "klubb": "Bortans Idrottsklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

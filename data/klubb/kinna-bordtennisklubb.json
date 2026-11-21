@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Kinna BTK",
@@ -1440,6 +1440,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-19",
+   "tid": "19:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Kinna BTK B2",
+   "borta": "Byttorps IF C1",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2133,6 +2153,17 @@
     },
     {
      "placering": 2,
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 9,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Borgstena IF B",
      "klubb": "Borgstena IF",
      "spelade": 6,
@@ -2143,7 +2174,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Kinna BTK B1",
      "klubb": "Kinna Bordtennisklubb",
      "spelade": 6,
@@ -2151,17 +2182,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 9,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -2190,10 +2210,10 @@
      "placering": 7,
      "lag": "Byttorps IF C1",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "0–0"
     },

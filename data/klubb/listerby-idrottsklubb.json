@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-17T12:44:50Z",
+ "uppdaterad": "2026-11-21T12:03:12Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-21",
-   "tid": "10:00",
-   "serie_id": "372-10443-0",
-   "serie": "U5 Syd B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Listerby IK 2",
-   "borta": "Kättilsmåla BTK 2",
-   "hemma_klubb": "Listerby Idrottsklubb",
-   "borta_klubb": "Kättilsmåla Bordtennisklubb",
-   "plats": "J-O Waldnerhallen",
-   "arrangor": "Kalmar Bordtennisklubb",
-   "arrangorer": [
-    "Kalmar Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7"
-  },
   {
    "datum": "2026-11-21",
    "tid": "11:30",
@@ -1427,6 +1409,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "10:00",
+   "serie_id": "372-10443-0",
+   "serie": "U5 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 1",
+   "hemma": "Listerby IK 2",
+   "borta": "Kättilsmåla BTK 2",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Kättilsmåla Bordtennisklubb",
+   "plats": "J-O Waldnerhallen",
+   "arrangor": "Kalmar Bordtennisklubb",
+   "arrangorer": [
+    "Kalmar Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -2516,10 +2518,32 @@
    "serie": "U5 Syd B",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Listerby IK 2",
+     "klubb": "Listerby Idrottsklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kättilsmåla BTK 2",
+     "klubb": "Kättilsmåla Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kalmar BTK 4",
      "klubb": "Kalmar Bordtennisklubb",
      "spelade": 0,
@@ -2530,31 +2554,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 4,
      "lag": "Kalmar BTK 3",
      "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Listerby IK 2",
-     "klubb": "Listerby Idrottsklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kättilsmåla BTK 2",
-     "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
