@@ -4,7 +4,7 @@
   "namn": "Örjansklubben/Ramkvilla IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-22T12:15:35Z",
  "lag": [
   {
    "namn": "Örjansklubben",
@@ -32,60 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-21",
-   "tid": "10:00",
-   "serie_id": "372-10403-0",
-   "serie": "Ungdom Flickor",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Örjansklubben",
-   "borta": "Sandsjöfors SK",
-   "hemma_klubb": "Örjansklubben/Ramkvilla IF",
-   "borta_klubb": "Sandsjöfors Sportklubb",
-   "plats": "Södra Vi Sporthall",
-   "arrangor": "Södra Vi Idrottsförening",
-   "arrangorer": [
-    "Södra Vi Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1950/2/7/7"
-  },
-  {
-   "datum": "2026-11-21",
-   "tid": "11:30",
-   "serie_id": "372-10403-0",
-   "serie": "Ungdom Flickor",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Örjansklubben",
-   "borta": "Södra Vi IF 1",
-   "hemma_klubb": "Örjansklubben/Ramkvilla IF",
-   "borta_klubb": "Södra Vi Idrottsförening",
-   "plats": "Södra Vi Sporthall",
-   "arrangor": "Södra Vi Idrottsförening",
-   "arrangorer": [
-    "Södra Vi Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1950/2/7/7"
-  },
-  {
-   "datum": "2026-11-21",
-   "tid": "13:00",
-   "serie_id": "372-10403-0",
-   "serie": "Ungdom Flickor",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Örjansklubben",
-   "borta": "Dänningelanda BTK ",
-   "hemma_klubb": "Örjansklubben/Ramkvilla IF",
-   "borta_klubb": "Dänningelanda Bordtennisklubb",
-   "plats": "Södra Vi Sporthall",
-   "arrangor": "Södra Vi Idrottsförening",
-   "arrangorer": [
-    "Södra Vi Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1950/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "10:00",
@@ -646,8 +592,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Näcken",
-     "klubb": "Bordtennisklubben Näcken",
+     "lag": "Örjansklubben/Ramkvilla",
+     "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -668,8 +614,8 @@
     },
     {
      "placering": 3,
-     "lag": "Örjansklubben/Ramkvilla",
-     "klubb": "Örjansklubben/Ramkvilla IF",
+     "lag": "BTK Näcken",
+     "klubb": "Bordtennisklubben Näcken",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -679,8 +625,8 @@
     },
     {
      "placering": 4,
-     "lag": "Västervik BTK",
-     "klubb": "Västerviks Bordtennisklubb",
+     "lag": "Vetlanda BTK 2",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -690,8 +636,8 @@
     },
     {
      "placering": 5,
-     "lag": "Vetlanda BTK 2",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "Västervik BTK",
+     "klubb": "Västerviks Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -706,67 +652,67 @@
    "serie": "Ungdom Flickor",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1950/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Örjansklubben",
-     "klubb": "Örjansklubben/Ramkvilla IF",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Södra Vi IF 2",
+     "klubb": "Södra Vi Idrottsförening",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Södra Vi IF 2",
-     "klubb": "Södra Vi Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Sandsjöfors SK",
+     "klubb": "Sandsjöfors Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Bergkvara BTK",
-     "klubb": "Bergkvara Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Dänningelanda BTK ",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Dänningelanda BTK ",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Södra Vi IF 1",
+     "klubb": "Södra Vi Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Södra Vi IF 1",
-     "klubb": "Södra Vi Idrottsförening",
-     "spelade": 0,
+     "lag": "Bergkvara BTK",
+     "klubb": "Bergkvara Bordtennisklubb",
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 3,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Sandsjöfors SK",
-     "klubb": "Sandsjöfors Sportklubb",
+     "lag": "Örjansklubben",
+     "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

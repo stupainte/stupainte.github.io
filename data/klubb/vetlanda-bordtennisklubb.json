@@ -4,7 +4,7 @@
   "namn": "Vetlanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-22T12:15:35Z",
  "lag": [
   {
    "namn": "Vetlanda 1",
@@ -112,24 +112,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-21",
-   "tid": "11:30",
-   "serie_id": "372-10407-0",
-   "serie": "Höst Ungd U3 Syd",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Vetlanda 1",
-   "borta": "Faggemåla",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Faggemåla Bordtennisklubb",
-   "plats": "faggemåla",
-   "arrangor": "Faggemåla Bordtennisklubb",
-   "arrangorer": [
-    "Faggemåla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "10:00",
@@ -2721,6 +2703,26 @@
    "borta_poang": 1
   },
   {
+   "datum": "2026-11-19",
+   "tid": "12:00",
+   "serie_id": "372-6763-0",
+   "serie": "Veteran Norra D",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Tranås BTK D",
+   "borta": "Vetlanda BTK E",
+   "hemma_klubb": "Tranås Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Floragatan",
+   "arrangor": "Tranås Bordtennisklubb",
+   "arrangorer": [
+    "Tranås Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-21",
    "tid": "10:00",
    "serie_id": "372-10407-0",
@@ -2739,6 +2741,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "11:30",
+   "serie_id": "372-10407-0",
+   "serie": "Höst Ungd U3 Syd",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Vetlanda 1",
+   "borta": "Faggemåla",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Faggemåla Bordtennisklubb",
+   "plats": "faggemåla",
+   "arrangor": "Faggemåla Bordtennisklubb",
+   "arrangorer": [
+    "Faggemåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 2
   },
   {
    "datum": "2027-02-14",
@@ -4064,15 +4086,26 @@
      "placering": 1,
      "lag": "BTK Frej E",
      "klubb": "Bordtennisklubben Frej",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 5,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 10,
+     "forlorade": 1,
+     "matchpoang": 11,
      "setdiff": "264–0"
     },
     {
      "placering": 2,
+     "lag": "Södra VI IF A",
+     "klubb": "Södra Vi Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": "Bruzaholms SK B",
      "klubb": "Bruzaholms Sportklubb",
      "spelade": 5,
@@ -4083,7 +4116,7 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Vetlanda BTK B",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 5,
@@ -4092,17 +4125,6 @@
      "forlorade": 3,
      "matchpoang": 5,
      "setdiff": "264–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Södra VI IF A",
-     "klubb": "Södra Vi Idrottsförening",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
     },
     {
      "placering": 5,
@@ -4130,12 +4152,12 @@
      "placering": 7,
      "lag": "Vaggeryds BTK C",
      "klubb": "Vaggeryds Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
-     "setdiff": "0–1320"
+     "setdiff": "0–1584"
     }
    ]
   },
@@ -4150,55 +4172,55 @@
      "placering": 1,
      "lag": "Faggemåla",
      "klubb": "Faggemåla Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Vetlanda 1",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Dänningelanda BTK 1",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "BTK Frej 1",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Vetlanda 1",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kalmar BTK 1",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 1,
+     "lag": "BTK Frej 1",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Dänningelanda BTK 1",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kalmar BTK 1",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     }
    ]
@@ -4212,8 +4234,8 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "BTK Näcken",
-     "klubb": "Bordtennisklubben Näcken",
+     "lag": "Örjansklubben/Ramkvilla",
+     "klubb": "Örjansklubben/Ramkvilla IF",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4234,8 +4256,8 @@
     },
     {
      "placering": 3,
-     "lag": "Örjansklubben/Ramkvilla",
-     "klubb": "Örjansklubben/Ramkvilla IF",
+     "lag": "BTK Näcken",
+     "klubb": "Bordtennisklubben Näcken",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4245,8 +4267,8 @@
     },
     {
      "placering": 4,
-     "lag": "Västervik BTK",
-     "klubb": "Västerviks Bordtennisklubb",
+     "lag": "Vetlanda BTK 2",
+     "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4256,8 +4278,8 @@
     },
     {
      "placering": 5,
-     "lag": "Vetlanda BTK 2",
-     "klubb": "Vetlanda Bordtennisklubb",
+     "lag": "Västervik BTK",
+     "klubb": "Västerviks Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -4545,7 +4567,7 @@
     },
     {
      "placering": 2,
-     "lag": "Vetlanda BTK H",
+     "lag": "Vetlanda BTK E",
      "klubb": "Vetlanda Bordtennisklubb",
      "spelade": 4,
      "vunna": 3,
@@ -4556,6 +4578,17 @@
     },
     {
      "placering": 3,
+     "lag": "Vetlanda BTK H",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "MK Veteranen B",
      "klubb": "Motionsklubben Veteranen",
      "spelade": 5,
@@ -4566,24 +4599,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vetlanda BTK E",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
      "lag": "Tranås BTK D",
      "klubb": "Tranås Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Rudalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-22T12:15:35Z",
  "lag": [
   {
    "namn": "Rudalen Blå Äldre",
@@ -128,38 +128,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "09:00",
-   "serie_id": "493-7486-0",
-   "serie": "Höst Ungd Äldre 2",
-   "evenemang": "Göteborgs Ungdomsserie Äldre",
-   "omgang": "Round 3",
-   "hemma": "Rudalen Grön Äldre",
-   "borta": "Askims BTK Röd",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Askims Bordtennisklubb",
-   "plats": "Exercishuset",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7"
-  },
-  {
-   "datum": "2026-11-22",
-   "tid": "10:45",
-   "serie_id": "493-7486-0",
-   "serie": "Höst Ungd Äldre 2",
-   "evenemang": "Göteborgs Ungdomsserie Äldre",
-   "omgang": "Round 4",
-   "hemma": "Rudalen Grön Äldre",
-   "borta": "Torslanda IK Lions",
-   "hemma_klubb": "Rudalens Idrottsförening",
-   "borta_klubb": "Torslanda Idrottsklubb",
-   "plats": "Exercishuset",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7"
-  },
   {
    "datum": "2026-11-22",
    "tid": "12:30",
@@ -2207,6 +2175,42 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "09:00",
+   "serie_id": "493-7486-0",
+   "serie": "Höst Ungd Äldre 2",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 3",
+   "hemma": "Rudalen Grön Äldre",
+   "borta": "Askims BTK Röd",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:45",
+   "serie_id": "493-7486-0",
+   "serie": "Höst Ungd Äldre 2",
+   "evenemang": "Göteborgs Ungdomsserie Äldre",
+   "omgang": "Round 4",
+   "hemma": "Rudalen Grön Äldre",
+   "borta": "Torslanda IK Lions",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Torslanda Idrottsklubb",
+   "plats": "Exercishuset",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1496/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -3033,23 +3037,23 @@
     },
     {
      "placering": 4,
-     "lag": "IF IFO C",
-     "klubb": "Idrottsföreningen Ifo",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "BTK Warta D",
      "klubb": "Bordtennisklubben Warta",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "IF IFO C",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3119,17 +3123,6 @@
     },
     {
      "placering": 3,
-     "lag": "Lindome BTK C",
-     "klubb": "Lindome Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
      "lag": "Rudalens IF B",
      "klubb": "Rudalens Idrottsförening",
      "spelade": 0,
@@ -3140,13 +3133,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "BTK Linné I",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Lindome BTK C",
+     "klubb": "Lindome Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3355,56 +3359,56 @@
    "rader": [
     {
      "placering": 1,
-     "lag": "Askims BTK Röd",
-     "klubb": "Askims Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 2,
+     "lag": "Torslanda IK Lions",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 4,
+     "forlorade": 1,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Rudalen Grön Äldre",
-     "klubb": "Rudalens Idrottsförening",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Askims BTK Röd",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Torslanda IK Lions",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Torslanda BTK Vargar",
+     "klubb": "Torslanda Bordtennisklubb",
+     "spelade": 3,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Torslanda BTK Vargar",
-     "klubb": "Torslanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 1,
+     "lag": "Rudalen Grön Äldre",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 4,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
      "lag": "Kungälv Thunder",
      "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3412,10 +3416,10 @@
      "placering": 6,
      "lag": "BTK Linné Svart",
      "klubb": "Bordtennisklubben Linné",
-     "spelade": 2,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

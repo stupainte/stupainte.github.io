@@ -4,7 +4,7 @@
   "namn": "IFK Österåkers Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-22T12:15:35Z",
  "lag": [
   {
    "namn": "IFK Österåkers BTK",
@@ -1553,6 +1553,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1532/2/7/7"
   },
   {
+   "datum": "2027-03-17",
+   "tid": "19:00",
+   "serie_id": "464-7933-0",
+   "serie": "Div 7 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 13",
+   "hemma": "IFK Österåkers BTK F",
+   "borta": "Järfälla BTF E",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Järfälla Bordtennisförening",
+   "plats": "Arrangörs hall",
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1589/2/7/7"
+  },
+  {
    "datum": "2027-04-06",
    "tid": "19:00",
    "serie_id": "464-7919-0",
@@ -1605,6 +1623,24 @@
     "Tibble-Kungsängen Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1583/2/7/7"
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "18:00",
+   "serie_id": "464-7933-0",
+   "serie": "Div 7 Norra A",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 14",
+   "hemma": "Rotebro BTK C1",
+   "borta": "IFK Österåkers BTK F",
+   "hemma_klubb": "Rotebro Bordtennisklubb",
+   "borta_klubb": "IFK Österåkers Bordtennisklubb",
+   "plats": "Arrangörs hall",
+   "arrangor": "Rotebro Bordtennisklubb",
+   "arrangorer": [
+    "Rotebro Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1589/2/7/7"
   }
  ],
  "resultat": [
@@ -4846,6 +4882,36 @@
    ]
   },
   {
+   "datum": "2027-03-17",
+   "platser": [
+    "Arrangörs hall"
+   ],
+   "serier": [
+    "Div 7 Norra A"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-17",
+     "tid": "19:00",
+     "serie_id": "464-7933-0",
+     "serie": "Div 7 Norra A",
+     "evenemang": "Stockholms BTF 26/27",
+     "omgang": "Round 13",
+     "hemma": "IFK Österåkers BTK F",
+     "borta": "Järfälla BTF E",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Järfälla Bordtennisförening",
+     "plats": "Arrangörs hall",
+     "arrangor": "IFK Österåkers Bordtennisklubb",
+     "arrangorer": [
+      "IFK Österåkers Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1589/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2027-04-06",
    "platser": [
     "Arrangörs hall"
@@ -5847,15 +5913,26 @@
      "placering": 1,
      "lag": "Ängby SK H",
      "klubb": "Ängby Sportklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
+     "lag": "Stocksunds IF",
+     "klubb": "Stocksunds Idrottsförening",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "IFK Österåkers BTK G1",
      "klubb": "IFK Österåkers Bordtennisklubb",
      "spelade": 5,
@@ -5866,7 +5943,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Spårvägens BTK J",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 5,
@@ -5877,20 +5954,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "IFK Österåkers BTK G2",
      "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Stocksunds IF",
-     "klubb": "Stocksunds Idrottsförening",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
@@ -6579,22 +6645,22 @@
      "placering": 3,
      "lag": "KFUM Stocksund B",
      "klubb": "KFUM Stocksund IA",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 4,
+     "forlorade": 2,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Boo RK B",
      "klubb": "Boo Racketklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 4,
+     "forlorade": 4,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -6687,11 +6753,11 @@
      "placering": 4,
      "lag": "Hammarby IF BTF B2",
      "klubb": "Hammarby IF Bordtennisförening",
-     "spelade": 4,
-     "vunna": 2,
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -6707,23 +6773,23 @@
     },
     {
      "placering": 6,
-     "lag": "Sundbybergs IK",
-     "klubb": "Sundbybergs Idrottsklubb",
-     "spelade": 4,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "IFK Täby BTK B1",
      "klubb": "IFK Täby Bordtennisklubb",
      "spelade": 4,
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 3,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sundbybergs IK",
+     "klubb": "Sundbybergs Idrottsklubb",
+     "spelade": 5,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

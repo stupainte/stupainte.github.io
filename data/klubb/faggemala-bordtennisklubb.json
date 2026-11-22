@@ -4,7 +4,7 @@
   "namn": "Faggemåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-22T12:15:35Z",
  "lag": [
   {
    "namn": "Faggemåla",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-21",
-   "tid": "11:30",
-   "serie_id": "372-10407-0",
-   "serie": "Höst Ungd U3 Syd",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Vetlanda 1",
-   "borta": "Faggemåla",
-   "hemma_klubb": "Vetlanda Bordtennisklubb",
-   "borta_klubb": "Faggemåla Bordtennisklubb",
-   "plats": "faggemåla",
-   "arrangor": "Faggemåla Bordtennisklubb",
-   "arrangorer": [
-    "Faggemåla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "10:00",
@@ -367,115 +349,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-21",
+   "tid": "11:30",
+   "serie_id": "372-10407-0",
+   "serie": "Höst Ungd U3 Syd",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Vetlanda 1",
+   "borta": "Faggemåla",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Faggemåla Bordtennisklubb",
+   "plats": "faggemåla",
+   "arrangor": "Faggemåla Bordtennisklubb",
+   "arrangorer": [
+    "Faggemåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-21",
-   "platser": [
-    "faggemåla"
-   ],
-   "serier": [
-    "Höst Ungd U3 Syd"
-   ],
-   "antal": 5,
-   "matcher": [
-    {
-     "datum": "2026-11-21",
-     "tid": "10:00",
-     "serie_id": "372-10407-0",
-     "serie": "Höst Ungd U3 Syd",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 1",
-     "hemma": "Vetlanda 1",
-     "borta": "BTK Frej 1",
-     "hemma_klubb": "Vetlanda Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Frej",
-     "plats": "faggemåla",
-     "arrangor": "Faggemåla Bordtennisklubb",
-     "arrangorer": [
-      "Faggemåla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 1
-    },
-    {
-     "datum": "2026-11-21",
-     "tid": "10:00",
-     "serie_id": "372-10407-0",
-     "serie": "Höst Ungd U3 Syd",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 1",
-     "hemma": "Faggemåla",
-     "borta": "Kalmar BTK 1",
-     "hemma_klubb": "Faggemåla Bordtennisklubb",
-     "borta_klubb": "Kalmar Bordtennisklubb",
-     "plats": "faggemåla",
-     "arrangor": "Faggemåla Bordtennisklubb",
-     "arrangorer": [
-      "Faggemåla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7",
-     "hemma_poang": 2,
-     "borta_poang": 1
-    },
-    {
-     "datum": "2026-11-21",
-     "tid": "11:30",
-     "serie_id": "372-10407-0",
-     "serie": "Höst Ungd U3 Syd",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 2",
-     "hemma": "Dänningelanda BTK 1",
-     "borta": "BTK Frej 1",
-     "hemma_klubb": "Dänningelanda Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Frej",
-     "plats": "faggemåla",
-     "arrangor": "Faggemåla Bordtennisklubb",
-     "arrangorer": [
-      "Faggemåla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
-    },
-    {
-     "datum": "2026-11-21",
-     "tid": "11:30",
-     "serie_id": "372-10407-0",
-     "serie": "Höst Ungd U3 Syd",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 2",
-     "hemma": "Vetlanda 1",
-     "borta": "Faggemåla",
-     "hemma_klubb": "Vetlanda Bordtennisklubb",
-     "borta_klubb": "Faggemåla Bordtennisklubb",
-     "plats": "faggemåla",
-     "arrangor": "Faggemåla Bordtennisklubb",
-     "arrangorer": [
-      "Faggemåla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
-    },
-    {
-     "datum": "2026-11-21",
-     "tid": "13:00",
-     "serie_id": "372-10407-0",
-     "serie": "Höst Ungd U3 Syd",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 3",
-     "hemma": "Dänningelanda BTK 1",
-     "borta": "Kalmar BTK 1",
-     "hemma_klubb": "Dänningelanda Bordtennisklubb",
-     "borta_klubb": "Kalmar Bordtennisklubb",
-     "plats": "faggemåla",
-     "arrangor": "Faggemåla Bordtennisklubb",
-     "arrangorer": [
-      "Faggemåla Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1952/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-02-13",
    "platser": [
@@ -670,55 +566,55 @@
      "placering": 1,
      "lag": "Faggemåla",
      "klubb": "Faggemåla Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Vetlanda 1",
-     "klubb": "Vetlanda Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Dänningelanda BTK 1",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "BTK Frej 1",
-     "klubb": "Bordtennisklubben Frej",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "Vetlanda 1",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kalmar BTK 1",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 1,
+     "lag": "BTK Frej 1",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Dänningelanda BTK 1",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Kalmar BTK 1",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     }
    ]
