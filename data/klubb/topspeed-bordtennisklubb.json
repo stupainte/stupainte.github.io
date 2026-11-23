@@ -4,7 +4,7 @@
   "namn": "TopSpeed Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-22T12:15:35Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "TopSpeed BTK",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "10:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (2)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 3",
-   "hemma": "BTK Warta B",
-   "borta": "TopSpeed BTK B",
-   "hemma_klubb": "Bordtennisklubben Warta",
-   "borta_klubb": "TopSpeed Bordtennisklubb",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Bordtennisklubben Warta"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
   {
    "datum": "2026-12-12",
    "tid": "11:00",
@@ -522,6 +503,48 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-21",
+   "tid": "11:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 4",
+   "hemma": "TopSpeed BTK B",
+   "borta": "BTK Linné E",
+   "hemma_klubb": "TopSpeed Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / TopSpeed Bordtennisklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "TopSpeed Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "10:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 3",
+   "hemma": "BTK Warta B",
+   "borta": "TopSpeed BTK B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "TopSpeed Bordtennisklubb",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Bordtennisklubben Warta",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-01-17",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -731,35 +754,35 @@
     },
     {
      "placering": 3,
-     "lag": "BTK Warta B",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "BTK Linné E",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kungälvs BTK D",
-     "klubb": "Kungälvs Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "lag": "BTK Warta B",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "BTK Linné E",
-     "klubb": "Bordtennisklubben Linné",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Kungälvs BTK D",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
+     "forlorade": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
@@ -775,8 +798,8 @@
     },
     {
      "placering": 7,
-     "lag": "TopSpeed BTK B",
-     "klubb": "TopSpeed Bordtennisklubb",
+     "lag": "BTK Warta C",
+     "klubb": "Bordtennisklubben Warta",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
@@ -786,12 +809,12 @@
     },
     {
      "placering": 8,
-     "lag": "BTK Warta C",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 1,
+     "lag": "TopSpeed BTK B",
+     "klubb": "TopSpeed Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

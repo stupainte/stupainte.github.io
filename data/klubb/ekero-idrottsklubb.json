@@ -4,7 +4,7 @@
   "namn": "Ekerö Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-22T12:15:35Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Ekerö IK",
@@ -96,6 +96,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1063/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-8168-0",
+   "serie": "Division 8",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Ekerö IK",
+   "borta": "IFK Österåkers BTK G2",
+   "hemma_klubb": "Ekerö Idrottsklubb",
+   "borta_klubb": "IFK Österåkers Bordtennisklubb",
+   "plats": null,
+   "arrangor": "Ekerö Idrottsklubb",
+   "arrangorer": [
+    "Ekerö Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1063/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [],
@@ -142,6 +162,17 @@
     },
     {
      "placering": 4,
+     "lag": "IFK Österåkers BTK G2",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 6,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Spårvägens BTK J",
      "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 5,
@@ -152,25 +183,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "IFK Österåkers BTK G2",
-     "klubb": "IFK Österåkers Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Ekerö IK",
      "klubb": "Ekerö Idrottsklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 2,
+     "forlorade": 4,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

@@ -4,7 +4,7 @@
   "namn": "Alingsås Pingis Klubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Alingsås PK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "11:00",
-   "serie_id": "367-6345-0",
-   "serie": "4-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Mariedals IK C",
-   "borta": "Alingsås PK C",
-   "hemma_klubb": "Mariedals Idrottsklubb",
-   "borta_klubb": "Alingsås Pingis Klubb",
-   "plats": "-",
-   "arrangor": "Mariedals Idrottsklubb",
-   "arrangorer": [
-    "Mariedals Idrottsklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7"
-  },
   {
    "datum": "2026-11-23",
    "tid": "19:00",
@@ -1601,6 +1583,46 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-19",
+   "tid": "20:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Alingsås PK D",
+   "borta": "IFK Falköping BTK C2",
+   "hemma_klubb": "Alingsås Pingis Klubb",
+   "borta_klubb": "IFK Falköping Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:00",
+   "serie_id": "367-6345-0",
+   "serie": "4-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Mariedals IK C",
+   "borta": "Alingsås PK C",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Alingsås Pingis Klubb",
+   "plats": "-",
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -2336,22 +2358,22 @@
      "placering": 1,
      "lag": "Sjömarkens BTK B1",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
      "lag": "Alingsås PK C",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -2369,10 +2391,10 @@
      "placering": 4,
      "lag": "Mariedals IK C",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2402,10 +2424,10 @@
      "placering": 7,
      "lag": "Byttorps IF",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "0–0"
     },
@@ -2466,11 +2488,11 @@
      "placering": 4,
      "lag": "Alingsås PK D",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -2488,10 +2510,10 @@
      "placering": 6,
      "lag": "IFK Falköping BTK C2",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

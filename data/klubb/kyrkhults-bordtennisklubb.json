@@ -4,7 +4,7 @@
   "namn": "Kyrkhults Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-22T12:15:35Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Kyrkhults BTK A",
@@ -619,24 +619,6 @@
   {
    "datum": "2027-04-18",
    "tid": "17:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 14",
-   "hemma": "Kyrkhults BTK A",
-   "borta": "Kullåkra BTK A",
-   "hemma_klubb": "Kyrkhults Bordtennisklubb",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "Kyrkhults skola",
-   "arrangor": "Kyrkhults Bordtennisklubb",
-   "arrangorer": [
-    "Kyrkhults Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
-  },
-  {
-   "datum": "2027-04-18",
-   "tid": "17:00",
    "serie_id": "372-6762-0",
    "serie": "DIV 4 SÖDRA",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
@@ -1073,6 +1055,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2027-04-18",
+   "tid": "17:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 14",
+   "hemma": "Kyrkhults BTK A",
+   "borta": "Kullåkra BTK A",
+   "hemma_klubb": "Kyrkhults Bordtennisklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "Kyrkhults skola",
+   "arrangor": "Kyrkhults Bordtennisklubb",
+   "arrangorer": [
+    "Kyrkhults Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1494,7 +1496,9 @@
      "arrangorer": [
       "Kyrkhults Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
     }
    ]
   }

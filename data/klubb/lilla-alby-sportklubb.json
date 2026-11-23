@@ -4,7 +4,7 @@
   "namn": "Lilla Alby Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Lilla Alby SK",
@@ -96,6 +96,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "",
+   "tid": "",
+   "serie_id": "464-7787-0",
+   "serie": "Pensionär Serie D Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Spånga P. C1",
+   "borta": "Lilla Alby SK",
+   "hemma_klubb": "Spånga Tennis o Bordtennisklubb",
+   "borta_klubb": "Lilla Alby Sportklubb",
+   "plats": null,
+   "arrangor": "Spånga Tennis o Bordtennisklubb",
+   "arrangorer": [
+    "Spånga Tennis o Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1580/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [],
@@ -164,19 +184,19 @@
     },
     {
      "placering": 6,
-     "lag": "Spånga P. C1",
-     "klubb": "Spånga Tennis o Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 0,
+     "lag": "Lilla Alby SK",
+     "klubb": "Lilla Alby Sportklubb",
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Norrtulls SK A2",
-     "klubb": "Norrtulls Sportklubb",
+     "lag": "Spånga P. C1",
+     "klubb": "Spånga Tennis o Bordtennisklubb",
      "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
@@ -186,13 +206,13 @@
     },
     {
      "placering": 8,
-     "lag": "Lilla Alby SK",
-     "klubb": "Lilla Alby Sportklubb",
-     "spelade": 4,
+     "lag": "Norrtulls SK A2",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 0,
+     "forlorade": 5,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

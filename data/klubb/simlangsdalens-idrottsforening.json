@@ -4,7 +4,7 @@
   "namn": "Simlångsdalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Simlångsdalens IF",
@@ -40,42 +40,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "09:30",
-   "serie_id": "411-7600-0",
-   "serie": "Veteraner 35",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 3",
-   "hemma": "Simlångsdalens IF",
-   "borta": "Varbergs BTK 2",
-   "hemma_klubb": "Simlångsdalens Idrottsförening",
-   "borta_klubb": "Varbergs Bordtennisklubb",
-   "plats": "BT Hallen Varberg",
-   "arrangor": "Varbergs Bordtennisklubb",
-   "arrangorer": [
-    "Varbergs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
-  },
-  {
-   "datum": "2026-11-22",
-   "tid": "11:00",
-   "serie_id": "411-7600-0",
-   "serie": "Veteraner 35",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 4",
-   "hemma": "Varbergs BTK 3",
-   "borta": "Simlångsdalens IF",
-   "hemma_klubb": "Varbergs Bordtennisklubb",
-   "borta_klubb": "Simlångsdalens Idrottsförening",
-   "plats": "BT Hallen Varberg",
-   "arrangor": "Varbergs Bordtennisklubb",
-   "arrangorer": [
-    "Varbergs Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "19:00",
@@ -124,8 +88,10 @@
    "hemma_klubb": "Simlångsdalens Idrottsförening",
    "borta_klubb": "Skedala Bordtennisklubb",
    "plats": "Simlångsdalen",
-   "arrangor": null,
-   "arrangorer": [],
+   "arrangor": "Simlångsdalens Idrottsförening",
+   "arrangorer": [
+    "Simlångsdalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7"
   },
   {
@@ -134,7 +100,7 @@
    "serie_id": "411-10536-0",
    "serie": "300-399 Södra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 7",
+   "omgang": "Round 2",
    "hemma": "Halmstad BTK 3",
    "borta": "Simlångsdalens IF 1",
    "hemma_klubb": "Halmstad Bordtennisklubb",
@@ -152,7 +118,7 @@
    "serie_id": "411-10536-0",
    "serie": "300-399 Södra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 6",
+   "omgang": "Round 3",
    "hemma": "Simlångsdalens IF 1",
    "borta": "Markaryds BTK 1",
    "hemma_klubb": "Simlångsdalens Idrottsförening",
@@ -237,12 +203,48 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7"
   },
   {
+   "datum": "2027-02-07",
+   "tid": "09:30",
+   "serie_id": "411-7600-0",
+   "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 7",
+   "hemma": "Simlångsdalens IF",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Simlångsdalens Idrottsförening",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
+  },
+  {
+   "datum": "2027-02-07",
+   "tid": "11:00",
+   "serie_id": "411-7600-0",
+   "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 8",
+   "hemma": "BTK Ratic",
+   "borta": "Simlångsdalens IF",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Simlångsdalens Idrottsförening",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:30",
    "serie_id": "411-10536-0",
    "serie": "300-399 Södra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 2",
+   "omgang": "Round 7",
    "hemma": "Falkenbergs BTK",
    "borta": "Simlångsdalens IF 1",
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
@@ -253,6 +255,24 @@
     "Halmstad Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7"
+  },
+  {
+   "datum": "2027-03-21",
+   "tid": "09:30",
+   "serie_id": "411-7600-0",
+   "serie": "Veteraner 35",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 9",
+   "hemma": "Simlångsdalens IF",
+   "borta": "Varbergs BTK 1",
+   "hemma_klubb": "Simlångsdalens Idrottsförening",
+   "borta_klubb": "Varbergs Bordtennisklubb",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1070/2/7/7"
   }
  ],
  "resultat": [
@@ -364,10 +384,29 @@
     "Simlångsdalen"
    ],
    "serier": [
+    "300-399 Södra Halland",
     "Division 5 Södra (1)"
    ],
-   "antal": 1,
+   "antal": 2,
    "matcher": [
+    {
+     "datum": "2026-12-06",
+     "tid": "19:00",
+     "serie_id": "411-10536-0",
+     "serie": "300-399 Södra Halland",
+     "evenemang": "Hallands Bordtennisförbund 2026-27",
+     "omgang": "Round 1",
+     "hemma": "Simlångsdalens IF 1",
+     "borta": "Skedala BTK",
+     "hemma_klubb": "Simlångsdalens Idrottsförening",
+     "borta_klubb": "Skedala Bordtennisklubb",
+     "plats": "Simlångsdalen",
+     "arrangor": "Simlångsdalens Idrottsförening",
+     "arrangorer": [
+      "Simlångsdalens Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7"
+    },
     {
      "datum": "2026-12-06",
      "tid": "19:00",
@@ -404,7 +443,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 7",
+     "omgang": "Round 2",
      "hemma": "Markaryds BTK 1",
      "borta": "Markaryds BTK 3",
      "hemma_klubb": "Markaryds Bordtennisklubb",
@@ -422,7 +461,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 7",
+     "omgang": "Round 2",
      "hemma": "Falkenbergs BTK",
      "borta": "Markaryds BTK 2",
      "hemma_klubb": "Falkenbergs Bordtennisklubb",
@@ -440,7 +479,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 7",
+     "omgang": "Round 2",
      "hemma": "Halmstad BTK 3",
      "borta": "Simlångsdalens IF 1",
      "hemma_klubb": "Halmstad Bordtennisklubb",
@@ -458,7 +497,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 6",
+     "omgang": "Round 3",
      "hemma": "Falkenbergs BTK",
      "borta": "Skedala BTK",
      "hemma_klubb": "Falkenbergs Bordtennisklubb",
@@ -476,7 +515,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 6",
+     "omgang": "Round 3",
      "hemma": "Markaryds BTK 2",
      "borta": "Markaryds BTK 3",
      "hemma_klubb": "Markaryds Bordtennisklubb",
@@ -494,7 +533,7 @@
      "serie_id": "411-10536-0",
      "serie": "300-399 Södra Halland",
      "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 6",
+     "omgang": "Round 3",
      "hemma": "Simlångsdalens IF 1",
      "borta": "Markaryds BTK 1",
      "hemma_klubb": "Simlångsdalens Idrottsförening",

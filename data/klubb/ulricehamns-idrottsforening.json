@@ -4,7 +4,7 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Ulricehamns IF",
@@ -72,42 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "11:00",
-   "serie_id": "367-7457-0",
-   "serie": "6-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Sjömarkens BTK C",
-   "borta": "Ulricehamns IF C",
-   "hemma_klubb": "Sjömarkens Bordtennisklubb",
-   "borta_klubb": "Ulricehamns Idrottsförening",
-   "plats": "-",
-   "arrangor": "Sjömarkens Bordtennisklubb",
-   "arrangorer": [
-    "Sjömarkens Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
-  {
-   "datum": "2026-11-23",
-   "tid": "11:00",
-   "serie_id": "367-6956-0",
-   "serie": "Pensionärsserier",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Ulricehamns IF",
-   "borta": "Kinna BTK",
-   "hemma_klubb": "Ulricehamns Idrottsförening",
-   "borta_klubb": "Kinna Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Ulricehamns Idrottsförening",
-   "arrangorer": [
-    "Ulricehamns Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
-  },
   {
    "datum": "2026-11-24",
    "tid": "18:00",
@@ -1619,6 +1583,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1244/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "11:00",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Sjömarkens BTK C",
+   "borta": "Ulricehamns IF C",
+   "hemma_klubb": "Sjömarkens Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "-",
+   "arrangor": "Sjömarkens Bordtennisklubb",
+   "arrangorer": [
+    "Sjömarkens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "11:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Ulricehamns IF",
+   "borta": "Kinna BTK",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1648,7 +1652,9 @@
      "arrangorer": [
       "Ulricehamns Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -2843,21 +2849,21 @@
      "placering": 5,
      "lag": "Ulricehamns IF C",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
      "lag": "Sjömarkens BTK C",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
@@ -3024,17 +3030,6 @@
     },
     {
      "placering": 6,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 6,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 7,
      "lag": "Sandareds BTK B",
      "klubb": "Sandareds Bordtennisklubb",
      "spelade": 3,
@@ -3042,6 +3037,17 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 6,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -3185,6 +3191,17 @@
     },
     {
      "placering": 4,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "Byttorps IF 1",
      "klubb": "Byttorps Idrottsförening",
      "spelade": 5,
@@ -3195,7 +3212,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "IFK Falköping BTK",
      "klubb": "IFK Falköping Bordtennisklubb",
      "spelade": 5,
@@ -3203,17 +3220,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 3,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -3231,10 +3237,10 @@
      "placering": 8,
      "lag": "Ulricehamns IF",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

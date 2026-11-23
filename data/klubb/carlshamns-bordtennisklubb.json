@@ -4,7 +4,7 @@
   "namn": "Carlshamns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-22T12:15:35Z",
+ "uppdaterad": "2026-11-23T13:57:03Z",
  "lag": [
   {
    "namn": "Carlshamn BTK 1",
@@ -72,78 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-22",
-   "tid": "10:00",
-   "serie_id": "372-10442-0",
-   "serie": "U5 Syd A",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 1",
-   "hemma": "Carlshamn BTK 1",
-   "borta": "Kättilsmåla BTK 1",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Kättilsmåla Bordtennisklubb",
-   "plats": "bergkvara BT-hall",
-   "arrangor": "Bergkvara Bordtennisklubb",
-   "arrangorer": [
-    "Bergkvara Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
-  },
-  {
-   "datum": "2026-11-22",
-   "tid": "11:30",
-   "serie_id": "372-10442-0",
-   "serie": "U5 Syd A",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Carlshamn BTK 3",
-   "borta": "Kättilsmåla BTK 1",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Kättilsmåla Bordtennisklubb",
-   "plats": "bergkvara BT-hall",
-   "arrangor": "Bergkvara Bordtennisklubb",
-   "arrangorer": [
-    "Bergkvara Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
-  },
-  {
-   "datum": "2026-11-22",
-   "tid": "11:30",
-   "serie_id": "372-10442-0",
-   "serie": "U5 Syd A",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Carlshamn BTK 1",
-   "borta": "Jämjö BTK",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Jämjö Bordtennisklubb",
-   "plats": "bergkvara BT-hall",
-   "arrangor": "Bergkvara Bordtennisklubb",
-   "arrangorer": [
-    "Bergkvara Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
-  },
-  {
-   "datum": "2026-11-22",
-   "tid": "13:30",
-   "serie_id": "372-10442-0",
-   "serie": "U5 Syd A",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 3",
-   "hemma": "Carlshamn BTK 3",
-   "borta": "Bergkvara BTK",
-   "hemma_klubb": "Carlshamns Bordtennisklubb",
-   "borta_klubb": "Bergkvara Bordtennisklubb",
-   "plats": "Carlshamn",
-   "arrangor": "Bergkvara Bordtennisklubb",
-   "arrangorer": [
-    "Bergkvara Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "11:00",
@@ -2546,6 +2474,17 @@
     },
     {
      "placering": 2,
+     "lag": "Kalmar BTK 3",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kättilsmåla BTK 2",
      "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 2,
@@ -2556,25 +2495,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Kalmar BTK 3",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Kalmar BTK 4",
      "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 1,
+     "forlorade": 2,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
