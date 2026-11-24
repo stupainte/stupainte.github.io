@@ -4,7 +4,7 @@
   "namn": "Askims Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "Askims BTK",
@@ -104,24 +104,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-23",
-   "tid": "19:00",
-   "serie_id": "371-7375-0",
-   "serie": "Division 9",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "BTK Warta E",
-   "borta": "Askims BTK F",
-   "hemma_klubb": "Bordtennisklubben Warta",
-   "borta_klubb": "Askims Bordtennisklubb",
-   "plats": "Wartagården",
-   "arrangor": "Bordtennisklubben Warta",
-   "arrangorer": [
-    "Bordtennisklubben Warta"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "14:30",
@@ -2040,6 +2022,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie_id": "371-7375-0",
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 4",
+   "hemma": "BTK Warta E",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-02-14",
    "tid": "15:00",
    "serie_id": "417-5771-0",
@@ -3123,6 +3125,17 @@
     },
     {
      "placering": 3,
+     "lag": "BTK Warta E",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Torslanda IK D",
      "klubb": "Torslanda Idrottsklubb",
      "spelade": 2,
@@ -3133,7 +3146,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "BTK Linné K",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
@@ -3144,7 +3157,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Lekstorp IF H",
      "klubb": "Lekstorps Idrottsförening",
      "spelade": 2,
@@ -3155,24 +3168,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "BTK Warta E",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

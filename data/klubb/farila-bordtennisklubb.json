@@ -4,7 +4,7 @@
   "namn": "Färila Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "Färila BTK",
@@ -1226,10 +1226,21 @@
    "serie": "Div 5 Södra B",
    "evenemang": "Norrlands BTF",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1359/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
+     "lag": "Söderhamns UIF F",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Alfta BTK C",
      "klubb": "Alfta Bordtennisklubb",
      "spelade": 0,
@@ -1240,9 +1251,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
-     "lag": "Söderhamns UIF F",
-     "klubb": "Söderhamns Ungdomsgårds IF",
+     "placering": 3,
+     "lag": "Alfta BTK D",
+     "klubb": "Alfta Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1251,7 +1262,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Färila BTK C",
      "klubb": "Färila Bordtennisklubb",
      "spelade": 0,
@@ -1262,7 +1273,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Alfta BTK E",
      "klubb": "Alfta Bordtennisklubb",
      "spelade": 0,
@@ -1273,24 +1284,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Söderhamns UIF E",
      "klubb": "Söderhamns Ungdomsgårds IF",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Alfta BTK D",
-     "klubb": "Alfta Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

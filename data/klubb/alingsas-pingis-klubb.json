@@ -4,7 +4,7 @@
   "namn": "Alingsås Pingis Klubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "Alingsås PK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-23",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "IFK Lidköping C1",
-   "borta": "Alingsås PK D",
-   "hemma_klubb": "IFK Lidköping",
-   "borta_klubb": "Alingsås Pingis Klubb",
-   "plats": "-",
-   "arrangor": "IFK Lidköping",
-   "arrangorer": [
-    "IFK Lidköping"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-11-25",
    "tid": "18:00",
@@ -1623,6 +1605,26 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "IFK Lidköping C1",
+   "borta": "Alingsås PK D",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Alingsås Pingis Klubb",
+   "plats": "-",
+   "arrangor": "IFK Lidköping",
+   "arrangorer": [
+    "IFK Lidköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -2464,6 +2466,17 @@
     },
     {
      "placering": 2,
+     "lag": "Alingsås PK D",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 7,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 10,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Vedums AIS D",
      "klubb": "Vedums Allmänna IS",
      "spelade": 6,
@@ -2474,20 +2487,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 6,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Alingsås PK D",
-     "klubb": "Alingsås Pingis Klubb",
      "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
@@ -2499,10 +2501,10 @@
      "placering": 5,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 6,
      "setdiff": "0–0"
     },

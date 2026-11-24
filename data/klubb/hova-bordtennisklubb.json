@@ -4,7 +4,7 @@
   "namn": "Hova Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "Hova BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-23",
-   "tid": "19:00",
-   "serie_id": "367-7428-0",
-   "serie": "6-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Hova BTK B",
-   "borta": "Hangelösa IF",
-   "hemma_klubb": "Hova Bordtennisklubb",
-   "borta_klubb": "Hangelösa Idrottsförening",
-   "plats": "-",
-   "arrangor": "Hova Bordtennisklubb",
-   "arrangorer": [
-    "Hova Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -537,6 +519,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie_id": "367-7428-0",
+   "serie": "6-Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Hova BTK B",
+   "borta": "Hangelösa IF",
+   "hemma_klubb": "Hova Bordtennisklubb",
+   "borta_klubb": "Hangelösa Idrottsförening",
+   "plats": "-",
+   "arrangor": "Hova Bordtennisklubb",
+   "arrangorer": [
+    "Hova Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-01-14",
    "tid": "18:00",
    "serie_id": "367-6440-0",
@@ -558,36 +560,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-23",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-23",
-     "tid": "19:00",
-     "serie_id": "367-7428-0",
-     "serie": "6-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Hova BTK B",
-     "borta": "Hangelösa IF",
-     "hemma_klubb": "Hova Bordtennisklubb",
-     "borta_klubb": "Hangelösa Idrottsförening",
-     "plats": "-",
-     "arrangor": "Hova Bordtennisklubb",
-     "arrangorer": [
-      "Hova Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-30",
    "platser": [
@@ -919,22 +891,22 @@
      "placering": 2,
      "lag": "Varnhems IF",
      "klubb": "Varnhems Idrottsförening",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–198"
     },
     {
      "placering": 3,
      "lag": "Hangelösa IF",
      "klubb": "Hangelösa Idrottsförening",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
@@ -952,10 +924,10 @@
      "placering": 5,
      "lag": "Karlsborgs BTK C1",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -963,10 +935,10 @@
      "placering": 6,
      "lag": "Hova BTK B",
      "klubb": "Hova Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

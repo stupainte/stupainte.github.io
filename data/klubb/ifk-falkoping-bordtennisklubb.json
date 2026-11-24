@@ -4,7 +4,7 @@
   "namn": "IFK Falköping Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "IFK Falköping BTK",
@@ -739,12 +739,12 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1364/2/7/7"
   },
   {
-   "datum": "2027-02-10",
+   "datum": "2027-02-09",
    "tid": "10:00",
    "serie_id": "367-6956-0",
    "serie": "Pensionärsserier",
    "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 11",
+   "omgang": "Round 4",
    "hemma": "Kinna BTK",
    "borta": "IFK Falköping BTK",
    "hemma_klubb": "Kinna Bordtennisklubb",
@@ -753,6 +753,24 @@
    "arrangor": "Kinna Bordtennisklubb",
    "arrangorer": [
     "Kinna Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "10:00",
+   "serie_id": "367-6956-0",
+   "serie": "Pensionärsserier",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 11",
+   "hemma": "IFK Falköping BTK",
+   "borta": "Kinna BTK",
+   "hemma_klubb": "IFK Falköping Bordtennisklubb",
+   "borta_klubb": "Kinna Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
   },
@@ -2427,6 +2445,36 @@
    ]
   },
   {
+   "datum": "2027-02-10",
+   "platser": [
+    "-"
+   ],
+   "serier": [
+    "Pensionärsserier"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-10",
+     "tid": "10:00",
+     "serie_id": "367-6956-0",
+     "serie": "Pensionärsserier",
+     "evenemang": "Nordvästra Götalands BTF 26/27",
+     "omgang": "Round 11",
+     "hemma": "IFK Falköping BTK",
+     "borta": "Kinna BTK",
+     "hemma_klubb": "IFK Falköping Bordtennisklubb",
+     "borta_klubb": "Kinna Bordtennisklubb",
+     "plats": "-",
+     "arrangor": "IFK Falköping Bordtennisklubb",
+     "arrangorer": [
+      "IFK Falköping Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1072/2/7/7"
+    }
+   ]
+  },
+  {
    "datum": "2027-02-16",
    "platser": [
     "-"
@@ -2800,6 +2848,17 @@
     },
     {
      "placering": 2,
+     "lag": "Alingsås PK D",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 7,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 10,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Vedums AIS D",
      "klubb": "Vedums Allmänna IS",
      "spelade": 6,
@@ -2810,20 +2869,9 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 6,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Alingsås PK D",
-     "klubb": "Alingsås Pingis Klubb",
      "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
@@ -2835,10 +2883,10 @@
      "placering": 5,
      "lag": "IFK Lidköping C1",
      "klubb": "IFK Lidköping",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2899,22 +2947,22 @@
      "placering": 2,
      "lag": "Varnhems IF",
      "klubb": "Varnhems Idrottsförening",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–198"
     },
     {
      "placering": 3,
      "lag": "Hangelösa IF",
      "klubb": "Hangelösa Idrottsförening",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
@@ -2932,10 +2980,10 @@
      "placering": 5,
      "lag": "Karlsborgs BTK C1",
      "klubb": "Karlsborgs Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2943,10 +2991,10 @@
      "placering": 6,
      "lag": "Hova BTK B",
      "klubb": "Hova Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

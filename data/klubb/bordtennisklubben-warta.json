@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Warta"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "BTK Warta",
@@ -96,43 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-23",
-   "tid": "19:00",
-   "serie_id": "371-7375-0",
-   "serie": "Division 9",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "BTK Warta E",
-   "borta": "Askims BTK F",
-   "hemma_klubb": "Bordtennisklubben Warta",
-   "borta_klubb": "Askims Bordtennisklubb",
-   "plats": "Wartagården",
-   "arrangor": "Bordtennisklubben Warta",
-   "arrangorer": [
-    "Bordtennisklubben Warta"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-  },
-  {
-   "datum": "2026-11-23",
-   "tid": "19:00",
-   "serie_id": "371-6457-0",
-   "serie": "Division 4 (2)",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "IF IFO B2",
-   "borta": "BTK Warta B",
-   "hemma_klubb": "Idrottsföreningen Ifo",
-   "borta_klubb": "Bordtennisklubben Warta",
-   "plats": "Vinstahallen",
-   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Idrottsföreningen Ifo"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7"
-  },
   {
    "datum": "2026-11-25",
    "tid": "19:00",
@@ -1858,39 +1821,50 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie_id": "371-7375-0",
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 4",
+   "hemma": "BTK Warta E",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Wartagården",
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "19:00",
+   "serie_id": "371-6457-0",
+   "serie": "Division 4 (2)",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 4",
+   "hemma": "IF IFO B2",
+   "borta": "BTK Warta B",
+   "hemma_klubb": "Idrottsföreningen Ifo",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Vinstahallen",
+   "arrangor": "Göteborgs Bordtennisförbund / Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Idrottsföreningen Ifo"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1059/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-23",
-   "platser": [
-    "Wartagården"
-   ],
-   "serier": [
-    "Division 9"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-23",
-     "tid": "19:00",
-     "serie_id": "371-7375-0",
-     "serie": "Division 9",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 4",
-     "hemma": "BTK Warta E",
-     "borta": "Askims BTK F",
-     "hemma_klubb": "Bordtennisklubben Warta",
-     "borta_klubb": "Askims Bordtennisklubb",
-     "plats": "Wartagården",
-     "arrangor": "Bordtennisklubben Warta",
-     "arrangorer": [
-      "Bordtennisklubben Warta"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -2989,15 +2963,26 @@
      "placering": 4,
      "lag": "BTK Warta B",
      "klubb": "Bordtennisklubben Warta",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "IF IFO B2",
+     "klubb": "Idrottsföreningen Ifo",
+     "spelade": 3,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kungälvs BTK D",
      "klubb": "Kungälvs Bordtennisklubb",
      "spelade": 2,
@@ -3005,17 +2990,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "IF IFO B2",
-     "klubb": "Idrottsföreningen Ifo",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -3170,6 +3144,17 @@
     },
     {
      "placering": 3,
+     "lag": "BTK Warta E",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Torslanda IK D",
      "klubb": "Torslanda Idrottsklubb",
      "spelade": 2,
@@ -3180,7 +3165,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "BTK Linné K",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
@@ -3191,7 +3176,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 6,
      "lag": "Lekstorp IF H",
      "klubb": "Lekstorps Idrottsförening",
      "spelade": 2,
@@ -3202,24 +3187,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "BTK Warta E",
-     "klubb": "Bordtennisklubben Warta",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Clipper"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-24T14:32:14Z",
  "lag": [
   {
    "namn": "BTK Clipper 2",
@@ -219,24 +219,6 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1178/2/7/7"
   },
   {
-   "datum": "2027-01-10",
-   "tid": "10:00",
-   "serie_id": "372-6763-0",
-   "serie": "Veteran Norra D",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 10",
-   "hemma": "BTK Clipper D",
-   "borta": "Vetlanda BTK F",
-   "hemma_klubb": "Bordtennisklubben Clipper",
-   "borta_klubb": "Vetlanda Bordtennisklubb",
-   "plats": "Sporthallen Nässjö",
-   "arrangor": "Bordtennisklubben Clipper",
-   "arrangorer": [
-    "Bordtennisklubben Clipper"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-  },
-  {
    "datum": "2027-01-14",
    "tid": "10:00",
    "serie_id": "372-6765-0",
@@ -361,6 +343,24 @@
     "Vetlanda Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
+  },
+  {
+   "datum": "2027-02-10",
+   "tid": "10:00",
+   "serie_id": "372-6763-0",
+   "serie": "Veteran Norra D",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 10",
+   "hemma": "BTK Clipper D",
+   "borta": "Vetlanda BTK F",
+   "hemma_klubb": "Bordtennisklubben Clipper",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Sporthallen Nässjö",
+   "arrangor": "Bordtennisklubben Clipper",
+   "arrangorer": [
+    "Bordtennisklubben Clipper"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
   },
   {
    "datum": "2027-02-10",
@@ -1293,36 +1293,6 @@
    ]
   },
   {
-   "datum": "2027-01-10",
-   "platser": [
-    "Sporthallen Nässjö"
-   ],
-   "serier": [
-    "Veteran Norra D"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2027-01-10",
-     "tid": "10:00",
-     "serie_id": "372-6763-0",
-     "serie": "Veteran Norra D",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 10",
-     "hemma": "BTK Clipper D",
-     "borta": "Vetlanda BTK F",
-     "hemma_klubb": "Bordtennisklubben Clipper",
-     "borta_klubb": "Vetlanda Bordtennisklubb",
-     "plats": "Sporthallen Nässjö",
-     "arrangor": "Bordtennisklubben Clipper",
-     "arrangorer": [
-      "Bordtennisklubben Clipper"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2027-01-14",
    "platser": [
     "Sporthallen Nässjö"
@@ -1379,6 +1349,36 @@
       "Bordtennisklubben Clipper"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-10",
+   "platser": [
+    "Sporthallen Nässjö"
+   ],
+   "serier": [
+    "Veteran Norra D"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-10",
+     "tid": "10:00",
+     "serie_id": "372-6763-0",
+     "serie": "Veteran Norra D",
+     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+     "omgang": "Round 10",
+     "hemma": "BTK Clipper D",
+     "borta": "Vetlanda BTK F",
+     "hemma_klubb": "Bordtennisklubben Clipper",
+     "borta_klubb": "Vetlanda Bordtennisklubb",
+     "plats": "Sporthallen Nässjö",
+     "arrangor": "Bordtennisklubben Clipper",
+     "arrangorer": [
+      "Bordtennisklubben Clipper"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1310/2/7/7"
     }
    ]
   },
