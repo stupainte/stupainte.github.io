@@ -4,7 +4,7 @@
   "namn": "Vakant"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Vakant",
@@ -142,54 +142,65 @@
    "serie": "300-399 Grp 1 Norra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1970/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Särö Kullavik IF",
      "klubb": "Särö Kullavik Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kungsbacka BTK 3",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Varbergs BTK Ljusgrön",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Varbergs BTK Ljusgrön",
+     "lag": "Varbergs BTK Orange",
      "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Varbergs BTK Orange",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kungsbacka BTK 4",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Kungsbacka BTK 3",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Vakant",
      "klubb": "Vakant",
      "spelade": 0,
@@ -200,35 +211,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Varbergs BTK Ljusblå",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Kungsbacka BTK 4",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Åsa IF Lions",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Åsa IF Lions",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 0,
+     "lag": "Varbergs BTK Ljusblå",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -351,17 +351,6 @@
     },
     {
      "placering": 2,
-     "lag": "Halmstad BTK F3",
-     "klubb": "Halmstad Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
      "lag": "Rydöbruks IF B2",
      "klubb": "Rydöbruks Idrottsförening",
      "spelade": 5,
@@ -370,6 +359,17 @@
      "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "198–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Halmstad BTK F3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 4,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 4,
+     "setdiff": "0–0"
     },
     {
      "placering": 4,
@@ -384,17 +384,6 @@
     },
     {
      "placering": 5,
-     "lag": "Vakant",
-     "klubb": "Vakant",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
-     "setdiff": "0–396"
-    },
-    {
-     "placering": 6,
      "lag": "Rydöbruks IF B1",
      "klubb": "Rydöbruks Idrottsförening",
      "spelade": 4,
@@ -403,6 +392,17 @@
      "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Vakant",
+     "klubb": "Vakant",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–396"
     }
    ]
   },

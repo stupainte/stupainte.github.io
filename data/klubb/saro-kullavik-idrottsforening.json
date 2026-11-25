@@ -4,7 +4,7 @@
   "namn": "Särö Kullavik Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-24T14:32:14Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Särö Kullavik IF",
@@ -1113,6 +1113,26 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "09:30",
+   "serie_id": "411-10538-0",
+   "serie": "300-399 Grp 1 Norra Halland",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Särö Kullavik IF",
+   "borta": "Åsa IF Lions",
+   "hemma_klubb": "Särö Kullavik Idrottsförening",
+   "borta_klubb": "Åsa Idrottsförening",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1970/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "10:00",
    "serie_id": "417-5775-0",
    "serie": "Div 3 VSSV",
@@ -1128,6 +1148,26 @@
     "Särö Kullavik Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "411-10538-0",
+   "serie": "300-399 Grp 1 Norra Halland",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Kungsbacka BTK 4",
+   "borta": "Särö Kullavik IF",
+   "hemma_klubb": "Kungsbacka Bordtennisklubb",
+   "borta_klubb": "Särö Kullavik Idrottsförening",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1970/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
   },
@@ -1477,54 +1517,65 @@
    "serie": "300-399 Grp 1 Norra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1970/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Särö Kullavik IF",
      "klubb": "Särö Kullavik Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Kungsbacka BTK 3",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Varbergs BTK Ljusgrön",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Varbergs BTK Ljusgrön",
+     "lag": "Varbergs BTK Orange",
      "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Varbergs BTK Orange",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kungsbacka BTK 4",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
+     "lag": "Kungsbacka BTK 3",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Vakant",
      "klubb": "Vakant",
      "spelade": 0,
@@ -1535,35 +1586,24 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 6,
-     "lag": "Varbergs BTK Ljusblå",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 7,
-     "lag": "Kungsbacka BTK 4",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Åsa IF Lions",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "Åsa IF Lions",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 0,
+     "lag": "Varbergs BTK Ljusblå",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

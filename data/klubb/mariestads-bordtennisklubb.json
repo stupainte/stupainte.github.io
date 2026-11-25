@@ -4,7 +4,7 @@
   "namn": "Mariestads Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-24T14:32:14Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Mariestads BTK",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-24",
-   "tid": "19:00",
-   "serie_id": "367-6442-0",
-   "serie": "Div 5 Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Mariestads BTK B",
-   "borta": "Skagersviks BTK C",
-   "hemma_klubb": "Mariestads Bordtennisklubb",
-   "borta_klubb": "Skagersviks Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Mariestads Bordtennisklubb",
-   "arrangorer": [
-    "Mariestads Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-  },
   {
    "datum": "2026-12-01",
    "tid": "19:00",
@@ -553,39 +535,29 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-24",
+   "tid": "19:00",
+   "serie_id": "367-6442-0",
+   "serie": "Div 5 Nordöstra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Mariestads BTK B",
+   "borta": "Skagersviks BTK C",
+   "hemma_klubb": "Mariestads Bordtennisklubb",
+   "borta_klubb": "Skagersviks Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Mariestads Bordtennisklubb",
+   "arrangorer": [
+    "Mariestads Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-24",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-24",
-     "tid": "19:00",
-     "serie_id": "367-6442-0",
-     "serie": "Div 5 Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Mariestads BTK B",
-     "borta": "Skagersviks BTK C",
-     "hemma_klubb": "Mariestads Bordtennisklubb",
-     "borta_klubb": "Skagersviks Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Mariestads Bordtennisklubb",
-     "arrangorer": [
-      "Mariestads Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1241/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-01",
    "platser": [
@@ -983,11 +955,11 @@
      "placering": 2,
      "lag": "Mariestads BTK B",
      "klubb": "Mariestads Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -1027,10 +999,10 @@
      "placering": 6,
      "lag": "Skagersviks BTK C",
      "klubb": "Skagersviks Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

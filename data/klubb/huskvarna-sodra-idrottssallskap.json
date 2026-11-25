@@ -4,7 +4,7 @@
   "namn": "Huskvarna Södra Idrottssällskap"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-24T14:32:14Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Huskvarna Södra IS",
@@ -1616,6 +1616,26 @@
   },
   {
    "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "372-6760-0",
+   "serie": "Div 6 Norra A ",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": " KFUM Jönköping IA G",
+   "borta": "Huskvarna Södra IS E",
+   "hemma_klubb": "KFUM Jönköping",
+   "borta_klubb": "Huskvarna Södra Idrottssällskap",
+   "plats": "Ungdomens Hus",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1184/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
    "tid": "15:00",
    "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",
@@ -1691,6 +1711,26 @@
     "Huskvarna Södra Idrottssällskap"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-23",
+   "tid": "14:00",
+   "serie_id": "372-6764-0",
+   "serie": "Veteran Norra C",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Huskvarna Södra IS D",
+   "borta": "KFUM Jönköping IA E",
+   "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+   "borta_klubb": "KFUM Jönköping",
+   "plats": "Huskvarna Sporthall",
+   "arrangor": "Huskvarna Södra Idrottssällskap",
+   "arrangorer": [
+    "Huskvarna Södra Idrottssällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1309/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
   },
@@ -2551,6 +2591,17 @@
     },
     {
      "placering": 2,
+     "lag": "Huskvarna Södra IS E",
+     "klubb": "Huskvarna Södra Idrottssällskap",
+     "spelade": 5,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 8,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 3,
      "lag": "Tranås BTK D",
      "klubb": "Tranås Bordtennisklubb",
      "spelade": 5,
@@ -2558,17 +2609,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 7,
-     "setdiff": "264–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Huskvarna Södra IS E",
-     "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 4,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 6,
      "setdiff": "264–0"
     },
     {
@@ -2586,10 +2626,10 @@
      "placering": 5,
      "lag": " KFUM Jönköping IA G",
      "klubb": "KFUM Jönköping",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 4,
      "setdiff": "264–0"
     },
@@ -2844,10 +2884,10 @@
      "placering": 4,
      "lag": "KFUM Jönköping IA E",
      "klubb": "KFUM Jönköping",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "0–0"
     },
@@ -2855,11 +2895,11 @@
      "placering": 5,
      "lag": "Huskvarna Södra IS D",
      "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 4,
-     "vunna": 0,
+     "spelade": 5,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 4,
-     "matchpoang": 1,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {

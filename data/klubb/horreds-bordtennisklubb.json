@@ -4,7 +4,7 @@
   "namn": "Horreds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Horreds BTK",
@@ -1310,6 +1310,46 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "09:30",
+   "serie_id": "411-10539-0",
+   "serie": "300-399 Grp 2 Norra Halland",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 1",
+   "hemma": "Varbergs BTK Turkos",
+   "borta": "Horreds BTK 3",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Horreds Bordtennisklubb",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1971/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "13:00",
+   "serie_id": "411-10539-0",
+   "serie": "300-399 Grp 2 Norra Halland",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 2",
+   "hemma": "Horreds BTK 3",
+   "borta": "Varbergs BTK Gul",
+   "hemma_klubb": "Horreds Bordtennisklubb",
+   "borta_klubb": "Varbergs Bordtennisklubb",
+   "plats": "BT Hallen Varberg",
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1971/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1826,71 +1866,71 @@
    "serie": "300-399 Grp 2 Norra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1971/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
-     "lag": "Varbergs BTK Gul",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Kungsbacka BTK 2",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 2,
-     "lag": "Varbergs BTK Turkos",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Horreds BTK 3",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Åsa IF Falcons",
-     "klubb": "Åsa Idrottsförening",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Varbergs BTK Gul",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "Kungsbacka BTK 2",
-     "klubb": "Kungsbacka Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "lag": "Varbergs BTK Lila",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 5,
-     "lag": "Horreds BTK 3",
-     "klubb": "Horreds Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Varbergs BTK Turkos",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Varbergs BTK Lila",
-     "klubb": "Varbergs Bordtennisklubb",
-     "spelade": 0,
+     "lag": "Åsa IF Falcons",
+     "klubb": "Åsa Idrottsförening",
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

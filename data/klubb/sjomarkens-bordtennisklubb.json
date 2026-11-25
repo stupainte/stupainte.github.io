@@ -4,7 +4,7 @@
   "namn": "Sjömarkens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-24T14:32:14Z",
+ "uppdaterad": "2026-11-25T13:51:45Z",
  "lag": [
   {
    "namn": "Sjömarkens BTK",
@@ -80,24 +80,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-24",
-   "tid": "19:00",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Borgstena IF C",
-   "borta": "Sjömarkens BTK D1",
-   "hemma_klubb": "Borgstena IF",
-   "borta_klubb": "Sjömarkens Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Borgstena IF",
-   "arrangorer": [
-    "Borgstena IF"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-  },
   {
    "datum": "2026-11-25",
    "tid": "18:00",
@@ -1978,6 +1960,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1082/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-24",
+   "tid": "19:00",
+   "serie_id": "367-7473-0",
+   "serie": "7-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Borgstena IF C",
+   "borta": "Sjömarkens BTK D1",
+   "hemma_klubb": "Borgstena IF",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2826,19 +2828,19 @@
     },
     {
      "placering": 2,
-     "lag": "Kinna BTK B2",
-     "klubb": "Kinna Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 4,
+     "lag": "Borgstena IF B",
+     "klubb": "Borgstena IF",
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Borgstena IF B",
-     "klubb": "Borgstena IF",
+     "lag": "Kinna BTK B2",
+     "klubb": "Kinna Bordtennisklubb",
      "spelade": 6,
      "vunna": 4,
      "oavgjorda": 0,
@@ -2850,10 +2852,10 @@
      "placering": 4,
      "lag": "Kinna BTK B1",
      "klubb": "Kinna Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 9,
      "setdiff": "0–0"
     },
@@ -2914,11 +2916,11 @@
      "placering": 1,
      "lag": "Borgstena IF C",
      "klubb": "Borgstena IF",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 9,
+     "matchpoang": 11,
      "setdiff": "0–0"
     },
     {
@@ -2947,10 +2949,10 @@
      "placering": 4,
      "lag": "Sjömarkens BTK D1",
      "klubb": "Sjömarkens Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -3097,11 +3099,11 @@
      "placering": 1,
      "lag": "Mariedals IK",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 6,
-     "vunna": 6,
+     "spelade": 7,
+     "vunna": 7,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 12,
+     "matchpoang": 14,
      "setdiff": "0–0"
     },
     {
@@ -3174,10 +3176,10 @@
      "placering": 8,
      "lag": "Ulricehamns IF",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 6,
+     "forlorade": 7,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
