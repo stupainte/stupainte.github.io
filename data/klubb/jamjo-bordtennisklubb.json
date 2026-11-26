@@ -4,7 +4,7 @@
   "namn": "Jämjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-26T13:29:18Z",
  "lag": [
   {
    "namn": "Jämjö BTK",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6758-0",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Jämjö BTK D",
-   "borta": "Senorens IF A",
-   "hemma_klubb": "Jämjö Bordtennisklubb",
-   "borta_klubb": "Senorens Idrottsförening",
-   "plats": "Klubblokalen Jämjö BTK",
-   "arrangor": "Jämjö Bordtennisklubb",
-   "arrangorer": [
-    "Jämjö Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "13:00",
@@ -163,6 +145,42 @@
     "Bordtennisklubben Frej"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie_id": "372-10442-0",
+   "serie": "U5 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 3",
+   "hemma": "Kättilsmåla BTK 1",
+   "borta": "Jämjö BTK",
+   "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+   "borta_klubb": "Jämjö Bordtennisklubb",
+   "plats": "bergkvara BT-hall",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:30",
+   "serie_id": "372-10442-0",
+   "serie": "U5 Syd A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Carlshamn BTK 3",
+   "borta": "Jämjö BTK",
+   "hemma_klubb": "Carlshamns Bordtennisklubb",
+   "borta_klubb": "Jämjö Bordtennisklubb",
+   "plats": "bergkvara BT-hall",
+   "arrangor": "Carlshamns Bordtennisklubb",
+   "arrangorer": [
+    "Carlshamns Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1960/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -1371,6 +1389,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Jämjö BTK D",
+   "borta": "Senorens IF A",
+   "hemma_klubb": "Jämjö Bordtennisklubb",
+   "borta_klubb": "Senorens Idrottsförening",
+   "plats": "Klubblokalen Jämjö BTK",
+   "arrangor": "Jämjö Bordtennisklubb",
+   "arrangorer": [
+    "Jämjö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1400,7 +1438,9 @@
      "arrangorer": [
       "Jämjö Bordtennisklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -2138,6 +2178,17 @@
     },
     {
      "placering": 2,
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
+     "spelade": 6,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 10,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kullåkra BTK B",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 5,
@@ -2148,24 +2199,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
-     "spelade": 5,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Jämjö BTK D",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 5,
      "setdiff": "0–0"
     },

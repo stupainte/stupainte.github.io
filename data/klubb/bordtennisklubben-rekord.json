@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Rekord"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-26T13:29:18Z",
  "lag": [
   {
    "namn": "BTK Rekord",
@@ -112,24 +112,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-25",
-   "tid": "19:00",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 5",
-   "hemma": "Kågeröds BTK C",
-   "borta": "BTK Rekord D",
-   "hemma_klubb": "Kågeröds Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Rekord",
-   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
-   "arrangor": "Kågeröds Bordtennisklubb",
-   "arrangorer": [
-    "Kågeröds Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "19:00",
@@ -2525,6 +2507,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-25",
+   "tid": "19:00",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 5",
+   "hemma": "Kågeröds BTK C",
+   "borta": "BTK Rekord D",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Böketoftavägen 5, 268 77 Kågeröd",
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -4805,13 +4807,13 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Rekord D",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 4,
+     "lag": "Kågeröds BTK C",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -4827,13 +4829,13 @@
     },
     {
      "placering": 6,
-     "lag": "Kågeröds BTK C",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "BTK Rekord D",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {

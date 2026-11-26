@@ -4,7 +4,7 @@
   "namn": "Töreboda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-21T12:03:12Z",
+ "uppdaterad": "2026-11-26T13:29:19Z",
  "lag": [
   {
    "namn": "Töreboda BTK",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-25",
-   "tid": "18:00",
-   "serie_id": "367-6440-0",
-   "serie": "4-Nordöstra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Töreboda BTK",
-   "borta": "Skagersviks BTK",
-   "hemma_klubb": "Töreboda Bordtennisklubb",
-   "borta_klubb": "Skagersviks Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Töreboda Bordtennisklubb",
-   "arrangorer": [
-    "Töreboda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-  },
   {
    "datum": "2026-12-02",
    "tid": "18:00",
@@ -287,36 +269,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-25",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "4-Nordöstra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-25",
-     "tid": "18:00",
-     "serie_id": "367-6440-0",
-     "serie": "4-Nordöstra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Töreboda BTK",
-     "borta": "Skagersviks BTK",
-     "hemma_klubb": "Töreboda Bordtennisklubb",
-     "borta_klubb": "Skagersviks Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Töreboda Bordtennisklubb",
-     "arrangorer": [
-      "Töreboda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1080/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-12-02",
    "platser": [
     "-"
@@ -449,6 +401,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Vedums AIS B",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 7,
+     "vunna": 6,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 13,
+     "setdiff": "264–0"
+    },
+    {
+     "placering": 2,
      "lag": "Lidan BTK",
      "klubb": "Lidan Bordtennisklubb",
      "spelade": 7,
@@ -459,24 +422,13 @@
      "setdiff": "264–0"
     },
     {
-     "placering": 2,
-     "lag": "Vedums AIS B",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 6,
-     "vunna": 5,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 11,
-     "setdiff": "264–0"
-    },
-    {
      "placering": 3,
      "lag": "IFK Falköping BTK B",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 4,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 8,
      "setdiff": "264–0"
     },

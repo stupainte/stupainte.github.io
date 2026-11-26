@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Safir"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-26T13:29:18Z",
  "lag": [
   {
    "namn": "BTK Safir",
@@ -56,25 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 7",
-   "hemma": "BTK Safir-D1",
-   "borta": "Gropens IF-B",
-   "hemma_klubb": "Bordtennisklubben Safir",
-   "borta_klubb": "Gropens Idrottsförening",
-   "plats": "BTK Safir",
-   "arrangor": "Örebro Läns Bordtennisförbund / Bordtennisklubben Safir",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Bordtennisklubben Safir"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-11-26",
    "tid": "18:00",
@@ -1819,6 +1800,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 7",
+   "hemma": "BTK Safir-D1",
+   "borta": "Gropens IF-B",
+   "hemma_klubb": "Bordtennisklubben Safir",
+   "borta_klubb": "Gropens Idrottsförening",
+   "plats": "BTK Safir",
+   "arrangor": "Örebro Läns Bordtennisförbund / Bordtennisklubben Safir",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Bordtennisklubben Safir"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1849,7 +1851,9 @@
       "Örebro Läns Bordtennisförbund",
       "Bordtennisklubben Safir"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -2785,32 +2789,32 @@
      "placering": 2,
      "lag": "Ålsta BTK-B1",
      "klubb": "Ålsta Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Gropens IF-B",
      "klubb": "Gropens Idrottsförening",
-     "spelade": 4,
-     "vunna": 1,
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
      "lag": "Simon SK-A1",
      "klubb": "Simon Sportklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
@@ -2862,10 +2866,10 @@
      "placering": 9,
      "lag": "BTK Safir-D1",
      "klubb": "Bordtennisklubben Safir",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

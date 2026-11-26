@@ -4,7 +4,7 @@
   "namn": "Senorens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-26T13:29:19Z",
  "lag": [
   {
    "namn": "Senorens IF A",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6758-0",
-   "serie": "Div 6 Syd/MELLERSTA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Jämjö BTK D",
-   "borta": "Senorens IF A",
-   "hemma_klubb": "Jämjö Bordtennisklubb",
-   "borta_klubb": "Senorens Idrottsförening",
-   "plats": "Klubblokalen Jämjö BTK",
-   "arrangor": "Jämjö Bordtennisklubb",
-   "arrangorer": [
-    "Jämjö Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
   {
    "datum": "2026-12-13",
    "tid": "13:00",
@@ -279,6 +261,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6758-0",
+   "serie": "Div 6 Syd/MELLERSTA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Jämjö BTK D",
+   "borta": "Senorens IF A",
+   "hemma_klubb": "Jämjö Bordtennisklubb",
+   "borta_klubb": "Senorens Idrottsförening",
+   "plats": "Klubblokalen Jämjö BTK",
+   "arrangor": "Jämjö Bordtennisklubb",
+   "arrangorer": [
+    "Jämjö Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -454,6 +456,17 @@
     },
     {
      "placering": 2,
+     "lag": "Senorens IF A",
+     "klubb": "Senorens Idrottsförening",
+     "spelade": 6,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 10,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Kullåkra BTK B",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 5,
@@ -464,24 +477,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Senorens IF A",
-     "klubb": "Senorens Idrottsförening",
-     "spelade": 5,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 8,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Jämjö BTK D",
      "klubb": "Jämjö Bordtennisklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 5,
      "setdiff": "0–0"
     },

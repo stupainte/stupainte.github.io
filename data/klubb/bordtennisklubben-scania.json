@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-26T13:29:18Z",
  "lag": [
   {
    "namn": "BTK Scania",
@@ -1945,6 +1945,26 @@
   {
    "datum": "2026-11-24",
    "tid": "19:00",
+   "serie_id": "513-7446-0",
+   "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 5",
+   "hemma": "BTK Scania C",
+   "borta": "Kågeröds BTK E",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Puls Arena, Varggatan 17, Landskrona",
+   "arrangor": "Bordtennisklubben Scania",
+   "arrangorer": [
+    "Bordtennisklubben Scania"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-24",
+   "tid": "19:00",
    "serie_id": "513-7453-0",
    "serie": "Division 4 Västra",
    "evenemang": "Skåneserier Senior herr/dam",
@@ -3313,13 +3333,13 @@
     },
     {
      "placering": 4,
-     "lag": "BTK Rekord D",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 4,
+     "lag": "Kågeröds BTK C",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 5,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 4,
+     "forlorade": 3,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3335,13 +3355,13 @@
     },
     {
      "placering": 6,
-     "lag": "Kågeröds BTK C",
-     "klubb": "Kågeröds Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 1,
+     "lag": "BTK Rekord D",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 5,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
@@ -3423,28 +3443,28 @@
      "placering": 5,
      "lag": "BTK Scania C",
      "klubb": "Bordtennisklubben Scania",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 2,
+     "forlorade": 4,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "Klippans BTK B",
-     "klubb": "Klippans Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Kågeröds BTK E",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
-     "lag": "Kågeröds BTK E",
-     "klubb": "Kågeröds Bordtennisklubb",
+     "lag": "Klippans BTK B",
+     "klubb": "Klippans Bordtennisklubb",
      "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,

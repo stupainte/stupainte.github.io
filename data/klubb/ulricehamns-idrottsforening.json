@@ -4,7 +4,7 @@
   "namn": "Ulricehamns Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-26T13:29:19Z",
  "lag": [
   {
    "namn": "Ulricehamns IF",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-25",
-   "tid": "18:30",
-   "serie_id": "367-7457-0",
-   "serie": "6-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Ulricehamns IF C",
-   "borta": "Byttorps IF C2",
-   "hemma_klubb": "Ulricehamns Idrottsförening",
-   "borta_klubb": "Byttorps Idrottsförening",
-   "plats": "-",
-   "arrangor": "Ulricehamns Idrottsförening",
-   "arrangorer": [
-    "Ulricehamns Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-  },
   {
    "datum": "2026-12-01",
    "tid": "19:00",
@@ -1609,6 +1591,26 @@
    "borta_poang": 2
   },
   {
+   "datum": "2026-11-25",
+   "tid": "18:30",
+   "serie_id": "367-7457-0",
+   "serie": "6-Södra",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Ulricehamns IF C",
+   "borta": "Byttorps IF C2",
+   "hemma_klubb": "Ulricehamns Idrottsförening",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "-",
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-02",
    "tid": "10:00",
    "serie_id": "367-6956-0",
@@ -1630,36 +1632,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-25",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "6-Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-25",
-     "tid": "18:30",
-     "serie_id": "367-7457-0",
-     "serie": "6-Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Ulricehamns IF C",
-     "borta": "Byttorps IF C2",
-     "hemma_klubb": "Ulricehamns Idrottsförening",
-     "borta_klubb": "Byttorps Idrottsförening",
-     "plats": "-",
-     "arrangor": "Ulricehamns Idrottsförening",
-     "arrangorer": [
-      "Ulricehamns Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1367/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-02",
    "platser": [
@@ -2779,10 +2751,10 @@
      "placering": 1,
      "lag": "Byttorps IF C2",
      "klubb": "Byttorps Idrottsförening",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 5,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 11,
      "setdiff": "0–0"
     },
@@ -2823,11 +2795,11 @@
      "placering": 5,
      "lag": "Ulricehamns IF C",
      "klubb": "Ulricehamns Idrottsförening",
-     "spelade": 6,
-     "vunna": 3,
+     "spelade": 7,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -3004,6 +2976,17 @@
     },
     {
      "placering": 6,
+     "lag": "Kinna BTK",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 7,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 6,
+     "matchpoang": 5,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
      "lag": "Sandareds BTK B",
      "klubb": "Sandareds Bordtennisklubb",
      "spelade": 3,
@@ -3014,24 +2997,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 7,
-     "lag": "Kinna BTK",
-     "klubb": "Kinna Bordtennisklubb",
+     "placering": 8,
+     "lag": "Byttorps IF B1",
+     "klubb": "Byttorps Idrottsförening",
      "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 6,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "Byttorps IF B1",
-     "klubb": "Byttorps Idrottsförening",
-     "spelade": 5,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
