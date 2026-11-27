@@ -4,7 +4,7 @@
   "namn": "Örslösa-Söne Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Örslösa - Söne IK B",
@@ -32,24 +32,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "367-7460-0",
-   "serie": "6-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Vedums AIS D",
-   "borta": "Örslösa - Söne IK B",
-   "hemma_klubb": "Vedums Allmänna IS",
-   "borta_klubb": "Örslösa-Söne Idrottsklubb",
-   "plats": "-",
-   "arrangor": "Vedums Allmänna IS",
-   "arrangorer": [
-    "Vedums Allmänna IS"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7"
-  },
   {
    "datum": "2026-12-01",
    "tid": "19:00",
@@ -751,6 +733,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie_id": "367-7460-0",
+   "serie": "6-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Vedums AIS D",
+   "borta": "Örslösa - Söne IK B",
+   "hemma_klubb": "Vedums Allmänna IS",
+   "borta_klubb": "Örslösa-Söne Idrottsklubb",
+   "plats": "-",
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1366/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -1065,6 +1067,17 @@
     },
     {
      "placering": 2,
+     "lag": "Vedums AIS D",
+     "klubb": "Vedums Allmänna IS",
+     "spelade": 7,
+     "vunna": 5,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 11,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Alingsås PK D",
      "klubb": "Alingsås Pingis Klubb",
      "spelade": 7,
@@ -1075,24 +1088,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
-     "lag": "Vedums AIS D",
-     "klubb": "Vedums Allmänna IS",
-     "spelade": 6,
-     "vunna": 4,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 9,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 4,
      "lag": "Örslösa - Söne IK B",
      "klubb": "Örslösa-Söne Idrottsklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 8,
      "setdiff": "0–0"
     },
@@ -1111,22 +1113,22 @@
      "placering": 6,
      "lag": "IFK Falköping BTK C2",
      "klubb": "IFK Falköping Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
-     "matchpoang": 3,
+     "forlorade": 6,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 7,
      "lag": "IFK Lidköping BTK C2",
      "klubb": "IFK Lidköping",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
-     "matchpoang": 2,
+     "forlorade": 6,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1250,11 +1252,11 @@
      "placering": 3,
      "lag": "Grästorps BTK B",
      "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -1270,13 +1272,13 @@
     },
     {
      "placering": 5,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
-     "spelade": 6,
+     "lag": "Trollhättans BTK B",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 7,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 4,
+     "forlorade": 5,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -1292,23 +1294,23 @@
     },
     {
      "placering": 7,
-     "lag": "Trollhättans BTK B",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 1,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
+     "spelade": 7,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 5,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Herrljunga BTK",
      "klubb": "Herrljunga Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 2,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Ihre Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Ihre BTK A",
@@ -49,24 +49,6 @@
     "Ihre Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6772-0",
-   "serie": "Veteran Södra",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Ihre BTK A",
-   "borta": "Kullåkra BTK C",
-   "hemma_klubb": "Ihre Bordtennisklubb",
-   "borta_klubb": "Kullåkra Bordtennisklubb",
-   "plats": "ihre stugan",
-   "arrangor": "Ihre Bordtennisklubb",
-   "arrangorer": [
-    "Ihre Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
   },
   {
    "datum": "2026-11-29",
@@ -725,6 +707,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-26",
+   "tid": "13:00",
+   "serie_id": "372-6772-0",
+   "serie": "Veteran Södra",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Ihre BTK A",
+   "borta": "Kullåkra BTK C",
+   "hemma_klubb": "Ihre Bordtennisklubb",
+   "borta_klubb": "Kullåkra Bordtennisklubb",
+   "plats": "ihre stugan",
+   "arrangor": "Ihre Bordtennisklubb",
+   "arrangorer": [
+    "Ihre Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6772-0",
@@ -773,10 +775,9 @@
    ],
    "serier": [
     "DIV 5 SÖDRA",
-    "Div 6 Syd/MELLERSTA",
-    "Veteran Södra"
+    "Div 6 Syd/MELLERSTA"
    ],
-   "antal": 3,
+   "antal": 2,
    "matcher": [
     {
      "datum": "2026-11-29",
@@ -813,24 +814,6 @@
       "Ihre Bordtennisklubb"
      ],
      "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1182/2/7/7"
-    },
-    {
-     "datum": "2026-11-29",
-     "tid": "13:00",
-     "serie_id": "372-6772-0",
-     "serie": "Veteran Södra",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Ihre BTK A",
-     "borta": "Kullåkra BTK C",
-     "hemma_klubb": "Ihre Bordtennisklubb",
-     "borta_klubb": "Kullåkra Bordtennisklubb",
-     "plats": "ihre stugan",
-     "arrangor": "Ihre Bordtennisklubb",
-     "arrangorer": [
-      "Ihre Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
     }
    ]
   },
@@ -1360,23 +1343,23 @@
     },
     {
      "placering": 5,
+     "lag": "Kullåkra BTK C",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kättilsmåla BTK A",
      "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Kullåkra BTK C",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -1395,10 +1378,10 @@
      "placering": 8,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Idrottsföreningen Norcopensarna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "IF Norcopensarna",
@@ -28,6 +28,14 @@
     "namn": "Div 2 ÖSS"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "IF Norcopensarna",
+   "serie": {
+    "namn": "P12 lag Kvalgrupp 3 (1) Group 2"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -680,6 +688,24 @@
   },
   {
    "datum": "2026-12-19",
+   "tid": "12:00",
+   "serie_id": "511-10769-1",
+   "serie": "P12 lag Kvalgrupp 3 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "IF Norcopensarna",
+   "borta": "Hammarby IF BTF: 1",
+   "hemma_klubb": "Idrottsföreningen Norcopensarna",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "IFK Täby Bordtennisklubb",
+   "arrangorer": [
+    "IFK Täby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2024/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
    "tid": "14:00",
    "serie_id": "467-6786-0",
    "serie": "Division 4",
@@ -731,6 +757,24 @@
     "Linköpings Pingisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1059/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "15:00",
+   "serie_id": "511-10769-1",
+   "serie": "P12 lag Kvalgrupp 3 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "IFK Österåkers BTK",
+   "borta": "IF Norcopensarna",
+   "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Norcopensarna",
+   "plats": "Hall 1",
+   "arrangor": "IFK Täby Bordtennisklubb",
+   "arrangorer": [
+    "IFK Täby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2024/2/7/7"
   },
   {
    "datum": "2026-12-20",
@@ -1104,9 +1148,9 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "A-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangor": "Söderhamns Ungdomsgårds IF",
    "arrangorer": [
-    "IK Sirius Bordtennisklubb"
+    "Söderhamns Ungdomsgårds IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
@@ -1212,9 +1256,9 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "A-hallen",
-   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangor": "Söderhamns Ungdomsgårds IF",
    "arrangorer": [
-    "IK Sirius Bordtennisklubb"
+    "Söderhamns Ungdomsgårds IF"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
@@ -8271,6 +8315,48 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10769-1",
+   "serie": "P12 lag Kvalgrupp 3 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2024/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Hammarby IF BTF: 1",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IF Norcopensarna",
+     "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IFK Österåkers BTK",
+     "klubb": "IFK Österåkers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "259-3389-0",
    "serie": "Kval Superettan damer",

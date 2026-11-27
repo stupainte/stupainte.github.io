@@ -4,7 +4,7 @@
   "namn": "Ortvikens Pingisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Ortvikens PK",
@@ -12,6 +12,22 @@
     "namn": "Div 2 NSN"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ortvikens PK",
+   "serie": {
+    "namn": "P16 lag Kvalgrupp 3"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Ortvikens PK",
+   "serie": {
+    "namn": "HJ18 lag Kvalgrupp 1"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -306,6 +322,24 @@
   },
   {
    "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10780-0",
+   "serie": "P16 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Ortvikens PK",
+   "borta": "Tullinge TP BTF",
+   "hemma_klubb": "Ortvikens Pingisklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2032/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
    "tid": "10:00",
    "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
@@ -450,6 +484,42 @@
   },
   {
    "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10780-0",
+   "serie": "P16 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Ängby SK: 2",
+   "borta": "Ortvikens PK",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Ortvikens Pingisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2032/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10790-0",
+   "serie": "HJ18 lag Kvalgrupp 1",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Spårvägens BTK",
+   "borta": "Ortvikens PK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Ortvikens Pingisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2034/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
    "tid": "14:00",
    "serie_id": "376-7265-0",
    "serie": "Ungdomsserier",
@@ -591,6 +661,24 @@
     "Hudiksvalls IF Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/376/1065/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "16:00",
+   "serie_id": "511-10780-0",
+   "serie": "P16 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "Ortvikens PK",
+   "borta": "Hammarby IF BTF: 2",
+   "hemma_klubb": "Ortvikens Pingisklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2032/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -2898,6 +2986,90 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10790-0",
+   "serie": "HJ18 lag Kvalgrupp 1",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2034/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Ortvikens PK",
+     "klubb": "Ortvikens Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "511-10780-0",
+   "serie": "P16 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2032/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Ängby SK: 2",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Ortvikens PK",
+     "klubb": "Ortvikens Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Hammarby IF BTF: 2",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Tullinge TP BTF",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "417-5753-0",
    "serie": "Div 2 NSN",

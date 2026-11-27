@@ -4,7 +4,7 @@
   "namn": "Malmö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Malmö IF",
@@ -12,6 +12,14 @@
     "namn": "Div 2 SSS"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Malmö IF",
+   "serie": {
+    "namn": "P14 lag Kvalgrupp 2"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -425,6 +433,24 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1478/2/7/7"
   },
   {
+   "datum": "2026-12-03",
+   "tid": "18:15",
+   "serie_id": "417-5741-0",
+   "serie": "Div 1 S Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "omgang": "Round 4",
+   "hemma": "Malmö IF: A2",
+   "borta": "IFK Lund Bordtennis",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "A-hallen",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+  },
+  {
    "datum": "2026-12-07",
    "tid": "19:00",
    "serie_id": "513-7450-0",
@@ -808,6 +834,24 @@
   },
   {
    "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10774-0",
+   "serie": "P14 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Halmstad BTK",
+   "borta": "Malmö IF",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2027/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
    "tid": "10:00",
    "serie_id": "513-7450-0",
    "serie": "Division 5 Södra 2",
@@ -837,6 +881,42 @@
    "arrangor": null,
    "arrangorer": [],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1481/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10774-0",
+   "serie": "P14 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Lyckeby BTK",
+   "borta": "Malmö IF",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2027/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "16:00",
+   "serie_id": "511-10774-0",
+   "serie": "P14 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "IFK Lund Bordtennis",
+   "borta": "Malmö IF",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "IFK Lund Bordtennis",
+   "arrangorer": [
+    "IFK Lund Bordtennis"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2027/2/7/7"
   },
   {
    "datum": "2027-01-11",
@@ -4584,6 +4664,59 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10774-0",
+   "serie": "P14 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2027/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Lund Bordtennis",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Malmö IF",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "417-5741-0",
    "serie": "Div 1 S Dam",

@@ -4,7 +4,7 @@
   "namn": "Rydöbruks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Rydöbruks IF A",
@@ -56,24 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "411-7533-0",
-   "serie": "Division 5 Mellersta (1)",
-   "evenemang": "Hallands Bordtennisförbund 2026-27",
-   "omgang": "Round 6",
-   "hemma": "Rydöbruks IF A",
-   "borta": "Sibbarps GoIF B",
-   "hemma_klubb": "Rydöbruks Idrottsförening",
-   "borta_klubb": "Sibbarps Gymnastik O IF",
-   "plats": "Rydöbruk",
-   "arrangor": "Rydöbruks Idrottsförening",
-   "arrangorer": [
-    "Rydöbruks Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-  },
   {
    "datum": "2026-12-06",
    "tid": "19:00",
@@ -391,6 +373,26 @@
    "borta_poang": 1
   },
   {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie_id": "411-7533-0",
+   "serie": "Division 5 Mellersta (1)",
+   "evenemang": "Hallands Bordtennisförbund 2026-27",
+   "omgang": "Round 6",
+   "hemma": "Rydöbruks IF A",
+   "borta": "Sibbarps GoIF B",
+   "hemma_klubb": "Rydöbruks Idrottsförening",
+   "borta_klubb": "Sibbarps Gymnastik O IF",
+   "plats": "Rydöbruk",
+   "arrangor": "Rydöbruks Idrottsförening",
+   "arrangorer": [
+    "Rydöbruks Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-29",
    "tid": "19:00",
    "serie_id": "411-7594-0",
@@ -432,36 +434,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-26",
-   "platser": [
-    "Rydöbruk"
-   ],
-   "serier": [
-    "Division 5 Mellersta (1)"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "19:00",
-     "serie_id": "411-7533-0",
-     "serie": "Division 5 Mellersta (1)",
-     "evenemang": "Hallands Bordtennisförbund 2026-27",
-     "omgang": "Round 6",
-     "hemma": "Rydöbruks IF A",
-     "borta": "Sibbarps GoIF B",
-     "hemma_klubb": "Rydöbruks Idrottsförening",
-     "borta_klubb": "Sibbarps Gymnastik O IF",
-     "plats": "Rydöbruk",
-     "arrangor": "Rydöbruks Idrottsförening",
-     "arrangorer": [
-      "Rydöbruks Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1250/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -546,8 +518,8 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Ratic C1",
-     "klubb": "Bordtennisklubben Ratic",
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -557,8 +529,8 @@
     },
     {
      "placering": 3,
-     "lag": "Sibbarps GoIF B",
-     "klubb": "Sibbarps Gymnastik O IF",
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,

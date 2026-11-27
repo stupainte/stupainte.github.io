@@ -4,7 +4,7 @@
   "namn": "Ljungby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-23T13:57:03Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Ljungby BTK",
@@ -25,22 +25,36 @@
  ],
  "kommande": [
   {
-   "datum": "2026-11-26",
-   "tid": "18:30",
-   "serie_id": "372-6757-0",
-   "serie": "DIV 5 Mellersta",
+   "datum": "2026-12-13",
+   "tid": "10:00",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
    "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Ljungby BTK A",
-   "borta": "BTK Näcken A",
-   "hemma_klubb": "Ljungby Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Näcken",
-   "plats": "Sunnerbohallen",
-   "arrangor": "Ljungby Bordtennisklubb",
-   "arrangorer": [
-    "Ljungby Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+   "omgang": "Round 3",
+   "hemma": "Kullåkra BTK",
+   "borta": "Ljungby BTK",
+   "hemma_klubb": "Kullåkra Bordtennisklubb",
+   "borta_klubb": "Ljungby Bordtennisklubb",
+   "plats": "Skir Skola",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:30",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Listerby IK 1",
+   "borta": "Ljungby BTK",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Ljungby Bordtennisklubb",
+   "plats": "Skir Skola",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -306,7 +320,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-11-22",
@@ -325,41 +339,31 @@
     "Listerby Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7",
-   "hemma_poang": 1,
+   "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "18:30",
+   "serie_id": "372-6757-0",
+   "serie": "DIV 5 Mellersta",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Ljungby BTK A",
+   "borta": "BTK Näcken A",
+   "hemma_klubb": "Ljungby Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Näcken",
+   "plats": "Sunnerbohallen",
+   "arrangor": "Ljungby Bordtennisklubb",
+   "arrangorer": [
+    "Ljungby Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-26",
-   "platser": [
-    "Sunnerbohallen"
-   ],
-   "serier": [
-    "DIV 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "18:30",
-     "serie_id": "372-6757-0",
-     "serie": "DIV 5 Mellersta",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Ljungby BTK A",
-     "borta": "BTK Näcken A",
-     "hemma_klubb": "Ljungby Bordtennisklubb",
-     "borta_klubb": "Bordtennisklubben Näcken",
-     "plats": "Sunnerbohallen",
-     "arrangor": "Ljungby Bordtennisklubb",
-     "arrangorer": [
-      "Ljungby Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2027-01-31",
    "platser": [
@@ -463,11 +467,11 @@
      "placering": 1,
      "lag": "Lessebo BTK B",
      "klubb": "Lessebo Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
@@ -496,10 +500,10 @@
      "placering": 4,
      "lag": "Kosta SK C",
      "klubb": "Kosta Sportklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 7,
      "setdiff": "0–0"
     },
@@ -507,11 +511,11 @@
      "placering": 5,
      "lag": "Ljungby BTK A",
      "klubb": "Ljungby Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -540,10 +544,10 @@
      "placering": 8,
      "lag": "BTK Näcken A",
      "klubb": "Bordtennisklubben Näcken",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -569,8 +573,8 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Frej 2",
-     "klubb": "Bordtennisklubben Frej",
+     "lag": "Listerby IK 1",
+     "klubb": "Listerby Idrottsklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -580,8 +584,8 @@
     },
     {
      "placering": 3,
-     "lag": "Listerby IK 1",
-     "klubb": "Listerby Idrottsklubb",
+     "lag": "BTK Frej 2",
+     "klubb": "Bordtennisklubben Frej",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -591,17 +595,6 @@
     },
     {
      "placering": 4,
-     "lag": "Dänningelanda BTK 2",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Kullåkra BTK",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
@@ -609,6 +602,17 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Dänningelanda BTK 2",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]

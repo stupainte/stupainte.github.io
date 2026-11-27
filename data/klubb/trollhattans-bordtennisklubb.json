@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "367-6439-0",
-   "serie": "Div 5 Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Trollhättans BTK B",
-   "borta": "Herrljunga BTK",
-   "hemma_klubb": "Trollhättans Bordtennisklubb",
-   "borta_klubb": "Herrljunga Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Trollhättans Bordtennisklubb",
-   "arrangorer": [
-    "Trollhättans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "10:00",
@@ -1440,6 +1422,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie_id": "367-6439-0",
+   "serie": "Div 5 Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 7",
+   "hemma": "Trollhättans BTK B",
+   "borta": "Herrljunga BTK",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Herrljunga Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-13",
    "tid": "12:00",
    "serie_id": "367-7710-0",
@@ -1462,36 +1464,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-26",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "Div 5 Mellersta"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "19:00",
-     "serie_id": "367-6439-0",
-     "serie": "Div 5 Mellersta",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Trollhättans BTK B",
-     "borta": "Herrljunga BTK",
-     "hemma_klubb": "Trollhättans Bordtennisklubb",
-     "borta_klubb": "Herrljunga Bordtennisklubb",
-     "plats": "-",
-     "arrangor": "Trollhättans Bordtennisklubb",
-     "arrangorer": [
-      "Trollhättans Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1243/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -2159,11 +2131,11 @@
      "placering": 3,
      "lag": "Grästorps BTK B",
      "klubb": "Grästorps Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 4,
+     "spelade": 7,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -2179,13 +2151,13 @@
     },
     {
      "placering": 5,
-     "lag": "Larvs FK B",
-     "klubb": "Larvs Fotbollklubb",
-     "spelade": 6,
+     "lag": "Trollhättans BTK B",
+     "klubb": "Trollhättans Bordtennisklubb",
+     "spelade": 7,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 4,
+     "forlorade": 5,
+     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2201,23 +2173,23 @@
     },
     {
      "placering": 7,
-     "lag": "Trollhättans BTK B",
-     "klubb": "Trollhättans Bordtennisklubb",
-     "spelade": 6,
-     "vunna": 1,
+     "lag": "Larvs FK B",
+     "klubb": "Larvs Fotbollklubb",
+     "spelade": 7,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 5,
-     "matchpoang": 3,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
      "lag": "Herrljunga BTK",
      "klubb": "Herrljunga Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 2,
      "setdiff": "0–0"
     }

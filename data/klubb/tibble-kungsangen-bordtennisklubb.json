@@ -4,7 +4,7 @@
   "namn": "Tibble-Kungsängen Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Tibble Backhand Bandits",
@@ -2065,6 +2065,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-18",
+   "tid": "19:00",
+   "serie_id": "464-7910-0",
+   "serie": "Div 5 Norra",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Sundbybergs IK",
+   "borta": "Tibble Kungsängen BTK C",
+   "hemma_klubb": "Sundbybergs Idrottsklubb",
+   "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "plats": "Arrangörs hall",
+   "arrangor": "Sundbybergs Idrottsklubb",
+   "arrangorer": [
+    "Sundbybergs Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1583/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-20",
    "tid": "19:45",
    "serie_id": "464-7919-0",
@@ -3460,6 +3480,17 @@
     },
     {
      "placering": 3,
+     "lag": "Tibble Kungsängen BTK C",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Bro IK C",
      "klubb": "Bro Idrottsklubb",
      "spelade": 5,
@@ -3467,17 +3498,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Tibble Kungsängen BTK C",
-     "klubb": "Tibble-Kungsängen Bordtennisklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -3517,10 +3537,10 @@
      "placering": 8,
      "lag": "Sundbybergs IK",
      "klubb": "Sundbybergs Idrottsklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

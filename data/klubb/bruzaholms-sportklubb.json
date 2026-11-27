@@ -4,7 +4,7 @@
   "namn": "Bruzaholms Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-22T12:15:35Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Bruzaholms SK A",
@@ -41,24 +41,6 @@
     "Bruzaholms Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1105/2/7/7"
-  },
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6761-0",
-   "serie": "Div 6 Norra B",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Bruzaholms SK B",
-   "borta": "Södra VI IF A",
-   "hemma_klubb": "Bruzaholms Sportklubb",
-   "borta_klubb": "Södra Vi Idrottsförening",
-   "plats": "Folkets hus Bruzaholm",
-   "arrangor": "Bruzaholms Sportklubb",
-   "arrangorer": [
-    "Bruzaholms Sportklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -477,6 +459,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6761-0",
+   "serie": "Div 6 Norra B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Bruzaholms SK B",
+   "borta": "Södra VI IF A",
+   "hemma_klubb": "Bruzaholms Sportklubb",
+   "borta_klubb": "Södra Vi Idrottsförening",
+   "plats": "Folkets hus Bruzaholm",
+   "arrangor": "Bruzaholms Sportklubb",
+   "arrangorer": [
+    "Bruzaholms Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6761-0",
@@ -564,7 +566,9 @@
      "arrangorer": [
       "Bruzaholms Sportklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1185/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -891,21 +895,21 @@
      "placering": 2,
      "lag": "Södra VI IF A",
      "klubb": "Södra Vi Idrottsförening",
-     "spelade": 5,
-     "vunna": 3,
+     "spelade": 6,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 7,
+     "matchpoang": 9,
      "setdiff": "264–0"
     },
     {
      "placering": 3,
      "lag": "Bruzaholms SK B",
      "klubb": "Bruzaholms Sportklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 7,
      "setdiff": "264–0"
     },

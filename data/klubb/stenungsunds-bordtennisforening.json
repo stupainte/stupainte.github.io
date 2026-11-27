@@ -4,7 +4,7 @@
   "namn": "Stenungsunds Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Stenungsunds BTF",
@@ -12,6 +12,14 @@
     "namn": "Västra"
    },
    "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Stenungsunds BTF",
+   "serie": {
+    "namn": "P14 lag Kvalgrupp 3"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -479,6 +487,60 @@
     "Bullarens Gymnastik o Idrottsförening"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1513/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10775-0",
+   "serie": "P14 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Askims BTK",
+   "borta": "Stenungsunds BTF",
+   "hemma_klubb": "Askims Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2028/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10775-0",
+   "serie": "P14 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Stenungsunds BTF",
+   "borta": "Linköpings PK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Linköpings Pingisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2028/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "16:00",
+   "serie_id": "511-10775-0",
+   "serie": "P14 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "BTK Linné",
+   "borta": "Stenungsunds BTF",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2028/2/7/7"
   },
   {
    "datum": "2026-12-20",
@@ -2882,6 +2944,59 @@
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie_id": "511-10775-0",
+   "serie": "P14 lag Kvalgrupp 3",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2028/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Askims BTK",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Linné",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Stenungsunds BTF",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Linköpings PK",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

@@ -4,7 +4,7 @@
   "namn": "Torslanda Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Team Tors-Björ",
@@ -96,25 +96,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "371-7232-0",
-   "serie": "Division 5",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "Torslanda BTK A",
-   "borta": "Torslanda IK A",
-   "hemma_klubb": "Torslanda Bordtennisklubb",
-   "borta_klubb": "Torslanda Idrottsklubb",
-   "plats": "Björlandaskolan",
-   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Bordtennisklubb",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Torslanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-  },
   {
    "datum": "2026-11-28",
    "tid": "15:30",
@@ -1700,6 +1681,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-21",
+   "tid": "15:30",
+   "serie_id": "371-7375-0",
+   "serie": "Division 9",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 3",
+   "hemma": "Torslanda IK D",
+   "borta": "Askims BTK F",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Askims Bordtennisklubb",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1064/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2026-11-22",
    "tid": "09:00",
    "serie_id": "493-7505-0",
@@ -1864,6 +1865,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/493/1498/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-22",
+   "tid": "17:30",
+   "serie_id": "371-7238-0",
+   "serie": "Division 6",
+   "evenemang": " Göteborgs Distriktserie",
+   "omgang": "Round 3",
+   "hemma": "Torslanda IK B",
+   "borta": "BTK Warta D",
+   "hemma_klubb": "Torslanda Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Aktivitetshallen/klubbhuset Torslanda",
+   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Idrottsklubb",
+   "arrangorer": [
+    "Göteborgs Bordtennisförbund",
+    "Torslanda Idrottsklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1061/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2961,17 +2983,6 @@
     },
     {
      "placering": 4,
-     "lag": "Torslanda IK D",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "BTK Linné K",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
@@ -2979,6 +2990,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK D",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -2996,11 +3018,11 @@
      "placering": 7,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

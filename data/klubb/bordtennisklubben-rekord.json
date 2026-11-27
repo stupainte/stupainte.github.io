@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Rekord"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "BTK Rekord",
@@ -28,6 +28,14 @@
     "namn": "Div 2 SSÖ Dam"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "BTK Rekord",
+   "serie": {
+    "namn": "F12 lag Kvalgrupp 1"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -112,24 +120,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "513-7453-0",
-   "serie": "Division 4 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 5",
-   "hemma": "Klippans BTK A",
-   "borta": "BTK Rekord C",
-   "hemma_klubb": "Klippans Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Rekord",
-   "plats": "Sågen-Möjligheternas hus Ängelholmsgatan 1-9 26433 Klippan",
-   "arrangor": "Klippans Bordtennisklubb",
-   "arrangorer": [
-    "Klippans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
-  },
   {
    "datum": "2026-11-28",
    "tid": "10:00",
@@ -669,6 +659,42 @@
     "Bordtennisklubben Scania"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10761-0",
+   "serie": "F12 lag Kvalgrupp 1",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "BTK Rekord",
+   "borta": "Mariedals IK",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "Hall 1",
+   "arrangor": "Mariedals IK",
+   "arrangorer": [
+    "Mariedals IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "16:00",
+   "serie_id": "511-10761-0",
+   "serie": "F12 lag Kvalgrupp 1",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "Linköpings PK",
+   "borta": "BTK Rekord",
+   "hemma_klubb": "Linköpings Pingisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Hall 1",
+   "arrangor": "Mariedals IK",
+   "arrangorer": [
+    "Mariedals IK"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7"
   },
   {
    "datum": "2027-01-12",
@@ -2527,6 +2553,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie_id": "513-7453-0",
+   "serie": "Division 4 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 5",
+   "hemma": "Klippans BTK A",
+   "borta": "BTK Rekord C",
+   "hemma_klubb": "Klippans Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Sågen-Möjligheternas hus Ängelholmsgatan 1-9 26433 Klippan",
+   "arrangor": "Klippans Bordtennisklubb",
+   "arrangorer": [
+    "Klippans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -3994,6 +4040,48 @@
  ],
  "tabeller": [
   {
+   "serie_id": "511-10761-0",
+   "serie": "F12 lag Kvalgrupp 1",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Mariedals IK",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Linköpings PK",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
    "serie_id": "417-5749-0",
    "serie": "Div 2 SSÖ Dam",
    "evenemang": "Nationellt seriespel 2026-2027",
@@ -4798,10 +4886,10 @@
      "placering": 3,
      "lag": "Klippans BTK A",
      "klubb": "Klippans Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -4840,6 +4928,17 @@
     },
     {
      "placering": 7,
+     "lag": "BTK Rekord C",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
      "lag": "BTK Scania B",
      "klubb": "Bordtennisklubben Scania",
      "spelade": 5,
@@ -4847,17 +4946,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "BTK Rekord C",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 4,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]

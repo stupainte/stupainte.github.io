@@ -4,7 +4,7 @@
   "namn": "Torslanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Torslanda BTK A",
@@ -56,25 +56,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "371-7232-0",
-   "serie": "Division 5",
-   "evenemang": " Göteborgs Distriktserie",
-   "omgang": "Round 4",
-   "hemma": "Torslanda BTK A",
-   "borta": "Torslanda IK A",
-   "hemma_klubb": "Torslanda Bordtennisklubb",
-   "borta_klubb": "Torslanda Idrottsklubb",
-   "plats": "Björlandaskolan",
-   "arrangor": "Göteborgs Bordtennisförbund / Torslanda Bordtennisklubb",
-   "arrangorer": [
-    "Göteborgs Bordtennisförbund",
-    "Torslanda Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "18:00",
@@ -889,37 +870,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-26",
-   "platser": [
-    "Björlandaskolan"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "19:00",
-     "serie_id": "371-7232-0",
-     "serie": "Division 5",
-     "evenemang": " Göteborgs Distriktserie",
-     "omgang": "Round 4",
-     "hemma": "Torslanda BTK A",
-     "borta": "Torslanda IK A",
-     "hemma_klubb": "Torslanda Bordtennisklubb",
-     "borta_klubb": "Torslanda Idrottsklubb",
-     "plats": "Björlandaskolan",
-     "arrangor": "Göteborgs Bordtennisförbund / Torslanda Bordtennisklubb",
-     "arrangorer": [
-      "Göteborgs Bordtennisförbund",
-      "Torslanda Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/371/1060/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-29",
    "platser": [
     "Aktivitetshallen/klubbhuset Torslanda"
@@ -1451,17 +1401,6 @@
     },
     {
      "placering": 4,
-     "lag": "Torslanda IK D",
-     "klubb": "Torslanda Idrottsklubb",
-     "spelade": 2,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "BTK Linné K",
      "klubb": "Bordtennisklubben Linné",
      "spelade": 1,
@@ -1469,6 +1408,17 @@
      "oavgjorda": 0,
      "forlorade": 1,
      "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Torslanda IK D",
+     "klubb": "Torslanda Idrottsklubb",
+     "spelade": 3,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
@@ -1486,11 +1436,11 @@
      "placering": 7,
      "lag": "Askims BTK F",
      "klubb": "Askims Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 0,
+     "spelade": 2,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {

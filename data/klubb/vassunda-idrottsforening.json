@@ -4,7 +4,7 @@
   "namn": "Vassunda Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-20T12:27:21Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Vassunda IF",
@@ -20,6 +20,14 @@
     "namn": "Div 3 NSSÖ"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Vassunda IF",
+   "serie": {
+    "namn": "F12 lag Kvalgrupp 2"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -315,6 +323,60 @@
     "Norrtälje Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10762-0",
+   "serie": "F12 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Vassunda IF",
+   "borta": "Stratos Enköpings BTK",
+   "hemma_klubb": "Vassunda Idrottsförening",
+   "borta_klubb": "Stratos Enköping Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2021/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "13:00",
+   "serie_id": "511-10762-0",
+   "serie": "F12 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Vassunda IF",
+   "borta": "Solna BTK",
+   "hemma_klubb": "Vassunda Idrottsförening",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2021/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "16:00",
+   "serie_id": "511-10762-0",
+   "serie": "F12 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 3",
+   "hemma": "Vassunda IF",
+   "borta": "Hammarby IF BTF",
+   "hemma_klubb": "Vassunda Idrottsförening",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2021/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -2632,6 +2694,59 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10762-0",
+   "serie": "F12 lag Kvalgrupp 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2021/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Vassunda IF",
+     "klubb": "Vassunda Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Solna BTK",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Stratos Enköpings BTK",
+     "klubb": "Stratos Enköping Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Hammarby IF BTF",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "417-5752-0",
    "serie": "Div 2 ÖSV Dam",

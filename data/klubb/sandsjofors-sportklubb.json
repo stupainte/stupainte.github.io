@@ -4,7 +4,7 @@
   "namn": "Sandsjöfors Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Sandsjöfors SK",
@@ -405,8 +405,8 @@
     "Sandsjöfors Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7",
-   "hemma_poang": 0,
-   "borta_poang": 0
+   "hemma_poang": 1,
+   "borta_poang": 1
   },
   {
    "datum": "2026-11-21",
@@ -446,7 +446,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1962/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-11-21",
@@ -939,11 +939,22 @@
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
+     "lag": "Tranås BTK 3",
+     "klubb": "Tranås Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Vaggeryd BTK 3",
      "klubb": "Vaggeryds Bordtennisklubb",
      "spelade": 2,
@@ -954,7 +965,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sandsjöfors SK",
      "klubb": "Sandsjöfors Sportklubb",
      "spelade": 2,
@@ -962,17 +973,6 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Tranås BTK 3",
-     "klubb": "Tranås Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]

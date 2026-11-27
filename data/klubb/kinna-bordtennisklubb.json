@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Kinna BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "367-7473-0",
-   "serie": "7-Södra",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 7",
-   "hemma": "Kinna BTK C",
-   "borta": "Mariedals IK E2",
-   "hemma_klubb": "Kinna Bordtennisklubb",
-   "borta_klubb": "Mariedals Idrottsklubb",
-   "plats": "-",
-   "arrangor": "Kinna Bordtennisklubb",
-   "arrangorer": [
-    "Kinna Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "11:00",
@@ -1490,36 +1472,6 @@
  ],
  "arrangerar": [
   {
-   "datum": "2026-11-26",
-   "platser": [
-    "-"
-   ],
-   "serier": [
-    "7-Södra"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "19:00",
-     "serie_id": "367-7473-0",
-     "serie": "7-Södra",
-     "evenemang": "Nordvästra Götalands BTF 26/27",
-     "omgang": "Round 7",
-     "hemma": "Kinna BTK C",
-     "borta": "Mariedals IK E2",
-     "hemma_klubb": "Kinna Bordtennisklubb",
-     "borta_klubb": "Mariedals Idrottsklubb",
-     "plats": "-",
-     "arrangor": "Kinna Bordtennisklubb",
-     "arrangorer": [
-      "Kinna Bordtennisklubb"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1371/2/7/7"
-    }
-   ]
-  },
-  {
    "datum": "2026-11-30",
    "platser": [
     "-"
@@ -2276,6 +2228,17 @@
     },
     {
      "placering": 2,
+     "lag": "Mariedals IK E1",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 6,
+     "vunna": 4,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 8,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
      "lag": "Sandareds BTK D",
      "klubb": "Sandareds Bordtennisklubb",
      "spelade": 6,
@@ -2286,7 +2249,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 3,
+     "placering": 4,
      "lag": "Mariedals IK E2",
      "klubb": "Mariedals Idrottsklubb",
      "spelade": 5,
@@ -2297,7 +2260,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
+     "placering": 5,
      "lag": "Sjömarkens BTK D1",
      "klubb": "Sjömarkens Bordtennisklubb",
      "spelade": 6,
@@ -2308,24 +2271,13 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
-     "lag": "Mariedals IK E1",
-     "klubb": "Mariedals Idrottsklubb",
-     "spelade": 5,
-     "vunna": 3,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 6,
      "lag": "Hyssna BTK B",
      "klubb": "Hyssna Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 4,
+     "forlorade": 5,
      "matchpoang": 5,
      "setdiff": "0–0"
     },

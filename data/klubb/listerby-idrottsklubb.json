@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -156,6 +156,22 @@
   },
   {
    "datum": "2026-12-13",
+   "tid": "11:30",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 4",
+   "hemma": "Listerby IK 1",
+   "borta": "Ljungby BTK",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Ljungby Bordtennisklubb",
+   "plats": "Skir Skola",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
    "tid": "13:00",
    "serie_id": "372-6758-0",
    "serie": "Div 6 Syd/MELLERSTA",
@@ -189,6 +205,22 @@
     "Kättilsmåla Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1306/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "13:00",
+   "serie_id": "372-10438-0",
+   "serie": "U4 Syd B",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 5",
+   "hemma": "Listerby IK 1",
+   "borta": "BTK Frej 2",
+   "hemma_klubb": "Listerby Idrottsklubb",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Skir Skola",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -1356,7 +1388,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   },
   {
    "datum": "2026-11-21",
@@ -1375,7 +1407,7 @@
     "Kalmar Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1961/2/7/7",
-   "hemma_poang": 1,
+   "hemma_poang": 0,
    "borta_poang": 2
   },
   {
@@ -1395,8 +1427,8 @@
     "Listerby Idrottsklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7",
-   "hemma_poang": 0,
-   "borta_poang": 0
+   "hemma_poang": 1,
+   "borta_poang": 1
   },
   {
    "datum": "2026-11-22",
@@ -1416,7 +1448,7 @@
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1964/2/7/7",
    "hemma_poang": 2,
-   "borta_poang": 1
+   "borta_poang": 0
   }
  ],
  "arrangerar": [
@@ -2355,8 +2387,8 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Frej 2",
-     "klubb": "Bordtennisklubben Frej",
+     "lag": "Listerby IK 1",
+     "klubb": "Listerby Idrottsklubb",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2366,8 +2398,8 @@
     },
     {
      "placering": 3,
-     "lag": "Listerby IK 1",
-     "klubb": "Listerby Idrottsklubb",
+     "lag": "BTK Frej 2",
+     "klubb": "Bordtennisklubben Frej",
      "spelade": 2,
      "vunna": 1,
      "oavgjorda": 0,
@@ -2377,17 +2409,6 @@
     },
     {
      "placering": 4,
-     "lag": "Dänningelanda BTK 2",
-     "klubb": "Dänningelanda Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
      "lag": "Kullåkra BTK",
      "klubb": "Kullåkra Bordtennisklubb",
      "spelade": 2,
@@ -2395,6 +2416,17 @@
      "oavgjorda": 0,
      "forlorade": 2,
      "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Dänningelanda BTK 2",
+     "klubb": "Dänningelanda Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
      "setdiff": "0–0"
     }
    ]
@@ -2425,7 +2457,7 @@
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2436,28 +2468,28 @@
      "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 3,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 4,
-     "lag": "Kalmar BTK 4",
-     "klubb": "Kalmar Bordtennisklubb",
-     "spelade": 2,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 2,
      "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
-     "placering": 5,
+     "placering": 4,
      "lag": "Carlshamn BTK 2",
      "klubb": "Carlshamns Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kalmar BTK 4",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -2516,23 +2548,23 @@
     },
     {
      "placering": 5,
+     "lag": "Kullåkra BTK C",
+     "klubb": "Kullåkra Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
      "lag": "Kättilsmåla BTK A",
      "klubb": "Kättilsmåla Bordtennisklubb",
      "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
-     "lag": "Kullåkra BTK C",
-     "klubb": "Kullåkra Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
@@ -2551,10 +2583,10 @@
      "placering": 8,
      "lag": "Ihre BTK A",
      "klubb": "Ihre Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

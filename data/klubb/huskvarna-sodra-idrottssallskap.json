@@ -4,7 +4,7 @@
   "namn": "Huskvarna Södra Idrottssällskap"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Huskvarna Södra IS",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "14:00",
-   "serie_id": "372-6766-0",
-   "serie": "Veteran Norra A",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Huskvarna Södra IS B",
-   "borta": "BTK Clipper A",
-   "hemma_klubb": "Huskvarna Södra Idrottssällskap",
-   "borta_klubb": "Bordtennisklubben Clipper",
-   "plats": "Huskvarna Sporthall",
-   "arrangor": "Huskvarna Södra Idrottssällskap",
-   "arrangorer": [
-    "Huskvarna Södra Idrottssällskap"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
-  },
   {
    "datum": "2026-11-29",
    "tid": "13:00",
@@ -1737,6 +1719,26 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-26",
+   "tid": "14:00",
+   "serie_id": "372-6766-0",
+   "serie": "Veteran Norra A",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Huskvarna Södra IS B",
+   "borta": "BTK Clipper A",
+   "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+   "borta_klubb": "Bordtennisklubben Clipper",
+   "plats": "Huskvarna Sporthall",
+   "arrangor": "Huskvarna Södra Idrottssällskap",
+   "arrangorer": [
+    "Huskvarna Södra Idrottssällskap"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2027-02-28",
    "tid": "13:00",
    "serie_id": "372-6760-0",
@@ -1758,36 +1760,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-26",
-   "platser": [
-    "Huskvarna Sporthall"
-   ],
-   "serier": [
-    "Veteran Norra A"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "14:00",
-     "serie_id": "372-6766-0",
-     "serie": "Veteran Norra A",
-     "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-     "omgang": "Round 6",
-     "hemma": "Huskvarna Södra IS B",
-     "borta": "BTK Clipper A",
-     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
-     "borta_klubb": "Bordtennisklubben Clipper",
-     "plats": "Huskvarna Sporthall",
-     "arrangor": "Huskvarna Södra Idrottssällskap",
-     "arrangorer": [
-      "Huskvarna Södra Idrottssällskap"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1307/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-11-29",
    "platser": [
@@ -2703,11 +2675,11 @@
      "placering": 3,
      "lag": "Huskvarna Södra IS B",
      "klubb": "Huskvarna Södra Idrottssällskap",
-     "spelade": 4,
-     "vunna": 2,
+     "spelade": 5,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 2,
-     "matchpoang": 4,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
@@ -2747,10 +2719,10 @@
      "placering": 7,
      "lag": "BTK Clipper A",
      "klubb": "Bordtennisklubben Clipper",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

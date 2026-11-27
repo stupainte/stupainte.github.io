@@ -4,7 +4,7 @@
   "namn": "Mariedals IK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-16T12:20:52Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Mariedals IK 2",
@@ -81,7 +81,74 @@
    "borta_poang": 0
   }
  ],
- "arrangerar": [],
+ "arrangerar": [
+  {
+   "datum": "2026-12-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "F12 lag Kvalgrupp 1"
+   ],
+   "antal": 3,
+   "matcher": [
+    {
+     "datum": "2026-12-19",
+     "tid": "09:00",
+     "serie_id": "511-10761-0",
+     "serie": "F12 lag Kvalgrupp 1",
+     "evenemang": "Lag-SM 2027 kvalspel",
+     "omgang": "Round 1",
+     "hemma": "Mariedals IK",
+     "borta": "Linköpings PK",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariedals IK",
+     "arrangorer": [
+      "Mariedals IK"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7"
+    },
+    {
+     "datum": "2026-12-19",
+     "tid": "13:00",
+     "serie_id": "511-10761-0",
+     "serie": "F12 lag Kvalgrupp 1",
+     "evenemang": "Lag-SM 2027 kvalspel",
+     "omgang": "Round 2",
+     "hemma": "BTK Rekord",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Bordtennisklubben Rekord",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariedals IK",
+     "arrangorer": [
+      "Mariedals IK"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7"
+    },
+    {
+     "datum": "2026-12-19",
+     "tid": "16:00",
+     "serie_id": "511-10761-0",
+     "serie": "F12 lag Kvalgrupp 1",
+     "evenemang": "Lag-SM 2027 kvalspel",
+     "omgang": "Round 3",
+     "hemma": "Linköpings PK",
+     "borta": "BTK Rekord",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Hall 1",
+     "arrangor": "Mariedals IK",
+     "arrangorer": [
+      "Mariedals IK"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2020/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie_id": "582-10496-0",

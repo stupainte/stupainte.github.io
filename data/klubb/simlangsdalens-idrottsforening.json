@@ -4,7 +4,7 @@
   "namn": "Simlångsdalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-25T13:51:45Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Simlångsdalens IF",
@@ -596,17 +596,17 @@
    "serie": "300-399 Södra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Markaryds BTK 1",
      "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -622,6 +622,17 @@
     },
     {
      "placering": 3,
+     "lag": "Halmstad BTK 3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Simlångsdalens IF 1",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 0,
@@ -632,29 +643,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vakant",
-     "klubb": "Vakant",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Falkenbergs BTK",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Skedala BTK",
      "klubb": "Skedala Bordtennisklubb",
      "spelade": 0,
@@ -665,9 +654,20 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "Vakant",
+     "klubb": "Vakant",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
-     "lag": "Halmstad BTK 3",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "Falkenbergs BTK",
+     "klubb": "Falkenbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -679,10 +679,10 @@
      "placering": 8,
      "lag": "Markaryds BTK 2",
      "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

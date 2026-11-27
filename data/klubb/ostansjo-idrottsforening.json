@@ -4,7 +4,7 @@
   "namn": "Östansjö Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Östansjö IF-A",
@@ -24,25 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "18:00",
-   "serie_id": "460-8125-0",
-   "serie": "Division 5",
-   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-   "omgang": "Round 7",
-   "hemma": "Östansjö IF-B",
-   "borta": "AGA BTK-C",
-   "hemma_klubb": "Östansjö Idrottsförening",
-   "borta_klubb": "Aga Bordtennisklubb",
-   "plats": "Östansjö",
-   "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
-   "arrangorer": [
-    "Örebro Läns Bordtennisförbund",
-    "Östansjö Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-  },
   {
    "datum": "2026-12-06",
    "tid": "10:00",
@@ -624,6 +605,27 @@
    "borta_poang": 0
   },
   {
+   "datum": "2026-11-26",
+   "tid": "18:00",
+   "serie_id": "460-8125-0",
+   "serie": "Division 5",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 7",
+   "hemma": "Östansjö IF-B",
+   "borta": "AGA BTK-C",
+   "hemma_klubb": "Östansjö Idrottsförening",
+   "borta_klubb": "Aga Bordtennisklubb",
+   "plats": "Östansjö",
+   "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Östansjö Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
    "datum": "2026-12-03",
    "tid": "18:00",
    "serie_id": "460-8125-0",
@@ -646,37 +648,6 @@
   }
  ],
  "arrangerar": [
-  {
-   "datum": "2026-11-26",
-   "platser": [
-    "Östansjö"
-   ],
-   "serier": [
-    "Division 5"
-   ],
-   "antal": 1,
-   "matcher": [
-    {
-     "datum": "2026-11-26",
-     "tid": "18:00",
-     "serie_id": "460-8125-0",
-     "serie": "Division 5",
-     "evenemang": "Örebro Läns Distriktsserier 2026/2027",
-     "omgang": "Round 7",
-     "hemma": "Östansjö IF-B",
-     "borta": "AGA BTK-C",
-     "hemma_klubb": "Östansjö Idrottsförening",
-     "borta_klubb": "Aga Bordtennisklubb",
-     "plats": "Östansjö",
-     "arrangor": "Örebro Läns Bordtennisförbund / Östansjö Idrottsförening",
-     "arrangorer": [
-      "Örebro Läns Bordtennisförbund",
-      "Östansjö Idrottsförening"
-     ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1060/2/7/7"
-    }
-   ]
-  },
   {
    "datum": "2026-12-03",
    "platser": [
@@ -1198,11 +1169,11 @@
      "placering": 6,
      "lag": "Östansjö IF-B",
      "klubb": "Östansjö Idrottsförening",
-     "spelade": 5,
-     "vunna": 2,
+     "spelade": 6,
+     "vunna": 3,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 5,
+     "matchpoang": 7,
      "setdiff": "0–0"
     },
     {
@@ -1220,10 +1191,10 @@
      "placering": 8,
      "lag": "AGA BTK-C",
      "klubb": "Aga Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 3,
      "setdiff": "0–0"
     },

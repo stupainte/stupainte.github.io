@@ -4,7 +4,7 @@
   "namn": "Jämjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Jämjö BTK",
@@ -28,6 +28,14 @@
     "namn": "Div 2 SSN"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Jämjö BTK",
+   "serie": {
+    "namn": "P12 lag Kvalgrupp 1 (1) Group 2"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -217,6 +225,42 @@
     "Jämjö Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1177/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10763-1",
+   "serie": "P12 lag Kvalgrupp 1 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Jämjö BTK",
+   "borta": "BTK Frej",
+   "hemma_klubb": "Jämjö Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Hall 1",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2022/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "12:00",
+   "serie_id": "511-10763-1",
+   "serie": "P12 lag Kvalgrupp 1 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Mariedals IK",
+   "borta": "Jämjö BTK",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Jämjö Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2022/2/7/7"
   },
   {
    "datum": "2027-01-16",
@@ -1770,6 +1814,48 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10763-1",
+   "serie": "P12 lag Kvalgrupp 1 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2022/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Jämjö BTK",
+     "klubb": "Jämjö Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Mariedals IK",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Frej",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "417-5760-0",
    "serie": "Div 2 SSN",

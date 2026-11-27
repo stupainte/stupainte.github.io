@@ -4,7 +4,7 @@
   "namn": "Västers Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-24T14:32:14Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Västers BTK",
@@ -20,6 +20,14 @@
     "namn": "Superettan (herr)"
    },
    "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Västers BTK",
+   "serie": {
+    "namn": "P12 lag Kvalgrupp 2 (1) Group 2"
+   },
+   "evenemang": "Lag-SM 2027 kvalspel",
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
   {
@@ -336,6 +344,24 @@
   },
   {
    "datum": "2026-12-19",
+   "tid": "09:00",
+   "serie_id": "511-10767-1",
+   "serie": "P12 lag Kvalgrupp 2 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 1",
+   "hemma": "Västers BTK",
+   "borta": "Ulricehamns IF",
+   "hemma_klubb": "Västers Bordtennisklubb",
+   "borta_klubb": "Ulricehamns Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2023/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
    "tid": "10:00",
    "serie_id": "467-6786-0",
    "serie": "Division 4",
@@ -387,6 +413,24 @@
     "Västers Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/467/1360/2/7/7"
+  },
+  {
+   "datum": "2026-12-19",
+   "tid": "12:00",
+   "serie_id": "511-10767-1",
+   "serie": "P12 lag Kvalgrupp 2 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "omgang": "Round 2",
+   "hemma": "Linköpings PK",
+   "borta": "Västers BTK",
+   "hemma_klubb": "Linköpings Pingisklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "KFUM Jönköping",
+   "arrangorer": [
+    "KFUM Jönköping"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2023/2/7/7"
   },
   {
    "datum": "2026-12-19",
@@ -3760,6 +3804,48 @@
   }
  ],
  "tabeller": [
+  {
+   "serie_id": "511-10767-1",
+   "serie": "P12 lag Kvalgrupp 2 (1) Group 2",
+   "evenemang": "Lag-SM 2027 kvalspel",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/511/2023/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Västers BTK",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Linköpings PK",
+     "klubb": "Linköpings Pingisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ulricehamns IF",
+     "klubb": "Ulricehamns Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
   {
    "serie_id": "417-5743-0",
    "serie": "Div 1 Ö Herr",

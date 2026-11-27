@@ -4,7 +4,7 @@
   "namn": "Falkenbergs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:18Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Falkenbergs BTK",
@@ -1692,17 +1692,17 @@
    "serie": "300-399 Södra Halland",
    "evenemang": "Hallands Bordtennisförbund 2026-27",
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/411/1969/2/7/7",
-   "startad": false,
+   "startad": true,
    "rader": [
     {
      "placering": 1,
      "lag": "Markaryds BTK 1",
      "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
+     "spelade": 1,
+     "vunna": 1,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 0,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -1718,6 +1718,17 @@
     },
     {
      "placering": 3,
+     "lag": "Halmstad BTK 3",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
      "lag": "Simlångsdalens IF 1",
      "klubb": "Simlångsdalens Idrottsförening",
      "spelade": 0,
@@ -1728,29 +1739,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 4,
-     "lag": "Vakant",
-     "klubb": "Vakant",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
      "placering": 5,
-     "lag": "Falkenbergs BTK",
-     "klubb": "Falkenbergs Bordtennisklubb",
-     "spelade": 0,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 0,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 6,
      "lag": "Skedala BTK",
      "klubb": "Skedala Bordtennisklubb",
      "spelade": 0,
@@ -1761,9 +1750,20 @@
      "setdiff": "0–0"
     },
     {
+     "placering": 6,
+     "lag": "Vakant",
+     "klubb": "Vakant",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
      "placering": 7,
-     "lag": "Halmstad BTK 3",
-     "klubb": "Halmstad Bordtennisklubb",
+     "lag": "Falkenbergs BTK",
+     "klubb": "Falkenbergs Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,
@@ -1775,10 +1775,10 @@
      "placering": 8,
      "lag": "Markaryds BTK 2",
      "klubb": "Markaryds Bordtennisklubb",
-     "spelade": 0,
+     "spelade": 1,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 0,
      "setdiff": "0–0"
     }
@@ -1804,8 +1804,8 @@
     },
     {
      "placering": 2,
-     "lag": "BTK Ratic C1",
-     "klubb": "Bordtennisklubben Ratic",
+     "lag": "Sibbarps GoIF B",
+     "klubb": "Sibbarps Gymnastik O IF",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -1815,8 +1815,8 @@
     },
     {
      "placering": 3,
-     "lag": "Sibbarps GoIF B",
-     "klubb": "Sibbarps Gymnastik O IF",
+     "lag": "BTK Ratic C1",
+     "klubb": "Bordtennisklubben Ratic",
      "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
@@ -2042,15 +2042,26 @@
      "placering": 3,
      "lag": "Sibbarps GoIF C",
      "klubb": "Sibbarps Gymnastik O IF",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
+     "lag": "Skedala BTK B",
+     "klubb": "Skedala Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 3,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
      "lag": "BTK Ratic D",
      "klubb": "Bordtennisklubben Ratic",
      "spelade": 6,
@@ -2058,17 +2069,6 @@
      "oavgjorda": 0,
      "forlorade": 3,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 5,
-     "lag": "Skedala BTK B",
-     "klubb": "Skedala Bordtennisklubb",
-     "spelade": 5,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {

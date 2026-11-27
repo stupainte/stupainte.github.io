@@ -4,7 +4,7 @@
   "namn": "Åstorps Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-27T13:26:30Z",
  "lag": [
   {
    "namn": "Åstorps BTK",
@@ -64,24 +64,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-26",
-   "tid": "19:00",
-   "serie_id": "513-7446-0",
-   "serie": "Division 5 Västra",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 5",
-   "hemma": "Klippans BTK B",
-   "borta": "Åstorps BTK E",
-   "hemma_klubb": "Klippans Bordtennisklubb",
-   "borta_klubb": "Åstorps Bordtennisklubb",
-   "plats": "Sågen-Möjligheternas hus Ängelholmsgatan 1-9 26433 Klippan",
-   "arrangor": "Klippans Bordtennisklubb",
-   "arrangorer": [
-    "Klippans Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7"
-  },
   {
    "datum": "2026-11-28",
    "tid": "10:00",
@@ -1671,6 +1653,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1479/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "19:00",
+   "serie_id": "513-7446-0",
+   "serie": "Division 5 Västra",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 5",
+   "hemma": "Klippans BTK B",
+   "borta": "Åstorps BTK E",
+   "hemma_klubb": "Klippans Bordtennisklubb",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "Sågen-Möjligheternas hus Ängelholmsgatan 1-9 26433 Klippan",
+   "arrangor": "Klippans Bordtennisklubb",
+   "arrangorer": [
+    "Klippans Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1480/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
   }
  ],
  "arrangerar": [
@@ -2602,10 +2604,10 @@
      "placering": 3,
      "lag": "Klippans BTK A",
      "klubb": "Klippans Bordtennisklubb",
-     "spelade": 4,
+     "spelade": 5,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 6,
      "setdiff": "0–0"
     },
@@ -2644,6 +2646,17 @@
     },
     {
      "placering": 7,
+     "lag": "BTK Rekord C",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 5,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 4,
+     "matchpoang": 3,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
      "lag": "BTK Scania B",
      "klubb": "Bordtennisklubben Scania",
      "spelade": 5,
@@ -2651,17 +2664,6 @@
      "oavgjorda": 0,
      "forlorade": 4,
      "matchpoang": 2,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 8,
-     "lag": "BTK Rekord C",
-     "klubb": "Bordtennisklubben Rekord",
-     "spelade": 4,
-     "vunna": 0,
-     "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
@@ -2686,19 +2688,19 @@
     },
     {
      "placering": 2,
-     "lag": "IFK Lund E2",
-     "klubb": "IFK Lund Bordtennis",
-     "spelade": 3,
+     "lag": "Åstorps BTK E",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
-     "matchpoang": 5,
+     "forlorade": 2,
+     "matchpoang": 6,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Åstorps BTK E",
-     "klubb": "Åstorps Bordtennisklubb",
+     "lag": "IFK Lund E2",
+     "klubb": "IFK Lund Bordtennis",
      "spelade": 3,
      "vunna": 2,
      "oavgjorda": 0,
@@ -2730,8 +2732,8 @@
     },
     {
      "placering": 6,
-     "lag": "Kågeröds BTK E",
-     "klubb": "Kågeröds Bordtennisklubb",
+     "lag": "Klippans BTK B",
+     "klubb": "Klippans Bordtennisklubb",
      "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
@@ -2741,13 +2743,13 @@
     },
     {
      "placering": 7,
-     "lag": "Klippans BTK B",
-     "klubb": "Klippans Bordtennisklubb",
-     "spelade": 3,
+     "lag": "Kågeröds BTK E",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 4,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 3,
-     "matchpoang": 0,
+     "forlorade": 4,
+     "matchpoang": 1,
      "setdiff": "0–0"
     }
    ]
