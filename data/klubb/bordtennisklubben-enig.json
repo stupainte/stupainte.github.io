@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Enig"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-19T12:28:15Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "BTK Enig A",
@@ -16,24 +16,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6741-0",
-   "serie": "DIV 5 ÖSTRA",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Långemåla BTK C",
-   "borta": "BTK Enig A",
-   "hemma_klubb": "Långemåla Bordtennisklubb",
-   "borta_klubb": "Bordtennisklubben Enig",
-   "plats": "Långemåla sporthall",
-   "arrangor": "Långemåla Bordtennisklubb",
-   "arrangorer": [
-    "Långemåla Bordtennisklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7"
-  },
   {
    "datum": "2026-12-13",
    "tid": "13:00",
@@ -279,6 +261,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6741-0",
+   "serie": "DIV 5 ÖSTRA",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Långemåla BTK C",
+   "borta": "BTK Enig A",
+   "hemma_klubb": "Långemåla Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Enig",
+   "plats": "Långemåla sporthall",
+   "arrangor": "Långemåla Bordtennisklubb",
+   "arrangorer": [
+    "Långemåla Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1179/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -394,8 +396,8 @@
     },
     {
      "placering": 2,
-     "lag": "Kalmar BTK A",
-     "klubb": "Kalmar Bordtennisklubb",
+     "lag": "BTK Enig A",
+     "klubb": "Bordtennisklubben Enig",
      "spelade": 6,
      "vunna": 5,
      "oavgjorda": 0,
@@ -405,13 +407,13 @@
     },
     {
      "placering": 3,
-     "lag": "BTK Enig A",
-     "klubb": "Bordtennisklubben Enig",
-     "spelade": 5,
-     "vunna": 4,
+     "lag": "Kalmar BTK A",
+     "klubb": "Kalmar Bordtennisklubb",
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
@@ -449,19 +451,19 @@
     },
     {
      "placering": 7,
-     "lag": "Långemåla BTK C",
-     "klubb": "Långemåla Bordtennisklubb",
-     "spelade": 5,
+     "lag": "BTK Arsenal Nybro B",
+     "klubb": "Bordtennisklubben Arsenal Nybro",
+     "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 5,
+     "forlorade": 6,
      "matchpoang": 0,
      "setdiff": "0–0"
     },
     {
      "placering": 8,
-     "lag": "BTK Arsenal Nybro B",
-     "klubb": "Bordtennisklubben Arsenal Nybro",
+     "lag": "Långemåla BTK C",
+     "klubb": "Långemåla Bordtennisklubb",
      "spelade": 6,
      "vunna": 0,
      "oavgjorda": 0,

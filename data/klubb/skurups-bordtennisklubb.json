@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-26T13:29:19Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -692,22 +692,6 @@
   {
    "datum": "2027-03-06",
    "tid": "10:00",
-   "serie_id": "513-7450-0",
-   "serie": "Division 5 Södra 2",
-   "evenemang": "Skåneserier Senior herr/dam",
-   "omgang": "Round 13",
-   "hemma": "IF Ale C ",
-   "borta": "Skurups BTK C",
-   "hemma_klubb": "Idrottsföreningen Ale",
-   "borta_klubb": "Skurups Bordtennisklubb",
-   "plats": "Idrottsvillan, Kåseberga",
-   "arrangor": null,
-   "arrangorer": [],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
-  },
-  {
-   "datum": "2027-03-06",
-   "tid": "10:00",
    "serie_id": "605-10456-0",
    "serie": "Ungdom J",
    "evenemang": "Skånes ungdomsserier",
@@ -723,6 +707,22 @@
     "Kvarnby Atletklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/605/1861/2/7/7"
+  },
+  {
+   "datum": "2027-03-06",
+   "tid": "10:00",
+   "serie_id": "513-7450-0",
+   "serie": "Division 5 Södra 2",
+   "evenemang": "Skåneserier Senior herr/dam",
+   "omgang": "Round 13",
+   "hemma": "IF Ale C ",
+   "borta": "Skurups BTK C",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Idrottsvillan, Kåseberga",
+   "arrangor": null,
+   "arrangorer": [],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/513/1482/2/7/7"
   },
   {
    "datum": "2027-03-06",
@@ -2225,6 +2225,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Kvarnby AK B",
+     "klubb": "Kvarnby Atletklubb",
+     "spelade": 5,
+     "vunna": 3,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 7,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Malmö IF E",
      "klubb": "Malmö Idrottsförening",
      "spelade": 3,
@@ -2235,25 +2246,14 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Bjärreds BTK B",
      "klubb": "Bjärreds Bordtennisklubb",
-     "spelade": 3,
+     "spelade": 4,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 0,
+     "forlorade": 1,
      "matchpoang": 6,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Kvarnby AK B",
-     "klubb": "Kvarnby Atletklubb",
-     "spelade": 4,
-     "vunna": 2,
-     "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
@@ -2269,24 +2269,24 @@
     },
     {
      "placering": 5,
-     "lag": "Limhamns BTK B",
-     "klubb": "Limhamns Bordtennisklubb",
-     "spelade": 3,
+     "lag": "IFK Lund E3",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 5,
      "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 2,
-     "matchpoang": 2,
+     "forlorade": 4,
+     "matchpoang": 3,
      "setdiff": "0–0"
     },
     {
      "placering": 6,
-     "lag": "IFK Lund E3",
-     "klubb": "IFK Lund Bordtennis",
+     "lag": "Limhamns BTK B",
+     "klubb": "Limhamns Bordtennisklubb",
      "spelade": 4,
-     "vunna": 0,
+     "vunna": 1,
      "oavgjorda": 0,
-     "forlorade": 4,
-     "matchpoang": 1,
+     "forlorade": 3,
+     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2313,11 +2313,11 @@
      "placering": 1,
      "lag": "IFK Lund E4",
      "klubb": "IFK Lund Bordtennis",
-     "spelade": 3,
-     "vunna": 3,
+     "spelade": 4,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -2333,19 +2333,19 @@
     },
     {
      "placering": 3,
-     "lag": "Trelleborgs BTK E",
-     "klubb": "Trelleborgs Bordtennisklubb",
-     "spelade": 3,
+     "lag": "IF Ale C ",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 5,
      "setdiff": "0–0"
     },
     {
      "placering": 4,
-     "lag": "IF Ale C ",
-     "klubb": "Idrottsföreningen Ale",
+     "lag": "Trelleborgs BTK E",
+     "klubb": "Trelleborgs Bordtennisklubb",
      "spelade": 4,
      "vunna": 2,
      "oavgjorda": 0,

@@ -4,7 +4,7 @@
   "namn": "Alingsås Pingis Klubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-27T13:26:30Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "Alingsås PK",
@@ -72,24 +72,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "10:00",
-   "serie_id": "367-7710-0",
-   "serie": "Höst Ungd U-Mellersta",
-   "evenemang": "Nordvästra Götalands BTF 26/27",
-   "omgang": "Round 2",
-   "hemma": "Alingsås PK Ultra",
-   "borta": "Lidan BTK Grön",
-   "hemma_klubb": "Alingsås Pingis Klubb",
-   "borta_klubb": "Lidan Bordtennisklubb",
-   "plats": "-",
-   "arrangor": "Alingsås Pingis Klubb",
-   "arrangorer": [
-    "Alingsås Pingis Klubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7"
-  },
   {
    "datum": "2026-12-01",
    "tid": "19:00",
@@ -1627,6 +1609,26 @@
    "borta_poang": 1
   },
   {
+   "datum": "2026-11-29",
+   "tid": "10:00",
+   "serie_id": "367-7710-0",
+   "serie": "Höst Ungd U-Mellersta",
+   "evenemang": "Nordvästra Götalands BTF 26/27",
+   "omgang": "Round 2",
+   "hemma": "Alingsås PK Ultra",
+   "borta": "Lidan BTK Grön",
+   "hemma_klubb": "Alingsås Pingis Klubb",
+   "borta_klubb": "Lidan Bordtennisklubb",
+   "plats": "-",
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
    "datum": "2027-03-14",
    "tid": "11:00",
    "serie_id": "417-5771-0",
@@ -1674,7 +1676,9 @@
      "arrangorer": [
       "Alingsås Pingis Klubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/367/1515/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -2365,11 +2369,11 @@
      "placering": 4,
      "lag": "Mariedals IK C",
      "klubb": "Mariedals Idrottsklubb",
-     "spelade": 6,
-     "vunna": 3,
+     "spelade": 7,
+     "vunna": 4,
      "oavgjorda": 0,
      "forlorade": 3,
-     "matchpoang": 6,
+     "matchpoang": 8,
      "setdiff": "0–0"
     },
     {
@@ -2409,10 +2413,10 @@
      "placering": 8,
      "lag": "Essunga S BTK",
      "klubb": "Essunga Södra Bordtennisklubb",
-     "spelade": 6,
+     "spelade": 7,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 6,
+     "forlorade": 7,
      "matchpoang": 1,
      "setdiff": "0–0"
     }
@@ -2599,6 +2603,17 @@
    "rader": [
     {
      "placering": 1,
+     "lag": "Lidan BTK Grön",
+     "klubb": "Lidan Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
      "lag": "Trollhättans BTK Blå",
      "klubb": "Trollhättans Bordtennisklubb",
      "spelade": 2,
@@ -2609,7 +2624,7 @@
      "setdiff": "0–0"
     },
     {
-     "placering": 2,
+     "placering": 3,
      "lag": "Alingsås PK svart",
      "klubb": "Ådalslidens Sportklubb",
      "spelade": 2,
@@ -2617,17 +2632,6 @@
      "oavgjorda": 0,
      "forlorade": 0,
      "matchpoang": 4,
-     "setdiff": "0–0"
-    },
-    {
-     "placering": 3,
-     "lag": "Lidan BTK Grön",
-     "klubb": "Lidan Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
-     "oavgjorda": 0,
-     "forlorade": 0,
-     "matchpoang": 2,
      "setdiff": "0–0"
     },
     {
@@ -2645,10 +2649,10 @@
      "placering": 5,
      "lag": "Alingsås PK Ultra",
      "klubb": "Alingsås Pingis Klubb",
-     "spelade": 1,
+     "spelade": 2,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 1,
+     "forlorade": 2,
      "matchpoang": 0,
      "setdiff": "0–0"
     },

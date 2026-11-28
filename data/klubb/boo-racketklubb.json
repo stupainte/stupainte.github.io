@@ -4,7 +4,7 @@
   "namn": "Boo Racketklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-27T13:26:30Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "Boo RK",
@@ -203,24 +203,6 @@
     "KFUM Stocksund IA"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1595/2/7/7"
-  },
-  {
-   "datum": "2026-12-04",
-   "tid": "18:00",
-   "serie_id": "464-8292-0",
-   "serie": "Vet 35 Div 4",
-   "evenemang": "Stockholms BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Boo RK C",
-   "borta": "Ängby SK B",
-   "hemma_klubb": "Boo Racketklubb",
-   "borta_klubb": "Ängby Sportklubb",
-   "plats": "Arrangörs hall",
-   "arrangor": "Boo Racketklubb",
-   "arrangorer": [
-    "Boo Racketklubb"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1599/2/7/7"
   },
   {
    "datum": "2026-12-04",
@@ -3819,6 +3801,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1593/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-12-04",
+   "tid": "18:00",
+   "serie_id": "464-8292-0",
+   "serie": "Vet 35 Div 4",
+   "evenemang": "Stockholms BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Boo RK C",
+   "borta": "Ängby SK B",
+   "hemma_klubb": "Boo Racketklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "Arrangörs hall",
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1599/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -3878,7 +3880,9 @@
      "arrangorer": [
       "Boo Racketklubb"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1599/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/464/1599/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -6727,11 +6731,11 @@
      "placering": 1,
      "lag": "Ängby SK B",
      "klubb": "Ängby Sportklubb",
-     "spelade": 5,
-     "vunna": 5,
+     "spelade": 6,
+     "vunna": 6,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 10,
+     "matchpoang": 12,
      "setdiff": "0–0"
     },
     {
@@ -6771,10 +6775,10 @@
      "placering": 5,
      "lag": "Boo RK C",
      "klubb": "Boo Racketklubb",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 2,
      "oavgjorda": 0,
-     "forlorade": 3,
+     "forlorade": 4,
      "matchpoang": 4,
      "setdiff": "0–0"
     },

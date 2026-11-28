@@ -4,7 +4,7 @@
   "namn": "Nerikes Kils Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-27T13:26:30Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "Nerikes Kils SK",
@@ -574,6 +574,27 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  },
+  {
+   "datum": "2026-11-26",
+   "tid": "18:00",
+   "serie_id": "460-8169-0",
+   "serie": "Division 6",
+   "evenemang": "Örebro Läns Distriktsserier 2026/2027",
+   "omgang": "Round 3",
+   "hemma": "Ervalla SK-A",
+   "borta": "Nerikes Kils SK-B",
+   "hemma_klubb": "Ervalla Sportklubb",
+   "borta_klubb": "Nerikes Kils Sportklubb",
+   "plats": "Ervalla SK",
+   "arrangor": "Örebro Läns Bordtennisförbund / Ervalla Sportklubb",
+   "arrangorer": [
+    "Örebro Läns Bordtennisförbund",
+    "Ervalla Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/460/1061/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -1160,19 +1181,19 @@
     },
     {
      "placering": 2,
-     "lag": "Storå BTK-D",
-     "klubb": "Storå Bordtennisklubb",
-     "spelade": 1,
-     "vunna": 1,
+     "lag": "Nerikes Kils SK-B",
+     "klubb": "Nerikes Kils Sportklubb",
+     "spelade": 2,
+     "vunna": 2,
      "oavgjorda": 0,
      "forlorade": 0,
-     "matchpoang": 2,
+     "matchpoang": 4,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
-     "lag": "Nerikes Kils SK-B",
-     "klubb": "Nerikes Kils Sportklubb",
+     "lag": "Storå BTK-D",
+     "klubb": "Storå Bordtennisklubb",
      "spelade": 1,
      "vunna": 1,
      "oavgjorda": 0,
@@ -1206,10 +1227,10 @@
      "placering": 6,
      "lag": "Ervalla SK-A",
      "klubb": "Ervalla Sportklubb",
-     "spelade": 2,
+     "spelade": 3,
      "vunna": 0,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 0,
      "setdiff": "0–0"
     }

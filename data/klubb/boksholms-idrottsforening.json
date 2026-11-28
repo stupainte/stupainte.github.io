@@ -4,7 +4,7 @@
   "namn": "Böksholms Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-11-27T13:26:30Z",
+ "uppdaterad": "2026-11-28T12:42:59Z",
  "lag": [
   {
    "namn": "Böksholm IF",
@@ -24,24 +24,6 @@
   }
  ],
  "kommande": [
-  {
-   "datum": "2026-11-29",
-   "tid": "13:00",
-   "serie_id": "372-6757-0",
-   "serie": "DIV 5 Mellersta",
-   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
-   "omgang": "Round 6",
-   "hemma": "Böksholms IF A",
-   "borta": "BTK Frej C",
-   "hemma_klubb": "Böksholms Idrottsförening",
-   "borta_klubb": "Bordtennisklubben Frej",
-   "plats": "Böksholms klubblokal",
-   "arrangor": "Böksholms Idrottsförening",
-   "arrangorer": [
-    "Böksholms Idrottsförening"
-   ],
-   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
-  },
   {
    "datum": "2026-12-13",
    "tid": "10:00",
@@ -323,6 +305,26 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  },
+  {
+   "datum": "2026-11-29",
+   "tid": "13:00",
+   "serie_id": "372-6757-0",
+   "serie": "DIV 5 Mellersta",
+   "evenemang": "SYDÖSTRA GÖTALANDS BTF 26/27",
+   "omgang": "Round 6",
+   "hemma": "Böksholms IF A",
+   "borta": "BTK Frej C",
+   "hemma_klubb": "Böksholms Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Böksholms klubblokal",
+   "arrangor": "Böksholms Idrottsförening",
+   "arrangorer": [
+    "Böksholms Idrottsförening"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
   }
  ],
  "arrangerar": [
@@ -352,7 +354,9 @@
      "arrangorer": [
       "Böksholms Idrottsförening"
      ],
-     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7"
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/372/1180/2/7/7",
+     "hemma_poang": 0,
+     "borta_poang": 2
     }
    ]
   },
@@ -470,21 +474,21 @@
      "placering": 2,
      "lag": "BTK Frej C",
      "klubb": "Bordtennisklubben Frej",
-     "spelade": 5,
-     "vunna": 4,
+     "spelade": 6,
+     "vunna": 5,
      "oavgjorda": 0,
      "forlorade": 1,
-     "matchpoang": 8,
+     "matchpoang": 10,
      "setdiff": "0–0"
     },
     {
      "placering": 3,
      "lag": "Böksholms IF A",
      "klubb": "Böksholms Idrottsförening",
-     "spelade": 5,
+     "spelade": 6,
      "vunna": 3,
      "oavgjorda": 0,
-     "forlorade": 2,
+     "forlorade": 3,
      "matchpoang": 7,
      "setdiff": "0–0"
     },
